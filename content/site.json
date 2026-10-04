@@ -1,0 +1,631 @@
+{
+ "treatments": [
+  {
+   "id": "implant",
+   "icon": "implant",
+   "img": "detay-implant",
+   "post": "implant",
+   "title": {
+    "tr": "İmplant tedavisi",
+    "en": "Dental implants"
+   },
+   "short": {
+    "tr": "Eksik dişin yerine çene kemiğine yerleştirilen titanyum vida ve üzerindeki kalıcı diş.",
+    "en": "A titanium screw placed in the jawbone to replace a missing tooth, with a permanent tooth on top."
+   },
+   "paras": {
+    "tr": [
+     "İmplant, kaybedilen diş kökünün yerini alan, genellikle titanyumdan yapılmış küçük bir vidadır. Kemikle kaynaştıktan sonra üzerine kron, köprü ya da tam ağız protez sabitlenir. Komşu dişlere dokunmadan eksikliği gidermesi en önemli avantajıdır.",
+     "Tedaviye karar vermeden önce kemik hacmini, sinir ve sinüs mesafesini üç boyutlu tomografiyle değerlendiriyoruz. Kemik yetersizse greft ya da sinüs kaldırma gibi ek işlemler gerekebilir; bunları planın başında açıkça konuşuruz. Tüm çenesinde diş eksikliği olanlar için All-on-Four gibi az sayıda implantla sabit protez seçenekleri de değerlendirilir."
+    ],
+    "en": [
+     "An implant is a small screw, usually made of titanium, that replaces a lost tooth root. Once it has fused with the bone, a crown, bridge or full-arch prosthesis is fixed on top. Its main advantage is replacing a missing tooth without touching the neighbouring teeth.",
+     "Before deciding on treatment, we assess bone volume and the distance to nerves and sinuses with a 3D CT scan. If bone is insufficient, additional procedures such as grafting or a sinus lift may be needed; we discuss these openly at the start. For patients missing all teeth in a jaw, fixed options on fewer implants, such as All-on-Four, are also considered."
+    ]
+   },
+   "who": {
+    "tr": [
+     "Bir ya da birden fazla dişi eksik olanlar",
+     "Hareketli protezden rahatsız olup sabit diş isteyenler",
+     "Genel sağlığı küçük bir cerrahi işleme uygun olanlar (kontrolsüz diyabet ve yoğun sigara kullanımı riski artırır)"
+    ],
+    "en": [
+     "People missing one or more teeth",
+     "Denture wearers who want fixed teeth",
+     "People whose general health allows minor surgery (uncontrolled diabetes and heavy smoking increase the risk)"
+    ]
+   },
+   "steps": {
+    "tr": [
+     "Muayene, tomografi ve planlama",
+     "İmplantın lokal anestezi altında yerleştirilmesi",
+     "İyileşme ve kemikle kaynaşma dönemi",
+     "Ölçü ve kalıcı dişin takılması",
+     "Düzenli kontrol ve bakım"
+    ],
+    "en": [
+     "Examination, CT scan and planning",
+     "Placing the implant under local anaesthetic",
+     "Healing and bone integration",
+     "Impressions and fitting the final tooth",
+     "Regular check-ups and maintenance"
+    ]
+   }
+  },
+  {
+   "id": "kaplama",
+   "icon": "kaplama",
+   "img": "detay-kaplama",
+   "post": "zirkonyum",
+   "title": {
+    "tr": "Zirkonyum ve porselen kaplama",
+    "en": "Zirconia and porcelain crowns"
+   },
+   "short": {
+    "tr": "Aşınmış, kırık ya da renk değiştirmiş dişleri koruyan ve görünümünü düzelten kaplamalar.",
+    "en": "Crowns that protect worn, broken or discoloured teeth and restore their appearance."
+   },
+   "paras": {
+    "tr": [
+     "Kaplama (kron), dişin etrafını saran ve onu dış etkilere karşı koruyan bir restorasyondur. Zirkonyum, metal alt yapı içermediği için ışığı doğal dişe yakın geçirir ve diş eti kenarında koyu çizgi oluşturmaz. Metal destekli porselen ise özellikle arka bölgede uzun süredir kullanılan, dayanıklı bir seçenektir.",
+     "Lamine veneer (yaprak porselen) dişin yalnızca ön yüzeyine yapıştırılan ince bir tabakadır; daha az diş dokusu kaldırılır. Hangi seçeneğin uygun olduğu dişin ne kadar sağlam kaldığına, ısırma kuvvetine ve beklentinize bağlıdır."
+    ],
+    "en": [
+     "A crown is a restoration that surrounds a tooth and protects it. Because zirconia has no metal framework, it transmits light much like a natural tooth and doesn't leave a dark line at the gum. Porcelain-fused-to-metal is a durable option with a long track record, especially for back teeth.",
+     "A laminate veneer is a thin layer bonded only to the front surface of the tooth, so less tooth tissue is removed. Which option suits you depends on how much sound tooth remains, your bite forces and your expectations."
+    ]
+   },
+   "who": {
+    "tr": [
+     "Kanal tedavisi görmüş, zayıflamış dişler",
+     "Büyük dolgusu olan ya da kırılmış dişler",
+     "Renk ve şekil bozukluğu beyazlatmayla düzelmeyen dişler"
+    ],
+    "en": [
+     "Weakened, root-treated teeth",
+     "Teeth with large fillings or fractures",
+     "Colour or shape problems that whitening can't fix"
+    ]
+   },
+   "steps": {
+    "tr": [
+     "Muayene ve gerekirse röntgen",
+     "Dişlerin hazırlanması ve ölçü (dijital ya da klasik)",
+     "Geçici dişler ve prova",
+     "Kalıcı kaplamaların yapıştırılması",
+     "Kontrol"
+    ],
+    "en": [
+     "Examination and X-rays if needed",
+     "Tooth preparation and impressions (digital or conventional)",
+     "Temporary teeth and try-in",
+     "Cementing the final crowns",
+     "Review"
+    ]
+   }
+  },
+  {
+   "id": "gulus",
+   "icon": "gulus",
+   "img": "detay-gulus",
+   "post": "gulus",
+   "title": {
+    "tr": "Gülüş tasarımı",
+    "en": "Smile design"
+   },
+   "short": {
+    "tr": "Yüz oranlarınıza göre dişlerin boyu, şekli ve rengi için önceden görülebilen bir plan.",
+    "en": "A plan for the length, shape and colour of your teeth, based on your facial proportions, that you can see in advance."
+   },
+   "paras": {
+    "tr": [
+     "Gülüş tasarımı tek bir işlem değil, bir planlama yöntemidir. Fotoğraf, video ve ağız içi taramalarla dudak hattınız, yüz orta hattınız ve diş eti seviyeniz incelenir; ardından dişlerin hedeflenen hali dijital olarak tasarlanır.",
+     "Tasarım ağız içinde geçici bir maketle (mock-up) denenir; böylece kalıcı işleme başlamadan sonucu aynada görürsünüz. Plan; beyazlatma, ortodonti, diş eti düzeltmesi, lamine ya da zirkonyum gibi tedavilerin bir veya birkaçını içerebilir."
+    ],
+    "en": [
+     "Smile design is not a single procedure but a planning method. Your lip line, facial midline and gum level are examined using photos, video and intraoral scans, and the intended result is designed digitally.",
+     "The design is tried in your mouth with a temporary mock-up, so you see the result in the mirror before anything permanent is done. The plan may include one or more treatments such as whitening, orthodontics, gum contouring, veneers or zirconia."
+    ]
+   },
+   "who": {
+    "tr": [
+     "Diş boyu, şekli ya da aralıklarından memnun olmayanlar",
+     "Birden fazla estetik sorunu tek bir planda çözmek isteyenler",
+     "Sonucu başlamadan görmek isteyenler"
+    ],
+    "en": [
+     "People unhappy with the length, shape or spacing of their teeth",
+     "Those who want to address several aesthetic concerns in one plan",
+     "Those who want to see the result before starting"
+    ]
+   },
+   "steps": {
+    "tr": [
+     "Fotoğraf, tarama ve beklentilerin konuşulması",
+     "Dijital tasarım",
+     "Ağızda geçici maketle prova",
+     "Onaylanan plana göre tedavi",
+     "Kontrol ve bakım önerileri"
+    ],
+    "en": [
+     "Photos, scan and discussing expectations",
+     "Digital design",
+     "Trial with a temporary mock-up",
+     "Treatment according to the approved plan",
+     "Review and maintenance advice"
+    ]
+   }
+  },
+  {
+   "id": "orto",
+   "icon": "ortodonti",
+   "img": "detay-orto",
+   "post": "seffaf",
+   "title": {
+    "tr": "Şeffaf plak ortodonti",
+    "en": "Clear aligner orthodontics"
+   },
+   "short": {
+    "tr": "Çapraşık ve aralıklı dişler için takılıp çıkarılabilen şeffaf plaklarla düzeltme.",
+    "en": "Straightening crowded or gapped teeth with removable clear aligners."
+   },
+   "paras": {
+    "tr": [
+     "Şeffaf plak tedavisinde dişler, kişiye özel üretilen ve belirli aralıklarla yenisiyle değiştirilen ince plaklarla adım adım hareket ettirilir. Plaklar yemek ve fırçalama sırasında çıkarılır; günün büyük bölümünde takılı kalmaları gerekir.",
+     "Her vaka plağa uygun değildir. Bazı iskeletsel sorunlarda ya da karmaşık diş hareketlerinde sabit teller daha öngörülebilir sonuç verir. Dr. Hüseyin Aşçı'nın çalışma alanı ortodonti olduğundan, iki yöntemi muayene sonrası karşılaştırarak öneriyoruz."
+    ],
+    "en": [
+     "With clear aligners, teeth are moved step by step using thin, custom-made aligners that are replaced with new ones at set intervals. They are removed for eating and brushing and need to be worn for most of the day.",
+     "Not every case suits aligners. For some skeletal problems or complex tooth movements, fixed braces give more predictable results. As orthodontics is Dr. Hüseyin Aşçı's field, we compare both methods after the examination before recommending one."
+    ]
+   },
+   "who": {
+    "tr": [
+     "Hafif ya da orta düzeyde çapraşıklığı veya aralığı olanlar",
+     "Plakları günde önerilen süre boyunca takabilecek olanlar",
+     "Görünür tel istemeyen yetişkinler ve gençler"
+    ],
+    "en": [
+     "People with mild to moderate crowding or gaps",
+     "Those who can wear aligners for the recommended hours each day",
+     "Adults and teenagers who don't want visible braces"
+    ]
+   },
+   "steps": {
+    "tr": [
+     "Muayene, röntgen ve ağız içi tarama",
+     "Dijital hareket planı",
+     "Plakların teslimi ve kullanımın anlatılması",
+     "Düzenli kontroller",
+     "Pekiştirme (retainer) dönemi"
+    ],
+    "en": [
+     "Examination, X-rays and intraoral scan",
+     "Digital movement plan",
+     "Handing over the aligners and explaining their use",
+     "Regular check-ups",
+     "Retention phase"
+    ]
+   }
+  },
+  {
+   "id": "beyaz",
+   "icon": "beyazlatma",
+   "img": "detay-beyaz",
+   "post": "beyaz",
+   "title": {
+    "tr": "Diş beyazlatma",
+    "en": "Teeth whitening"
+   },
+   "short": {
+    "tr": "Hekim kontrolünde, diş minesine zarar vermeden yapılan renk açma işlemi.",
+    "en": "Dentist-supervised lightening that doesn't harm the enamel."
+   },
+   "paras": {
+    "tr": [
+     "Beyazlatma, diş yüzeyindeki ve içindeki renklenmeleri peroksit içeren jellerle açma işlemidir. Klinikte yapılan uygulamada diş etleri korunarak daha yüksek yoğunlukta jel kullanılır; evde uygulamada ise kişiye özel plaklarla daha düşük yoğunlukta jel kullanılır.",
+     "Kaplama, dolgu ve lamine gibi restorasyonlar beyazlamaz; bu nedenle önce mevcut dolgularınızı değerlendiririz. Geçici diş hassasiyeti sık görülür ve genellikle kendiliğinden geçer. Sonucun ne kadar korunacağı çay, kahve ve sigara gibi alışkanlıklara bağlıdır."
+    ],
+    "en": [
+     "Whitening lightens stains on and within the teeth using peroxide-based gels. In the clinic, a higher-concentration gel is used with the gums protected; at home, a lower-concentration gel is used in custom-made trays.",
+     "Restorations such as crowns, fillings and veneers don't whiten, so we assess your existing fillings first. Temporary sensitivity is common and usually settles on its own. How long the result lasts depends on habits such as tea, coffee and smoking."
+    ]
+   },
+   "who": {
+    "tr": [
+     "Doğal dişlerinde sararma ya da genel koyulaşma olanlar",
+     "Çürük ve diş eti sorunları tedavi edilmiş olanlar",
+     "Hamilelik ve emzirme döneminde ertelenmesi önerilir"
+    ],
+    "en": [
+     "People with yellowing or general darkening of natural teeth",
+     "Those whose decay and gum problems have been treated",
+     "Best postponed during pregnancy and breastfeeding"
+    ]
+   },
+   "steps": {
+    "tr": [
+     "Muayene ve diş taşı temizliği",
+     "Başlangıç renginin kaydedilmesi",
+     "Klinik ya da ev tipi uygulama",
+     "Renk kontrolü ve bakım önerileri"
+    ],
+    "en": [
+     "Examination and scale-and-polish",
+     "Recording the starting shade",
+     "In-clinic or at-home application",
+     "Shade check and maintenance advice"
+    ]
+   }
+  },
+  {
+   "id": "kanal",
+   "icon": "kanal",
+   "img": "detay-kanal",
+   "post": null,
+   "title": {
+    "tr": "Kanal tedavisi",
+    "en": "Root canal treatment"
+   },
+   "short": {
+    "tr": "İltihaplanmış ya da enfekte diş sinirinin temizlenerek dişin ağızda tutulması.",
+    "en": "Cleaning out an inflamed or infected nerve so the tooth can be kept."
+   },
+   "paras": {
+    "tr": [
+     "Çürük ya da darbe diş özüne (pulpa) ulaştığında sinir dokusu iltihaplanabilir. Kanal tedavisinde bu doku temizlenir, kanallar şekillendirilip dezenfekte edilir ve sızdırmaz bir dolgu maddesiyle doldurulur. Amaç dişi çekmeden korumaktır.",
+     "İşlem lokal anestezi altında yapılır; çoğu hasta tedavi sırasında belirgin ağrı hissetmez. Kanal tedavisi görmüş dişler zamanla kırılgan hale gelebileceği için, özellikle arka dişlerde üzerine kaplama yapılması sıklıkla önerilir."
+    ],
+    "en": [
+     "When decay or trauma reaches the pulp, the nerve tissue can become inflamed. In root canal treatment this tissue is removed, the canals are shaped and disinfected, and then sealed with a filling material. The aim is to save the tooth rather than extract it.",
+     "The procedure is done under local anaesthetic, and most patients feel no significant pain during treatment. Because root-treated teeth can become brittle over time, a crown is often recommended, especially for back teeth."
+    ]
+   },
+   "who": {
+    "tr": [
+     "Sıcak-soğuğa uzun süren hassasiyeti ya da gece ağrısı olanlar",
+     "Dişinde apse veya şişlik oluşanlar",
+     "Röntgende kök ucunda iltihap görülenler"
+    ],
+    "en": [
+     "People with lingering sensitivity to hot and cold, or night-time pain",
+     "Those with an abscess or swelling",
+     "Teeth showing inflammation at the root tip on X-ray"
+    ]
+   },
+   "steps": {
+    "tr": [
+     "Muayene ve röntgen",
+     "Lokal anestezi ve kanalların temizlenmesi",
+     "Kanalların doldurulması",
+     "Dişin dolgu ya da kaplamayla restore edilmesi",
+     "Kontrol röntgeni"
+    ],
+    "en": [
+     "Examination and X-ray",
+     "Local anaesthetic and cleaning the canals",
+     "Filling the canals",
+     "Restoring the tooth with a filling or crown",
+     "Follow-up X-ray"
+    ]
+   }
+  },
+  {
+   "id": "cocuk",
+   "icon": "cocuk",
+   "img": "detay-cocuk",
+   "post": null,
+   "title": {
+    "tr": "Çocuk diş hekimliği",
+    "en": "Children's dentistry"
+   },
+   "short": {
+    "tr": "Süt dişlerinden itibaren koruyucu bakım, sakin bir ortam ve çocuğa uygun anlatım.",
+    "en": "Preventive care from the first baby teeth, in a calm setting with child-friendly explanations."
+   },
+   "paras": {
+    "tr": [
+     "Çocuklarda ilk diş hekimi deneyimi, ilerideki tedavilere bakışı etkiler. Bu yüzden ilk randevularda acele etmeden ortamı tanıtıyor, aletleri göstererek anlatıyoruz. Kliniğimizde çocuklar için ayrı düzenlenmiş bir tedavi odası bulunur.",
+     "Fissür örtücü, flor uygulaması ve düzenli kontrollerle çürükleri oluşmadan önlemeye odaklanırız. Süt dişlerindeki çürükler de tedavi edilmelidir; erken kaybedilen süt dişleri, alttan gelen kalıcı dişlerin yerleşimini etkileyebilir."
+    ],
+    "en": [
+     "A child's first dental experience shapes how they feel about treatment later on. So in the first appointments we take our time, introduce the room and show the instruments as we explain. Our clinic has a treatment room designed especially for children.",
+     "We focus on preventing decay before it starts, with fissure sealants, fluoride and regular check-ups. Decay in baby teeth should be treated too: baby teeth lost early can affect how the permanent teeth come in."
+    ]
+   },
+   "who": {
+    "tr": [
+     "İlk dişi çıkmış bebekler için ilk kontrol",
+     "Süt ve karma dişlenme dönemindeki çocuklar",
+     "Diş hekimi kaygısı yaşayan çocuklar"
+    ],
+    "en": [
+     "A first check-up once the first tooth appears",
+     "Children with baby or mixed teeth",
+     "Children who feel anxious about the dentist"
+    ]
+   },
+   "steps": {
+    "tr": [
+     "Tanışma ve ağız içi kontrol",
+     "Ebeveynle birlikte bakım planı",
+     "Koruyucu uygulamalar ya da tedavi",
+     "Düzenli kontrol randevuları"
+    ],
+    "en": [
+     "Getting to know each other and a check-up",
+     "A care plan together with parents",
+     "Preventive care or treatment",
+     "Regular check-up appointments"
+    ]
+   }
+  },
+  {
+   "id": "diseti",
+   "icon": "dis-eti",
+   "img": "detay-diseti",
+   "post": null,
+   "title": {
+    "tr": "Diş eti tedavisi",
+    "en": "Gum treatment"
+   },
+   "short": {
+    "tr": "Kanayan, çekilen ya da iltihaplı diş etleri için temizlik ve periodontal tedavi.",
+    "en": "Cleaning and periodontal treatment for bleeding, receding or inflamed gums."
+   },
+   "paras": {
+    "tr": [
+     "Diş eti hastalığı çoğu zaman ağrısız başlar: fırçalarken kanama, ağız kokusu ve diş etlerinde kızarıklık ilk işaretlerdir. Tedavi edilmezse dişi taşıyan kemik zamanla kaybolabilir ve dişlerde sallanma başlar.",
+     "Tedavi, diş taşlarının temizlenmesi ve kök yüzeylerinin düzleştirilmesiyle başlar. İlerlemiş vakalarda cerrahi periodontal işlemler gerekebilir. Diş eti sağlığı; implant, kaplama ve ortodonti tedavilerinin başarısı için de ön koşuldur."
+    ],
+    "en": [
+     "Gum disease often starts without pain: bleeding when brushing, bad breath and red gums are the first signs. Left untreated, the bone supporting the teeth can be lost over time and teeth start to loosen.",
+     "Treatment begins with removing tartar and smoothing the root surfaces. Advanced cases may need periodontal surgery. Healthy gums are also a prerequisite for successful implant, crown and orthodontic treatment."
+    ]
+   },
+   "who": {
+    "tr": [
+     "Fırçalarken diş eti kanaması olanlar",
+     "Diş eti çekilmesi ya da dişlerde sallanma fark edenler",
+     "İmplant veya estetik tedavi öncesi diş eti kontrolü gerekenler"
+    ],
+    "en": [
+     "People whose gums bleed when brushing",
+     "Those who notice gum recession or loose teeth",
+     "Patients who need a gum check before implant or aesthetic treatment"
+    ]
+   },
+   "steps": {
+    "tr": [
+     "Diş eti ölçümleri ve röntgen",
+     "Diş taşı temizliği ve kök yüzeyi düzleştirme",
+     "Evde bakım eğitimi",
+     "Yeniden değerlendirme ve gerekirse ileri tedavi",
+     "Düzenli bakım seansları"
+    ],
+    "en": [
+     "Gum measurements and X-rays",
+     "Scaling and root planing",
+     "Home-care coaching",
+     "Re-assessment and further treatment if needed",
+     "Regular maintenance visits"
+    ]
+   }
+  }
+ ],
+ "strip": [
+  {
+   "img": "tedavi-implant",
+   "title": {
+    "tr": "İmplant",
+    "en": "Implants"
+   },
+   "anchor": "implant"
+  },
+  {
+   "img": "tedavi-zirkonyum",
+   "title": {
+    "tr": "Zirkonyum",
+    "en": "Zirconia crowns"
+   },
+   "anchor": "kaplama"
+  },
+  {
+   "img": "tedavi-gulus-tasarimi",
+   "title": {
+    "tr": "Gülüş tasarımı",
+    "en": "Smile design"
+   },
+   "anchor": "gulus"
+  },
+  {
+   "img": "tedavi-lamine",
+   "title": {
+    "tr": "Lamine veneer",
+    "en": "Laminate veneers"
+   },
+   "anchor": "kaplama"
+  },
+  {
+   "img": "tedavi-seffaf-plak",
+   "title": {
+    "tr": "Şeffaf plak",
+    "en": "Clear aligners"
+   },
+   "anchor": "orto"
+  },
+  {
+   "img": "tedavi-all-on-four",
+   "title": {
+    "tr": "All-on-Four",
+    "en": "All-on-Four"
+   },
+   "anchor": "implant"
+  },
+  {
+   "img": "tedavi-beyazlatma",
+   "title": {
+    "tr": "Diş beyazlatma",
+    "en": "Teeth whitening"
+   },
+   "anchor": "beyaz"
+  }
+ ],
+ "reviews": [
+  {
+   "name": "Hafzullah K.",
+   "source": "google",
+   "text": {
+    "tr": "Uzun süren implant ve zirkonyum tedavi sürecimi büyük bir titizlikle tamamlayan Hüseyin Aşçı hocama ve tüm ekibine teşekkür ederim.",
+    "en": "Thank you to Dr. Hüseyin Aşçı and his whole team for completing my long implant and zirconia treatment with great care."
+   }
+  },
+  {
+   "name": "Tülay Ç.",
+   "source": "google",
+   "text": {
+    "tr": "Hüseyin bey, Berk bey ve Anıl beye emekleri ve yardımları için teşekkür ederim. Ben gibi dişçi fobisi olanlar bile rahatlıkla gidebilir. Ayrıca bütün kadro güler yüzlü ve her durumda yardımcı oluyor.",
+    "en": "Thank you to Hüseyin, Berk and Anıl for their effort and help. Even people with a fear of dentists like me can go there comfortably. The whole team is friendly and helpful in every situation."
+   }
+  },
+  {
+   "name": "Haluk M.",
+   "source": "google",
+   "text": {
+    "tr": "2 diş çektirdim gram acı hissetmedim. Elleri hafif hasta hassasiyetine özen gösteren bir poliklinik. Hüseyin hocaya teşekkür ederim.",
+    "en": "I had 2 teeth extracted and didn't feel the slightest pain. A clinic with a gentle touch that pays attention to patients' sensitivities. Thank you, Dr. Hüseyin."
+   }
+  },
+  {
+   "name": "Ömür V.",
+   "source": "google",
+   "text": {
+    "tr": "Hüseyin Hocam ellerine emeğine yüreğine sağlık olsun… Okadar memnun oldum ki kelimeler yetmez… Almanya dan Sevgiler ile…",
+    "en": "Dr. Hüseyin, bless your hands, your work and your heart… I'm so pleased that words aren't enough… With love from Germany…"
+   }
+  },
+  {
+   "name": "Sude B.",
+   "source": "google",
+   "text": {
+    "tr": "çok yakın arkadaşımla gelme imkanım oldu tüm doktorları Hüseyin hoca Anıl hoca ve Berk hoca alanında uzman hekimler çok ilgiliydiler bankodaki hanımefendi ve tüm asistanlar işinin gerçekten ehli insanlar sonuna kadar öneririm",
+    "en": "I had the chance to come with a very close friend. All the doctors — Dr. Hüseyin, Dr. Anıl and Dr. Berk — are experts in their field and were very attentive. The lady at the front desk and all the assistants really know their job. I recommend them wholeheartedly."
+   }
+  },
+  {
+   "name": "Efsun K.",
+   "source": "google",
+   "text": {
+    "tr": "Hüseyin Bey'in işindeki başarısı, özeni ve titizliğine söz söyleyebilmek mümkün değil elbette. Bir o kadar da harika bir ekibi mevcut.",
+    "en": "There is of course nothing anyone could say against Mr Hüseyin's success, care and meticulousness in his work. And his team is just as wonderful."
+   }
+  },
+  {
+   "name": "İ. Ö.",
+   "source": "google",
+   "text": {
+    "tr": "Yirmilik diş de çektirdim. Dolgu da yaptırdım. Dt. Hüseyin Aşçı çok güler yüzlü ve iyi bir hekim.",
+    "en": "I had a wisdom tooth extracted and a filling done. Dt. Hüseyin Aşçı is a very friendly and good dentist."
+   }
+  },
+  {
+   "name": "Yandex kullanıcısı",
+   "source": "yandex",
+   "text": {
+    "tr": "Hüseyin hocam ve ekibine sanırım hayatım boyunca minnettar kalıcam. Ablamın tüm ağız implant ve zirkonyum diş yaptırdık.",
+    "en": "I think I'll be grateful to Dr. Hüseyin and his team for the rest of my life. We had full-mouth implants and zirconia teeth done for my sister."
+   }
+  }
+ ],
+ "team": [
+  {
+   "img": "hekim-huseyin-asci",
+   "name": "Dr. Hüseyin Aşçı",
+   "role": {
+    "tr": "Ortodonti ve diş estetiği · Kurucu hekim",
+    "en": "Orthodontics and aesthetic dentistry · Founder"
+   }
+  },
+  {
+   "img": "hekim-anil-isikli",
+   "name": "Dr. Anıl Işıklı",
+   "role": {
+    "tr": "Diş hekimi",
+    "en": "Dentist"
+   }
+  },
+  {
+   "img": "hekim-fulya-toraman",
+   "name": "Dr. Fulya Toraman",
+   "role": {
+    "tr": "Diş hekimi",
+    "en": "Dentist"
+   }
+  }
+ ],
+ "clinic": [
+  {
+   "img": "klinik-01-bina",
+   "caption": {
+    "tr": "Klinik girişi, E-5 yanyolu",
+    "en": "Clinic entrance on the E-5 service road"
+   }
+  },
+  {
+   "img": "klinik-02-bekleme",
+   "caption": {
+    "tr": "Bekleme alanı",
+    "en": "Waiting area"
+   }
+  },
+  {
+   "img": "klinik-03-resepsiyon",
+   "caption": {
+    "tr": "Resepsiyon",
+    "en": "Reception"
+   }
+  },
+  {
+   "img": "klinik-04-koridor",
+   "caption": {
+    "tr": "Tedavi odalarına giden koridor",
+    "en": "Corridor to the treatment rooms"
+   }
+  },
+  {
+   "img": "klinik-05-merdiven",
+   "caption": {
+    "tr": "Üst kata çıkış",
+    "en": "Stairs to the upper floor"
+   }
+  },
+  {
+   "img": "klinik-06-tedavi-odasi",
+   "caption": {
+    "tr": "Tedavi odası",
+    "en": "Treatment room"
+   }
+  },
+  {
+   "img": "klinik-07-tedavi-alani",
+   "caption": {
+    "tr": "Tedavi alanı",
+    "en": "Treatment area"
+   }
+  },
+  {
+   "img": "klinik-08-cocuk-odasi",
+   "caption": {
+    "tr": "Çocuk tedavi odası",
+    "en": "Children's treatment room"
+   }
+  }
+ ],
+ "reels": [
+  "Dd6RGn5MDRV",
+  "Dd1xBgWM0jf",
+  "DdohvRlM7Zm",
+  "DdeHGIrM9ov",
+  "DdYzZw-MVq9"
+ ]
+}
