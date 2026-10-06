@@ -107,7 +107,14 @@ function Footer({ lang }: { lang: Lang }) {
         </div>
       </div>
       <div className="wrap footer-bottom">
-        <p>© 2026 Dent32. {t("Tüm hakları saklıdır.", "All rights reserved.")}</p>
+        <div className="footer-bottom__start">
+          <p>© 2026 Dent32. {t("Tüm hakları saklıdır.", "All rights reserved.")}</p>
+          <p className="credit">
+            <span>{t("Tasarım ve geliştirme", "Design & development")}</span>
+            <Image className="credit__logo" src="/img/lots-logo.png" width={48} height={24} alt="Lots Creative Works" />
+            <span className="credit__tag">Digital marketing partner for clinics</span>
+          </p>
+        </div>
         <p>{t("Bu sitedeki bilgiler tanı ve tedavi yerine geçmez.", "The information on this site does not replace diagnosis or treatment.")}</p>
       </div>
     </footer>
@@ -124,7 +131,11 @@ export function Shell({ lang, pageKey, children }: { lang: Lang; pageKey: PageKe
       <main id="main" tabIndex={-1}>{children}</main>
       <Footer lang={lang} />
       <a className="wa-float" href={WA} target="_blank" rel="noopener" aria-label={t("WhatsApp ile yazın", "Message us on WhatsApp")}>
-        <WaGlyph />
+        <span className="wa-float__icon" aria-hidden="true"><WaGlyph /></span>
+        <span className="wa-float__text" aria-hidden="true">
+          <small>{t("Sorunuz mu var?", "Have a question?")}</small>
+          <b>{t("WhatsApp'tan yazın", "Message on WhatsApp")}</b>
+        </span>
       </a>
     </>
   );
