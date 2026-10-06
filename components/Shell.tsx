@@ -111,7 +111,9 @@ function Footer({ lang }: { lang: Lang }) {
           <p>© 2026 Dent32. {t("Tüm hakları saklıdır.", "All rights reserved.")}</p>
           <p className="credit">
             <span>{t("Tasarım ve geliştirme", "Design & development")}</span>
-            <Image className="credit__logo" src="/img/lots-logo.png" width={48} height={24} alt="Lots Creative Works" />
+            <a className="credit__link" href="https://www.instagram.com/lotscreativeworks/" target="_blank" rel="noopener" aria-label={t("Lots Creative Works Instagram hesabı", "Lots Creative Works on Instagram")}>
+              <Image className="credit__logo" src="/img/lots-logo.png" width={48} height={24} alt="" />
+            </a>
             <span className="credit__tag">Digital marketing partner for clinics</span>
           </p>
         </div>

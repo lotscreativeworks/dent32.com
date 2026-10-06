@@ -711,7 +711,9 @@ ul, ol { margin: 0; padding: 0; }
 .footer-bottom p { margin: 0; }
 .footer-bottom__start { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 18px; }
 .credit { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 8px; padding-left: 18px; border-left: 1px solid rgba(255, 255, 255, .14); color: #7f93a4; }
-.credit__logo { width: 44px; height: auto; opacity: .9; }
+.credit__link { display: inline-flex; border-radius: 4px; }
+.credit__logo { width: 44px; height: auto; opacity: .9; transition: opacity var(--hx-out) var(--hx-ease); }
+.credit__link:hover .credit__logo, .credit__link:focus-visible .credit__logo { opacity: 1; }
 .credit__tag { font-size: .78rem; letter-spacing: .02em; }
 /* Yüzen WhatsApp kutucuğu alt bandın yazılarını örtmesin */
 @media (min-width: 641px) { .footer-bottom { padding-right: 230px; } }
