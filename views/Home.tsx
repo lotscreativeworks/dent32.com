@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { Faq } from "@/components/client/Faq";
+import { HeroVideo } from "@/components/client/HeroVideo";
 import { WaForm } from "@/components/client/WaForm";
 import { BaCard, BlogCard, delay, LangRail, NextStep, SecHead } from "@/components/blocks";
 import { Icon, Star } from "@/components/Icon";
@@ -57,6 +58,7 @@ export function Home({ lang }: { lang: Lang }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(dentist)} />
 
       <section className="hero">
+        <HeroVideo />
         <div className="wrap hero__grid">
           <div>
             <p className="eyebrow hero__fade">{t("Dent32 · Beylikdüzü, İstanbul", "Dent32 · Beylikdüzü, Istanbul")}</p>
