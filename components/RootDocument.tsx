@@ -6,7 +6,15 @@ import "@/app/globals.css";
 
 export const rootMetadata: Metadata = {
   metadataBase: new URL(SITE),
-  icons: { icon: { url: "/favicon.svg", type: "image/svg+xml" } },
+  // Google arama sonucundaki simge için 48'in katı boyutta PNG/ICO da sunulur
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "48x48" },
+      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
+      { url: "/favicon.svg", type: "image/svg+xml" },
+    ],
+    apple: "/apple-touch-icon.png",
+  },
 };
 
 export const rootViewport: Viewport = { themeColor: "#0A1C2E" };
