@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { Faq } from "@/components/client/Faq";
 import { HeroVideo } from "@/components/client/HeroVideo";
+import { IgEmbed } from "@/components/client/IgEmbed";
 import { WaForm } from "@/components/client/WaForm";
 import { BaCard, BlogCard, delay, LangRail, NextStep, SecHead } from "@/components/blocks";
 import { Icon, Star } from "@/components/Icon";
@@ -48,9 +49,9 @@ export function Home({ lang }: { lang: Lang }) {
   };
 
   const badges: [string, string, number][] = [
-    ["iso-13485", t("ISO 13485:2016 tıbbi cihaz kalite yönetimi", "ISO 13485:2016 medical devices quality management"), 160],
-    ["saglik-bakanligi", t("T.C. Sağlık Bakanlığı", "Republic of Türkiye Ministry of Health"), 160],
-    ["health-turkiye", "Health Türkiye", 251],
+    ["iso-13485", t("ISO 13485:2016 tıbbi cihaz kalite yönetimi", "ISO 13485:2016 medical devices quality management"), 124],
+    ["saglik-bakanligi", t("T.C. Sağlık Bakanlığı", "Republic of Türkiye Ministry of Health"), 124],
+    ["health-turkiye", "Health Türkiye", 195],
   ];
 
   return (
@@ -106,7 +107,7 @@ export function Home({ lang }: { lang: Lang }) {
             <p>{t("Klinik haftanın yedi günü açıktır. Ortodonti, implant ve estetik diş hekimliğinde aynı çatı altında, birlikte plan yapan bir ekiple çalışıyoruz.",
               "The clinic is open seven days a week. Orthodontics, implants and aesthetic dentistry are under one roof, with a team that plans together.")}</p>
             <ul className="badges" aria-label={t("Belgeler", "Certifications")}>
-              {badges.map(([n, alt, w]) => <li key={n}><Image src={`/img/rozet-${n}.png`} width={w} height={160} alt={alt} /></li>)}
+              {badges.map(([n, alt, w]) => <li key={n}><Image unoptimized src={`/img/rozet-${n}.webp`} width={w} height={124} alt={alt} /></li>)}
             </ul>
             <Link className="btn btn-line" href={route("about", lang, "kadro")}>{t("Hekim kadrosu", "Meet our dentists")} <Icon name="arrow" /></Link>
           </div>
@@ -135,9 +136,7 @@ export function Home({ lang }: { lang: Lang }) {
           <LangRail lang={lang} label={t("Instagram videoları", "Instagram videos")} className="hx-rail--ig" drag={false}>
             {REELS.map((code, i) => (
               <div key={code} className="ig-card lift rv" style={delay(i)}>
-                <iframe src={`https://www.instagram.com/reel/${code}/embed/`} loading="lazy" scrolling="no"
-                  title={`${t("Dent32 Instagram videosu", "Dent32 Instagram video")} ${i + 1}`}
-                  allow="encrypted-media; picture-in-picture; clipboard-write" />
+                <IgEmbed code={code} title={`${t("Dent32 Instagram videosu", "Dent32 Instagram video")} ${i + 1}`} />
               </div>
             ))}
           </LangRail>

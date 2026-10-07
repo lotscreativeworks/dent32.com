@@ -19,6 +19,19 @@ export const rootMetadata: Metadata = {
 
 export const rootViewport: Viewport = { themeColor: "#0A1C2E" };
 
+/**
+ * Hidrasyondan önce çalışan küçük betik:
+ * - "js" sınıfı: giriş animasyonları yalnızca JS varken gizli başlar.
+ * - Yenilemede/ilk açılışta sayfa her zaman en üstten başlasın: tarayıcı eski kaydırma konumunu
+ *   geri yüklemesin (yoksa altta yenilenen sayfa yine altta açılır). Sayfa içi gezinmede geri/ileri
+ *   tuşu ve #bağlantılar tarayıcının normal davranışıyla çalışır.
+ */
+const BOOT = `document.documentElement.classList.add("js");
+try{if("scrollRestoration" in history){var h=history,n=performance.getEntriesByType("navigation")[0];
+if(n&&n.type!=="back_forward"&&!location.hash){h.scrollRestoration="manual";scrollTo(0,0);
+addEventListener("load",function(){setTimeout(function(){h.scrollRestoration="auto"},0)},{once:true})}
+addEventListener("pagehide",function(){if(!location.hash)h.scrollRestoration="manual"})}}catch(e){}`;
+
 /** İki root layout'un (TR / EN) ortak <html> iskeleti */
 export function RootDocument({ lang, children }: { lang: Lang; children: ReactNode }) {
   return (
@@ -26,7 +39,7 @@ export function RootDocument({ lang, children }: { lang: Lang; children: ReactNo
     // data-scroll-behavior: Next 16 sayfa geçişinde smooth scroll'u geçici kapatır (yoksa yeni sayfa yanlış konumda açılır)
     <html lang={lang} data-scroll-behavior="smooth" suppressHydrationWarning>
       <body>
-        <script dangerouslySetInnerHTML={{ __html: 'document.documentElement.classList.add("js")' }} />
+        <script dangerouslySetInnerHTML={{ __html: BOOT }} />
         {children}
         <RevealObserver />
       </body>

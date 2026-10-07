@@ -39,7 +39,7 @@ function Header({ lang, pageKey }: { lang: Lang; pageKey: PageKey }) {
         <a href={route(pageKey, "en")} hrefLang="en" lang="en" aria-current={lang === "en" ? "true" : undefined}>EN</a>
       </div>
       <a className="wa-pill" href={WA} target="_blank" rel="noopener" aria-label={`${t("WhatsApp ile yazın", "Message us on WhatsApp")}: ${PHONE}`}>
-        <span className="wa-ico"><Image src="/img/sosyal-whatsapp.png" width={26} height={26} alt="" /></span>
+        <span className="wa-ico"><Image unoptimized src="/img/sosyal-whatsapp.png" width={26} height={26} alt="" /></span>
         <span className="wa-num">{PHONE}</span>
       </a>
       <Link className="btn btn-primary btn-sm header-cta" href={route("contact", lang)}>{t("Randevu al", "Book now")}</Link>
@@ -50,7 +50,7 @@ function Header({ lang, pageKey }: { lang: Lang; pageKey: PageKey }) {
     <header className="site-header">
       <div className="wrap header-in">
         <Link className="brand" href={route("home", lang)} aria-label={t("Dent32 anasayfa", "Dent32 home")}>
-          <Image src="/logo.svg" width={104} height={49} alt="Dent32" preload />
+          <Image unoptimized src="/logo.svg" width={104} height={49} alt="Dent32" preload />
         </Link>
         <HeaderControls nav={nav} actions={actions} menuLabel={t("Ana menü", "Main menu")}
           openLabel={t("Menüyü aç", "Open menu")} closeLabel={t("Menüyü kapat", "Close menu")} />
@@ -65,14 +65,14 @@ function Footer({ lang }: { lang: Lang }) {
     <footer className="site-footer">
       <div className="wrap footer-grid">
         <div className="f-brand">
-          <Image className="f-logo" src="/logo.svg" width={116} height={55} alt="Dent32" />
+          <Image unoptimized className="f-logo" src="/logo.svg" width={116} height={55} alt="Dent32" />
           <p>{t("Beylikdüzü'nde, haftanın yedi günü açık diş kliniği. Her tedaviyi açıkça anlatılan bir planla yürütüyoruz.",
             "A dental clinic in Beylikdüzü, Istanbul, open seven days a week. Every treatment follows a clearly explained plan.")}</p>
           <ul className="social" aria-label={t("Sosyal medya", "Social media")}>
             {SOCIAL.map((s) => (
               <li key={s.key}>
                 <a href={s.url} target="_blank" rel="noopener" aria-label={`Dent32 ${s.name}`}>
-                  <Image src={`/img/${s.icon}`} width={28} height={28} alt="" />
+                  <Image unoptimized src={`/img/${s.icon}`} width={28} height={28} alt="" />
                 </a>
               </li>
             ))}
@@ -112,7 +112,7 @@ function Footer({ lang }: { lang: Lang }) {
           <p className="credit">
             <span>{t("Tasarım ve geliştirme", "Design & development")}</span>
             <a className="credit__link" href="https://www.instagram.com/lotscreativeworks/" target="_blank" rel="noopener" aria-label={t("Lots Creative Works Instagram hesabı", "Lots Creative Works on Instagram")}>
-              <Image className="credit__logo" src="/img/lots-logo.png" width={48} height={24} alt="" />
+              <Image unoptimized className="credit__logo" src="/img/lots-logo.png" width={48} height={24} alt="" />
             </a>
             <span className="credit__tag">Digital marketing partner for clinics</span>
           </p>
@@ -132,9 +132,9 @@ export function Shell({ lang, pageKey, children }: { lang: Lang; pageKey: PageKe
       <Header lang={lang} pageKey={pageKey} />
       <main id="main" tabIndex={-1}>{children}</main>
       <Footer lang={lang} />
-      <a className="wa-float" href={WA} target="_blank" rel="noopener" aria-label={t("WhatsApp ile yazın", "Message us on WhatsApp")}>
+      <a className="wa-float" href={WA} target="_blank" rel="noopener">
         <span className="wa-float__icon" aria-hidden="true"><WaGlyph /></span>
-        <span className="wa-float__text" aria-hidden="true">
+        <span className="wa-float__text">
           <small>{t("Sorunuz mu var?", "Have a question?")}</small>
           <b>{t("WhatsApp'tan yazın", "Message on WhatsApp")}</b>
         </span>
