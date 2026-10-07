@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Icon } from "@/components/Icon";
 import { Img } from "@/components/Img";
 
@@ -26,10 +26,50 @@ export function BeforeAfter({ before, after, altBefore, altAfter, label, tagBefo
     set(((x - r.left) / r.width) * 100);
   };
 
+  /**
+   * Dokunmatik: yatay hareket karşılaştırmayı kaydırır, dikey hareket sayfayı kaydırır.
+   * Kart yatay kaydırmalı bir şeridin (anasayfa) içindeyken, şerit parmağı kapmasın diye
+   * yatay hareket preventDefault ile burada tutulur (iOS Safari touch-action'a tam uymaz).
+   */
+  useEffect(() => {
+    const el = box.current;
+    if (!el) return;
+    let sx = 0, sy = 0, mode: "x" | "y" | null = null;
+    const at = (x: number) => {
+      const r = el.getBoundingClientRect();
+      setPos(Math.min(100, Math.max(0, ((x - r.left) / r.width) * 100)));
+    };
+    const onStart = (e: TouchEvent) => { sx = e.touches[0].clientX; sy = e.touches[0].clientY; mode = null; };
+    const onMove = (e: TouchEvent) => {
+      const t = e.touches[0];
+      const dx = t.clientX - sx, dy = t.clientY - sy;
+      if (!mode && Math.max(Math.abs(dx), Math.abs(dy)) > 6) {
+        mode = Math.abs(dx) > Math.abs(dy) ? "x" : "y";
+        if (mode === "x") setActive(true);
+      }
+      if (mode === "x") { e.preventDefault(); e.stopPropagation(); at(t.clientX); }
+    };
+    const onEnd = (e: TouchEvent) => {
+      if (!mode) at(e.changedTouches[0].clientX); // kısa dokunuş: çizgiyi oraya taşı
+      mode = null; setActive(false);
+    };
+    el.addEventListener("touchstart", onStart, { passive: true });
+    el.addEventListener("touchmove", onMove, { passive: false });
+    el.addEventListener("touchend", onEnd);
+    el.addEventListener("touchcancel", onEnd);
+    return () => {
+      el.removeEventListener("touchstart", onStart);
+      el.removeEventListener("touchmove", onMove);
+      el.removeEventListener("touchend", onEnd);
+      el.removeEventListener("touchcancel", onEnd);
+    };
+  }, []);
+
   return (
     <div ref={box} className={`ba ${active ? "is-active" : ""}`} style={{ ["--pos" as string]: `${pos}%` }}
       onPointerDown={(e) => {
-        if (e.pointerType === "mouse" && e.button !== 0) return;
+        // Dokunmatik yukarıdaki touch olaylarıyla yönetilir (dikey kaydırmada çizgi zıplamasın)
+        if (e.pointerType === "touch" || (e.pointerType === "mouse" && e.button !== 0)) return;
         setActive(true);
         e.currentTarget.setPointerCapture(e.pointerId);
         fromX(e.clientX);
