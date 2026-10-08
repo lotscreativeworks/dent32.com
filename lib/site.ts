@@ -17,9 +17,11 @@ export const EMAIL = "info@dent32.com";
 export const STREET = "Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179";
 export const ADDRESS = `${STREET}, 34520 Beylikdüzü / İstanbul`;
 export const GEO = { lat: 41.0100185, lng: 28.6530091 };
+/** Google Haritalar'daki Dent32 kaydının kimliği (CID): harita koordinat yerine doğrudan kliniği gösterir */
+const MAPS_CID = "16282045604847102906";
 export const MAP_EMBED = (hl: Lang) =>
-  `https://maps.google.com/maps?q=${GEO.lat},${GEO.lng}&z=17&hl=${hl}&output=embed`;
-export const GMB = "https://maps.app.goo.gl/PqUcLHUcNRhoC3eF9";
+  `https://maps.google.com/maps?cid=${MAPS_CID}&z=17&hl=${hl}&output=embed`;
+export const GMB = "https://maps.app.goo.gl/ZyUfuxXdQUzmkPH89";
 export const IG = "https://www.instagram.com/dent.32/";
 export const SOCIAL = [
   { key: "instagram", name: "Instagram", url: IG, icon: "sosyal-instagram.png" },
