@@ -1,5 +1,1145 @@
 [
  {
+  "key": "klinik",
+  "date": "2026-10-19",
+  "cat": "Rehber",
+  "cover": "blog-klinik-secimi",
+  "slug": "beylikduzu-dis-klinigi-secimi",
+  "title": "Beylikdüzü'nde diş kliniği seçerken nelere dikkat etmeli?",
+  "desc": "Beylikdüzü'nde diş kliniği ya da diş polikliniği seçerken bakılması gerekenler: hekim kadrosu, muayene ve planlama, yazılı fiyat, sterilizasyon, ulaşım ve tedavi sonrası takip.",
+  "lead": "Beylikdüzü'nde iyi bir diş kliniği seçmenin kısa yolu; ilk muayenede ne kadar ayrıntılı bakıldığına, tedavi planının ve maliyetin yazılı verilip verilmediğine ve tedaviden sonra takibin nasıl yapıldığına bakmaktır.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Diş kliniği seçimi neden bu kadar önemli?",
+    "html": "<p>Diş tedavilerinin önemli bir kısmı geri dönüşü zor işlemlerdir: dişten aşındırılan doku geri gelmez, çekilen diş yerine konamaz, kemiğe yerleştirilen implantın konumu sonradan kolayca değiştirilemez. Bu nedenle kliniği seçerken yalnızca fiyat ya da yakınlık değil, planlamanın kalitesi de belirleyici olmalıdır.</p>\n<p>Beylikdüzü ve çevresinde (Esenyurt, Büyükçekmece, Avcılar) çok sayıda diş kliniği, diş polikliniği ve muayenehane bulunur. Seçenek çok olduğunda karşılaştırmayı kolaylaştıracak somut ölçütlere ihtiyaç duyulur. Aşağıdaki başlıklar bu ölçütleri özetliyor.</p>"
+   },
+   {
+    "id": "muayene",
+    "h": "İlk muayenede neye bakmalısınız?",
+    "html": "<p>İyi bir ilk muayene, şikâyet ettiğiniz dişle sınırlı kalmaz. Ağzın tamamı, diş etleri, ısırma ilişkisi ve mevcut dolgu ya da kaplamalar değerlendirilir; gerekiyorsa panoramik röntgen ya da üç boyutlu tomografi istenir.</p>\n<ul>\n<li><strong>Bulguların anlatılması:</strong> Röntgende ne görüldüğü size gösterilmeli ve anlaşılır bir dille açıklanmalıdır.</li>\n<li><strong>Seçeneklerin sunulması:</strong> Çoğu sorunun birden fazla çözümü vardır (ör. implant, köprü ya da hareketli protez). Her birinin artısı ve eksisi konuşulmalıdır.</li>\n<li><strong>Acele ettirilmemek:</strong> Muayene sonrası düşünmek için zaman tanınmalı; aynı gün büyük bir tedaviye başlamanız için baskı yapılmamalıdır.</li>\n<li><strong>Soru sorabilmek:</strong> Hekimin sorularınıza ayırdığı zaman, tedavi sürecindeki iletişimin de habercisidir.</li>\n</ul>"
+   },
+   {
+    "id": "plan",
+    "h": "Yazılı tedavi planı ve fiyat neden önemli?",
+    "html": "<p>Sözlü verilen fiyatlar, tedavi ilerledikçe eklenen kalemler yüzünden sıkça değişir. Yazılı bir plan; hangi dişe ne yapılacağını, kaç seans süreceğini ve her kalemin maliyetini baştan görünür kılar.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Planda bulunması gerekenler</th><th scope=\"col\">Neden önemli?</th></tr></thead><tbody><tr><td>Diş diş yapılacak işlemler</td><td>Neye ödeme yaptığınızı bilirsiniz</td></tr><tr><td>Kullanılacak malzeme ve marka</td><td>Ör. implant markası, zirkonyum ya da e.max seçimi</td></tr><tr><td>Olası ek işlemler</td><td>Kemik tozu, sinüs lifting, kanal tedavisi gibi kalemler sürpriz olmaz</td></tr><tr><td>Seans sayısı ve tahmini süre</td><td>İş ve yaşam planınızı yapabilirsiniz</td></tr><tr><td>Kontrol ve takip randevuları</td><td>Tedavi sonrası bakımın kapsamı netleşir</td></tr></tbody></table></div>\n<p>Dent32'de muayene sonrası bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşıyoruz. Planın hangi etkenlere göre şekillendiğini <a class=\"text-link\" href=\"/blog/implant-fiyatlari-neye-gore-degisir/\">implant fiyatlarını belirleyen etkenler</a> yazımızda ayrıntılı anlattık.</p>"
+   },
+   {
+    "id": "kadro",
+    "h": "Hekim kadrosu ve uzmanlık alanları",
+    "html": "<p>Bir klinikte hangi hekimin hangi tedaviyi yapacağını önceden öğrenmek hakkınızdır. Ortodonti, implant cerrahisi, estetik ve çocuk diş hekimliği farklı deneyimler gerektirir. Birden fazla alanın aynı çatı altında birlikte planlandığı kliniklerde, örneğin önce ortodonti sonra kaplama gerektiren vakalar daha düzenli yürütülür.</p>\n<p>Kadromuzu ve çalışma biçimimizi <a class=\"text-link\" href=\"/hakkimizda/#kadro\">hakkımızda sayfasında</a> tanıtıyoruz. Önceki vakaları görmek için <a class=\"text-link\" href=\"/galeri/\">öncesi ve sonrası galerimize</a> de bakabilirsiniz.</p>"
+   },
+   {
+    "id": "hijyen",
+    "h": "Sterilizasyon ve hijyen nasıl anlaşılır?",
+    "html": "<ul>\n<li>Aletlerin her hasta için steril paketlerden açılması</li>\n<li>Tek kullanımlık malzemelerin (iğne, eldiven, aspiratör ucu) her hastada değiştirilmesi</li>\n<li>Tedavi ünitesinin hastalar arasında yüzey dezenfeksiyonundan geçirilmesi</li>\n<li>Klinikte ayrı bir sterilizasyon alanı bulunması</li>\n</ul>\n<p>Bu konuları sormaktan çekinmeyin; özenli bir klinik sorularınızı rahatlıkla yanıtlar.</p>"
+   },
+   {
+    "id": "ulasim",
+    "h": "Ulaşım, çalışma saatleri ve acil durumlar",
+    "html": "<p>İmplant ya da ortodonti gibi tedaviler aylara yayılan birden fazla randevu gerektirir. Bu yüzden klinike kolay ulaşabilmek ve randevuları iş saatleriniz dışında da alabilmek, tedaviye düzenli devam etmeyi kolaylaştırır.</p>\n<p>Dent32, Beylikdüzü Barış Mahallesi'nde E-5 yanyolu üzerinde, Ginza Lavinya'dadır ve haftanın yedi günü açıktır. Hafta sonu ya da akşam başlayan diş ağrılarında ne yapılacağını <a class=\"text-link\" href=\"/blog/acil-dis-agrisi-beylikduzu/\">acil diş ağrısı rehberimizde</a> anlattık.</p>\n<aside class=\"note\"><strong>Kısaca</strong><p>Ayrıntılı muayene, yazılı plan ve maliyet, hekimin kim olacağının netliği, görünür hijyen kuralları ve tedavi sonrası takip; Beylikdüzü'nde ya da İstanbul'un herhangi bir yerinde diş kliniği seçerken bakmanız gereken beş temel ölçüttür.</p></aside>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş kliniği ile diş polikliniği arasında fark var mı?",
+    "a": "Resmi açıdan ağız ve diş sağlığı polikliniği, birden fazla diş hekiminin birlikte çalıştığı ve belirli fiziki şartları karşılayan bir sağlık kuruluşudur; muayenehane ise genellikle tek hekimin çalıştığı yerdir. Günlük dilde \"diş kliniği\" ifadesi ikisi için de kullanılır. Hasta açısından asıl önemli olan hekimin deneyimi, planlama ve hijyen koşullarıdır."
+   },
+   {
+    "q": "İlk muayenede tedaviye başlamak zorunda mıyım?",
+    "a": "Hayır. İlk muayenenin amacı durumu anlamak ve seçenekleri konuşmaktır. Planı eve götürüp düşünmeniz, gerekirse ikinci bir görüş almanız son derece normaldir."
+   },
+   {
+    "q": "Fiyatı telefonda ya da WhatsApp'tan öğrenebilir miyim?",
+    "a": "Fotoğraf ve röntgen gönderirseniz ön bilgi verilebilir; ancak kesin plan ve maliyet ağız içi muayene ve gerekli görüntülemelerden sonra netleşir."
+   },
+   {
+    "q": "Beylikdüzü dışından gelen hastalara hizmet veriyor musunuz?",
+    "a": "Evet. Esenyurt, Büyükçekmece, Avcılar ve İstanbul'un diğer ilçelerinden, ayrıca yurt dışından gelen hastalarımız var. Randevuları ziyaret sayısını azaltacak şekilde planlayabiliyoruz."
+   }
+  ]
+ },
+ {
+  "key": "beyimplant",
+  "date": "2026-10-18",
+  "cat": "İmplant",
+  "cover": "blog-beylikduzu-implant",
+  "slug": "beylikduzu-implant-tedavisi",
+  "title": "Beylikdüzü'nde implant tedavisi: muayeneden kalıcı dişe adım adım",
+  "desc": "Beylikdüzü'nde implant tedavisi nasıl ilerler? Muayene ve tomografi, implant ameliyatı, iyileşme süresi, kalıcı diş ve kontroller adım adım; kaç randevu gerektiği ve nelere dikkat edilmeli.",
+  "lead": "Diş implantı tedavisi beş temel adımda ilerler: muayene ve tomografi, planlama, implantın yerleştirilmesi, kemikle kaynaşma için bekleme ve kalıcı dişin takılması; tek diş için süreç çoğu hastada 3 ila 6 ay sürer.",
+  "sections": [
+   {
+    "id": "adim1",
+    "h": "1. Muayene ve üç boyutlu tomografi",
+    "html": "<p>İmplant planlamasının temeli kemiğin ölçülmesidir. Panoramik röntgen genel bir fikir verir; ancak kemiğin genişliği, yüksekliği, sinir kanalına ve sinüse olan mesafe ancak üç boyutlu tomografiyle (KIBT) güvenilir şekilde ölçülür.</p>\n<p>Bu aşamada diş eti sağlığı, komşu dişler, ısırma ilişkisi ve genel sağlık durumunuz (kullandığınız ilaçlar, diyabet, sigara) da değerlendirilir. Çürük ya da diş eti iltihabı varsa implanttan önce tedavi edilir.</p>"
+   },
+   {
+    "id": "adim2",
+    "h": "2. Planlama: kaç implant, hangi marka, ne tür diş?",
+    "html": "<p>Tomografi verileri üzerinden implantın çapı, boyu ve açısı planlanır. Tek diş eksikliğinde genellikle tek implant ve üzerine kron yapılır; birden fazla eksik dişte implant destekli köprüler, tüm çenede ise All-on-Four gibi çözümler değerlendirilir.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">Sık kullanılan çözüm</th></tr></thead><tbody><tr><td>Tek eksik diş</td><td>Tek implant + zirkonyum ya da porselen kron</td></tr><tr><td>Yan yana 2–3 eksik diş</td><td>2 implant üzerinde köprü</td></tr><tr><td>Tüm çenede diş yok</td><td>4–6 implant üzerinde sabit protez ya da implant üstü hareketli protez</td></tr><tr><td>Kemik yetersiz</td><td>Kemik tozu (greft) ya da sinüs lifting sonrası implant</td></tr></tbody></table></div>\n<p>Tam çene seçenekleri için <a class=\"text-link\" href=\"/blog/all-on-four/\">All-on-Four rehberimize</a> ve <a class=\"text-link\" href=\"/blog/implant-ustu-protez/\">implant üstü protez yazımıza</a> bakabilirsiniz.</p>"
+   },
+   {
+    "id": "adim3",
+    "h": "3. İmplantın yerleştirilmesi",
+    "html": "<p>İşlem lokal anestezi altında yapılır. Diş eti açılır, kemikte implant yuvası hazırlanır ve implant yerleştirilir; ardından bölge dikilir ya da üzerine iyileşme başlığı takılır. Tek implant için işlem çoğunlukla 30–60 dakika sürer.</p>\n<p>Çoğu hasta işlem sırasında ağrı değil baskı hisseder. İlk birkaç gün hafif şişlik ve hassasiyet normaldir. Ameliyat sonrası yapılması gerekenleri <a class=\"text-link\" href=\"/blog/implant-sonrasi-bakim/\">implant sonrası bakım rehberinde</a> anlattık.</p>"
+   },
+   {
+    "id": "adim4",
+    "h": "4. Kemikle kaynaşma (osseointegrasyon)",
+    "html": "<p>İmplantın kemikle kaynaşması alt çenede yaklaşık 2–3 ay, üst çenede 3–6 ay sürer. Bu süre boyunca estetik bölgede geçici diş kullanılabilir; yani dişsiz kalmazsınız.</p>\n<p>Bazı uygun vakalarda çekimle aynı seansta implant (immediat implant) ve aynı gün geçici diş mümkündür. Hangi durumların buna uygun olduğunu <a class=\"text-link\" href=\"/blog/implant-tedavisi-kac-ay-surer/\">implant tedavisi kaç ay sürer</a> yazımızda ele aldık.</p>"
+   },
+   {
+    "id": "adim5",
+    "h": "5. Ölçü, kalıcı diş ve kontroller",
+    "html": "<p>Kaynaşma tamamlandıktan sonra ölçü alınır (dijital tarama ya da klasik ölçü) ve kalıcı diş hazırlanır. Prova sonrası kron ya da köprü implanta sabitlenir. Ardından ilk yıl içinde birkaç kontrol, sonrasında altı ayda bir muayene ve profesyonel temizlik önerilir.</p>\n<aside class=\"note\"><strong>Kaç randevu gerekir?</strong><p>Tek diş implantı için çoğu hastada 4–6 randevu yeterlidir: muayene ve tomografi, implant ameliyatı, dikiş kontrolü, ölçü, prova ve kalıcı dişin takılması.</p></aside>"
+   },
+   {
+    "id": "dikkat",
+    "h": "Implant yaptırmadan önce sormanız gereken sorular",
+    "html": "<ul>\n<li>Hangi implant markası kullanılacak ve bu markanın yedek parçaları yıllar sonra da bulunabilir mi?</li>\n<li>Kemik yeterli mi; greft ya da sinüs lifting gerekecek mi?</li>\n<li>İmplantın üzerine hangi malzemeden diş yapılacak?</li>\n<li>Kaynaşma süresince geçici diş kullanacak mıyım?</li>\n<li>Tedavi sonrası kontrol programı nasıl olacak?</li>\n</ul>\n<p>Dent32'de implant tedavisini muayene ve tomografiyle planlıyor, planı yazılı olarak paylaşıyoruz. Ayrıntılar için <a class=\"text-link\" href=\"/tedaviler/#implant\">implant tedavisi sayfamıza</a> bakabilir ya da <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Beylikdüzü'nde implant tedavisi kaç ayda biter?",
+    "a": "Kemiği yeterli bir hastada tek diş implantı genellikle 3–4 ayda tamamlanır. Kemik tozu ya da sinüs lifting gerekirse toplam süre 6–9 aya uzayabilir."
+   },
+   {
+    "q": "İmplant ameliyatında uyutuluyor muyum?",
+    "a": "Çoğu implant lokal anestezi altında yapılır ve uyutma gerekmez. Çok sayıda implant yapılacaksa ya da diş hekimi kaygısı yüksekse sedasyon seçenekleri ayrıca konuşulabilir."
+   },
+   {
+    "q": "İmplanttan sonra işe dönebilir miyim?",
+    "a": "Tek implant sonrası çoğu hasta ertesi gün günlük hayatına döner. Kapsamlı cerrahilerde birkaç gün dinlenme önerilebilir."
+   },
+   {
+    "q": "Kemik erimesi olan birine implant yapılır mı?",
+    "a": "Çoğu durumda evet. Kemik hacmi yetersizse kemik tozu (greft) ya da sinüs lifting ile alan hazırlanır; bazı vakalarda kısa ya da açılı implantlarla ek işleme gerek kalmaz."
+   }
+  ]
+ },
+ {
+  "key": "implantfiyat",
+  "date": "2026-10-17",
+  "cat": "İmplant",
+  "cover": "blog-implant-fiyat",
+  "slug": "implant-fiyatlari-neye-gore-degisir",
+  "title": "Diş implantı fiyatları neye göre değişir?",
+  "desc": "İmplant fiyatlarını belirleyen etkenler: implant markası, üst yapı (zirkonyum, porselen), kemik tozu ve sinüs lifting, implant sayısı ve hekim deneyimi. Fiyat sorarken nelere dikkat etmeli?",
+  "lead": "Diş implantının fiyatı tek bir rakam değildir; implant markası, üzerine yapılacak dişin malzemesi, kemik tozu ya da sinüs lifting gibi ek işlemler ve toplam implant sayısı birlikte maliyeti belirler.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Neden herkese aynı fiyat söylenemez?",
+    "html": "<p>\"İmplant kaç para?\" sorusu, \"araba kaç para?\" sorusuna benzer: hangi model, hangi donanım ve hangi ek hizmetlerle birlikte olduğu bilinmeden tek bir yanıt vermek yanıltıcı olur. İki hastanın ikisi de \"bir implant\" yaptırsa bile; biri yalnızca implant ve kron, diğeri diş çekimi, kemik tozu ve geçici diş isteyebilir.</p>\n<p>Bu yüzden telefonda ya da internette verilen tek kalem fiyatlar çoğu zaman yalnızca vidayı kapsar; üst yapı ve ek işlemler sonradan eklenir. Karşılaştırma yaparken toplam tedavinin yazılı planına bakmak gerekir.</p>"
+   },
+   {
+    "id": "etkenler",
+    "h": "Fiyatı belirleyen başlıca etkenler",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Etken</th><th scope=\"col\">Maliyete etkisi</th></tr></thead><tbody><tr><td>İmplant markası ve sistemi</td><td>Uzun dönem klinik verisi güçlü, parça bulunabilirliği yüksek sistemler genellikle daha maliyetlidir</td></tr><tr><td>Üst yapı (kron)</td><td>Zirkonyum, porselen ya da e.max; ayrıca abutmentin (bağlantı parçası) türü</td></tr><tr><td>Ek cerrahi işlemler</td><td>Diş çekimi, kemik tozu (greft), membran, sinüs lifting</td></tr><tr><td>İmplant sayısı</td><td>Tek diş, köprü ya da tam çene planı</td></tr><tr><td>Geçici diş</td><td>Kaynaşma süresince estetik bölgede geçici diş kullanımı</td></tr><tr><td>Görüntüleme ve planlama</td><td>Tomografi, gerekiyorsa dijital planlama ve cerrahi rehber</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "marka",
+    "h": "İmplant markası gerçekten önemli mi?",
+    "html": "<p>Evet, ama yalnızca \"pahalı olan iyidir\" anlamında değil. Önemli olan; markanın bilimsel çalışmalarla desteklenmiş olması, yıllar sonra kron değişimi gerektiğinde yedek parçasının bulunabilmesi ve hekimin o sistemle deneyimli olmasıdır.</p>\n<p>Bilinmeyen ya da piyasadan çekilmiş bir sistemle yapılan implantlarda, ileride üst yapı yenilenmek istendiğinde uyumlu parça bulmak zorlaşabilir. Bu nedenle tedavi planında implant markasının yazılması önerilir.</p>"
+   },
+   {
+    "id": "ek-islem",
+    "h": "Kemik tozu ve sinüs lifting fiyatı nasıl etkiler?",
+    "html": "<p>Diş uzun süre önce çekildiyse kemik zamanla erir. Yeterli kemik yoksa implantın yerleştirilebilmesi için kemik tozu ya da üst çenede sinüs lifting gerekebilir. Bu işlemler hem maliyeti hem de toplam süreyi artırır. Ayrıntıları <a class=\"text-link\" href=\"/blog/kemik-tozu-sinus-lifting/\">kemik tozu ve sinüs lifting yazımızda</a> bulabilirsiniz.</p>\n<aside class=\"note\"><strong>İpucu</strong><p>Çekilmesi gereken bir dişiniz varsa, çekim sırasında implant planını da konuşun. Bazı durumlarda çekimle aynı seansta implant yapılabilir ya da kemik kaybını azaltacak önlemler alınabilir.</p></aside>"
+   },
+   {
+    "id": "ucuz",
+    "h": "Çok düşük fiyatlarda nelere dikkat etmeli?",
+    "html": "<ul>\n<li>Fiyatın yalnızca vidayı mı, yoksa abutment ve kronu da kapsadığını sorun.</li>\n<li>Kullanılacak implant markasını ve üst yapı malzemesini yazılı olarak isteyin.</li>\n<li>Tomografi çekilmeden kesin plan yapılıp yapılmadığına dikkat edin.</li>\n<li>Kontrol randevularının ve olası komplikasyonların nasıl yönetileceğini sorun.</li>\n</ul>\n<p>İmplant, yıllarca ağzınızda kalacak bir tedavidir. Başlangıçtaki fiyat farkı, ileride yenileme ya da düzeltme gerektiğinde çok daha büyük bir maliyete dönüşebilir.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Dent32'de fiyat nasıl belirleniyor?",
+    "html": "<p>Muayene ve tomografiden sonra hangi dişe ne yapılacağını, kullanılacak implant markasını ve üst yapıyı, varsa ek işlemleri kalem kalem yazılı olarak paylaşıyoruz. Röntgen ve fotoğraflarınızı WhatsApp'tan gönderirseniz ön bilgi de verebiliriz. Tedavinin aşamaları için <a class=\"text-link\" href=\"/blog/beylikduzu-implant-tedavisi/\">adım adım implant rehberimize</a> göz atabilirsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "İmplant fiyatına kron dahil mi?",
+    "a": "Klinikten kliniğe değişir. Bazı fiyatlar yalnızca implant vidasını kapsar; abutment ve kron ayrıca ücretlendirilir. Teklif alırken bu kalemlerin ayrı ayrı yazılmasını isteyin."
+   },
+   {
+    "q": "İmplant SGK kapsamında mı?",
+    "a": "Genel olarak implant tedavisi SGK kapsamında değildir; bazı özel durumlar için mevzuattaki güncel koşullara bakmak gerekir. Özel sağlık sigortanız varsa poliçenizin diş teminatını kontrol edin."
+   },
+   {
+    "q": "Taksitle ödeme mümkün mü?",
+    "a": "Ödeme seçeneklerini muayene sonrası plan üzerinden konuşuyoruz. Tedavi aylara yayıldığı için ödemeler de genellikle aşamalara göre planlanabilir."
+   },
+   {
+    "q": "Tek implant mı, köprü mü daha ekonomik?",
+    "a": "Kısa vadede köprü daha düşük maliyetli görünebilir; ancak komşu dişlerin küçültülmesini gerektirir ve uzun vadede yenileme ihtiyacı doğabilir. Karşılaştırma için implant mı köprü mü yazımıza bakabilirsiniz."
+   }
+  ]
+ },
+ {
+  "key": "kaplama",
+  "date": "2026-10-17",
+  "cat": "Kaplama",
+  "cover": "blog-kaplama-cesitleri",
+  "slug": "dis-kaplama-cesitleri",
+  "title": "Diş kaplama çeşitleri: zirkonyum, e.max, porselen ve lamine karşılaştırması",
+  "desc": "Diş kaplama nedir, hangi durumlarda yapılır? Zirkonyum, e.max (cam seramik), metal destekli porselen ve lamine veneer arasındaki farklar, kullanım ömrü ve seçim kriterleri.",
+  "lead": "Diş kaplama (kron), aşınmış, kırık, renk değiştirmiş ya da kanal tedavisi görmüş bir dişi tamamen saran ve koruyan restorasyondur. En sık kullanılan seçenekler zirkonyum, e.max cam seramik ve metal destekli porselendir; yalnızca ön yüzün kaplandığı lamine veneer ise daha az diş dokusu kaldırır.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "Diş kaplama ne zaman gerekir?",
+    "html": "<ul>\n<li>Büyük dolgular nedeniyle zayıflamış dişler</li>\n<li>Kırılmış ya da çatlamış dişler</li>\n<li>Kanal tedavisi sonrası, özellikle arka dişler</li>\n<li>Beyazlatmayla açılmayan ileri renk değişiklikleri</li>\n<li>Köprü ayağı olarak kullanılacak dişler ve implant üstü dişler</li>\n<li>Şekil ve boyut bozukluklarının kapsamlı düzeltilmesi</li>\n</ul>"
+   },
+   {
+    "id": "karsilastirma",
+    "h": "Kaplama çeşitleri karşılaştırması",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Tür</th><th scope=\"col\">Estetik</th><th scope=\"col\">Dayanıklılık</th><th scope=\"col\">Sık kullanıldığı yer</th></tr></thead><tbody><tr><td>Zirkonyum</td><td>Doğala yakın, metal içermez</td><td>Çok yüksek</td><td>Ön ve arka dişler, köprüler, implant üstü</td></tr><tr><td>E.max (lityum disilikat)</td><td>Işık geçirgenliği çok yüksek</td><td>Yüksek</td><td>Ön dişler, tek kronlar, lamine</td></tr><tr><td>Metal destekli porselen</td><td>İyi, ancak daha opak</td><td>Yüksek, uzun klinik geçmişi</td><td>Arka dişler, uzun köprüler</td></tr><tr><td>Lamine veneer</td><td>Çok yüksek</td><td>Doğru vakada yüksek</td><td>Ön dişlerin ön yüzü</td></tr></tbody></table></div>\n<p>Zirkonyum ile porselen arasındaki farkları <a class=\"text-link\" href=\"/blog/zirkonyum-mu-porselen-mi/\">zirkonyum mu porselen mi</a> yazımızda, e.max'i <a class=\"text-link\" href=\"/blog/emax-kaplama-nedir/\">e.max kaplama nedir</a> yazımızda, lamineyi ise <a class=\"text-link\" href=\"/blog/lamine-veneer-nedir/\">lamine veneer rehberimizde</a> ayrıntılı anlattık.</p>"
+   },
+   {
+    "id": "secim",
+    "h": "Hangi kaplama size uygun?",
+    "html": "<p>Seçim; dişin ne kadar sağlam kaldığına, ağızdaki konumuna, ısırma kuvvetine, diş sıkma alışkanlığına, diş eti seviyesine ve estetik beklentiye göre yapılır. Ön dişlerde ışık geçirgenliği öne çıkarken, arka dişlerde kırılma direnci daha önemlidir.</p>\n<p>Sağlam bir dişte yalnızca renk ve şekil değiştirilmek isteniyorsa, tam kaplama yerine lamine ya da bonding gibi daha koruyucu seçenekler değerlendirilmelidir. Gereksiz yere tam kaplama yapılması, sağlam diş dokusunun kaybına yol açar.</p>\n<aside class=\"note\"><strong>Önemli</strong><p>Kaplama \"daha beyaz dişler\" için ilk seçenek olmamalıdır. Yalnızca renk sorunu varsa önce diş beyazlatma değerlendirilir.</p></aside>"
+   },
+   {
+    "id": "surec",
+    "h": "Kaplama süreci nasıl ilerler?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Aşama</th><th scope=\"col\">Ne yapılır?</th></tr></thead><tbody><tr><td>Muayene ve planlama</td><td>Röntgen, gerekirse gülüş tasarımı ve renk seçimi</td></tr><tr><td>Diş hazırlığı</td><td>Lokal anestezi altında dişin kaplama kalınlığı kadar küçültülmesi</td></tr><tr><td>Ölçü</td><td>Dijital tarama ya da klasik ölçü; geçici dişlerin takılması</td></tr><tr><td>Prova</td><td>Uyum, renk ve şeklin kontrolü</td></tr><tr><td>Yapıştırma</td><td>Kalıcı kaplamanın simante edilmesi ve ısırma kontrolü</td></tr></tbody></table></div>\n<p>Çoğu vakada süreç 1–2 hafta içinde tamamlanır. Ziyaret sayısı, kaplanacak diş sayısına ve ek tedavi gerekip gerekmediğine göre değişir.</p>"
+   },
+   {
+    "id": "omur",
+    "h": "Diş kaplama kaç yıl dayanır?",
+    "html": "<p>İyi planlanmış ve bakımı yapılan kaplamalar çoğu hastada on yıl ve üzeri kullanılır. Kaplamanın ömrünü en çok kısaltan etkenler; kenarlarda oluşan çürük, diş eti hastalığı ve diş sıkmadır. Kaplama sonrası hassasiyet ve bakım için <a class=\"text-link\" href=\"/blog/dis-kaplama-sonrasi-hassasiyet/\">kaplama sonrası rehberimize</a> bakabilirsiniz. Beylikdüzü'ndeki kliniğimizde kaplama seçeneklerini <a class=\"text-link\" href=\"/tedaviler/#kaplama\">tedaviler sayfamızda</a> tanıtıyoruz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Kaplama için diş ne kadar küçültülür?",
+    "a": "Malzemeye göre değişir; genellikle 1–2 mm civarında. Lamine veneerde ise yalnızca ön yüzden 0,3–0,7 mm kadar aşındırma yapılır, bazı vakalarda hiç yapılmaz."
+   },
+   {
+    "q": "Kaplama yapılan diş çürür mü?",
+    "a": "Kaplamanın kendisi çürümez; ancak altındaki diş, özellikle diş eti kenarında çürüyebilir. Diş ipi ve düzenli kontroller bu yüzden önemlidir."
+   },
+   {
+    "q": "Kaplama dişler beyazlatılabilir mi?",
+    "a": "Hayır. Kaplama, dolgu ve lamine gibi restorasyonların rengi beyazlatmayla değişmez. Beyazlatma düşünüyorsanız kaplamadan önce yaptırmanız önerilir."
+   },
+   {
+    "q": "Kanal tedavili dişe kaplama şart mı?",
+    "a": "Özellikle arka dişlerde kanal tedavisi sonrası diş kırılmaya daha yatkın hale geldiği için kaplama sıklıkla önerilir. Ön dişlerde ve az madde kaybı olan dişlerde dolgu da yeterli olabilir."
+   }
+  ]
+ },
+ {
+  "key": "kanal",
+  "date": "2026-10-16",
+  "cat": "Tedavi",
+  "cover": "blog-kanal",
+  "slug": "kanal-tedavisi",
+  "title": "Kanal tedavisi ne zaman gerekir, kaç seans sürer, ağrılı mı?",
+  "desc": "Kanal tedavisi nedir, hangi belirtilerde gerekir, kaç seansta biter, ağrılı mı? Kanal tedavisi sonrası ağrı, kaplama gerekip gerekmediği ve dişi çekmek yerine korumanın önemi.",
+  "lead": "Kanal tedavisi, çürük ya da darbe nedeniyle iltihaplanan diş sinirinin (pulpa) temizlenip kanalların dezenfekte edilerek doldurulmasıdır. Lokal anestezi altında yapılır, çoğu zaman 1–2 seansta tamamlanır ve amacı dişi çekmeden ağızda tutmaktır.",
+  "sections": [
+   {
+    "id": "belirti",
+    "h": "Kanal tedavisi gerektiren belirtiler",
+    "html": "<ul>\n<li>Sıcak ya da soğuktan sonra uzun süre geçmeyen ağrı</li>\n<li>Kendiliğinden başlayan, gece uyandıran zonklayıcı ağrı</li>\n<li>Isırınca ya da dişe dokununca hassasiyet</li>\n<li>Diş etinde şişlik ya da sivilce benzeri akıntılı kabarıklık</li>\n<li>Dişte renk koyulaşması (özellikle darbe sonrası)</li>\n</ul>\n<p>Bazen sinir ölümü hiçbir belirti vermez ve rutin röntgende fark edilir. Bu yüzden düzenli kontroller önemlidir.</p>"
+   },
+   {
+    "id": "asamalar",
+    "h": "Kanal tedavisi nasıl yapılır?",
+    "html": "<ol>\n<li>Röntgen ile kök sayısı, uzunluğu ve iltihabın yayılımı değerlendirilir.</li>\n<li>Lokal anestezi uygulanır, diş izole edilir.</li>\n<li>Çürük temizlenir ve sinir dokusuna ulaşılır.</li>\n<li>Kanallar özel aletlerle temizlenir, şekillendirilir ve dezenfektan solüsyonlarla yıkanır.</li>\n<li>Kanallar sızdırmaz bir dolgu maddesiyle doldurulur.</li>\n<li>Diş, kalıcı dolgu ya da kaplama ile restore edilir.</li>\n</ol>"
+   },
+   {
+    "id": "seans",
+    "h": "Kanal tedavisi kaç seans sürer?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">Tipik seans sayısı</th></tr></thead><tbody><tr><td>Canlı ama iltihaplı sinir</td><td>Çoğunlukla tek seans</td></tr><tr><td>Ölmüş sinir, kökte iltihap (apse)</td><td>Genellikle 2 seans; arada kanala ilaç konur</td></tr><tr><td>Daha önce kanal tedavisi yapılmış dişin yenilenmesi</td><td>2 ya da daha fazla seans</td></tr></tbody></table></div>\n<p>Tek seans genellikle 45–90 dakika sürer. Ön dişlerde kanal sayısı az olduğu için işlem daha kısa, azı dişlerinde daha uzundur.</p>"
+   },
+   {
+    "id": "agri",
+    "h": "Kanal tedavisi ağrılı mı?",
+    "html": "<p>Kanal tedavisi lokal anestezi altında yapılır ve çoğu hasta işlem sırasında belirgin ağrı hissetmez. Hatta tedavi, iltihabın verdiği ağrıyı ortadan kaldırır. İşlemden sonraki birkaç gün ısırırken hafif hassasiyet olabilir; bu durum genellikle basit ağrı kesicilerle geçer.</p>\n<aside class=\"note\"><strong>Ne zaman aramalısınız?</strong><p>Şişlik artıyorsa, ağrı birkaç gün içinde azalmak yerine artıyorsa ya da ateş eşlik ediyorsa kliniğinizle iletişime geçin.</p></aside>"
+   },
+   {
+    "id": "kaplama",
+    "h": "Kanal tedavisinden sonra kaplama gerekir mi?",
+    "html": "<p>Kanal tedavisi gören dişler, özellikle arka bölgede, madde kaybı nedeniyle kırılmaya daha yatkındır. Bu yüzden azı dişlerinde kanal tedavisi sonrası kaplama sıklıkla önerilir. Ön dişlerde ya da madde kaybı az olan dişlerde dolgu yeterli olabilir. Seçenekler için <a class=\"text-link\" href=\"/blog/dis-kaplama-cesitleri/\">diş kaplama çeşitleri</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "cekim",
+    "h": "Çekmek daha kolay değil mi?",
+    "html": "<p>Kısa vadede çekim daha hızlı görünebilir; ancak çekilen dişin yerine implant ya da köprü yapılması gerekir ve bu hem daha uzun hem daha maliyetli bir süreçtir. Doğal dişin korunması mümkünse genellikle ilk tercih budur. Diş çekildiyse seçenekler için <a class=\"text-link\" href=\"/blog/implant-mi-kopru-mu/\">implant mı köprü mü</a> yazımızı okuyabilirsiniz. Kanal tedavisi hakkında daha fazla bilgi için <a class=\"text-link\" href=\"/tedaviler/#kanal\">tedaviler sayfamıza</a> göz atın.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Kanal tedavisi tek seansta biter mi?",
+    "a": "Sinir canlıysa ve kökte iltihap yoksa çoğu zaman tek seansta biter. Apse varsa genellikle iki seansta tamamlanır."
+   },
+   {
+    "q": "Kanal tedavisi sonrası ağrı ne kadar sürer?",
+    "a": "Hafif hassasiyet genellikle 2–5 gün içinde azalarak geçer. Artan ağrı ya da şişlik kontrol gerektirir."
+   },
+   {
+    "q": "Kanal tedavili diş ne kadar dayanır?",
+    "a": "İyi yapılmış ve uygun şekilde restore edilmiş kanal tedavili dişler uzun yıllar, çoğu zaman ömür boyu kullanılabilir."
+   },
+   {
+    "q": "Hamilelikte kanal tedavisi yapılır mı?",
+    "a": "Acil durumlarda yapılabilir; en uygun dönem genellikle ikinci üç aylık dönemdir. Röntgen ve ilaç kullanımı hekim tarafından gebeliğe göre planlanır."
+   }
+  ]
+ },
+ {
+  "key": "kopru",
+  "date": "2026-10-15",
+  "cat": "İmplant",
+  "cover": "blog-implant-kopru",
+  "slug": "implant-mi-kopru-mu",
+  "title": "İmplant mı köprü mü? Eksik diş için hangisi daha doğru?",
+  "desc": "Eksik diş için implant mı köprü mü? Komşu dişlere etkisi, kemik kaybı, süre, temizlik, kullanım ömrü ve maliyet açısından iki tedavinin karşılaştırması.",
+  "lead": "Eksik bir dişi tamamlamanın iki sabit yolu vardır: çene kemiğine yerleştirilen implant ya da komşu dişlerden destek alan köprü. İmplant komşu dişlere dokunmaz ve kemiği korur; köprü ise daha kısa sürede tamamlanır ama sağlam dişlerin küçültülmesini gerektirebilir.",
+  "sections": [
+   {
+    "id": "karsilastirma",
+    "h": "İmplant ve köprü arasındaki temel farklar",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Özellik</th><th scope=\"col\">İmplant</th><th scope=\"col\">Köprü</th></tr></thead><tbody><tr><td>Komşu dişler</td><td>Dokunulmaz</td><td>Destek alınan dişler küçültülür</td></tr><tr><td>Kemik</td><td>Çiğneme yükünü kemiğe iletir, erimeyi yavaşlatır</td><td>Eksik dişin altındaki kemik zamanla erimeye devam eder</td></tr><tr><td>Süre</td><td>Genellikle 3–6 ay</td><td>Genellikle 1–2 hafta</td></tr><tr><td>Cerrahi</td><td>Küçük bir cerrahi işlem gerekir</td><td>Cerrahi gerekmez</td></tr><tr><td>Temizlik</td><td>Doğal diş gibi fırça ve diş ipi</td><td>Köprü altı için özel ip ya da ara yüz fırçası gerekir</td></tr><tr><td>Başlangıç maliyeti</td><td>Genellikle daha yüksek</td><td>Genellikle daha düşük</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "implant-ne-zaman",
+    "h": "Hangi durumda implant öne çıkar?",
+    "html": "<ul>\n<li>Eksik dişin iki yanındaki dişler sağlam ve dolgusuzsa: Sağlam dişleri köprü için küçültmek istenmez.</li>\n<li>Kemik yeterliyse ya da kemik tozu ile hazırlanabiliyorsa.</li>\n<li>Uzun vadeli, bağımsız bir çözüm isteniyorsa: İmplantta bir sorun çıksa bile komşu dişler etkilenmez.</li>\n<li>Arka arkaya birden fazla diş eksikse ve köprü için yeterli destek dişi yoksa.</li>\n</ul>\n<p>İmplantın aşamaları ve süresi için <a class=\"text-link\" href=\"/blog/implant-tedavisi-kac-ay-surer/\">implant tedavisi kaç ay sürer</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "kopru-ne-zaman",
+    "h": "Hangi durumda köprü mantıklı olabilir?",
+    "html": "<ul>\n<li>Komşu dişler zaten büyük dolgulu ya da kaplama gerektiriyorsa: Bu dişler köprü sayesinde aynı anda korunmuş olur.</li>\n<li>Genel sağlık durumu cerrahi işleme uygun değilse.</li>\n<li>Kemik çok yetersizse ve hasta ek cerrahi istemiyorsa.</li>\n<li>Tedavinin kısa sürede tamamlanması gerekiyorsa.</li>\n</ul>\n<p>Köprüde kullanılan malzemeler için <a class=\"text-link\" href=\"/blog/dis-kaplama-cesitleri/\">diş kaplama çeşitleri</a> yazımız yol gösterici olur.</p>"
+   },
+   {
+    "id": "omur",
+    "h": "Hangisi daha uzun ömürlü?",
+    "html": "<p>Her iki tedavi de iyi planlandığında ve bakımı yapıldığında uzun yıllar kullanılabilir. Köprülerde en sık sorun, destek dişlerde kaplama kenarından başlayan çürük ve diş eti problemleridir; bu nedenle köprü altının temizliği çok önemlidir. İmplantlarda ise en önemli risk, implant çevresi diş eti iltihabıdır (peri-implantitis).</p>\n<p>Uzun vadede yenileme ihtiyacı açısından implantlar genellikle avantajlıdır; çünkü kron yenilense bile implantın kendisi yerinde kalabilir.</p>\n<aside class=\"note\"><strong>Önemli</strong><p>Eksik dişi uzun süre boşta bırakmak, karşı dişin boşluğa doğru uzamasına ve komşu dişlerin boşluğa eğilmesine yol açabilir. Hangi tedaviyi seçerseniz seçin, çok geç kalmamak gerekir.</p></aside>"
+   },
+   {
+    "id": "karar",
+    "h": "Karar nasıl verilir?",
+    "html": "<p>Karar; komşu dişlerin durumu, kemik hacmi, genel sağlık, bütçe ve beklentiler birlikte değerlendirilerek verilir. Muayenede iki seçeneği de artı ve eksileriyle anlatıyor, yazılı olarak karşılaştırıyoruz. <a class=\"text-link\" href=\"/iletisim/\">Randevu için bize ulaşabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Köprü yaptırdıktan sonra implanta geçilebilir mi?",
+    "a": "Evet. Köprü çıkarılıp eksik bölgeye implant yapılabilir; ancak destek dişler daha önce küçültüldüğü için onların da kaplanması gerekir. Kemik durumu ayrıca değerlendirilir."
+   },
+   {
+    "q": "Tek eksik diş için hangisi önerilir?",
+    "a": "İki yandaki dişler sağlamsa genellikle implant önerilir, çünkü sağlam diş dokusu kaldırılmaz. Komşu dişler zaten kaplanması gereken durumdaysa köprü de uygun olabilir."
+   },
+   {
+    "q": "İmplant köprü nedir?",
+    "a": "Birden fazla eksik dişte, her diş için ayrı implant yerine iki ya da daha fazla implant üzerine köprü yapılmasıdır. Doğal dişlere dokunulmaz."
+   },
+   {
+    "q": "Hareketli protez de bir seçenek mi?",
+    "a": "Evet. Bölümlü hareketli protezler daha düşük maliyetlidir ancak konfor ve çiğneme verimi sabit çözümlere göre daha düşüktür."
+   }
+  ]
+ },
+ {
+  "key": "acil",
+  "date": "2026-10-15",
+  "cat": "Rehber",
+  "cover": "blog-acil-dis",
+  "slug": "acil-dis-agrisi-beylikduzu",
+  "title": "Gece ya da hafta sonu diş ağrısı: ne yapmalı, ne zaman acil?",
+  "desc": "Akşam ya da hafta sonu başlayan diş ağrısında evde neler yapılabilir, hangi durumlar acildir? Diş kırılması, düşen kaplama, çene şişliği ve Beylikdüzü'nde hafta sonu açık diş kliniği.",
+  "lead": "Diş ağrısı başladığında ilk adım, ağrının ne kadar şiddetli olduğunu ve şişlik ya da ateş eşlik edip etmediğini değerlendirmektir. Yüze ya da boyna yayılan şişlik, yutma veya nefes almada zorluk ve yüksek ateş acil durumdur; diğer durumlarda ağrı kesici ve soğuk uygulamayla ilk muayeneye kadar rahatlama sağlanabilir.",
+  "sections": [
+   {
+    "id": "acil-mi",
+    "h": "Hangi durumlar acildir?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">Ne yapmalı?</th></tr></thead><tbody><tr><td>Yüze, göz altına ya da boyna yayılan şişlik, ateş</td><td>Aynı gün diş hekimine; yutma ya da nefes almada zorluk varsa hemen hastane acil servisine</td></tr><tr><td>Darbe sonrası yerinden çıkan kalıcı diş</td><td>Dişi kökünden tutmadan süt içinde saklayıp en kısa sürede (ideal olarak 1 saat içinde) diş hekimine</td></tr><tr><td>Durmayan kanama (çekim sonrası)</td><td>Gazlı bezle 30 dakika baskı; durmuyorsa klinik ya da acil</td></tr><tr><td>Gece uyutmayan zonklayıcı ağrı</td><td>Ağrı kesici ve ilk fırsatta muayene</td></tr><tr><td>Kırık diş, düşen dolgu ya da kaplama</td><td>Ağrı yoksa birkaç gün içinde randevu</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "evde",
+    "h": "Muayeneye kadar evde neler yapılabilir?",
+    "html": "<ul>\n<li>Prospektüsüne uygun dozda, daha önce kullandığınız ve size uygun bir ağrı kesici alın.</li>\n<li>Şişlik varsa yanağa dışarıdan soğuk uygulayın; sıcak uygulamayın.</li>\n<li>Dişin arasına sıkışan yiyecek varsa diş ipiyle nazikçe çıkarın.</li>\n<li>Ilık tuzlu suyla nazikçe ağız çalkalayın.</li>\n<li>Ağrıyan tarafla çiğnemeyin, çok sıcak-soğuk ve şekerli yiyeceklerden kaçının.</li>\n</ul>\n<aside class=\"note\"><strong>Yapılmaması gerekenler</strong><p>Ağrı kesici tabletleri dişin ya da diş etinin üzerine koymayın; doku yanığına yol açar. Reçetesiz antibiyotik kullanmayın; enfeksiyonun kaynağı tedavi edilmedikçe sorun geri döner.</p></aside>"
+   },
+   {
+    "id": "nedenler",
+    "h": "Diş ağrısının sık nedenleri",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Belirti</th><th scope=\"col\">Olası neden</th></tr></thead><tbody><tr><td>Soğukla gelen, hemen geçen sızı</td><td>Hassasiyet, açık kök yüzeyi ya da küçük çürük</td></tr><tr><td>Sıcakla artan, uzun süren ağrı</td><td>Sinir iltihabı; kanal tedavisi gerekebilir</td></tr><tr><td>Isırınca ağrı</td><td>Kökte iltihap, çatlak diş ya da yüksek dolgu</td></tr><tr><td>Arka bölgede ağrı ve ağız açmada kısıtlılık</td><td>Yirmi yaş dişi çevresinde iltihap</td></tr><tr><td>Diş etinde şişlik ve akıntı</td><td>Apse</td></tr></tbody></table></div>\n<p>Sinir iltihabı ve apse için çoğu zaman <a class=\"text-link\" href=\"/blog/kanal-tedavisi/\">kanal tedavisi</a>, yirmilik diş kaynaklı ağrılar için ise <a class=\"text-link\" href=\"/blog/yirmilik-dis-cekimi/\">yirmi yaş dişi rehberimiz</a> yol gösterir.</p>"
+   },
+   {
+    "id": "kirik",
+    "h": "Diş kırıldı ya da kaplama düştü: ne yapmalı?",
+    "html": "<p>Kırılan parçayı bulabiliyorsanız temiz bir kapta saklayın; ön dişlerde bazen yeniden yapıştırılabilir. Keskin kenar dili ya da yanağı tahriş ediyorsa üzerine şekersiz sakız ya da ortodontik mum konabilir.</p>\n<p>Düşen kaplamayı kendi başınıza yapıştırıcıyla takmayın. Kaplamayı saklayıp kliniği arayın. Kaplamalarla ilgili diğer durumlar için <a class=\"text-link\" href=\"/blog/dis-kaplama-sonrasi-hassasiyet/\">kaplama sonrası rehberimize</a> bakabilirsiniz.</p>"
+   },
+   {
+    "id": "hafta-sonu",
+    "h": "Beylikdüzü'nde hafta sonu açık diş kliniği",
+    "html": "<p>Dent32, Beylikdüzü E-5 yanyolu üzerindeki kliniğinde haftanın yedi günü hasta kabul eder. Hafta sonu ya da akşam başlayan diş ağrılarında WhatsApp'tan yazarak en yakın uygun saati öğrenebilirsiniz. Ağrınızın fotoğrafını ve belirtilerinizi göndermeniz, önceliklendirmeyi kolaylaştırır. <a class=\"text-link\" href=\"/iletisim/\">İletişim bilgilerimize buradan ulaşabilirsiniz</a>.</p>\n<p>Yüzde hızla büyüyen şişlik, yutma ya da nefes almada güçlük gibi durumlarda vakit kaybetmeden en yakın hastane acil servisine başvurun.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş ağrısı kendiliğinden geçer mi?",
+    "a": "Bazen ağrı geçici olarak azalabilir, ancak bu sorunun çözüldüğü anlamına gelmez. Ölen sinir ağrıyı durdurabilir ama enfeksiyon kökte ilerlemeye devam eder. Ağrı geçse bile muayene gerekir."
+   },
+   {
+    "q": "Diş apsesi için antibiyotik yeterli mi?",
+    "a": "Antibiyotik yayılan enfeksiyonu kontrol etmeye yardımcı olabilir, ancak kaynağı ortadan kaldırmaz. Kalıcı çözüm için kanal tedavisi ya da çekim gerekir."
+   },
+   {
+    "q": "Gece diş ağrısında hangi ağrı kesiciyi almalıyım?",
+    "a": "Daha önce kullandığınız ve size uygun olan bir ağrı kesiciyi prospektüsteki dozda kullanabilirsiniz. Kronik hastalığınız, gebeliğiniz ya da düzenli kullandığınız ilaçlar varsa eczacınıza danışın."
+   },
+   {
+    "q": "Hafta sonu randevu alabilir miyim?",
+    "a": "Evet. Kliniğimiz haftanın yedi günü açıktır; WhatsApp'tan yazarak uygun saati öğrenebilirsiniz."
+   }
+  ]
+ },
+ {
+  "key": "emax",
+  "date": "2026-10-14",
+  "cat": "Kaplama",
+  "cover": "blog-emax",
+  "slug": "emax-kaplama-nedir",
+  "title": "E.max kaplama nedir? Zirkonyumdan farkı ve kimlere uygun?",
+  "desc": "E.max (lityum disilikat cam seramik) kaplama nedir, zirkonyumdan farkı ne? Estetik, dayanıklılık, kullanım alanları, kaç yıl dayanır ve hangi durumlarda tercih edilir.",
+  "lead": "E.max, lityum disilikat adı verilen bir cam seramikten üretilen, ışık geçirgenliği çok yüksek bir kaplama malzemesidir. Ön dişlerde doğal görünümüyle öne çıkar; zirkonyuma göre biraz daha az dayanıklı olduğu için arka dişlerde ve diş sıkma olan hastalarda seçim dikkatle yapılır.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "E.max tam olarak nedir?",
+    "html": "<p>E.max, metal içermeyen tam seramik restorasyonlar için kullanılan bir cam seramik sistemidir. Işığı doğal diş minesine çok benzer şekilde geçirir ve yansıtır; bu nedenle özellikle ön dişlerde komşu doğal dişlerle uyumu yüksektir.</p>\n<p>Kron (tam kaplama), lamine veneer, inley ve onley (parça porselen) olarak üretilebilir. Diş yüzeyine yapıştırma (adeziv simantasyon) ile bağlandığı için ince yapılabilir ve daha az diş dokusu kaldırılmasına imkân tanır.</p>"
+   },
+   {
+    "id": "fark",
+    "h": "E.max ile zirkonyum arasındaki fark",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Özellik</th><th scope=\"col\">E.max</th><th scope=\"col\">Zirkonyum</th></tr></thead><tbody><tr><td>Işık geçirgenliği</td><td>Çok yüksek</td><td>Yüksek (yeni nesil zirkonyumlarda arttı)</td></tr><tr><td>Kırılma direnci</td><td>Yüksek</td><td>Çok yüksek</td></tr><tr><td>Uygulanabilecek kalınlık</td><td>İnce yapılabilir</td><td>Genellikle biraz daha kalınlık gerektirir</td></tr><tr><td>Köprü yapımı</td><td>Kısa ön bölge köprüleriyle sınırlı</td><td>Uzun köprüler ve implant üstü için uygun</td></tr><tr><td>Tipik kullanım</td><td>Ön dişler, lamine, tek kron</td><td>Arka dişler, köprüler, implant üstü</td></tr></tbody></table></div>\n<p>Zirkonyum ile metal destekli porselenin karşılaştırması için <a class=\"text-link\" href=\"/blog/zirkonyum-mu-porselen-mi/\">zirkonyum mu porselen mi</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "kimlere",
+    "h": "E.max kimlere uygundur?",
+    "html": "<ul>\n<li>Ön dişlerinde renk, şekil ya da küçük kırık sorunları olanlar</li>\n<li>Doğal görünümün en önemli öncelik olduğu gülüş tasarımı vakaları</li>\n<li>Az diş dokusu kaldırılması istenen durumlar (lamine, parça porselen)</li>\n</ul>\n<p>Gece diş sıkan hastalarda ya da çok yoğun çiğneme kuvveti olan arka bölgede ise zirkonyum genellikle daha güvenli bir seçenektir. Diş sıkma varsa hangi malzeme seçilirse seçilsin gece plağı önerilir.</p>"
+   },
+   {
+    "id": "omur",
+    "h": "E.max kaç yıl dayanır?",
+    "html": "<p>Doğru endikasyonda ve iyi yapıştırılmış e.max restorasyonlar uzun yıllar sorunsuz kullanılır. Ömrü belirleyen en önemli etkenler; doğru vaka seçimi, diş sıkma kontrolü ve ağız bakımıdır. Kaplama sonrası dönem için <a class=\"text-link\" href=\"/blog/dis-kaplama-sonrasi-hassasiyet/\">kaplama sonrası hassasiyet ve bakım</a> yazımızı okuyabilirsiniz.</p>\n<aside class=\"note\"><strong>Kısaca</strong><p>Ön dişte en doğal görünüm isteniyorsa e.max; arka dişte, köprüde ya da diş sıkma varsa zirkonyum çoğu zaman daha uygun seçimdir. Karar muayene ve gülüş planı üzerinden verilir.</p></aside>"
+   },
+   {
+    "id": "plan",
+    "h": "Seçim nasıl yapılır?",
+    "html": "<p>Gülüş tasarımı vakalarında sıklıkla iki malzeme birlikte kullanılır: ön dişlerde e.max, arka dişlerde zirkonyum. Böylece hem estetik hem dayanıklılık dengelenir. Planlama süreci için <a class=\"text-link\" href=\"/blog/gulus-tasarimi-nedir/\">gülüş tasarımı rehberimize</a>, tüm seçenekleri bir arada görmek için <a class=\"text-link\" href=\"/blog/dis-kaplama-cesitleri/\">diş kaplama çeşitleri</a> yazımıza bakabilirsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "E.max mı lamine mi?",
+    "a": "Lamine bir uygulama şeklidir, e.max ise bir malzemedir. Lamine veneerler sıklıkla e.max cam seramikten üretilir. Dişin ne kadarının kaplanacağı (yalnızca ön yüz mü, tamamı mı) dişin durumuna göre belirlenir."
+   },
+   {
+    "q": "E.max kırılır mı?",
+    "a": "Doğru vakada ve yeterli kalınlıkta yapıldığında kırılma nadirdir. Diş sıkma, sert cisimleri ısırma (kalem, çekirdek, buz) ve yetersiz kalınlık riski artırır."
+   },
+   {
+    "q": "E.max renk değiştirir mi?",
+    "a": "Hayır. Cam seramik yüzey çay, kahve ve sigaradan kaynaklı lekelenmeye karşı dirençlidir. Kenarlarda zamanla renklenme olursa cilalama ile giderilebilir."
+   },
+   {
+    "q": "E.max kaplama arka dişe yapılır mı?",
+    "a": "Tek kron olarak arka dişlerde de kullanılabilir; ancak yoğun ısırma kuvveti ve diş sıkma varsa zirkonyum genellikle daha güvenli bir seçenektir."
+   }
+  ]
+ },
+ {
+  "key": "implantbakim",
+  "date": "2026-10-13",
+  "cat": "İmplant",
+  "cover": "blog-implant-bakim",
+  "slug": "implant-sonrasi-bakim",
+  "title": "İmplant sonrası ilk günler: yeme, içme, sigara ve bakım",
+  "desc": "İmplant ameliyatı sonrası ne yapmalı? İlk 24 saat, şişlik ve ağrı, ne zaman ne yenir, sigara, spor, diş fırçalama ve uzun dönem implant bakımı.",
+  "lead": "İmplant sonrası ilk 24 saatte soğuk uygulama, yumuşak ve ılık besinler, işlem bölgesini zorlamamak ve sigara içmemek iyileşmeyi hızlandırır; uzun dönemde ise implantın ömrünü belirleyen en önemli etken düzenli temizlik ve kontroldür.",
+  "sections": [
+   {
+    "id": "ilk24",
+    "h": "İlk 24 saat",
+    "html": "<ul>\n<li><strong>Tampon:</strong> Hekimin verdiği tamponu 30–45 dakika ısırarak tutun.</li>\n<li><strong>Soğuk uygulama:</strong> Yanağa dışarıdan, 15–20 dakika aralıklarla buz uygulayın.</li>\n<li><strong>Yemek:</strong> Uyuşukluk geçene kadar bir şey yemeyin; sonrasında ılık ve yumuşak besinler tercih edin.</li>\n<li><strong>Ağız çalkalama:</strong> İlk gün kuvvetli çalkalama ve tükürmeden kaçının; pıhtının yerinden oynamaması gerekir.</li>\n<li><strong>Pipet:</strong> Kullanmayın; oluşan vakum kanamayı artırabilir.</li>\n<li><strong>İlaçlar:</strong> Reçete edilen ağrı kesici ve gerekiyorsa antibiyotiği önerilen şekilde kullanın.</li>\n</ul>"
+   },
+   {
+    "id": "beslenme",
+    "h": "Ne zaman ne yiyebilirim?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Dönem</th><th scope=\"col\">Önerilen</th><th scope=\"col\">Kaçınılması gereken</th></tr></thead><tbody><tr><td>İlk 2–3 gün</td><td>Yoğurt, çorba (ılık), püre, muhallebi, yumuşak omlet</td><td>Sıcak içecekler, sert ve baharatlı yiyecekler, alkol</td></tr><tr><td>İlk 1–2 hafta</td><td>Makarna, pilav, haşlanmış sebze, balık, köfte</td><td>Kuruyemiş, sert kabuklu ekmek, çekirdek</td></tr><tr><td>Kaynaşma süresi</td><td>Diğer taraftan çiğneyerek normal beslenme</td><td>İmplant bölgesine doğrudan sert yük bindirmek</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "sislik",
+    "h": "Şişlik, morarma ve ağrı normal mi?",
+    "html": "<p>Evet. Şişlik genellikle 2. ya da 3. gün en yüksek seviyeye ulaşır, sonra azalır. Özellikle birden fazla implant ya da kemik tozu uygulanan hastalarda yanakta hafif morarma görülebilir ve bir haftada kaybolur. Ağrı çoğunlukla basit ağrı kesicilerle kontrol altına alınır.</p>\n<aside class=\"note\"><strong>Ne zaman aramalısınız?</strong><p>Kanama tampona rağmen durmuyorsa, 3. günden sonra şişlik ve ağrı artıyorsa, ateş yükseliyorsa, kötü tat ya da akıntı varsa ya da uyuşukluk ertesi gün geçmediyse kliniğinizi arayın.</p></aside>"
+   },
+   {
+    "id": "sigara",
+    "h": "İmplanttan sonra sigara içilebilir mi?",
+    "html": "<p>Sigara, diş eti ve kemikteki kan dolaşımını azaltarak iyileşmeyi yavaşlatır ve implantın kemikle kaynaşmama riskini artırır. En az ilk 48–72 saat hiç içilmemesi, mümkünse kaynaşma süresi boyunca bırakılması önerilir.</p>\n<p>Sigara ve diyabet gibi durumların implant başarısına etkisini <a class=\"text-link\" href=\"/blog/kimlere-implant-yapilabilir/\">kimlere implant yapılabilir</a> yazımızda ayrıntılı ele aldık.</p>"
+   },
+   {
+    "id": "temizlik",
+    "h": "Diş fırçalama ve ağız temizliği",
+    "html": "<p>Ameliyat günü işlem bölgesi dışındaki dişler nazikçe fırçalanabilir. Ertesi günden itibaren yumuşak bir fırçayla işlem bölgesi de dikkatlice temizlenir. Hekim önerirse ılık tuzlu su ya da antiseptik gargara kullanılır.</p>\n<p>Dikişler genellikle 7–10 gün içinde alınır ya da kendiliğinden erir.</p>"
+   },
+   {
+    "id": "uzun",
+    "h": "Uzun dönem: implant nasıl korunur?",
+    "html": "<ul>\n<li>Günde iki kez fırçalama ve implant çevresi için ara yüz fırçası ya da diş ipi</li>\n<li>Altı ayda bir kontrol ve profesyonel temizlik</li>\n<li>Diş sıkma varsa gece plağı kullanımı</li>\n<li>Diş eti kanaması fark edildiğinde gecikmeden kontrole gelmek</li>\n</ul>\n<p>İmplant çürümez; ancak çevresindeki diş eti ve kemik iltihaplanabilir (peri-implantitis). Erken fark edildiğinde tedavisi çok daha kolaydır. Diş eti sağlığı için <a class=\"text-link\" href=\"/blog/dis-eti-kanamasi-ve-cekilmesi/\">diş eti kanaması yazımıza</a>, diş sıkma için <a class=\"text-link\" href=\"/blog/dis-sikma-gece-plagi/\">gece plağı rehberimize</a> bakabilirsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "İmplanttan sonra ne zaman spor yapabilirim?",
+    "a": "Ağır egzersizlerden ilk 3–5 gün kaçınmak önerilir; tansiyonun yükselmesi kanamayı artırabilir. Hafif yürüyüş ertesi günden itibaren yapılabilir."
+   },
+   {
+    "q": "İmplanttan sonra kahve içebilir miyim?",
+    "a": "İlk gün sıcak içeceklerden kaçının. Sonraki günlerde ılık kahve içilebilir."
+   },
+   {
+    "q": "İmplant sonrası antibiyotik şart mı?",
+    "a": "Her hastada gerekmez. Antibiyotik kullanımı, işlemin kapsamına ve hastanın sağlık durumuna göre hekim tarafından belirlenir."
+   },
+   {
+    "q": "İmplantın tutup tutmadığını nasıl anlarım?",
+    "a": "Kaynaşma sürecinde implant genellikle belirti vermez. Kontrol randevularında klinik muayene ve röntgenle değerlendirilir; kalıcı diş takılmadan önce implantın sabitliği kontrol edilir."
+   }
+  ]
+ },
+ {
+  "key": "diseti",
+  "date": "2026-10-12",
+  "cat": "Tedavi",
+  "cover": "blog-dis-eti",
+  "slug": "dis-eti-kanamasi-ve-cekilmesi",
+  "title": "Diş eti kanaması ve çekilmesi: nedenleri ve tedavisi",
+  "desc": "Diş eti neden kanar, neden çekilir? Diş eti iltihabı (gingivitis) ve periodontitis belirtileri, diş taşı temizliği, kök yüzeyi düzleştirme, diş eti çekilmesinin tedavisi ve evde bakım.",
+  "lead": "Fırçalarken diş etinin kanaması çoğunlukla diş taşı ve plağa bağlı diş eti iltihabının ilk işaretidir. Erken dönemde profesyonel temizlik ve doğru ağız bakımıyla tamamen geri döner; tedavi edilmezse dişi taşıyan kemiği etkileyen periodontitise ilerleyebilir.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Diş eti neden kanar?",
+    "html": "<p>Diş yüzeyinde biriken bakteri plağı, diş etinde iltihaba yol açar. İltihaplı diş eti kızarır, şişer ve fırçalama ya da diş ipi sırasında kolayca kanar. Plak sertleştiğinde diş taşına dönüşür ve artık fırçayla temizlenemez.</p>\n<ul>\n<li>Yetersiz fırçalama ve diş ipi kullanmama</li>\n<li>Diş taşı</li>\n<li>Sigara (kanamayı maskeleyebilir, hastalığı gizleyebilir)</li>\n<li>Hamilelik ve hormonal değişiklikler</li>\n<li>Diyabet</li>\n<li>Bazı ilaçlar ve kan sulandırıcılar</li>\n</ul>"
+   },
+   {
+    "id": "evreler",
+    "h": "Gingivitis ve periodontitis farkı",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\"></th><th scope=\"col\">Gingivitis (diş eti iltihabı)</th><th scope=\"col\">Periodontitis (ileri diş eti hastalığı)</th></tr></thead><tbody><tr><td>Etkilenen doku</td><td>Yalnızca diş eti</td><td>Diş eti ve dişi taşıyan kemik</td></tr><tr><td>Belirtiler</td><td>Kızarıklık, şişlik, kanama</td><td>Diş eti çekilmesi, ağız kokusu, dişlerde sallanma, aralanma</td></tr><tr><td>Geri dönüş</td><td>Tamamen geri döner</td><td>Kaybedilen kemik genellikle geri gelmez; hastalık durdurulur</td></tr><tr><td>Tedavi</td><td>Profesyonel temizlik ve evde bakım</td><td>Derin temizlik, kök yüzeyi düzleştirme, gerekirse cerrahi</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "cekilme",
+    "h": "Diş eti çekilmesi neden olur?",
+    "html": "<p>Diş eti çekilmesinin en sık nedenleri periodontitis ve sert fırçalamadır. Diş sıkma, ince diş eti yapısı, ortodontik hareketler ve dudak-yanak bağlarının çekmesi de katkıda bulunabilir. Çekilme sonucunda kök yüzeyi açığa çıkar; bu da hassasiyete, kök çürüğüne ve estetik soruna yol açabilir.</p>\n<aside class=\"note\"><strong>Fırçalama</strong><p>Yumuşak kıllı fırça kullanın ve yatay \"testere\" hareketinden kaçının. Fırçayı diş etine 45 derece açıyla tutup küçük dairesel hareketler yapın.</p></aside>"
+   },
+   {
+    "id": "tedavi",
+    "h": "Tedavi nasıl yapılır?",
+    "html": "<ol>\n<li>Muayene, diş eti cebi ölçümü ve röntgenle kemik seviyesinin değerlendirilmesi</li>\n<li>Diş taşı temizliği ve cila</li>\n<li>Gerekiyorsa lokal anestezi altında kök yüzeyi düzleştirme (küretaj)</li>\n<li>4–8 hafta sonra yeniden değerlendirme</li>\n<li>İleri vakalarda flep operasyonu ya da diş eti grefti gibi cerrahi işlemler</li>\n<li>Düzenli bakım seansları (genellikle 3–6 ayda bir)</li>\n</ol>\n<p>Diş taşı temizliği hakkındaki yaygın soruları <a class=\"text-link\" href=\"/blog/dis-tasi-temizligi/\">diş taşı temizliği yazımızda</a> yanıtladık.</p>"
+   },
+   {
+    "id": "onem",
+    "h": "Diş eti sağlığı neden diğer tedavileri de etkiler?",
+    "html": "<p>İmplant, kaplama ve ortodonti gibi tedavilerin uzun dönem başarısı sağlıklı diş etine bağlıdır. İmplant çevresinde de benzer bir iltihap (peri-implantitis) gelişebilir. Bu nedenle diş eti hastalığı varsa önce o tedavi edilir. Diş eti tedavisi hakkında daha fazla bilgi için <a class=\"text-link\" href=\"/tedaviler/#diseti\">tedaviler sayfamıza</a> bakabilir, Beylikdüzü'ndeki kliniğimizden <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş etim kanıyor, fırçalamayı bırakmalı mıyım?",
+    "a": "Hayır. Kanama iltihabın işaretidir; nazik ama düzenli fırçalama ve diş ipi iltihabın azalmasına yardımcı olur. Bir-iki haftada geçmiyorsa muayene gerekir."
+   },
+   {
+    "q": "Çekilen diş eti geri gelir mi?",
+    "a": "Kendiliğinden geri gelmez. Uygun vakalarda diş eti grefti gibi cerrahi işlemlerle kök yüzeyi yeniden örtülebilir. Önce çekilmeye neden olan etken ortadan kaldırılır."
+   },
+   {
+    "q": "Ağız kokusu diş eti hastalığından olabilir mi?",
+    "a": "Evet, kalıcı ağız kokusunun en sık nedenlerinden biri diş eti hastalığı ve dil üzerindeki bakteri tabakasıdır."
+   },
+   {
+    "q": "Hamilelikte diş eti kanaması normal mi?",
+    "a": "Hormonal değişiklikler nedeniyle sık görülür (gebelik gingiviti). Yine de kontrol ve gerekirse temizlik önerilir; diş taşı temizliği gebelikte güvenle yapılabilir."
+   }
+  ]
+ },
+ {
+  "key": "greft",
+  "date": "2026-10-11",
+  "cat": "İmplant",
+  "cover": "blog-greft-sinus",
+  "slug": "kemik-tozu-sinus-lifting",
+  "title": "Kemik tozu ve sinüs lifting: kemik yetersizse implant olur mu?",
+  "desc": "Kemik tozu (greft) ve sinüs lifting nedir, ne zaman gerekir, ağrılı mı, implant süresini ne kadar uzatır? Açık ve kapalı sinüs lifting farkı.",
+  "lead": "Çene kemiği implantı taşıyacak kadar geniş ya da yüksek değilse, kemik tozu (greft) ile kemik hacmi artırılır; üst arka bölgede ise sinüs tabanı yükseltilerek (sinüs lifting) implant için yer açılır. Bu işlemler çoğu zaman implantı mümkün kılar ama toplam süreyi uzatır.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Kemik neden erir?",
+    "html": "<p>Diş çekildikten sonra, o dişi taşıyan kemik artık çiğneme yükü almadığı için zamanla incelir ve kısalır. Kemik kaybının büyük kısmı çekimden sonraki ilk aylarda yaşanır. İleri diş eti hastalığı, uzun süre kullanılan hareketli protezler ve travma da kemik kaybına yol açabilir.</p>\n<p>Üst çenenin arka bölgesinde ayrıca bir durum vardır: Dişler kaybedildikten sonra sinüs boşluğu aşağı doğru genişleyebilir ve implant için kalan kemik yüksekliği azalır.</p>"
+   },
+   {
+    "id": "greft",
+    "h": "Kemik tozu (greft) nedir?",
+    "html": "<p>Kemik tozu, kemik oluşumuna iskele görevi gören bir malzemedir. Hastanın kendi kemiği, işlenmiş insan ya da hayvan kaynaklı kemik veya sentetik malzemeler kullanılabilir. Genellikle üzeri bir membranla (zar) örtülür ve birkaç ay içinde yerini hastanın kendi kemiğine bırakır.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Uygulama</th><th scope=\"col\">Ne zaman?</th></tr></thead><tbody><tr><td>Çekim boşluğunu doldurma (soket koruma)</td><td>Diş çekilirken, ileride implant planlanıyorsa kemik kaybını azaltmak için</td></tr><tr><td>İmplantla aynı seansta greft</td><td>Kemikte küçük eksiklikler varsa</td></tr><tr><td>Önce greft, sonra implant</td><td>Kemik çok inceyse; implant genellikle 4–6 ay sonra yapılır</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "sinus",
+    "h": "Sinüs lifting nedir?",
+    "html": "<p>Sinüs lifting, üst çene arka bölgesinde sinüs tabanını kaplayan zarın nazikçe kaldırılması ve altına kemik tozu yerleştirilmesidir. Böylece implant için gereken kemik yüksekliği kazanılır.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Yöntem</th><th scope=\"col\">Ne zaman tercih edilir?</th><th scope=\"col\">Özellik</th></tr></thead><tbody><tr><td>Kapalı sinüs lifting</td><td>Kalan kemik yüksekliği orta düzeydeyse</td><td>İmplant yuvasından yapılır, çoğunlukla implantla aynı seansta</td></tr><tr><td>Açık sinüs lifting</td><td>Kalan kemik çok azsa</td><td>Yandan küçük bir pencere açılır; implant aynı seansta ya da aylar sonra yapılır</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "agri",
+    "h": "Bu işlemler ağrılı mı?",
+    "html": "<p>Her iki işlem de lokal anestezi altında yapılır. İşlem sonrası şişlik ve hafif morarma, basit implant cerrahisine göre biraz daha belirgin olabilir; genellikle bir hafta içinde geçer. Sinüs lifting sonrası ilk iki hafta burun sümkürmemek, ağzı açık hapşırmak ve uçak yolculuğunu hekime danışmak önerilir.</p>\n<aside class=\"note\"><strong>Sinüs lifting sonrası</strong><p>Burnu kuvvetli sümkürmeyin, hapşırırken ağzınızı açık tutun, ağır egzersiz ve dalıştan kaçının. Hafif burun kanaması ilk gün görülebilir.</p></aside>"
+   },
+   {
+    "id": "sure",
+    "h": "Toplam süre ne kadar uzar?",
+    "html": "<p>Küçük greftler implantla aynı seansta yapıldığında süreye çoğunlukla belirgin bir ek getirmez. Ayrı bir greft ya da açık sinüs lifting gerekirse toplam süre 3–6 ay uzayabilir. Genel takvim için <a class=\"text-link\" href=\"/blog/implant-tedavisi-kac-ay-surer/\">implant tedavisi kaç ay sürer</a> yazımıza, maliyete etkisi için <a class=\"text-link\" href=\"/blog/implant-fiyatlari-neye-gore-degisir/\">implant fiyatlarını belirleyen etkenler</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "alternatif",
+    "h": "Greftsiz seçenekler var mı?",
+    "html": "<p>Bazı vakalarda kısa implantlar, açılı yerleştirilen implantlar ya da All-on-Four gibi teknikler sayesinde ek kemik işlemine gerek kalmayabilir. Hangi yolun uygun olduğu tomografi üzerinden belirlenir. Tam çene çözümleri için <a class=\"text-link\" href=\"/blog/all-on-four/\">All-on-Four rehberimize</a> göz atabilirsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Kemik tozu vücut tarafından reddedilir mi?",
+    "a": "Kullanılan greft malzemeleri biyouyumludur ve klasik anlamda reddedilmez. Nadiren enfeksiyon ya da greftin yeterince kemikleşmemesi görülebilir; bu durumda işlem tekrarlanabilir."
+   },
+   {
+    "q": "Sinüs lifting sinüzit yapar mı?",
+    "a": "Doğru planlandığında sinüs lifting sinüzite yol açmaz. Kronik sinüzit varsa işlem öncesinde değerlendirilir ve gerekirse KBB görüşü alınır."
+   },
+   {
+    "q": "Diş çektirirken kemik tozu konmalı mı?",
+    "a": "İleride o bölgeye implant planlanıyorsa, çekim boşluğuna greft uygulamak kemik kaybını azaltabilir. Karar, dişin konumu ve kemik durumuna göre verilir."
+   },
+   {
+    "q": "Greft sonrası ne zaman implant yapılır?",
+    "a": "Ayrı yapılan greftlerde genellikle 4–6 ay beklenir. Küçük greftler implantla aynı seansta uygulanabilir."
+   }
+  ]
+ },
+ {
+  "key": "cocuk",
+  "date": "2026-10-10",
+  "cat": "Tedavi",
+  "cover": "blog-cocuk",
+  "slug": "cocuk-dis-hekimi-ilk-muayene",
+  "title": "Çocuğunuzu ilk kez diş hekimine ne zaman götürmelisiniz?",
+  "desc": "Çocuklarda ilk diş hekimi muayenesi ne zaman yapılmalı? Süt dişi çürükleri, flor uygulaması, fissür örtücü, diş hekimi korkusunu önleme ve çocuklarda diş bakımı önerileri.",
+  "lead": "Çocuğun ilk diş hekimi ziyareti, ilk süt dişi çıktığında ya da en geç 1 yaşında yapılmalıdır. Erken ve sakin geçen ilk ziyaretler hem çürükleri önlemeye yardımcı olur hem de çocuğun diş hekimiyle güvene dayalı bir ilişki kurmasını sağlar.",
+  "sections": [
+   {
+    "id": "ne-zaman",
+    "h": "İlk muayene neden bu kadar erken?",
+    "html": "<p>Süt dişleri çıkar çıkmaz çürüyebilir. Özellikle gece biberonla süt ya da meyve suyu içen bebeklerde \"biberon çürüğü\" hızla ilerleyebilir. İlk ziyarette dişler kontrol edilir, ebeveynlere fırçalama, beslenme ve emzik kullanımı hakkında bilgi verilir.</p>\n<p>Bu ziyaret genellikle kısa ve tedavisizdir; amaç çocuğun ortamı tanıması ve olası riskleri erken fark etmektir.</p>"
+   },
+   {
+    "id": "koruyucu",
+    "h": "Koruyucu uygulamalar",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Uygulama</th><th scope=\"col\">Ne işe yarar?</th><th scope=\"col\">Ne zaman?</th></tr></thead><tbody><tr><td>Flor (florür) vernik</td><td>Mineyi güçlendirir, çürüğe direnci artırır</td><td>Risk durumuna göre yılda 2–4 kez</td></tr><tr><td>Fissür örtücü</td><td>Azı dişlerinin çiğneme yüzeyindeki derin oyukları kapatır</td><td>Genellikle 6 ve 12 yaş civarı, kalıcı azılar çıktığında</td></tr><tr><td>Düzenli kontrol</td><td>Çürükleri küçükken yakalar</td><td>Genellikle 6 ayda bir</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "sut-disi",
+    "h": "Süt dişleri nasıl olsa değişecek, tedavi gerekli mi?",
+    "html": "<p>Evet. Süt dişleri yalnızca çiğneme ve konuşma için değil, alttan gelen kalıcı dişlere yer tutmak için de gereklidir. Erken kaybedilen süt dişleri, kalıcı dişlerin çapraşık çıkmasına yol açabilir. Tedavi edilmeyen süt dişi çürükleri ağrıya, apseye ve alttaki kalıcı dişin zarar görmesine neden olabilir.</p>\n<aside class=\"note\"><strong>Yer tutucu</strong><p>Süt dişi erken çekilmek zorunda kalınırsa, kalıcı diş çıkana kadar boşluğu korumak için yer tutucu apareyler kullanılabilir.</p></aside>"
+   },
+   {
+    "id": "korku",
+    "h": "Diş hekimi korkusu nasıl önlenir?",
+    "html": "<ul>\n<li>İlk ziyareti ağrı başlamadan, kontrol amaçlı yapın.</li>\n<li>\"Acımayacak\", \"iğne yok\" gibi korkuyu çağrıştıran ifadeler yerine sakin ve olumlu bir dil kullanın.</li>\n<li>Diş hekimini ceza ya da tehdit unsuru olarak kullanmayın.</li>\n<li>Kendi kaygınızı çocuğa yansıtmamaya çalışın.</li>\n<li>Randevuyu çocuğun dinlenmiş ve tok olduğu bir saate alın.</li>\n</ul>\n<p>Kliniğimizde çocuklar için ayrı düzenlenmiş bir tedavi odası bulunur. İlk randevularda acele etmeden ortamı tanıtıyor, aletleri göstererek anlatıyoruz.</p>"
+   },
+   {
+    "id": "evde",
+    "h": "Evde diş bakımı: yaşa göre öneriler",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Yaş</th><th scope=\"col\">Öneri</th></tr></thead><tbody><tr><td>İlk diş – 3 yaş</td><td>Günde 2 kez, pirinç tanesi kadar florürlü diş macunuyla ebeveyn fırçalaması</td></tr><tr><td>3 – 6 yaş</td><td>Bezelye tanesi kadar florürlü macun; fırçalama ebeveyn gözetiminde</td></tr><tr><td>6 yaş ve üzeri</td><td>Çocuk kendi fırçalar, ebeveyn akşamları kontrol eder; diş ipi alışkanlığı kazandırılır</td></tr></tbody></table></div>\n<p>Şekerli atıştırmalıkların sıklığını azaltmak, miktarını azaltmaktan daha etkilidir. Çocuk diş hekimliği hizmetlerimiz için <a class=\"text-link\" href=\"/tedaviler/#cocuk\">tedaviler sayfamıza</a> bakabilirsiniz; ilerleyen yaşlarda dişlerde çapraşıklık fark edilirse <a class=\"text-link\" href=\"/blog/seffaf-plak-mi-tel-mi/\">şeffaf plak ve tel karşılaştırmamız</a> yol gösterebilir.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Çocuklarda ortodontik kontrol ne zaman yapılmalı?",
+    "a": "Genellikle 7 yaş civarında ilk ortodontik değerlendirme önerilir. Bu yaşta çene gelişimiyle ilgili bazı sorunlar erken fark edilip yönlendirilebilir."
+   },
+   {
+    "q": "Çocuğum diş fırçalamak istemiyor, ne yapmalıyım?",
+    "a": "Fırçalamayı oyunlaştırmak, iki dakikalık şarkılar ya da zamanlayıcılar kullanmak ve sizin de aynı anda fırçalamanız alışkanlık kazanmasını kolaylaştırır."
+   },
+   {
+    "q": "Süt dişine kanal tedavisi yapılır mı?",
+    "a": "Evet. Süt dişlerinde sinir tedavisi (pulpotomi ya da pulpektomi) yapılarak diş, kalıcı diş çıkana kadar korunabilir."
+   },
+   {
+    "q": "Florür çocuklar için güvenli mi?",
+    "a": "Yaşa uygun miktarda kullanıldığında güvenlidir ve çürük önlemede etkilidir. Macunun yutulmaması için küçük çocuklarda miktar sınırlı tutulur."
+   }
+  ]
+ },
+ {
+  "key": "protez",
+  "date": "2026-10-09",
+  "cat": "İmplant",
+  "cover": "blog-implant-protez",
+  "slug": "implant-ustu-protez",
+  "title": "İmplant üstü protez nedir? Takma dişi sabitlemenin yolları",
+  "desc": "İmplant üstü protez nedir, kimlere uygundur? Çıtçıtlı (hareketli) ve sabit implant üstü protez farkı, kaç implant gerekir, bakımı ve klasik takma dişle karşılaştırma.",
+  "lead": "İmplant üstü protez, tamamen dişsiz bir çenede iki ila altı implantın protezi yerinde tuttuğu tedavidir; protez ya çıtçıt benzeri bağlantılarla takılıp çıkarılır ya da vidayla sabitlenir. Klasik takma dişin oynaması, vurması ve çiğneme güçlüğü büyük ölçüde azalır.",
+  "sections": [
+   {
+    "id": "sorun",
+    "h": "Klasik takma dişin sorunları nelerdir?",
+    "html": "<ul>\n<li>Özellikle alt çenede protezin konuşurken ve yemek yerken oynaması</li>\n<li>Diş etine vurma ve yara</li>\n<li>Çiğneme kuvvetinin doğal dişlere göre çok düşük olması</li>\n<li>Zamanla kemik erimesi nedeniyle protezin bollaşması ve sık astar gerektirmesi</li>\n<li>Üst protezin damağı kaplaması nedeniyle tat alma ve konfor kaybı</li>\n</ul>"
+   },
+   {
+    "id": "turler",
+    "h": "İmplant üstü protez çeşitleri",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Tür</th><th scope=\"col\">İmplant sayısı (tipik)</th><th scope=\"col\">Özellik</th></tr></thead><tbody><tr><td>Çıtçıtlı (hareketli) protez</td><td>Alt çenede 2, üst çenede 2–4</td><td>Hasta temizlik için çıkarır; oynama büyük ölçüde azalır</td></tr><tr><td>Bar tutuculu protez</td><td>2–4</td><td>İmplantları birleştiren bar üzerine oturur; daha stabil</td></tr><tr><td>Sabit protez (ör. All-on-Four)</td><td>4–6</td><td>Vidayla sabitlenir, hasta çıkarmaz; doğal dişe en yakın his</td></tr></tbody></table></div>\n<p>Sabit seçenekler hakkında ayrıntılı bilgi için <a class=\"text-link\" href=\"/blog/all-on-four/\">All-on-Four yazımıza</a> bakabilirsiniz.</p>"
+   },
+   {
+    "id": "kimlere",
+    "h": "Kimlere uygundur?",
+    "html": "<p>Tamamen dişsiz olan, mevcut takma dişinden memnun olmayan ve genel sağlığı küçük bir cerrahiye uygun olan çoğu hasta için uygundur. Yaş tek başına engel değildir. Kemik durumu tomografiyle değerlendirilir. Genel sağlık koşulları için <a class=\"text-link\" href=\"/blog/kimlere-implant-yapilabilir/\">kimlere implant yapılabilir</a> yazımız yol gösterir.</p>"
+   },
+   {
+    "id": "surec",
+    "h": "Süreç nasıl ilerler?",
+    "html": "<ol>\n<li>Muayene, tomografi ve mevcut protezin değerlendirilmesi</li>\n<li>İmplantların yerleştirilmesi (mevcut protez genellikle iç yüzeyi düzenlenerek kullanılmaya devam eder)</li>\n<li>Kaynaşma süresi: alt çenede yaklaşık 2–3 ay, üst çenede 3–6 ay</li>\n<li>Ölçü, provalar ve yeni protezin bağlantı parçalarıyla takılması</li>\n<li>Kontroller ve gerekirse bağlantı parçalarının yenilenmesi</li>\n</ol>\n<aside class=\"note\"><strong>Aynı gün yükleme</strong><p>Uygun kemik koşullarında, özellikle sabit tam çene çözümlerinde implantlar aynı gün geçici sabit protezle yüklenebilir. Bu karar ilk sabitlik ölçümüne göre verilir.</p></aside>"
+   },
+   {
+    "id": "bakim",
+    "h": "Bakımı nasıl yapılır?",
+    "html": "<p>Çıtçıtlı protezler her gün çıkarılıp fırçalanır, implant başlıkları da ayrıca temizlenir. Çıtçıtların içindeki plastik parçalar zamanla aşınır ve genellikle yılda bir ya da birkaç yılda bir değiştirilir. Sabit protezlerde ise ara yüz fırçası ve ağız duşu ile protezin altı temizlenir; yılda bir ya da iki kez klinikte profesyonel bakım önerilir.</p>\n<p>İmplant bakımı ile ilgili genel öneriler için <a class=\"text-link\" href=\"/blog/implant-sonrasi-bakim/\">implant sonrası bakım rehberimize</a> bakabilirsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Alt çenede iki implant yeterli mi?",
+    "a": "Çıtçıtlı hareketli protez için alt çenede iki implant çoğu hastada protezin tutuculuğunu belirgin şekilde artırır. Sabit protez isteniyorsa genellikle dört ya da daha fazla implant gerekir."
+   },
+   {
+    "q": "Mevcut takma dişim implant üstü proteze çevrilebilir mi?",
+    "a": "Protez iyi durumdaysa bazı vakalarda iç yüzeyine bağlantı parçaları eklenerek kullanılabilir. Çoğu zaman ise yeni bir protez yapılması daha iyi sonuç verir."
+   },
+   {
+    "q": "İmplant üstü protezle her şeyi yiyebilir miyim?",
+    "a": "Çiğneme verimi klasik protezlere göre belirgin şekilde artar. Sabit protezlerde neredeyse normal beslenme mümkündür; yine de çok sert yiyeceklerde dikkatli olunmalıdır."
+   },
+   {
+    "q": "Üst çenede damaksız protez yapılabilir mi?",
+    "a": "Yeterli sayıda implant yapıldığında üst çenede damağı kaplamayan protezler yapılabilir; bu da tat alma ve konfor açısından avantaj sağlar."
+   }
+  ]
+ },
+ {
+  "key": "dolgu",
+  "date": "2026-10-09",
+  "cat": "Tedavi",
+  "cover": "blog-dolgu",
+  "slug": "beyaz-dolgu-kompozit",
+  "title": "Beyaz (kompozit) dolgu nedir? Amalgamdan farkı ve ömrü",
+  "desc": "Beyaz dolgu (kompozit dolgu) nedir, amalgam dolgudan farkı ne? Dolgu ne zaman gerekir, kaç yıl dayanır, dolgu sonrası hassasiyet ve dolgu yerine inley-onley seçenekleri.",
+  "lead": "Beyaz dolgu, diş renginde kompozit reçineyle yapılan ve dişe yapıştırma yöntemiyle bağlanan dolgudur. Amalgam (gümüş) dolguya göre daha estetiktir ve daha az sağlam diş dokusu kaldırılmasına imkân verir; doğru yapıldığında uzun yıllar kullanılabilir.",
+  "sections": [
+   {
+    "id": "ne-zaman",
+    "h": "Dolgu ne zaman gerekir?",
+    "html": "<ul>\n<li>Çürük minenin altındaki dentine ulaştığında</li>\n<li>Küçük kırık ve çatlaklarda</li>\n<li>Eski, kenarı bozulmuş ya da altında çürük oluşmuş dolguların yenilenmesinde</li>\n<li>Diş eti çekilmesine bağlı boyun bölgesi aşınmalarında</li>\n</ul>\n<p>Başlangıç halindeki mine çürükleri bazen dolgu gerektirmeden flor uygulaması ve bakımla durdurulabilir. Bu nedenle erken teşhis önemlidir.</p>"
+   },
+   {
+    "id": "fark",
+    "h": "Beyaz dolgu ile amalgam arasındaki farklar",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Özellik</th><th scope=\"col\">Kompozit (beyaz) dolgu</th><th scope=\"col\">Amalgam dolgu</th></tr></thead><tbody><tr><td>Görünüm</td><td>Diş renginde</td><td>Gümüş-gri</td></tr><tr><td>Dişe bağlanma</td><td>Yapıştırma (adeziv)</td><td>Mekanik tutuculuk; daha fazla diş kaldırılır</td></tr><tr><td>Sağlam doku korunması</td><td>Daha fazla</td><td>Daha az</td></tr><tr><td>Uygulama hassasiyeti</td><td>Kuru ortam ve titizlik gerektirir</td><td>Daha toleranslı</td></tr><tr><td>Güncel kullanım</td><td>Yaygın olarak tercih edilir</td><td>Kullanımı giderek azalmaktadır</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "amalgam-degisim",
+    "h": "Eski amalgam dolgularımı değiştirmeli miyim?",
+    "html": "<p>Sağlam, kenarı düzgün ve altında çürük olmayan amalgam dolguların yalnızca \"amalgam oldukları için\" değiştirilmesi her zaman gerekmez; sökme işlemi sırasında sağlam diş dokusu da kaybedilebilir. Kırık, çatlak, kenar sızıntısı ya da çürük varsa ya da estetik bir beklenti söz konusuysa yenileme planlanır.</p>"
+   },
+   {
+    "id": "buyuk",
+    "h": "Büyük çürüklerde dolgu yerine ne yapılır?",
+    "html": "<p>Dişin büyük bir kısmı kaybedildiyse, düz dolgu dişi yeterince desteklemeyebilir. Bu durumda laboratuvarda üretilen inley/onley (parça porselen) ya da tam kaplama değerlendirilir. Çürük sinire ulaştıysa önce <a class=\"text-link\" href=\"/blog/kanal-tedavisi/\">kanal tedavisi</a> gerekebilir. Kaplama seçenekleri için <a class=\"text-link\" href=\"/blog/dis-kaplama-cesitleri/\">diş kaplama çeşitleri</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "sonrasi",
+    "h": "Dolgu sonrası hassasiyet ve bakım",
+    "html": "<p>Özellikle derin dolgulardan sonra birkaç gün ile birkaç hafta soğuğa hassasiyet olabilir. Isırırken o dişe ilk değiyorsanız dolgu yüksek olabilir; kısa bir düzeltmeyle çözülür. Kendiliğinden başlayan ve uzun süren ağrı ise sinirin etkilendiğini gösterebilir ve kontrol gerektirir.</p>\n<ul>\n<li>Kompozit dolgu yapıldıktan hemen sonra yemek yenebilir (uyuşukluk geçince).</li>\n<li>Dolgu kenarlarının çürümemesi için diş ipi kullanımı önemlidir.</li>\n<li>Altı ayda bir kontrolle küçük sorunlar erken fark edilir.</li>\n</ul>\n<aside class=\"note\"><strong>Kısaca</strong><p>Beyaz dolgu, küçük ve orta büyüklükteki çürüklerde estetik ve koruyucu bir çözümdür. Büyük madde kayıplarında parça porselen ya da kaplama daha uzun ömürlü olabilir.</p></aside>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Beyaz dolgu kaç yıl dayanır?",
+    "a": "Dolgunun büyüklüğüne, dişin konumuna ve ağız bakımına bağlı olarak genellikle uzun yıllar kullanılır. Büyük dolgular ve diş sıkma ömrü kısaltabilir."
+   },
+   {
+    "q": "Dolgu yapılırken ağrı hisseder miyim?",
+    "a": "Gerekli durumlarda lokal anestezi uygulanır ve işlem sırasında ağrı beklenmez. Küçük ve yüzeysel çürüklerde anestezi gerekmeyebilir."
+   },
+   {
+    "q": "Beyaz dolgu renk değiştirir mi?",
+    "a": "Zamanla yüzeyde hafif renklenme olabilir; cilalama ile büyük ölçüde giderilir. Kenarlarda koyulaşma, sızıntı işareti olabilir ve kontrol edilmelidir."
+   },
+   {
+    "q": "Dolgudan sonra ne zaman yemek yiyebilirim?",
+    "a": "Kompozit dolgu ışıkla sertleştirildiği için hemen yemek yenebilir. Anestezi yapıldıysa dil ve yanağı ısırmamak için uyuşukluğun geçmesi beklenmelidir."
+   }
+  ]
+ },
+ {
+  "key": "kaplamasonrasi",
+  "date": "2026-10-08",
+  "cat": "Kaplama",
+  "cover": "blog-kaplama-sonrasi",
+  "slug": "dis-kaplama-sonrasi-hassasiyet",
+  "title": "Diş kaplama sonrası hassasiyet, ağrı ve bakım: normal olan ne?",
+  "desc": "Diş kaplama sonrası hassasiyet ne kadar sürer, ağrı normal mi? Geçici diş döneminde dikkat edilecekler, ısırma yüksekliği, diş eti kenarı ve kaplamaların uzun dönem bakımı.",
+  "lead": "Kaplamadan sonraki ilk günlerde sıcak-soğuk hassasiyeti ve diş etinde hafif hassasiyet sık görülür ve genellikle birkaç gün ile birkaç hafta içinde geçer. Isırırken erken temas, artan ya da zonklayan ağrı ise kontrol edilmesi gereken durumlardır.",
+  "sections": [
+   {
+    "id": "normal",
+    "h": "Kaplama sonrası normal kabul edilen durumlar",
+    "html": "<ul>\n<li><strong>Sıcak-soğuk hassasiyeti:</strong> Özellikle canlı dişlerde birkaç gün ile birkaç hafta sürebilir.</li>\n<li><strong>Diş eti hassasiyeti:</strong> Hazırlık ve ölçü aşamasında diş eti etkilendiği için birkaç gün hafif sızlama olabilir.</li>\n<li><strong>Yabancılık hissi:</strong> Dilin yeni yüzeylere alışması birkaç gün sürer; konuşmada hafif farklılık hissedilebilir.</li>\n<li><strong>Renk ve şekle alışma:</strong> Özellikle çok sayıda diş kaplandığında aynadaki yeni görüntüye alışmak zaman alabilir.</li>\n</ul>"
+   },
+   {
+    "id": "anormal",
+    "h": "Hangi durumlarda kliniğe başvurmalısınız?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Belirti</th><th scope=\"col\">Olası neden</th></tr></thead><tbody><tr><td>Isırınca ilk o dişe değiyorsa</td><td>Kapanış yüksekliği; kısa bir düzeltme ile çözülür</td></tr><tr><td>Zonklayan, gece uyandıran ağrı</td><td>Sinir iltihabı; kanal tedavisi gerekebilir</td></tr><tr><td>Kaplama oynuyorsa ya da düştüyse</td><td>Simanın çözülmesi ya da alttaki diş sorunu</td></tr><tr><td>Diş eti kenarında sürekli kanama veya şişlik</td><td>Kenar uyumsuzluğu ya da diş eti iltihabı</td></tr><tr><td>Haftalar geçmesine rağmen artan hassasiyet</td><td>Ayrıntılı muayene gerekir</td></tr></tbody></table></div>\n<aside class=\"note\"><strong>Bilmekte fayda var</strong><p>Canlı bir dişe kaplama yapıldığında, nadiren de olsa sinir zamanla iltihaplanabilir ve kanal tedavisi gerekebilir. Bu, kaplamanın kötü yapıldığı anlamına gelmez; dişin daha önceki çürük ve dolgu geçmişiyle ilişkilidir.</p></aside>"
+   },
+   {
+    "id": "gecici",
+    "h": "Geçici diş döneminde dikkat edilecekler",
+    "html": "<p>Ölçü ile kalıcı kaplamanın takılması arasında kullanılan geçici dişler, dişi korur ve görünümü sağlar; ancak kalıcılar kadar sağlam değildir.</p>\n<ul>\n<li>Yapışkan (sakız, lokum) ve çok sert yiyeceklerden kaçının.</li>\n<li>Diş ipini çekerek değil, yandan çıkararak kullanın.</li>\n<li>Geçici diş düşerse saklayın ve kliniği arayın; uzun süre açık bırakılan diş hareket edebilir.</li>\n</ul>"
+   },
+   {
+    "id": "bakim",
+    "h": "Kaplamalar nasıl korunur?",
+    "html": "<ul>\n<li>Günde iki kez fırçalama, her gün diş ipi ya da ara yüz fırçası</li>\n<li>Kaplama kenarlarının temizliğine özen (çürük en sık burada başlar)</li>\n<li>Altı ayda bir kontrol ve profesyonel temizlik</li>\n<li>Diş sıkma varsa gece plağı</li>\n<li>Çekirdek, buz ve kalem gibi sert cisimleri ısırmamak</li>\n</ul>\n<p>Diş sıkma ve gece plağı hakkında <a class=\"text-link\" href=\"/blog/dis-sikma-gece-plagi/\">bruksizm yazımıza</a>, kaplama seçenekleri için <a class=\"text-link\" href=\"/blog/dis-kaplama-cesitleri/\">diş kaplama çeşitleri</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "koku",
+    "h": "Kaplama altında koku ya da çürük olur mu?",
+    "html": "<p>Kenar uyumu iyi olan ve temiz tutulan kaplamalarda koku beklenmez. Ağız kokusu, kaplama kenarında çürük ya da diş eti iltihabı işareti olabilir. Diş eti kanaması ve çekilmesi hakkında <a class=\"text-link\" href=\"/blog/dis-eti-kanamasi-ve-cekilmesi/\">diş eti rehberimizi</a> okuyabilir, şüphe durumunda <a class=\"text-link\" href=\"/iletisim/\">kontrol randevusu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Kaplama sonrası hassasiyet ne kadar sürer?",
+    "a": "Çoğu hastada birkaç gün ile iki-üç hafta arasında azalarak geçer. Hassasiyet artıyorsa ya da kendiliğinden ağrıya dönüşüyorsa kontrol gerekir."
+   },
+   {
+    "q": "Kaplamadan sonra hemen yemek yiyebilir miyim?",
+    "a": "Uyuşukluk geçtikten sonra yiyebilirsiniz. Yapıştırmada kullanılan materyale göre ilk birkaç saat için ek öneri verilebilir."
+   },
+   {
+    "q": "Hassas diş macunu işe yarar mı?",
+    "a": "Evet, potasyum nitrat ya da benzeri içerikli hassasiyet macunları geçici hassasiyeti azaltmaya yardımcı olabilir."
+   },
+   {
+    "q": "Kaplama düşerse ne yapmalıyım?",
+    "a": "Kaplamayı saklayın ve kliniği arayın. Kendi başınıza yapıştırıcıyla takmaya çalışmayın; hem diş hem kaplama zarar görebilir."
+   }
+  ]
+ },
+ {
+  "key": "implantkimlere",
+  "date": "2026-10-07",
+  "cat": "İmplant",
+  "cover": "blog-implant-kimlere",
+  "slug": "kimlere-implant-yapilabilir",
+  "title": "Şeker hastası, sigara içen ya da yaşlı biri implant yaptırabilir mi?",
+  "desc": "Kimlere implant yapılabilir, kimlere yapılmaz? Diyabet, sigara, ileri yaş, tansiyon, kalp hastalığı, kan sulandırıcı ve kemik erimesi ilaçlarında implant tedavisi.",
+  "lead": "İmplant için kesin bir üst yaş sınırı yoktur; genel sağlığı küçük bir cerrahi işleme uygun ve kemiği yeterli olan çoğu yetişkine implant yapılabilir. Kontrolsüz diyabet, yoğun sigara kullanımı ve bazı ilaçlar ise riski artırdığı için özel değerlendirme gerektirir.",
+  "sections": [
+   {
+    "id": "genel",
+    "h": "İmplant için temel koşullar nelerdir?",
+    "html": "<ul>\n<li>Çene gelişiminin tamamlanmış olması (genellikle 18 yaş ve üzeri)</li>\n<li>İmplantı taşıyacak yeterli kemik ya da kemiğin artırılabilir olması</li>\n<li>Ağızda aktif enfeksiyon ve tedavi edilmemiş diş eti hastalığı bulunmaması</li>\n<li>Genel sağlık durumunun lokal anesteziyle yapılan küçük bir cerrahiye uygun olması</li>\n<li>Tedavi sonrası ağız bakımına ve kontrollere uyum</li>\n</ul>"
+   },
+   {
+    "id": "diyabet",
+    "h": "Şeker hastalarına implant yapılır mı?",
+    "html": "<p>Kan şekeri düzenli kontrol altında olan diyabet hastalarına implant yapılabilir ve başarı oranları diyabeti olmayanlara yakındır. Kontrolsüz diyabette ise yara iyileşmesi yavaşlar ve enfeksiyon riski artar.</p>\n<p>Bu nedenle planlamada güncel HbA1c değeri istenir ve gerekirse endokrinoloji hekiminizle birlikte hareket edilir. Ameliyat günü düzenli öğün ve ilaç kullanımına dikkat edilmelidir.</p>\n<aside class=\"note\"><strong>Pratik bilgi</strong><p>HbA1c değerinizin son ölçümünü muayeneye getirmeniz, planlamayı hızlandırır.</p></aside>"
+   },
+   {
+    "id": "sigara",
+    "h": "Sigara içenler implant yaptırabilir mi?",
+    "html": "<p>Evet, ancak sigara implantın kemikle kaynaşmama ve ileride implant çevresi iltihap (peri-implantitis) riskini belirgin şekilde artırır. Günde içilen sigara sayısı arttıkça risk de artar. İmplanttan en az birkaç gün önce ve kaynaşma süresince sigaraya ara vermek başarı şansını yükseltir. Ameliyat sonrası öneriler için <a class=\"text-link\" href=\"/blog/implant-sonrasi-bakim/\">implant sonrası bakım</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "yas",
+    "h": "65 yaş ve üzeri hastalara implant yapılır mı?",
+    "html": "<p>Yaş tek başına engel değildir; 70'li ve 80'li yaşlarda implant yaptıran pek çok hasta vardır. Önemli olan genel sağlık durumu, kullanılan ilaçlar ve kemik yapısıdır. Özellikle tamamen dişsiz ve hareketli protezi oynayan hastalarda, az sayıda implantla protezin sabitlenmesi yaşam kalitesini belirgin şekilde artırabilir. Bu seçenek için <a class=\"text-link\" href=\"/blog/implant-ustu-protez/\">implant üstü protez</a> yazımızı okuyabilirsiniz.</p>"
+   },
+   {
+    "id": "ilaclar",
+    "h": "Hangi hastalık ve ilaçlar özel değerlendirme gerektirir?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">Dikkat edilen nokta</th></tr></thead><tbody><tr><td>Kan sulandırıcılar</td><td>İlaç hekiminize danışılmadan kesilmez; çoğu durumda doz ayarıyla işlem yapılabilir</td></tr><tr><td>Kemik erimesi (osteoporoz) ilaçları</td><td>Özellikle bisfosfonatlar ve benzeri ilaçların türü, süresi ve veriliş yolu sorgulanır</td></tr><tr><td>Tansiyon ve kalp hastalıkları</td><td>Düzenli kontrol altındaysa çoğunlukla engel değildir; güncel durum değerlendirilir</td></tr><tr><td>Baş-boyun bölgesine radyoterapi</td><td>Kemik iyileşmesi etkilenebileceği için ayrıntılı planlama gerekir</td></tr><tr><td>Gebelik</td><td>Seçmeli cerrahi işlemler genellikle doğum sonrasına ertelenir</td></tr></tbody></table></div>\n<p>Muayeneye kullandığınız tüm ilaçların listesini getirmeniz önemlidir. Gerekirse ilgili hekiminizden görüş alınır.</p>"
+   },
+   {
+    "id": "kemik",
+    "h": "Kemiği az olanlara implant yapılır mı?",
+    "html": "<p>Çoğu durumda evet. Kemik tozu, sinüs lifting ya da kısa ve açılı implantlar gibi seçenekler değerlendirilir. Ayrıntılar için <a class=\"text-link\" href=\"/blog/kemik-tozu-sinus-lifting/\">kemik tozu ve sinüs lifting</a> yazımıza bakabilirsiniz. Uygunluğunuzu öğrenmek için <a class=\"text-link\" href=\"/iletisim/\">muayene randevusu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "İmplant için yaş sınırı var mı?",
+    "a": "Alt sınır çene gelişiminin tamamlanmasıdır (genellikle 18 yaş). Üst yaş sınırı yoktur; genel sağlık durumu belirleyicidir."
+   },
+   {
+    "q": "Tansiyon hastasıyım, implant yaptırabilir miyim?",
+    "a": "Tansiyonunuz ilaçla kontrol altındaysa çoğunlukla evet. İşlem günü ilaçlarınızı her zamanki gibi almanız ve randevudan önce tansiyonunuzun ölçülmesi önerilir."
+   },
+   {
+    "q": "Elektronik sigara da implantı etkiler mi?",
+    "a": "Nikotin içeren ürünlerin damarları daraltıcı etkisi iyileşmeyi olumsuz etkileyebilir. Kaynaşma süresince bu ürünlere de ara vermek önerilir."
+   },
+   {
+    "q": "Diş eti hastalığım varsa implant olur mu?",
+    "a": "Önce diş eti hastalığı tedavi edilir. Kontrol altına alınmamış diş eti hastalığı, implant çevresinde de iltihap riskini artırır."
+   }
+  ]
+ },
+ {
+  "key": "yirmilik",
+  "date": "2026-10-06",
+  "cat": "Tedavi",
+  "cover": "blog-yirmilik",
+  "slug": "yirmilik-dis-cekimi",
+  "title": "Yirmi yaş dişi ne zaman çekilmeli? Belirtiler, işlem ve iyileşme",
+  "desc": "Yirmi yaş dişi (yirmilik) her zaman çekilmeli mi? Gömülü yirmilik diş belirtileri, çekim işlemi, ağrı ve şişlik, çekim sonrası yapılması gerekenler ve iyileşme süresi.",
+  "lead": "Yirmi yaş dişleri düzgün sürmüş, temizlenebiliyor ve sorun çıkarmıyorsa çekilmesi gerekmez. Tekrarlayan diş eti iltihabı, çürük, komşu dişe zarar verme ya da kist gibi durumlarda ise çekim önerilir.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "Yirmi yaş dişi neden sorun çıkarır?",
+    "html": "<p>Yirmi yaş dişleri ağızda en son, genellikle 17–25 yaşları arasında sürer. Çenede yeterli yer olmadığında tam sürmeyip kemik ya da diş eti içinde kalabilir (gömülü) veya yan yatarak komşu dişe dayanabilir.</p>\n<p>Yarı sürmüş dişlerin üzerindeki diş eti cebi yiyecek artıklarını tutar ve temizlenmesi zordur; bu da tekrarlayan iltihaba (perikoronit) yol açar.</p>"
+   },
+   {
+    "id": "belirti",
+    "h": "Çekim gerektirebilecek belirtiler",
+    "html": "<ul>\n<li>Arka bölgede tekrarlayan ağrı, şişlik ve diş eti iltihabı</li>\n<li>Ağız açmada kısıtlılık</li>\n<li>Kötü tat ya da ağız kokusu</li>\n<li>Yirmilik dişte ya da önündeki dişte çürük</li>\n<li>Röntgende kist ya da komşu dişin kökünde erime</li>\n</ul>\n<aside class=\"note\"><strong>Belirti yoksa?</strong><p>Belirti vermeyen gömülü yirmilikler, röntgende bir risk görülmüyorsa düzenli takip edilebilir. Çekim kararı yaş, dişin konumu ve olası riskler birlikte değerlendirilerek verilir.</p></aside>"
+   },
+   {
+    "id": "islem",
+    "h": "Yirmilik diş çekimi nasıl yapılır?",
+    "html": "<p>Panoramik röntgen, gerekirse tomografi ile dişin konumu ve alt çene sinirine yakınlığı değerlendirilir. İşlem lokal anestezi altında yapılır.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">İşlem</th></tr></thead><tbody><tr><td>Tam sürmüş yirmilik</td><td>Normal diş çekimine benzer, genellikle kısa sürer</td></tr><tr><td>Yarı gömülü</td><td>Diş eti açılır, gerekirse diş bölünerek çıkarılır, dikiş atılır</td></tr><tr><td>Tam gömülü (kemik içinde)</td><td>Cerrahi çekim; kemikten küçük bir pencere açılır</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "sonrasi",
+    "h": "Çekim sonrası yapılması gerekenler",
+    "html": "<ul>\n<li>Tamponu 30–45 dakika ısırarak tutun.</li>\n<li>İlk gün yanağa aralıklı soğuk uygulayın.</li>\n<li>İlk 24 saat kuvvetli ağız çalkalama, tükürme ve pipetten kaçının.</li>\n<li>Sigara içmeyin; pıhtının erimesine ve ağrılı \"kuru soket\" tablosuna yol açabilir.</li>\n<li>Ilık ve yumuşak besinler tüketin, sıcak içeceklerden ilk gün kaçının.</li>\n<li>Ertesi günden itibaren dişlerinizi fırçalayın, çekim bölgesine nazik davranın.</li>\n</ul>\n<p>Bu öneriler <a class=\"text-link\" href=\"/blog/implant-sonrasi-bakim/\">implant sonrası bakım</a> önerilerine benzerdir; ayrıntılar orada da bulunabilir.</p>"
+   },
+   {
+    "id": "iyilesme",
+    "h": "İyileşme ne kadar sürer?",
+    "html": "<p>Şişlik genellikle 2–3. günde en yüksek seviyeye ulaşır ve bir hafta içinde belirgin şekilde azalır. Dikişler 7–10 gün içinde alınır ya da kendiliğinden erir. Kemikteki boşluğun tamamen dolması birkaç ay sürer, ancak günlük yaşama çoğunlukla birkaç gün içinde dönülür.</p>\n<aside class=\"note\"><strong>Ne zaman aramalısınız?</strong><p>3. günden sonra artan ağrı (kuru soket olabilir), durmayan kanama, yükselen ateş ya da ertesi gün geçmeyen dudak-dil uyuşukluğu varsa kliniği arayın.</p></aside>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde yirmilik diş çekimi",
+    "html": "<p>Dent32'de yirmilik diş çekimini röntgen ve gerektiğinde tomografi ile planlıyoruz. Ağrılı bir yirmilik diş için <a class=\"text-link\" href=\"/blog/acil-dis-agrisi-beylikduzu/\">acil diş ağrısı rehberimize</a> göz atabilir, haftanın yedi günü açık olan kliniğimizden <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Yirmilik diş çekimi ağrılı mı?",
+    "a": "Çekim lokal anestezi altında yapıldığı için işlem sırasında ağrı beklenmez; baskı hissedilebilir. Sonraki birkaç gün ağrı ve şişlik olabilir, ağrı kesicilerle kontrol edilir."
+   },
+   {
+    "q": "Alt ve üst yirmilikler aynı anda çekilebilir mi?",
+    "a": "Evet, aynı taraftaki alt ve üst yirmilikler çoğu zaman aynı seansta çekilebilir. Dört dişin birden çekilmesi ise duruma göre planlanır."
+   },
+   {
+    "q": "Yirmilik diş çapraşıklık yapar mı?",
+    "a": "Ön dişlerdeki çapraşıklığın tek nedeni yirmilikler değildir. Ortodonti tedavisi planlanırken yirmiliklerin durumu ayrıca değerlendirilir."
+   },
+   {
+    "q": "Çekimden kaç gün sonra işe dönebilirim?",
+    "a": "Basit çekimlerde ertesi gün, cerrahi çekimlerde genellikle 1–3 gün sonra işe dönülebilir."
+   }
+  ]
+ },
+ {
+  "key": "bonding",
+  "date": "2026-10-05",
+  "cat": "Estetik",
+  "cover": "blog-bonding",
+  "slug": "bonding-nedir",
+  "title": "Bonding nedir? Dişleri kesmeden yapılan estetik düzeltme",
+  "desc": "Bonding (kompozit lamine) nedir, kimlere uygulanır, dişler kesilir mi, kaç yıl dayanır? Bonding ile porselen lamine arasındaki farklar ve bakım önerileri.",
+  "lead": "Bonding, diş renginde kompozit reçinenin dişin yüzeyine katman katman uygulanıp şekillendirilmesiyle yapılan estetik bir işlemdir. Çoğu zaman dişten hiç ya da çok az doku kaldırılır ve tek seansta tamamlanır; porselen laminelere göre daha ekonomik ama renk ve aşınma açısından daha az dayanıklıdır.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "Bonding nasıl yapılır?",
+    "html": "<p>Diş yüzeyi hafifçe pürüzlendirilir, yapıştırıcı (bonding ajanı) uygulanır ve diş renginde kompozit reçine katmanlar halinde yerleştirilip ışıkla sertleştirilir. Son olarak şekil verilir ve parlatılır. İşlem genellikle diş başına 30–60 dakika sürer ve çoğu zaman anestezi gerektirmez.</p>"
+   },
+   {
+    "id": "kimlere",
+    "h": "Bonding hangi durumlarda uygulanır?",
+    "html": "<ul>\n<li>Ön dişlerdeki küçük kırık ve çatlaklar</li>\n<li>Dişler arasındaki küçük boşluklar (diastema)</li>\n<li>Kısa ya da şekil bozukluğu olan dişler</li>\n<li>Beyazlatmayla açılmayan lokal lekeler</li>\n<li>Diş eti çekilmesine bağlı açığa çıkmış kök yüzeyleri</li>\n</ul>"
+   },
+   {
+    "id": "fark",
+    "h": "Bonding mi porselen lamine mi?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Özellik</th><th scope=\"col\">Bonding (kompozit)</th><th scope=\"col\">Porselen lamine</th></tr></thead><tbody><tr><td>Diş aşındırma</td><td>Çoğunlukla yok ya da çok az</td><td>Genellikle 0,3–0,7 mm</td></tr><tr><td>Seans sayısı</td><td>Genellikle tek seans</td><td>2–3 seans (ölçü ve laboratuvar)</td></tr><tr><td>Renk stabilitesi</td><td>Zamanla çay-kahveyle renklenebilir</td><td>Renk değiştirmez</td></tr><tr><td>Dayanıklılık</td><td>Kenar kırılması ve aşınma olabilir</td><td>Daha dayanıklı</td></tr><tr><td>Tamir</td><td>Ağızda kolayca onarılabilir</td><td>Kırılırsa genellikle yenilenir</td></tr><tr><td>Maliyet</td><td>Daha ekonomik</td><td>Daha yüksek</td></tr></tbody></table></div>\n<p>Porselen lamine hakkında ayrıntılar için <a class=\"text-link\" href=\"/blog/lamine-veneer-nedir/\">lamine veneer yazımıza</a> bakabilirsiniz.</p>"
+   },
+   {
+    "id": "omur",
+    "h": "Bonding kaç yıl dayanır?",
+    "html": "<p>Bakım ve alışkanlıklara bağlı olarak bonding uygulamaları genellikle birkaç yıl ile on yıl arasında kullanılır. Bu sürede yüzey parlatma ve küçük onarımlar gerekebilir. Tırnak yeme, kalem ısırma ve diş sıkma ömrünü kısaltır.</p>\n<aside class=\"note\"><strong>İpucu</strong><p>Beyazlatma da düşünüyorsanız önce beyazlatma yapılır, renk oturduktan sonra (genellikle 2 hafta) bonding uygulanır. Kompozit, beyazlatmayla açılmaz.</p></aside>"
+   },
+   {
+    "id": "bakim",
+    "h": "Bonding sonrası bakım",
+    "html": "<ul>\n<li>İlk 48 saat yoğun renkli içecek ve yiyeceklerden (kahve, çay, kırmızı şarap, kola) kaçınmak</li>\n<li>Düzenli fırçalama ve diş ipi</li>\n<li>Kontrollerde yüzeyin parlatılması</li>\n<li>Sert cisimleri ön dişlerle ısırmamak</li>\n</ul>\n<p>Daha kapsamlı bir estetik değişiklik planlanıyorsa <a class=\"text-link\" href=\"/blog/gulus-tasarimi-nedir/\">gülüş tasarımı</a> yaklaşımıyla seçenekler birlikte değerlendirilir. Diş rengi için <a class=\"text-link\" href=\"/blog/dis-beyazlatma/\">diş beyazlatma rehberimize</a> göz atabilirsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Bonding için diş kesilir mi?",
+    "a": "Çoğu vakada kesim yapılmaz ya da yalnızca yüzey hafifçe pürüzlendirilir. Bu nedenle bonding, geri dönüşü en kolay estetik seçeneklerden biridir."
+   },
+   {
+    "q": "Bonding sararır mı?",
+    "a": "Kompozit zamanla çay, kahve ve sigaraya bağlı renklenebilir. Düzenli parlatma rengin korunmasına yardımcı olur."
+   },
+   {
+    "q": "Bonding ağrılı mı?",
+    "a": "Genellikle anestezi gerekmez ve ağrısız bir işlemdir. Diş hassasiyeti olan bölgelerde lokal anestezi uygulanabilir."
+   },
+   {
+    "q": "Diş arası boşlukları bonding ile kapatılabilir mi?",
+    "a": "Küçük ve orta boşluklar çoğu zaman bonding ile kapatılabilir. Boşluklar büyükse ya da dişlerde çapraşıklık varsa önce ortodonti değerlendirilir."
+   }
+  ]
+ },
+ {
+  "key": "distasi",
+  "date": "2026-10-05",
+  "cat": "Tedavi",
+  "cover": "blog-dis-tasi",
+  "slug": "dis-tasi-temizligi",
+  "title": "Diş taşı temizliği mineye zarar verir mi? Ne sıklıkla yapılmalı?",
+  "desc": "Diş taşı nedir, neden oluşur? Diş taşı temizliği mineye zarar verir mi, dişleri aralar mı, ağrılı mı, ne sıklıkla yapılmalı? Temizlik sonrası hassasiyet ve evde bakım.",
+  "lead": "Diş taşı temizliği, sertleşmiş bakteri plağının ultrasonik aletlerle dişlerden uzaklaştırılmasıdır. Doğru yapıldığında mineye zarar vermez; çoğu kişi için 6 ayda bir, diş eti hastalığı olanlar için daha sık önerilir.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "Diş taşı nasıl oluşur?",
+    "html": "<p>Dişlerin üzerinde sürekli olarak bakteri plağı oluşur. Fırçalama ve diş ipiyle uzaklaştırılmayan plak, tükürükteki minerallerle birleşerek birkaç gün içinde sertleşmeye başlar ve diş taşına dönüşür. Diş taşı en çok alt ön dişlerin iç yüzeyinde ve üst azı dişlerinin yanak tarafında birikir; buralar tükürük bezlerinin açıldığı bölgelerdir.</p>\n<p>Diş taşının pürüzlü yüzeyi daha fazla plak tutar ve diş eti iltihabını besler. Bir kez oluştuktan sonra fırçayla temizlenemez.</p>"
+   },
+   {
+    "id": "zarar",
+    "h": "Diş taşı temizliği dişlere zarar verir mi?",
+    "html": "<p>Hayır. Ultrasonik aletler titreşimle taşı kırar ve su spreyiyle uzaklaştırır; doğru kullanıldığında mineyi aşındırmaz. Temizlikten sonra dişlerin arasının \"açıldığı\" hissi, aslında taşın doldurduğu boşlukların ortaya çıkmasıdır. Dişler aralanmaz; iltihap geriledikçe diş eti de toparlanır.</p>\n<aside class=\"note\"><strong>Yaygın yanılgı</strong><p>\"Taş temizliği dişleri sallar\" düşüncesi doğru değildir. Sallanmanın nedeni, uzun süre temizlenmeyen taşın yol açtığı kemik kaybıdır. Temizlik bu süreci durdurur.</p></aside>"
+   },
+   {
+    "id": "islem",
+    "h": "Temizlik nasıl yapılır, ağrılı mı?",
+    "html": "<ol>\n<li>Ağız içi muayene ve gerekirse röntgen</li>\n<li>Ultrasonik aletlerle diş taşlarının temizlenmesi</li>\n<li>El aletleriyle hassas bölgelerin temizlenmesi</li>\n<li>Lekelerin uzaklaştırılması ve cila (polisaj)</li>\n</ol>\n<p>İşlem genellikle 30–45 dakika sürer. Diş eti iltihabı yoksa çoğu kişi yalnızca hafif bir rahatsızlık hisseder. Hassasiyet varsa lokal anestezi ya da hassasiyet giderici uygulamalar yapılabilir.</p>"
+   },
+   {
+    "id": "siklik",
+    "h": "Ne sıklıkla yapılmalı?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">Önerilen sıklık</th></tr></thead><tbody><tr><td>Sağlıklı diş eti, az taş birikimi</td><td>6–12 ayda bir</td></tr><tr><td>Hızlı taş yapan, sigara içen</td><td>Genellikle 6 ayda bir</td></tr><tr><td>Diş eti hastalığı tedavisi görmüş</td><td>3–4 ayda bir</td></tr><tr><td>İmplant ya da çok sayıda kaplaması olan</td><td>6 ayda bir, kontrolle birlikte</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "sonrasi",
+    "h": "Temizlik sonrası hassasiyet ve bakım",
+    "html": "<p>Temizlikten sonra birkaç gün soğuğa hassasiyet ve diş etinde hafif kanama olabilir; genellikle kendiliğinden geçer. Hassasiyet macunları yardımcı olur. Temizlikle çay-kahve lekeleri de azalır; dişlerin doğal renginin açılması isteniyorsa <a class=\"text-link\" href=\"/blog/dis-beyazlatma/\">diş beyazlatma</a> ayrı bir işlemdir.</p>\n<p>Diş eti kanaması ve çekilmesi hakkında daha fazla bilgi için <a class=\"text-link\" href=\"/blog/dis-eti-kanamasi-ve-cekilmesi/\">diş eti rehberimizi</a> okuyabilirsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş taşı temizliği dişleri beyazlatır mı?",
+    "a": "Diş taşını ve yüzeydeki çay, kahve, sigara lekelerini uzaklaştırdığı için dişler daha temiz ve açık görünür; ancak dişin kendi rengini değiştirmez."
+   },
+   {
+    "q": "Diş taşını evde temizleyebilir miyim?",
+    "a": "Hayır. Oluşmuş diş taşı fırçayla ya da evde kullanılan aletlerle güvenli şekilde temizlenemez. Evde yapılması gereken, düzenli fırçalama ve diş ipiyle taş oluşumunu önlemektir."
+   },
+   {
+    "q": "Hamilelikte diş taşı temizliği yapılır mı?",
+    "a": "Evet, gebelikte güvenle yapılabilir ve diş eti iltihabının kontrolü için önerilir. En rahat dönem genellikle ikinci üç aylık dönemdir."
+   },
+   {
+    "q": "Diş taşı temizliği SGK kapsamında mı?",
+    "a": "Kamu ağız ve diş sağlığı merkezlerinde SGK kapsamında yapılabilir. Özel kliniklerde ücretlendirme kliniğe göre değişir."
+   }
+  ]
+ },
+ {
+  "key": "bruksizm",
+  "date": "2026-10-04",
+  "cat": "Tedavi",
+  "cover": "blog-bruksizm",
+  "slug": "dis-sikma-gece-plagi",
+  "title": "Diş sıkma ve gıcırdatma (bruksizm): belirtileri ve gece plağı",
+  "desc": "Diş sıkma ve gıcırdatma (bruksizm) nedir, neden olur? Sabah çene ağrısı, diş aşınması gibi belirtiler, gece plağı nasıl yapılır, botoks ve diğer tedavi seçenekleri.",
+  "lead": "Bruksizm, gündüz ya da uykuda dişlerin farkında olmadan sıkılması veya gıcırdatılmasıdır. Diş aşınmasına, kırık ve çatlaklara, kaplamaların zarar görmesine ve çene ağrısına yol açabilir; en yaygın koruma yöntemi kişiye özel üretilen gece plağıdır.",
+  "sections": [
+   {
+    "id": "belirti",
+    "h": "Diş sıkmanın belirtileri",
+    "html": "<ul>\n<li>Sabah uyanınca çene, şakak ya da yüz kaslarında ağrı ve yorgunluk</li>\n<li>Sabah baş ağrısı</li>\n<li>Dişlerde düzleşme, aşınma, mine kırıkları</li>\n<li>Soğuğa artan diş hassasiyeti</li>\n<li>Çenede tıklama sesi ya da ağız açmada kısıtlılık</li>\n<li>Partnerin gece diş gıcırdatma sesini fark etmesi</li>\n</ul>"
+   },
+   {
+    "id": "neden",
+    "h": "Neden olur?",
+    "html": "<p>Bruksizmin tek bir nedeni yoktur. Stres ve kaygı, uyku bozuklukları (özellikle horlama ve uyku apnesi), kafein, alkol, sigara ve bazı ilaçlar riski artırabilir. Gündüz diş sıkma çoğunlukla yoğun konsantrasyon ya da stres anlarında farkında olmadan yapılır.</p>"
+   },
+   {
+    "id": "plak",
+    "h": "Gece plağı nedir, nasıl yapılır?",
+    "html": "<p>Gece plağı, ağız ölçüsü ya da dijital tarama ile kişiye özel üretilen, genellikle üst ya da alt dişlere takılan şeffaf ve sert bir aparattır. Diş sıkmayı tamamen durdurmaz; ancak kuvvetin dişler yerine plak tarafından karşılanmasını sağlayarak dişleri ve restorasyonları korur, kas yükünü dengeler.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Plak türü</th><th scope=\"col\">Özellik</th></tr></thead><tbody><tr><td>Hazır (eczane) plakları</td><td>Ucuz ama uyumu zayıf; uzun süreli kullanım önerilmez</td></tr><tr><td>Yumuşak kişiye özel plak</td><td>Konforlu, ancak bazı hastalarda çiğneme refleksini artırabilir</td></tr><tr><td>Sert kişiye özel plak</td><td>Isırma dengelemesi yapılabilir; bruksizmde en sık tercih edilen</td></tr></tbody></table></div>\n<aside class=\"note\"><strong>Kaplama ve implant hastaları</strong><p>Zirkonyum, e.max ya da implant üstü dişleri olan ve diş sıkan hastalarda gece plağı, restorasyonların ömrünü korumak için özellikle önemlidir.</p></aside>"
+   },
+   {
+    "id": "diger",
+    "h": "Diğer tedavi seçenekleri",
+    "html": "<ul>\n<li><strong>Farkındalık:</strong> Gün içinde dişlerin birbirine değip değmediğini fark etmek; normalde dudaklar kapalıyken dişler ayrık durmalıdır.</li>\n<li><strong>Kas gevşetici yaklaşımlar:</strong> Çene egzersizleri, sıcak uygulama, fizik tedavi.</li>\n<li><strong>Botulinum toksini (botoks):</strong> Bazı hastalarda çiğneme kaslarının aşırı kasılmasını azaltmak için hekim değerlendirmesiyle uygulanabilir; etkisi geçicidir.</li>\n<li><strong>Uyku değerlendirmesi:</strong> Horlama ve uyku apnesi şüphesinde ilgili uzmana yönlendirme.</li>\n<li><strong>Hasar görmüş dişlerin onarımı:</strong> Aşınan dişler dolgu, bonding ya da kaplama ile restore edilir.</li>\n</ul>"
+   },
+   {
+    "id": "bakim",
+    "h": "Gece plağının bakımı",
+    "html": "<p>Plak her sabah soğuk ya da ılık suyla yıkanmalı, yumuşak bir fırçayla temizlenip kuru bir kutuda saklanmalıdır. Sıcak suyla yıkanmamalıdır; şekli bozulabilir. Kontrol randevularına plağınızla gelmeniz önerilir. Aşınmış dişlerin restorasyonu için <a class=\"text-link\" href=\"/blog/dis-kaplama-cesitleri/\">diş kaplama çeşitleri</a> ve <a class=\"text-link\" href=\"/blog/bonding-nedir/\">bonding</a> yazılarımıza bakabilirsiniz.</p>\n<p>Gece plağı, şeffaf plak ortodontisinde kullanılan plaklardan farklıdır; dişleri hareket ettirmez, yalnızca korur. Ortodontik plaklar için <a class=\"text-link\" href=\"/blog/seffaf-plak-mi-tel-mi/\">şeffaf plak mı tel mi</a> yazımızı okuyabilirsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Gece plağı diş sıkmayı tamamen bitirir mi?",
+    "a": "Hayır, sıkmayı her zaman durdurmaz; ancak dişleri ve restorasyonları aşınmadan korur ve kaslardaki yükü azaltabilir."
+   },
+   {
+    "q": "Gece plağı ne kadar dayanır?",
+    "a": "Sıkmanın şiddetine bağlı olarak genellikle birkaç yıl kullanılır. Delinme, çatlama ya da uyum kaybı olursa yenilenir."
+   },
+   {
+    "q": "Çocuklarda diş gıcırdatma normal mi?",
+    "a": "Süt dişi döneminde gece gıcırdatma sık görülür ve çoğu zaman kendiliğinden azalır. Ağrı, belirgin aşınma ya da uyku sorunu varsa değerlendirilmelidir."
+   },
+   {
+    "q": "Şeffaf plak tedavisi gören biri gece plağı kullanabilir mi?",
+    "a": "Ortodontik plaklar tedavi süresince dişleri bir ölçüde korur. Tedavi bitiminde sıkma devam ediyorsa pekiştirme plağı ve gece plağı birlikte planlanabilir."
+   }
+  ]
+ },
+ {
   "key": "gulus",
   "date": "2026-10-03",
   "cat": "Estetik",
@@ -355,7 +1495,7 @@
  {
   "key": "zirkonyum",
   "date": "2026-09-04",
-  "cat": "Estetik",
+  "cat": "Kaplama",
   "cover": "blog-zirkonyum",
   "slug": "zirkonyum-mu-porselen-mi",
   "title": "Zirkonyum mu, porselen mi? Kaplama seçerken nelere bakmalı",

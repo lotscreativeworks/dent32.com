@@ -1,5 +1,1145 @@
 [
  {
+  "key": "klinik",
+  "date": "2026-10-19",
+  "cat": "Guide",
+  "cover": "blog-klinik-secimi",
+  "slug": "choosing-a-dentist-in-beylikduzu",
+  "title": "Choosing a dental clinic in Beylikdüzü, Istanbul: what to look for",
+  "desc": "How to choose a dental clinic in Beylikdüzü or anywhere in Istanbul: the examination, a written treatment plan and price, the dental team, sterilisation, access and aftercare.",
+  "lead": "The quickest way to judge a dental clinic in Beylikdüzü is to look at how thorough the first examination is, whether the treatment plan and cost are given in writing, and how follow-up is handled after treatment.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Why does choosing the right clinic matter?",
+    "html": "<p>Many dental treatments are hard to reverse: enamel that is removed doesn't grow back, an extracted tooth can't be put back, and an implant can't easily be repositioned once it's in the bone. That's why the quality of planning should weigh as much as price or convenience.</p>\n<p>There are many dental clinics, polyclinics and private practices in Beylikdüzü and the neighbouring districts of Esenyurt, Büyükçekmece and Avcılar. With so much choice, it helps to have concrete criteria to compare them. The sections below summarise them.</p>"
+   },
+   {
+    "id": "muayene",
+    "h": "What should happen at the first examination?",
+    "html": "<p>A good first examination isn't limited to the tooth that hurts. The whole mouth, the gums, your bite and any existing fillings or crowns are assessed, with a panoramic X-ray or 3D CT scan if needed.</p>\n<ul>\n<li><strong>Findings explained:</strong> You should be shown what the X-ray shows, in plain language.</li>\n<li><strong>Options presented:</strong> Most problems have more than one solution (e.g. implant, bridge or removable denture). The pros and cons of each should be discussed.</li>\n<li><strong>No pressure:</strong> You should be given time to think, not pushed into starting major treatment on the same day.</li>\n<li><strong>Room for questions:</strong> The time a dentist gives your questions says a lot about communication during treatment.</li>\n</ul>"
+   },
+   {
+    "id": "plan",
+    "h": "Why a written treatment plan and price matter",
+    "html": "<p>Verbal quotes often change as extra items are added during treatment. A written plan makes clear from the start what will be done to each tooth, how many visits it will take and what each item costs.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">What the plan should include</th><th scope=\"col\">Why it matters</th></tr></thead><tbody><tr><td>Procedures, tooth by tooth</td><td>You know exactly what you're paying for</td></tr><tr><td>Materials and brands</td><td>E.g. implant brand, zirconia or e.max</td></tr><tr><td>Possible additional procedures</td><td>Bone grafts, sinus lifts or root canals don't come as a surprise</td></tr><tr><td>Number of visits and timeline</td><td>You can plan work, travel and daily life</td></tr><tr><td>Check-ups and follow-up</td><td>The scope of aftercare is clear</td></tr></tbody></table></div>\n<p>At Dent32 we share the findings, options and an approximate cost in writing after the examination. We explain what shapes the cost in our article on <a class=\"text-link\" href=\"/en/blog/dental-implant-cost-factors/\">dental implant cost factors</a>.</p>"
+   },
+   {
+    "id": "kadro",
+    "h": "The dental team and their areas of focus",
+    "html": "<p>You're entitled to know in advance which dentist will carry out which treatment. Orthodontics, implant surgery, aesthetic dentistry and children's dentistry each call for different experience. When several disciplines plan together under one roof, cases that need, say, orthodontics followed by crowns run more smoothly.</p>\n<p>We introduce our team and how we work on our <a class=\"text-link\" href=\"/en/about/#kadro\">about page</a>. You can also see previous cases in our <a class=\"text-link\" href=\"/en/gallery/\">before-and-after gallery</a>.</p>"
+   },
+   {
+    "id": "hijyen",
+    "h": "How can you tell sterilisation is taken seriously?",
+    "html": "<ul>\n<li>Instruments opened from sterile pouches for every patient</li>\n<li>Single-use items (needles, gloves, suction tips) changed for every patient</li>\n<li>Surfaces of the dental unit disinfected between patients</li>\n<li>A dedicated sterilisation area in the clinic</li>\n</ul>\n<p>Don't hesitate to ask about these; a careful clinic will be happy to answer.</p>"
+   },
+   {
+    "id": "ulasim",
+    "h": "Access, opening days and urgent problems",
+    "html": "<p>Implant or orthodontic treatment involves several appointments over months. Easy access to the clinic and appointments outside your working hours make it easier to stay on schedule.</p>\n<p>Dent32 is in Barış Mahallesi, Beylikdüzü, on the E-5 service road at Ginza Lavinya, and is open seven days a week. For toothache that starts in the evening or at the weekend, see our <a class=\"text-link\" href=\"/en/blog/emergency-toothache-istanbul/\">emergency toothache guide</a>.</p>\n<aside class=\"note\"><strong>In short</strong><p>A thorough examination, a written plan and cost, clarity about who treats you, visible hygiene standards and proper aftercare are the five things to look for when choosing a dental clinic in Beylikdüzü or anywhere in Istanbul.</p></aside>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is there a difference between a dental clinic and a dental polyclinic?",
+    "a": "In Türkiye, an oral and dental health polyclinic is a licensed facility where several dentists work together and specific requirements are met; a private practice usually has one dentist. In everyday language \"dental clinic\" is used for both. For patients, what matters most is the dentist's experience, planning and hygiene."
+   },
+   {
+    "q": "Do I have to start treatment at the first visit?",
+    "a": "No. The first visit is for understanding your situation and discussing options. It's perfectly normal to take the plan home, think it over, or get a second opinion."
+   },
+   {
+    "q": "Can I get a price over the phone or on WhatsApp?",
+    "a": "If you send photos and X-rays we can give preliminary information, but the final plan and cost are confirmed after a clinical examination and any necessary imaging."
+   },
+   {
+    "q": "Do you see patients from outside Beylikdüzü?",
+    "a": "Yes. We have patients from Esenyurt, Büyükçekmece, Avcılar and other districts of Istanbul, as well as from abroad. We can plan appointments to keep the number of visits down."
+   }
+  ]
+ },
+ {
+  "key": "beyimplant",
+  "date": "2026-10-18",
+  "cat": "Implants",
+  "cover": "blog-beylikduzu-implant",
+  "slug": "dental-implants-beylikduzu-istanbul",
+  "title": "Dental implants in Beylikdüzü, Istanbul: from examination to final tooth",
+  "desc": "How dental implant treatment works at a clinic in Beylikdüzü, Istanbul: examination and CT scan, implant surgery, healing time, the final crown and check-ups, step by step.",
+  "lead": "Dental implant treatment follows five basic steps: examination and CT scan, planning, placing the implant, waiting for it to fuse with the bone, and fitting the final tooth. For a single tooth, the process takes 3 to 6 months for most patients.",
+  "sections": [
+   {
+    "id": "adim1",
+    "h": "1. Examination and 3D CT scan",
+    "html": "<p>Implant planning starts with measuring the bone. A panoramic X-ray gives an overview, but the width and height of the bone and its distance from the nerve canal and sinus can only be measured reliably with a 3D cone-beam CT scan.</p>\n<p>Gum health, neighbouring teeth, your bite and your general health (medication, diabetes, smoking) are assessed at the same time. Any decay or gum inflammation is treated before the implant.</p>"
+   },
+   {
+    "id": "adim2",
+    "h": "2. Planning: how many implants, which brand, what kind of tooth?",
+    "html": "<p>The implant's diameter, length and angle are planned from the CT data. A single missing tooth is usually replaced with one implant and a crown; several missing teeth with implant-supported bridges; a whole arch with solutions such as All-on-Four.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Situation</th><th scope=\"col\">Common solution</th></tr></thead><tbody><tr><td>One missing tooth</td><td>One implant + zirconia or porcelain crown</td></tr><tr><td>Two or three adjacent missing teeth</td><td>Bridge on two implants</td></tr><tr><td>No teeth in the jaw</td><td>Fixed bridge on 4–6 implants or an implant-retained denture</td></tr><tr><td>Insufficient bone</td><td>Implant after bone graft or sinus lift</td></tr></tbody></table></div>\n<p>For full-arch options, see our <a class=\"text-link\" href=\"/en/blog/all-on-four/\">All-on-Four guide</a> and our article on <a class=\"text-link\" href=\"/en/blog/implant-supported-dentures/\">implant-supported dentures</a>.</p>"
+   },
+   {
+    "id": "adim3",
+    "h": "3. Placing the implant",
+    "html": "<p>The procedure is done under local anaesthetic. The gum is opened, a site is prepared in the bone and the implant is placed; the area is then stitched or a healing cap is fitted. A single implant usually takes 30–60 minutes.</p>\n<p>Most patients feel pressure rather than pain. Mild swelling and tenderness for a few days are normal. We explain what to do afterwards in our <a class=\"text-link\" href=\"/en/blog/dental-implant-aftercare/\">implant aftercare guide</a>.</p>"
+   },
+   {
+    "id": "adim4",
+    "h": "4. Fusing with the bone (osseointegration)",
+    "html": "<p>The implant takes about 2–3 months to fuse in the lower jaw and 3–6 months in the upper jaw. A temporary tooth can be worn in visible areas during this time, so you're not left with a gap.</p>\n<p>In some suitable cases the implant can be placed in the same visit as the extraction (immediate implant), with a temporary tooth on the same day. We cover when this is possible in <a class=\"text-link\" href=\"/en/blog/dental-implant-timeline/\">how long implant treatment takes</a>.</p>"
+   },
+   {
+    "id": "adim5",
+    "h": "5. Impressions, final tooth and check-ups",
+    "html": "<p>Once the implant has fused, an impression is taken (digital scan or conventional) and the final tooth is made. After a try-in, the crown or bridge is fixed to the implant. A few check-ups follow in the first year, then an examination and professional clean every six months.</p>\n<aside class=\"note\"><strong>How many visits?</strong><p>For a single implant, 4–6 visits are enough for most patients: examination and CT, implant surgery, stitch check, impression, try-in, and fitting the final tooth.</p></aside>"
+   },
+   {
+    "id": "dikkat",
+    "h": "Questions to ask before getting an implant",
+    "html": "<ul>\n<li>Which implant brand will be used, and will spare parts still be available years from now?</li>\n<li>Is there enough bone, or will a graft or sinus lift be needed?</li>\n<li>What material will the tooth on top be made of?</li>\n<li>Will I have a temporary tooth while the implant heals?</li>\n<li>What will the follow-up schedule be?</li>\n</ul>\n<p>At Dent32 we plan implant treatment with an examination and CT scan and give you the plan in writing. See our <a class=\"text-link\" href=\"/en/treatments/#implant\">implant treatment section</a> or <a class=\"text-link\" href=\"/en/contact/\">book an appointment</a>. If you're travelling from abroad, our <a class=\"text-link\" href=\"/en/blog/dental-treatment-in-istanbul/\">planning guide</a> explains how to organise visits.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How long does implant treatment take in Istanbul?",
+    "a": "With healthy, sufficient bone, a single implant is usually completed in 3–4 months. If a bone graft or sinus lift is needed, it can take 6–9 months overall."
+   },
+   {
+    "q": "Am I put to sleep for implant surgery?",
+    "a": "Most implants are placed under local anaesthetic without sedation. If many implants are planned or you're very anxious, sedation options can be discussed."
+   },
+   {
+    "q": "Can I go back to work after an implant?",
+    "a": "After a single implant most patients return to normal activities the next day. After more extensive surgery a few days' rest may be advised."
+   },
+   {
+    "q": "Can I have implants if I've lost bone?",
+    "a": "In most cases, yes. If bone volume is insufficient, a bone graft or sinus lift can prepare the site; in some cases short or angled implants avoid the need for extra surgery."
+   }
+  ]
+ },
+ {
+  "key": "implantfiyat",
+  "date": "2026-10-17",
+  "cat": "Implants",
+  "cover": "blog-implant-fiyat",
+  "slug": "dental-implant-cost-factors",
+  "title": "What affects the cost of dental implants?",
+  "desc": "What determines the price of a dental implant: implant brand, the crown on top, bone grafts and sinus lifts, number of implants and planning. What to check when comparing quotes.",
+  "lead": "The cost of a dental implant isn't a single number: the implant brand, the material of the tooth on top, additional procedures such as a bone graft or sinus lift, and the total number of implants together determine the price.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Why can't everyone be quoted the same price?",
+    "html": "<p>Asking \"how much is an implant?\" is a bit like asking \"how much is a car?\": without knowing the model, the specification and the extras, a single answer would be misleading. Two patients may both need \"one implant\", but one needs only the implant and crown while the other also needs an extraction, a bone graft and a temporary tooth.</p>\n<p>Single prices quoted over the phone or online often cover only the screw; the crown and extra procedures are added later. When comparing, look at a written plan for the whole treatment.</p>"
+   },
+   {
+    "id": "etkenler",
+    "h": "The main factors that set the price",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Factor</th><th scope=\"col\">Effect on cost</th></tr></thead><tbody><tr><td>Implant brand and system</td><td>Systems with strong long-term clinical data and good parts availability usually cost more</td></tr><tr><td>The crown on top</td><td>Zirconia, porcelain or e.max, plus the type of abutment (connecting part)</td></tr><tr><td>Additional surgery</td><td>Extraction, bone graft, membrane, sinus lift</td></tr><tr><td>Number of implants</td><td>Single tooth, bridge or full-arch plan</td></tr><tr><td>Temporary tooth</td><td>Wearing a temporary tooth in visible areas while healing</td></tr><tr><td>Imaging and planning</td><td>CT scan, and where needed digital planning and a surgical guide</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "marka",
+    "h": "Does the implant brand really matter?",
+    "html": "<p>Yes, but not simply because \"expensive is better\". What matters is that the brand is backed by research, that spare parts will still be available years later when a crown needs replacing, and that the dentist is experienced with that system.</p>\n<p>With an unknown or discontinued system, finding compatible parts later can be difficult. That's why the implant brand should be stated in your treatment plan.</p>"
+   },
+   {
+    "id": "ek-islem",
+    "h": "How do bone grafts and sinus lifts affect the cost?",
+    "html": "<p>If a tooth was lost long ago, the bone shrinks over time. Without enough bone, a graft or, in the upper back jaw, a sinus lift may be needed before or during implant placement. These add to both cost and overall time. See our article on <a class=\"text-link\" href=\"/en/blog/bone-graft-and-sinus-lift/\">bone grafts and sinus lifts</a> for details.</p>\n<aside class=\"note\"><strong>Tip</strong><p>If you have a tooth that needs to come out, discuss the implant plan at the extraction appointment. In some cases the implant can be placed at the same visit, or steps can be taken to limit bone loss.</p></aside>"
+   },
+   {
+    "id": "ucuz",
+    "h": "What to watch out for with very low prices",
+    "html": "<ul>\n<li>Ask whether the price covers only the screw or also the abutment and crown.</li>\n<li>Ask for the implant brand and crown material in writing.</li>\n<li>Be wary of a final plan made without a CT scan.</li>\n<li>Ask how check-ups and any complications will be handled.</li>\n</ul>\n<p>An implant is meant to stay in your mouth for many years. A small saving at the start can turn into a much larger cost if it needs to be redone.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "How is the price set at Dent32?",
+    "html": "<p>After the examination and CT scan we share, item by item and in writing, what will be done to each tooth, the implant brand and crown material, and any additional procedures. If you send your X-rays and photos via WhatsApp we can give preliminary information. For the stages of treatment, see our <a class=\"text-link\" href=\"/en/blog/dental-implants-beylikduzu-istanbul/\">step-by-step implant guide</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Does the implant price include the crown?",
+    "a": "It depends on the clinic. Some prices cover only the implant screw, with the abutment and crown charged separately. Ask for these items to be listed separately in any quote."
+   },
+   {
+    "q": "Why are implants in Türkiye often less expensive?",
+    "a": "Lower operating and laboratory costs are the main reasons. Quality depends on the clinic, the materials and the dentist, not the country, so compare written plans rather than headline prices."
+   },
+   {
+    "q": "Can I pay in stages?",
+    "a": "We discuss payment options based on the plan after the examination. Because treatment spans months, payments can usually follow the treatment stages."
+   },
+   {
+    "q": "Is a single implant or a bridge more economical?",
+    "a": "A bridge can look cheaper in the short term, but it requires reducing the neighbouring teeth and may need replacing later. See our implant or bridge article for a comparison."
+   }
+  ]
+ },
+ {
+  "key": "kaplama",
+  "date": "2026-10-17",
+  "cat": "Crowns",
+  "cover": "blog-kaplama-cesitleri",
+  "slug": "types-of-dental-crowns",
+  "title": "Types of dental crowns: zirconia, e.max, porcelain and veneers compared",
+  "desc": "What a dental crown is and when it's needed. The differences between zirconia, e.max (glass ceramic), porcelain-fused-to-metal and laminate veneers, how long they last and how to choose.",
+  "lead": "A dental crown is a restoration that fully covers and protects a worn, broken, discoloured or root-filled tooth. The most common options are zirconia, e.max glass ceramic and porcelain fused to metal; a laminate veneer covers only the front surface and removes less tooth structure.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "When is a crown needed?",
+    "html": "<ul>\n<li>Teeth weakened by large fillings</li>\n<li>Broken or cracked teeth</li>\n<li>After root canal treatment, especially back teeth</li>\n<li>Severe discolouration that whitening can't lift</li>\n<li>Teeth supporting a bridge, and teeth on implants</li>\n<li>Comprehensive correction of shape and size</li>\n</ul>"
+   },
+   {
+    "id": "karsilastirma",
+    "h": "Crown types compared",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Type</th><th scope=\"col\">Aesthetics</th><th scope=\"col\">Strength</th><th scope=\"col\">Typical use</th></tr></thead><tbody><tr><td>Zirconia</td><td>Natural-looking, metal-free</td><td>Very high</td><td>Front and back teeth, bridges, on implants</td></tr><tr><td>E.max (lithium disilicate)</td><td>Very high translucency</td><td>High</td><td>Front teeth, single crowns, veneers</td></tr><tr><td>Porcelain fused to metal</td><td>Good, but more opaque</td><td>High, long clinical track record</td><td>Back teeth, long bridges</td></tr><tr><td>Laminate veneer</td><td>Very high</td><td>High in the right case</td><td>Front surface of front teeth</td></tr></tbody></table></div>\n<p>We compare zirconia and porcelain in <a class=\"text-link\" href=\"/en/blog/zirconia-vs-porcelain-crowns/\">zirconia or porcelain</a>, explain e.max in <a class=\"text-link\" href=\"/en/blog/emax-crowns/\">what are e.max crowns</a>, and cover veneers in our <a class=\"text-link\" href=\"/en/blog/laminate-veneers/\">laminate veneer guide</a>.</p>"
+   },
+   {
+    "id": "secim",
+    "h": "Which crown is right for you?",
+    "html": "<p>The choice depends on how much healthy tooth remains, where the tooth is, your bite force, whether you grind your teeth, your gum level and your aesthetic goals. Translucency matters most at the front; fracture resistance matters most at the back.</p>\n<p>If a tooth is healthy and only its colour or shape needs changing, more conservative options such as veneers or bonding should be considered first. Unnecessary full crowns sacrifice healthy tooth structure.</p>\n<aside class=\"note\"><strong>Important</strong><p>Crowns shouldn't be the first choice for \"whiter teeth\". If colour is the only issue, teeth whitening is considered first.</p></aside>"
+   },
+   {
+    "id": "surec",
+    "h": "How does crown treatment proceed?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Stage</th><th scope=\"col\">What happens</th></tr></thead><tbody><tr><td>Examination and planning</td><td>X-rays, smile design if needed, shade selection</td></tr><tr><td>Tooth preparation</td><td>Under local anaesthetic, the tooth is reduced by the thickness of the crown</td></tr><tr><td>Impression</td><td>Digital scan or conventional impression; temporary crowns fitted</td></tr><tr><td>Try-in</td><td>Fit, shade and shape checked</td></tr><tr><td>Cementation</td><td>The final crown is bonded and the bite checked</td></tr></tbody></table></div>\n<p>In most cases treatment is completed within 1–2 weeks. The number of visits depends on how many teeth are treated and whether other treatment is needed.</p>"
+   },
+   {
+    "id": "omur",
+    "h": "How long do crowns last?",
+    "html": "<p>Well-planned, well-maintained crowns last ten years or more for most patients. The biggest threats are decay at the margins, gum disease and grinding. For sensitivity and care after crowns, see our <a class=\"text-link\" href=\"/en/blog/sensitivity-after-dental-crowns/\">aftercare guide</a>. You can read about crown options at our Beylikdüzü clinic in the <a class=\"text-link\" href=\"/en/treatments/#kaplama\">treatments section</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How much is the tooth reduced for a crown?",
+    "a": "It depends on the material, typically around 1–2 mm. For a veneer, only 0.3–0.7 mm is removed from the front surface, sometimes none."
+   },
+   {
+    "q": "Can a crowned tooth decay?",
+    "a": "The crown itself can't decay, but the tooth underneath can, especially at the gum line. That's why flossing and regular check-ups matter."
+   },
+   {
+    "q": "Can crowns be whitened?",
+    "a": "No. Crowns, fillings and veneers don't change colour with whitening. If you're considering whitening, do it before your crowns are made."
+   },
+   {
+    "q": "Does a root-filled tooth need a crown?",
+    "a": "Back teeth are more prone to fracture after root canal treatment, so a crown is often recommended. Front teeth and teeth with little tissue loss may only need a filling."
+   }
+  ]
+ },
+ {
+  "key": "kanal",
+  "date": "2026-10-16",
+  "cat": "Treatment",
+  "cover": "blog-kanal",
+  "slug": "root-canal-treatment",
+  "title": "Root canal treatment: when is it needed, how many visits, does it hurt?",
+  "desc": "What root canal treatment is, the symptoms that call for it, how many visits it takes and whether it hurts. Pain afterwards, whether a crown is needed, and why saving the tooth matters.",
+  "lead": "Root canal treatment cleans out a nerve (pulp) inflamed by decay or trauma, disinfects the canals and seals them. It's done under local anaesthetic, usually takes 1–2 visits, and aims to keep the tooth rather than extract it.",
+  "sections": [
+   {
+    "id": "belirti",
+    "h": "Symptoms that may mean you need a root canal",
+    "html": "<ul>\n<li>Pain after hot or cold that lingers</li>\n<li>Spontaneous, throbbing pain that wakes you at night</li>\n<li>Tenderness when biting or touching the tooth</li>\n<li>Swelling of the gum or a pimple-like bump that discharges</li>\n<li>Darkening of the tooth (especially after an injury)</li>\n</ul>\n<p>Sometimes a nerve dies without any symptoms and is found on a routine X-ray, which is why regular check-ups matter.</p>"
+   },
+   {
+    "id": "asamalar",
+    "h": "How is root canal treatment done?",
+    "html": "<ol>\n<li>X-rays show the number and length of roots and the extent of infection.</li>\n<li>Local anaesthetic is given and the tooth is isolated.</li>\n<li>Decay is removed and the nerve tissue is reached.</li>\n<li>The canals are cleaned and shaped with special instruments and rinsed with disinfecting solutions.</li>\n<li>The canals are filled with a sealing material.</li>\n<li>The tooth is restored with a permanent filling or crown.</li>\n</ol>"
+   },
+   {
+    "id": "seans",
+    "h": "How many visits does it take?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Situation</th><th scope=\"col\">Typical visits</th></tr></thead><tbody><tr><td>Vital but inflamed nerve</td><td>Usually one</td></tr><tr><td>Dead nerve with infection at the root (abscess)</td><td>Usually two, with medication placed in between</td></tr><tr><td>Redoing a previous root canal</td><td>Two or more</td></tr></tbody></table></div>\n<p>A visit usually lasts 45–90 minutes. Front teeth have fewer canals and take less time; molars take longer.</p>"
+   },
+   {
+    "id": "agri",
+    "h": "Does root canal treatment hurt?",
+    "html": "<p>It's done under local anaesthetic and most patients feel no significant pain during treatment. In fact, it relieves the pain caused by the inflammation. Mild tenderness when biting for a few days afterwards is common and usually settles with simple painkillers.</p>\n<aside class=\"note\"><strong>When to call</strong><p>If swelling increases, if pain gets worse rather than better over a few days, or if you develop a fever, contact the clinic.</p></aside>"
+   },
+   {
+    "id": "kaplama",
+    "h": "Do I need a crown after a root canal?",
+    "html": "<p>Root-filled teeth, especially back teeth, are more prone to fracture because of lost tooth structure, so a crown is often recommended for molars. Front teeth or teeth with little tissue loss may only need a filling. See <a class=\"text-link\" href=\"/en/blog/types-of-dental-crowns/\">types of dental crowns</a>.</p>"
+   },
+   {
+    "id": "cekim",
+    "h": "Isn't extraction simpler?",
+    "html": "<p>Extraction can look quicker in the short term, but the missing tooth then needs replacing with an implant or bridge, which takes longer and costs more. Keeping the natural tooth is usually the first choice when possible. If a tooth has been lost, see <a class=\"text-link\" href=\"/en/blog/implant-or-bridge/\">implant or bridge</a>. You can also read more in our <a class=\"text-link\" href=\"/en/treatments/#kanal\">treatments section</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can a root canal be done in one visit?",
+    "a": "If the nerve is still vital and there's no infection at the root, often yes. With an abscess, it's usually completed in two visits."
+   },
+   {
+    "q": "How long does pain last after a root canal?",
+    "a": "Mild tenderness usually fades over 2–5 days. Increasing pain or swelling should be checked."
+   },
+   {
+    "q": "How long does a root-filled tooth last?",
+    "a": "A well-treated and properly restored root-filled tooth can last many years, often for life."
+   },
+   {
+    "q": "Can I have a root canal while pregnant?",
+    "a": "Yes, when needed; the second trimester is usually the most comfortable time. X-rays and medication are planned with your pregnancy in mind."
+   }
+  ]
+ },
+ {
+  "key": "kopru",
+  "date": "2026-10-15",
+  "cat": "Implants",
+  "cover": "blog-implant-kopru",
+  "slug": "implant-or-bridge",
+  "title": "Implant or bridge? Which is better for a missing tooth?",
+  "desc": "Implant or bridge for a missing tooth? A comparison of the effect on neighbouring teeth, bone loss, treatment time, cleaning, lifespan and cost.",
+  "lead": "There are two fixed ways to replace a missing tooth: an implant placed in the jawbone, or a bridge supported by the neighbouring teeth. An implant leaves the neighbouring teeth untouched and helps preserve bone; a bridge is quicker but may require reducing healthy teeth.",
+  "sections": [
+   {
+    "id": "karsilastirma",
+    "h": "The key differences between an implant and a bridge",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Feature</th><th scope=\"col\">Implant</th><th scope=\"col\">Bridge</th></tr></thead><tbody><tr><td>Neighbouring teeth</td><td>Untouched</td><td>Supporting teeth are reduced</td></tr><tr><td>Bone</td><td>Transfers chewing load to bone, slowing shrinkage</td><td>Bone under the gap continues to shrink</td></tr><tr><td>Time</td><td>Usually 3–6 months</td><td>Usually 1–2 weeks</td></tr><tr><td>Surgery</td><td>Minor surgery needed</td><td>No surgery</td></tr><tr><td>Cleaning</td><td>Brush and floss like a natural tooth</td><td>Special floss or interdental brush under the bridge</td></tr><tr><td>Initial cost</td><td>Usually higher</td><td>Usually lower</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "implant-ne-zaman",
+    "h": "When does an implant make more sense?",
+    "html": "<ul>\n<li>When the teeth either side of the gap are healthy and unfilled: there's no reason to reduce them for a bridge.</li>\n<li>When there's enough bone, or bone can be built up with a graft.</li>\n<li>When you want a long-term, independent solution: if a problem ever arises with an implant, the neighbouring teeth aren't affected.</li>\n<li>When several teeth in a row are missing and there aren't enough supporting teeth for a bridge.</li>\n</ul>\n<p>For the stages and timeline, see <a class=\"text-link\" href=\"/en/blog/dental-implant-timeline/\">how long implant treatment takes</a>.</p>"
+   },
+   {
+    "id": "kopru-ne-zaman",
+    "h": "When might a bridge be the better choice?",
+    "html": "<ul>\n<li>When the neighbouring teeth already have large fillings or need crowns anyway: the bridge protects them at the same time.</li>\n<li>When general health doesn't allow surgery.</li>\n<li>When bone is very limited and the patient doesn't want extra surgery.</li>\n<li>When treatment needs to be completed quickly.</li>\n</ul>\n<p>Our article on <a class=\"text-link\" href=\"/en/blog/types-of-dental-crowns/\">types of dental crowns</a> explains the materials used for bridges.</p>"
+   },
+   {
+    "id": "omur",
+    "h": "Which lasts longer?",
+    "html": "<p>Both can last many years when well planned and properly cared for. With bridges, the most common problems are decay starting at the crown margins of the supporting teeth and gum problems, so cleaning under the bridge is essential. With implants, the main risk is inflammation of the gum and bone around the implant (peri-implantitis).</p>\n<p>Over the long term implants usually have the edge, because even if the crown is replaced the implant itself can stay in place.</p>\n<aside class=\"note\"><strong>Important</strong><p>Leaving a gap for a long time can let the opposing tooth over-erupt into the space and the neighbouring teeth tip into it. Whichever option you choose, it's best not to wait too long.</p></aside>"
+   },
+   {
+    "id": "karar",
+    "h": "How is the decision made?",
+    "html": "<p>The decision depends on the neighbouring teeth, bone volume, general health, budget and expectations. At the examination we explain both options with their pros and cons and compare them in writing. <a class=\"text-link\" href=\"/en/contact/\">Get in touch to book an appointment</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I switch from a bridge to an implant later?",
+    "a": "Yes. The bridge can be removed and an implant placed in the gap; but because the supporting teeth were reduced, they will need crowns too. Bone is assessed separately."
+   },
+   {
+    "q": "Which is recommended for a single missing tooth?",
+    "a": "If the teeth on either side are healthy, an implant is usually recommended because no healthy tooth structure is removed. If the neighbouring teeth need crowns anyway, a bridge can also be suitable."
+   },
+   {
+    "q": "What is an implant bridge?",
+    "a": "When several teeth are missing, a bridge is made on two or more implants instead of placing one implant per tooth. Natural teeth aren't touched."
+   },
+   {
+    "q": "Is a removable denture also an option?",
+    "a": "Yes. Partial dentures cost less but offer less comfort and chewing efficiency than fixed solutions."
+   }
+  ]
+ },
+ {
+  "key": "acil",
+  "date": "2026-10-15",
+  "cat": "Guide",
+  "cover": "blog-acil-dis",
+  "slug": "emergency-toothache-istanbul",
+  "title": "Toothache at night or at the weekend: what to do and when it's urgent",
+  "desc": "What you can do at home for toothache that starts in the evening or at the weekend, which situations are urgent, broken teeth, lost crowns, facial swelling and a dentist open at weekends in Beylikdüzü, Istanbul.",
+  "lead": "When toothache starts, first judge how severe it is and whether there's swelling or fever. Swelling spreading to the face or neck, difficulty swallowing or breathing, and a high temperature are emergencies; otherwise, painkillers and cold compresses can bring relief until you're seen.",
+  "sections": [
+   {
+    "id": "acil-mi",
+    "h": "Which situations are urgent?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Situation</th><th scope=\"col\">What to do</th></tr></thead><tbody><tr><td>Swelling spreading to the face, under the eye or neck, with fever</td><td>See a dentist the same day; if swallowing or breathing is difficult, go to hospital A&E immediately</td></tr><tr><td>A permanent tooth knocked out</td><td>Hold it by the crown, not the root, keep it in milk and see a dentist as soon as possible (ideally within an hour)</td></tr><tr><td>Bleeding that won't stop (after extraction)</td><td>Press with gauze for 30 minutes; if it continues, call the clinic or go to A&E</td></tr><tr><td>Throbbing pain that keeps you awake</td><td>Painkiller and the earliest available appointment</td></tr><tr><td>Broken tooth, lost filling or crown</td><td>If there's no pain, an appointment within a few days</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "evde",
+    "h": "What can you do at home until you're seen?",
+    "html": "<ul>\n<li>Take a painkiller you've used before and that suits you, at the dose on the leaflet.</li>\n<li>If there's swelling, apply cold to the outside of the cheek; don't apply heat.</li>\n<li>If food is stuck between teeth, remove it gently with floss.</li>\n<li>Rinse gently with warm salt water.</li>\n<li>Avoid chewing on that side and avoid very hot, cold or sugary foods.</li>\n</ul>\n<aside class=\"note\"><strong>What not to do</strong><p>Don't place painkiller tablets on the tooth or gum; they burn the tissue. Don't take antibiotics without a prescription; unless the source of infection is treated, the problem comes back.</p></aside>"
+   },
+   {
+    "id": "nedenler",
+    "h": "Common causes of toothache",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Symptom</th><th scope=\"col\">Possible cause</th></tr></thead><tbody><tr><td>Brief twinge with cold</td><td>Sensitivity, exposed root or small cavity</td></tr><tr><td>Lingering pain made worse by heat</td><td>Nerve inflammation; root canal treatment may be needed</td></tr><tr><td>Pain on biting</td><td>Infection at the root, cracked tooth or high filling</td></tr><tr><td>Pain at the back with limited mouth opening</td><td>Inflammation around a wisdom tooth</td></tr><tr><td>Gum swelling with discharge</td><td>Abscess</td></tr></tbody></table></div>\n<p>Nerve inflammation and abscesses often need <a class=\"text-link\" href=\"/en/blog/root-canal-treatment/\">root canal treatment</a>; for pain from wisdom teeth, see our <a class=\"text-link\" href=\"/en/blog/wisdom-tooth-removal/\">wisdom tooth guide</a>.</p>"
+   },
+   {
+    "id": "kirik",
+    "h": "Broken tooth or lost crown: what to do",
+    "html": "<p>If you can find the broken piece, keep it in a clean container; on front teeth it can sometimes be bonded back. If a sharp edge irritates your tongue or cheek, cover it with sugar-free gum or orthodontic wax.</p>\n<p>Don't glue a lost crown back yourself. Keep it and call the clinic. For other crown problems, see our <a class=\"text-link\" href=\"/en/blog/sensitivity-after-dental-crowns/\">guide to care after crowns</a>.</p>"
+   },
+   {
+    "id": "hafta-sonu",
+    "h": "A dentist open at weekends in Beylikdüzü",
+    "html": "<p>Dent32 sees patients seven days a week at its clinic on the E-5 service road in Beylikdüzü. For toothache that starts in the evening or at the weekend, message us on WhatsApp for the earliest available time. Sending a photo and describing your symptoms helps us prioritise. <a class=\"text-link\" href=\"/en/contact/\">Find our contact details here</a>.</p>\n<p>If facial swelling is growing quickly or you have difficulty swallowing or breathing, go straight to the nearest hospital emergency department.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Does toothache go away on its own?",
+    "a": "The pain can ease temporarily, but that doesn't mean the problem is solved. A dying nerve can stop hurting while infection continues at the root. Even if the pain goes, get it checked."
+   },
+   {
+    "q": "Are antibiotics enough for a dental abscess?",
+    "a": "Antibiotics can help control spreading infection but don't remove the cause. A lasting solution needs root canal treatment or extraction."
+   },
+   {
+    "q": "Which painkiller should I take for toothache at night?",
+    "a": "You can take a painkiller you've used before and that suits you, at the dose on the leaflet. If you have a chronic condition, are pregnant or take regular medication, ask a pharmacist."
+   },
+   {
+    "q": "Can I get a weekend appointment?",
+    "a": "Yes. Our clinic is open seven days a week; message us on WhatsApp for an available time."
+   }
+  ]
+ },
+ {
+  "key": "emax",
+  "date": "2026-10-14",
+  "cat": "Crowns",
+  "cover": "blog-emax",
+  "slug": "emax-crowns",
+  "title": "What are e.max crowns? How they differ from zirconia and who they suit",
+  "desc": "What e.max (lithium disilicate glass ceramic) crowns are and how they compare with zirconia: aesthetics, strength, uses, lifespan and when they're the right choice.",
+  "lead": "E.max is a highly translucent crown material made from a glass ceramic called lithium disilicate. It stands out for its natural look on front teeth; because it's slightly less strong than zirconia, it's chosen with care for back teeth and for people who grind.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "What exactly is e.max?",
+    "html": "<p>E.max is a glass ceramic system for metal-free, all-ceramic restorations. It transmits and reflects light very much like natural enamel, so it blends well with neighbouring natural teeth, especially at the front.</p>\n<p>It can be made as crowns, laminate veneers, inlays and onlays. Because it's bonded to the tooth surface (adhesive cementation), it can be made thin, allowing less tooth structure to be removed.</p>"
+   },
+   {
+    "id": "fark",
+    "h": "E.max versus zirconia",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Feature</th><th scope=\"col\">E.max</th><th scope=\"col\">Zirconia</th></tr></thead><tbody><tr><td>Translucency</td><td>Very high</td><td>High (improved in newer zirconias)</td></tr><tr><td>Fracture resistance</td><td>High</td><td>Very high</td></tr><tr><td>Minimum thickness</td><td>Can be made thin</td><td>Usually needs a little more thickness</td></tr><tr><td>Bridges</td><td>Limited to short front bridges</td><td>Suitable for long bridges and implants</td></tr><tr><td>Typical use</td><td>Front teeth, veneers, single crowns</td><td>Back teeth, bridges, on implants</td></tr></tbody></table></div>\n<p>For zirconia versus porcelain fused to metal, see <a class=\"text-link\" href=\"/en/blog/zirconia-vs-porcelain-crowns/\">zirconia or porcelain</a>.</p>"
+   },
+   {
+    "id": "kimlere",
+    "h": "Who are e.max crowns for?",
+    "html": "<ul>\n<li>People with colour, shape or small chip problems on front teeth</li>\n<li>Smile design cases where a natural look is the top priority</li>\n<li>Situations where minimal tooth removal is wanted (veneers, inlays and onlays)</li>\n</ul>\n<p>For people who grind at night, or in back teeth with heavy chewing forces, zirconia is usually the safer choice. If you grind, a night guard is recommended whatever the material.</p>"
+   },
+   {
+    "id": "omur",
+    "h": "How long does e.max last?",
+    "html": "<p>Used in the right case and well bonded, e.max restorations last for many years. The key factors are case selection, controlling grinding and oral hygiene. See our <a class=\"text-link\" href=\"/en/blog/sensitivity-after-dental-crowns/\">guide to sensitivity and care after crowns</a>.</p>\n<aside class=\"note\"><strong>In short</strong><p>For the most natural look on front teeth, e.max; for back teeth, bridges or grinders, zirconia is usually more suitable. The decision is made at the examination and as part of the smile plan.</p></aside>"
+   },
+   {
+    "id": "plan",
+    "h": "How is the choice made?",
+    "html": "<p>Smile design cases often combine both: e.max at the front and zirconia at the back, balancing aesthetics and strength. See our <a class=\"text-link\" href=\"/en/blog/smile-design/\">smile design guide</a>, or compare all options in <a class=\"text-link\" href=\"/en/blog/types-of-dental-crowns/\">types of dental crowns</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "E.max or veneers?",
+    "a": "A veneer is a type of restoration; e.max is a material. Veneers are often made from e.max glass ceramic. How much of the tooth is covered (front only or all of it) depends on the tooth's condition."
+   },
+   {
+    "q": "Can e.max break?",
+    "a": "Fractures are rare when the case is right and the thickness is adequate. Grinding, biting hard objects (pens, seeds, ice) and insufficient thickness raise the risk."
+   },
+   {
+    "q": "Does e.max stain?",
+    "a": "No. The glass ceramic surface resists staining from tea, coffee and smoking. Any staining at the edges can usually be polished away."
+   },
+   {
+    "q": "Can e.max be used on back teeth?",
+    "a": "It can be used for single crowns on back teeth, but with heavy bite forces or grinding, zirconia is usually safer."
+   }
+  ]
+ },
+ {
+  "key": "implantbakim",
+  "date": "2026-10-13",
+  "cat": "Implants",
+  "cover": "blog-implant-bakim",
+  "slug": "dental-implant-aftercare",
+  "title": "After dental implant surgery: eating, drinking, smoking and care",
+  "desc": "What to do after implant surgery: the first 24 hours, swelling and pain, what to eat and when, smoking, exercise, brushing and long-term implant care.",
+  "lead": "In the first 24 hours after implant surgery, cold compresses, soft lukewarm food, leaving the area alone and not smoking all help healing. Over the long term, regular cleaning and check-ups are what most determine how long an implant lasts.",
+  "sections": [
+   {
+    "id": "ilk24",
+    "h": "The first 24 hours",
+    "html": "<ul>\n<li><strong>Gauze:</strong> Bite on the gauze provided for 30–45 minutes.</li>\n<li><strong>Cold compress:</strong> Apply ice to the outside of the cheek for 15–20 minutes at a time.</li>\n<li><strong>Eating:</strong> Don't eat until the numbness wears off; then choose soft, lukewarm food.</li>\n<li><strong>Rinsing:</strong> Avoid vigorous rinsing and spitting on the first day so the clot isn't disturbed.</li>\n<li><strong>Straws:</strong> Don't use them; the suction can increase bleeding.</li>\n<li><strong>Medication:</strong> Take the prescribed painkillers and, if given, antibiotics as directed.</li>\n</ul>"
+   },
+   {
+    "id": "beslenme",
+    "h": "What can I eat, and when?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Period</th><th scope=\"col\">Recommended</th><th scope=\"col\">Avoid</th></tr></thead><tbody><tr><td>First 2–3 days</td><td>Yoghurt, lukewarm soup, mash, puddings, soft omelette</td><td>Hot drinks, hard or spicy food, alcohol</td></tr><tr><td>First 1–2 weeks</td><td>Pasta, rice, cooked vegetables, fish, meatballs</td><td>Nuts, crusty bread, seeds</td></tr><tr><td>While the implant heals</td><td>Normal diet, chewing on the other side</td><td>Putting heavy load directly on the implant</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "sislik",
+    "h": "Are swelling, bruising and pain normal?",
+    "html": "<p>Yes. Swelling usually peaks on day 2 or 3 and then subsides. Mild bruising on the cheek can appear, especially after several implants or a bone graft, and fades within a week. Pain is usually controlled with simple painkillers.</p>\n<aside class=\"note\"><strong>When to call the clinic</strong><p>If bleeding doesn't stop despite gauze, swelling and pain increase after day 3, you have a rising temperature, a bad taste or discharge, or numbness hasn't worn off by the next day.</p></aside>"
+   },
+   {
+    "id": "sigara",
+    "h": "Can I smoke after an implant?",
+    "html": "<p>Smoking reduces blood flow in the gum and bone, slows healing and significantly increases the risk of the implant failing to fuse. Avoid smoking completely for at least the first 48–72 hours, and ideally throughout the healing period. We cover how smoking and diabetes affect implants in <a class=\"text-link\" href=\"/en/blog/who-can-get-dental-implants/\">who can get dental implants</a>.</p>"
+   },
+   {
+    "id": "temizlik",
+    "h": "Brushing and oral hygiene",
+    "html": "<p>On the day of surgery you can gently brush the teeth away from the surgical site. From the next day, clean the surgical area carefully with a soft brush. If advised, use lukewarm salt water or an antiseptic mouthwash.</p>\n<p>Stitches are usually removed after 7–10 days or dissolve on their own.</p>"
+   },
+   {
+    "id": "uzun",
+    "h": "Long term: how to look after an implant",
+    "html": "<ul>\n<li>Brush twice a day and use an interdental brush or floss around the implant</li>\n<li>A check-up and professional clean every six months</li>\n<li>A night guard if you grind or clench</li>\n<li>Prompt check-up if you notice bleeding gums</li>\n</ul>\n<p>Implants can't decay, but the gum and bone around them can become inflamed (peri-implantitis). Caught early, it's much easier to treat. See our articles on <a class=\"text-link\" href=\"/en/blog/bleeding-and-receding-gums/\">bleeding gums</a> and <a class=\"text-link\" href=\"/en/blog/teeth-grinding-night-guard/\">night guards</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "When can I exercise after an implant?",
+    "a": "Avoid strenuous exercise for the first 3–5 days, as raised blood pressure can increase bleeding. Light walking is fine from the next day."
+   },
+   {
+    "q": "Can I drink coffee after an implant?",
+    "a": "Avoid hot drinks on the first day. From the following days, lukewarm coffee is fine."
+   },
+   {
+    "q": "Are antibiotics always needed after an implant?",
+    "a": "Not for every patient. Whether antibiotics are needed depends on the extent of surgery and your health, and is decided by the dentist."
+   },
+   {
+    "q": "How do I know if the implant has taken?",
+    "a": "During healing an implant usually gives no symptoms. It's checked clinically and with X-rays at follow-ups, and its stability is confirmed before the final tooth is fitted."
+   }
+  ]
+ },
+ {
+  "key": "diseti",
+  "date": "2026-10-12",
+  "cat": "Treatment",
+  "cover": "blog-dis-eti",
+  "slug": "bleeding-and-receding-gums",
+  "title": "Bleeding and receding gums: causes and treatment",
+  "desc": "Why gums bleed and recede. Signs of gingivitis and periodontitis, scaling, root planing, treatment for gum recession and home care.",
+  "lead": "Gums that bleed when you brush are usually the first sign of gum inflammation caused by plaque and tartar. Caught early, it reverses completely with a professional clean and good home care; left untreated, it can progress to periodontitis, which affects the bone that holds the teeth.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Why do gums bleed?",
+    "html": "<p>Bacterial plaque building up on the teeth inflames the gums. Inflamed gums become red and swollen and bleed easily when brushing or flossing. When plaque hardens it becomes tartar, which a toothbrush can no longer remove.</p>\n<ul>\n<li>Inadequate brushing and no flossing</li>\n<li>Tartar</li>\n<li>Smoking (which can mask bleeding and hide the disease)</li>\n<li>Pregnancy and hormonal changes</li>\n<li>Diabetes</li>\n<li>Some medications, including blood thinners</li>\n</ul>"
+   },
+   {
+    "id": "evreler",
+    "h": "Gingivitis versus periodontitis",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\"></th><th scope=\"col\">Gingivitis (gum inflammation)</th><th scope=\"col\">Periodontitis (advanced gum disease)</th></tr></thead><tbody><tr><td>Tissue affected</td><td>Gums only</td><td>Gums and the bone holding the teeth</td></tr><tr><td>Signs</td><td>Redness, swelling, bleeding</td><td>Recession, bad breath, loose or spreading teeth</td></tr><tr><td>Reversible?</td><td>Fully reversible</td><td>Lost bone usually doesn't return; the disease is halted</td></tr><tr><td>Treatment</td><td>Professional clean and home care</td><td>Deep cleaning, root planing, surgery if needed</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "cekilme",
+    "h": "Why do gums recede?",
+    "html": "<p>The most common causes of recession are periodontitis and brushing too hard. Grinding, thin gum tissue, orthodontic movement and tight lip or cheek attachments can contribute. Recession exposes the root surface, which can lead to sensitivity, root decay and cosmetic concerns.</p>\n<aside class=\"note\"><strong>Brushing</strong><p>Use a soft-bristled brush and avoid a horizontal sawing motion. Angle the brush at 45 degrees to the gum and use small circular movements.</p></aside>"
+   },
+   {
+    "id": "tedavi",
+    "h": "How is it treated?",
+    "html": "<ol>\n<li>Examination, gum pocket measurements and X-rays to assess bone level</li>\n<li>Scaling and polishing</li>\n<li>Root planing under local anaesthetic if needed</li>\n<li>Re-assessment after 4–8 weeks</li>\n<li>Surgical procedures such as flap surgery or gum grafts in advanced cases</li>\n<li>Regular maintenance (usually every 3–6 months)</li>\n</ol>\n<p>We answer common questions about scaling in our article on <a class=\"text-link\" href=\"/en/blog/professional-teeth-cleaning/\">professional teeth cleaning</a>.</p>"
+   },
+   {
+    "id": "onem",
+    "h": "Why gum health affects other treatments",
+    "html": "<p>The long-term success of implants, crowns and orthodontics depends on healthy gums. A similar inflammation (peri-implantitis) can develop around implants. That's why gum disease is treated first. Read more in our <a class=\"text-link\" href=\"/en/treatments/#diseti\">treatments section</a> or <a class=\"text-link\" href=\"/en/contact/\">book an appointment</a> at our Beylikdüzü clinic.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "My gums bleed. Should I stop brushing?",
+    "a": "No. Bleeding is a sign of inflammation; gentle but regular brushing and flossing help it settle. If it doesn't improve in a week or two, see a dentist."
+   },
+   {
+    "q": "Do receded gums grow back?",
+    "a": "Not on their own. In suitable cases, procedures such as gum grafts can cover the root again. The cause of the recession is addressed first."
+   },
+   {
+    "q": "Can bad breath come from gum disease?",
+    "a": "Yes, gum disease and bacteria on the tongue are among the most common causes of persistent bad breath."
+   },
+   {
+    "q": "Is bleeding gums normal in pregnancy?",
+    "a": "It's common because of hormonal changes (pregnancy gingivitis). A check-up and a clean are still recommended; scaling is safe during pregnancy."
+   }
+  ]
+ },
+ {
+  "key": "greft",
+  "date": "2026-10-11",
+  "cat": "Implants",
+  "cover": "blog-greft-sinus",
+  "slug": "bone-graft-and-sinus-lift",
+  "title": "Bone grafts and sinus lifts: can I have implants with too little bone?",
+  "desc": "What bone grafts and sinus lifts are, when they're needed, whether they hurt and how much they extend implant treatment. Open versus closed sinus lift.",
+  "lead": "If the jawbone isn't wide or tall enough to hold an implant, a bone graft is used to build it up; in the upper back jaw, the sinus floor can be raised (sinus lift) to make room. These procedures often make implants possible, but they lengthen treatment.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Why does bone shrink?",
+    "html": "<p>Once a tooth is lost, the bone that held it no longer receives chewing load and gradually becomes thinner and shorter. Most of this loss happens in the first months after extraction. Advanced gum disease, long-term use of removable dentures and trauma can also cause bone loss.</p>\n<p>The upper back jaw has an extra issue: after teeth are lost, the sinus can expand downwards, reducing the bone height left for an implant.</p>"
+   },
+   {
+    "id": "greft",
+    "h": "What is a bone graft?",
+    "html": "<p>A bone graft is a material that acts as scaffolding for new bone. It can be the patient's own bone, processed human or animal bone, or a synthetic material. It's usually covered with a membrane and is gradually replaced by the patient's own bone over a few months.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Use</th><th scope=\"col\">When?</th></tr></thead><tbody><tr><td>Filling the extraction socket (socket preservation)</td><td>At extraction, to limit bone loss if an implant is planned</td></tr><tr><td>Graft at the same time as the implant</td><td>For small bone defects</td></tr><tr><td>Graft first, implant later</td><td>When bone is very thin; the implant usually follows 4–6 months later</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "sinus",
+    "h": "What is a sinus lift?",
+    "html": "<p>In a sinus lift, the membrane lining the floor of the sinus in the upper back jaw is gently raised and bone graft material is placed beneath it, creating the bone height needed for an implant.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Technique</th><th scope=\"col\">When it's used</th><th scope=\"col\">Features</th></tr></thead><tbody><tr><td>Closed (internal) sinus lift</td><td>When moderate bone height remains</td><td>Done through the implant site, usually with the implant at the same visit</td></tr><tr><td>Open (lateral) sinus lift</td><td>When very little bone remains</td><td>A small window is made from the side; the implant is placed at the same visit or months later</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "agri",
+    "h": "Do these procedures hurt?",
+    "html": "<p>Both are done under local anaesthetic. Swelling and mild bruising afterwards can be a little more noticeable than after a simple implant and usually settle within a week. For two weeks after a sinus lift, avoid blowing your nose, sneeze with your mouth open, and check with your dentist before flying.</p>\n<aside class=\"note\"><strong>After a sinus lift</strong><p>Don't blow your nose forcefully, sneeze with your mouth open, and avoid strenuous exercise and diving. A little nosebleed on the first day can be normal.</p></aside>"
+   },
+   {
+    "id": "sure",
+    "h": "How much longer does treatment take?",
+    "html": "<p>Small grafts placed with the implant usually add little time. A separate graft or open sinus lift can add 3–6 months overall. For the general timeline, see <a class=\"text-link\" href=\"/en/blog/dental-implant-timeline/\">how long implant treatment takes</a>; for the effect on cost, see <a class=\"text-link\" href=\"/en/blog/dental-implant-cost-factors/\">what affects implant cost</a>.</p>"
+   },
+   {
+    "id": "alternatif",
+    "h": "Are there options without grafting?",
+    "html": "<p>In some cases short implants, angled implants or techniques such as All-on-Four avoid the need for extra bone surgery. Which route suits you is decided from the CT scan. For full-arch solutions, see our <a class=\"text-link\" href=\"/en/blog/all-on-four/\">All-on-Four guide</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can the body reject a bone graft?",
+    "a": "Graft materials are biocompatible and aren't rejected in the classic sense. Rarely, infection or incomplete bone formation can occur; the procedure can then be repeated."
+   },
+   {
+    "q": "Can a sinus lift cause sinusitis?",
+    "a": "When properly planned, a sinus lift doesn't cause sinusitis. Chronic sinusitis is assessed beforehand, with an ENT opinion if needed."
+   },
+   {
+    "q": "Should a graft be placed when a tooth is extracted?",
+    "a": "If an implant is planned for that site, grafting the socket can reduce bone loss. The decision depends on the tooth's position and the bone."
+   },
+   {
+    "q": "How long after a graft is the implant placed?",
+    "a": "For separate grafts, usually 4–6 months. Small grafts can be done at the same visit as the implant."
+   }
+  ]
+ },
+ {
+  "key": "cocuk",
+  "date": "2026-10-10",
+  "cat": "Treatment",
+  "cover": "blog-cocuk",
+  "slug": "childs-first-dental-visit",
+  "title": "When should your child first see a dentist?",
+  "desc": "When a child's first dental visit should be, baby tooth decay, fluoride varnish, fissure sealants, preventing dental anxiety and tips for children's oral care.",
+  "lead": "A child's first dental visit should be when the first baby tooth appears, or by their first birthday at the latest. Early, relaxed visits help prevent decay and let children build a relationship of trust with the dentist.",
+  "sections": [
+   {
+    "id": "ne-zaman",
+    "h": "Why so early?",
+    "html": "<p>Baby teeth can decay as soon as they come through. \"Bottle decay\" can progress quickly, especially in babies who drink milk or juice from a bottle at night. At the first visit the teeth are checked and parents get advice on brushing, diet and dummy use.</p>\n<p>This visit is usually short and involves no treatment; the aim is for the child to get to know the surroundings and for any risks to be spotted early.</p>"
+   },
+   {
+    "id": "koruyucu",
+    "h": "Preventive treatments",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Treatment</th><th scope=\"col\">What it does</th><th scope=\"col\">When</th></tr></thead><tbody><tr><td>Fluoride varnish</td><td>Strengthens enamel and increases resistance to decay</td><td>2–4 times a year depending on risk</td></tr><tr><td>Fissure sealants</td><td>Seal the deep grooves on the biting surfaces of molars</td><td>Usually around ages 6 and 12, when permanent molars erupt</td></tr><tr><td>Regular check-ups</td><td>Catch decay while it's small</td><td>Usually every 6 months</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "sut-disi",
+    "h": "Baby teeth fall out anyway. Do they need treating?",
+    "html": "<p>Yes. Baby teeth aren't only for chewing and speaking; they also hold space for the permanent teeth. Losing them early can cause crowding. Untreated decay in baby teeth can lead to pain, abscesses and damage to the permanent tooth underneath.</p>\n<aside class=\"note\"><strong>Space maintainers</strong><p>If a baby tooth has to be removed early, a space maintainer can keep the gap open until the permanent tooth comes through.</p></aside>"
+   },
+   {
+    "id": "korku",
+    "h": "How to prevent fear of the dentist",
+    "html": "<ul>\n<li>Make the first visit a check-up, before there's any pain.</li>\n<li>Use calm, positive language rather than phrases like \"it won't hurt\" or \"no needles\" that suggest fear.</li>\n<li>Never use the dentist as a threat or punishment.</li>\n<li>Try not to pass on your own anxiety.</li>\n<li>Book a time when your child is rested and has eaten.</li>\n</ul>\n<p>Our clinic has a treatment room designed specifically for children. At the first visits we take our time, introduce the surroundings and show the instruments as we explain.</p>"
+   },
+   {
+    "id": "evde",
+    "h": "Home care by age",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Age</th><th scope=\"col\">Advice</th></tr></thead><tbody><tr><td>First tooth – 3 years</td><td>Parent brushes twice a day with a rice-grain smear of fluoride toothpaste</td></tr><tr><td>3 – 6 years</td><td>A pea-sized amount of fluoride toothpaste; brushing supervised by a parent</td></tr><tr><td>6 years and over</td><td>Child brushes, parent checks in the evening; start the flossing habit</td></tr></tbody></table></div>\n<p>Cutting down how often sugary snacks are eaten is more effective than cutting the amount. See our <a class=\"text-link\" href=\"/en/treatments/#cocuk\">children’s dentistry section</a>; if crowding appears as they grow, our <a class=\"text-link\" href=\"/en/blog/clear-aligners-vs-braces/\">clear aligners vs braces comparison</a> can help.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "When should a child have an orthodontic check?",
+    "a": "A first orthodontic assessment is usually recommended around age 7, when some jaw growth problems can be spotted and guided early."
+   },
+   {
+    "q": "My child won't brush. What can I do?",
+    "a": "Making it a game, using a two-minute song or timer, and brushing alongside them helps build the habit."
+   },
+   {
+    "q": "Can baby teeth have root canal treatment?",
+    "a": "Yes. Nerve treatment in baby teeth (pulpotomy or pulpectomy) can keep the tooth until the permanent one arrives."
+   },
+   {
+    "q": "Is fluoride safe for children?",
+    "a": "Used in age-appropriate amounts, it's safe and effective at preventing decay. Small children use only a small amount so it isn't swallowed."
+   }
+  ]
+ },
+ {
+  "key": "protez",
+  "date": "2026-10-09",
+  "cat": "Implants",
+  "cover": "blog-implant-protez",
+  "slug": "implant-supported-dentures",
+  "title": "Implant-supported dentures: ways to stop a denture from moving",
+  "desc": "What implant-supported dentures are and who they suit. Snap-on (removable) versus fixed implant dentures, how many implants are needed, care, and comparison with conventional dentures.",
+  "lead": "An implant-supported denture uses two to six implants in a toothless jaw to hold the denture in place; it either clips on and off or is screwed in permanently. The movement, sore spots and chewing difficulty of a conventional denture are greatly reduced.",
+  "sections": [
+   {
+    "id": "sorun",
+    "h": "What are the problems with conventional dentures?",
+    "html": "<ul>\n<li>The denture moves when speaking and eating, especially in the lower jaw</li>\n<li>Pressure sores on the gums</li>\n<li>Much lower chewing force than natural teeth</li>\n<li>Loosening over time as bone shrinks, needing frequent relines</li>\n<li>The upper denture covering the palate, affecting taste and comfort</li>\n</ul>"
+   },
+   {
+    "id": "turler",
+    "h": "Types of implant-supported denture",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Type</th><th scope=\"col\">Typical number of implants</th><th scope=\"col\">Features</th></tr></thead><tbody><tr><td>Snap-on (removable) denture</td><td>2 in the lower jaw, 2–4 in the upper</td><td>Removed for cleaning; movement greatly reduced</td></tr><tr><td>Bar-retained denture</td><td>2–4</td><td>Sits on a bar joining the implants; more stable</td></tr><tr><td>Fixed bridge (e.g. All-on-Four)</td><td>4–6</td><td>Screwed in and not removed by the patient; closest to natural teeth</td></tr></tbody></table></div>\n<p>For details of fixed options, see our <a class=\"text-link\" href=\"/en/blog/all-on-four/\">All-on-Four article</a>.</p>"
+   },
+   {
+    "id": "kimlere",
+    "h": "Who is it for?",
+    "html": "<p>It suits most people who have no teeth, are unhappy with their current denture and whose general health allows minor surgery. Age alone isn't a barrier. Bone is assessed with a CT scan. For health considerations, see <a class=\"text-link\" href=\"/en/blog/who-can-get-dental-implants/\">who can get dental implants</a>.</p>"
+   },
+   {
+    "id": "surec",
+    "h": "How does treatment proceed?",
+    "html": "<ol>\n<li>Examination, CT scan and assessment of your current denture</li>\n<li>Placing the implants (your current denture is usually adjusted and worn meanwhile)</li>\n<li>Healing: about 2–3 months in the lower jaw, 3–6 months in the upper</li>\n<li>Impressions, try-ins and fitting the new denture with its attachments</li>\n<li>Check-ups, and renewal of attachment parts when needed</li>\n</ol>\n<aside class=\"note\"><strong>Same-day loading</strong><p>With suitable bone, especially for fixed full-arch solutions, the implants can carry a temporary fixed bridge on the same day. This depends on initial stability measurements.</p></aside>"
+   },
+   {
+    "id": "bakim",
+    "h": "How do I look after it?",
+    "html": "<p>Snap-on dentures are removed and brushed daily, and the implant caps are cleaned separately. The plastic inserts in the attachments wear over time and are typically replaced every one to a few years. Fixed bridges are cleaned underneath with interdental brushes and a water flosser, with professional maintenance once or twice a year.</p>\n<p>For general implant care, see our <a class=\"text-link\" href=\"/en/blog/dental-implant-aftercare/\">implant aftercare guide</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are two implants enough in the lower jaw?",
+    "a": "For a snap-on removable denture, two implants in the lower jaw markedly improve retention for most patients. A fixed bridge usually needs four or more."
+   },
+   {
+    "q": "Can my existing denture be converted?",
+    "a": "If it's in good condition, attachments can sometimes be added to it. More often, a new denture gives a better result."
+   },
+   {
+    "q": "Can I eat everything with an implant denture?",
+    "a": "Chewing efficiency improves markedly compared with conventional dentures. With fixed bridges an almost normal diet is possible, though very hard foods still call for care."
+   },
+   {
+    "q": "Can an upper denture be made without covering the palate?",
+    "a": "With enough implants, upper dentures can be made without a palate, which helps taste and comfort."
+   }
+  ]
+ },
+ {
+  "key": "dolgu",
+  "date": "2026-10-09",
+  "cat": "Treatment",
+  "cover": "blog-dolgu",
+  "slug": "white-composite-fillings",
+  "title": "White (composite) fillings: how they differ from amalgam and how long they last",
+  "desc": "What white composite fillings are and how they compare with amalgam. When a filling is needed, how long it lasts, sensitivity afterwards, and inlays or onlays as alternatives.",
+  "lead": "A white filling is made from tooth-coloured composite resin and bonded to the tooth. Compared with amalgam (silver) fillings it looks better and allows less healthy tooth to be removed; done well, it lasts for many years.",
+  "sections": [
+   {
+    "id": "ne-zaman",
+    "h": "When is a filling needed?",
+    "html": "<ul>\n<li>When decay has reached the dentine beneath the enamel</li>\n<li>For small chips and cracks</li>\n<li>To replace old fillings with broken margins or decay underneath</li>\n<li>For wear at the neck of the tooth due to gum recession</li>\n</ul>\n<p>Early enamel decay can sometimes be halted without a filling, with fluoride and good care. That's why early diagnosis matters.</p>"
+   },
+   {
+    "id": "fark",
+    "h": "White fillings versus amalgam",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Feature</th><th scope=\"col\">Composite (white) filling</th><th scope=\"col\">Amalgam filling</th></tr></thead><tbody><tr><td>Appearance</td><td>Tooth-coloured</td><td>Silver-grey</td></tr><tr><td>Attachment</td><td>Bonded (adhesive)</td><td>Mechanical retention; more tooth removed</td></tr><tr><td>Preserving healthy tooth</td><td>Better</td><td>Less</td></tr><tr><td>Technique sensitivity</td><td>Needs a dry field and precision</td><td>More forgiving</td></tr><tr><td>Current use</td><td>Widely preferred</td><td>Use is declining</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "amalgam-degisim",
+    "h": "Should I replace my old amalgam fillings?",
+    "html": "<p>Sound amalgam fillings with intact margins and no decay underneath don't always need replacing simply because they're amalgam; removing them can also remove healthy tooth. Replacement is planned if there's a fracture, crack, leaking margin or decay, or for cosmetic reasons.</p>"
+   },
+   {
+    "id": "buyuk",
+    "h": "What if the cavity is large?",
+    "html": "<p>If much of the tooth is lost, a direct filling may not support it well enough. A laboratory-made inlay or onlay, or a full crown, is then considered. If decay has reached the nerve, <a class=\"text-link\" href=\"/en/blog/root-canal-treatment/\">root canal treatment</a> may be needed first. See <a class=\"text-link\" href=\"/en/blog/types-of-dental-crowns/\">types of dental crowns</a> for options.</p>"
+   },
+   {
+    "id": "sonrasi",
+    "h": "Sensitivity and care after a filling",
+    "html": "<p>Especially after deep fillings, sensitivity to cold can last a few days to a few weeks. If the tooth hits first when you bite, the filling may be high; a quick adjustment fixes it. Spontaneous, lingering pain may mean the nerve is affected and needs checking.</p>\n<ul>\n<li>You can eat straight after a composite filling (once the numbness wears off).</li>\n<li>Flossing matters to stop decay at the filling margins.</li>\n<li>Six-monthly check-ups catch small problems early.</li>\n</ul>\n<aside class=\"note\"><strong>In short</strong><p>White fillings are a cosmetic, tooth-conserving solution for small and medium cavities. For large losses of tooth structure, an inlay, onlay or crown may last longer.</p></aside>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How long do white fillings last?",
+    "a": "Depending on size, position and oral hygiene, they usually last many years. Large fillings and grinding can shorten their life."
+   },
+   {
+    "q": "Will I feel pain during a filling?",
+    "a": "Local anaesthetic is used when needed, so no pain is expected. Small, shallow cavities may not need anaesthetic."
+   },
+   {
+    "q": "Do white fillings change colour?",
+    "a": "Slight surface staining can occur over time and is mostly removed by polishing. Darkening at the margins can signal leakage and should be checked."
+   },
+   {
+    "q": "When can I eat after a filling?",
+    "a": "Composite is hardened with a light, so you can eat straight away. If you had anaesthetic, wait for the numbness to wear off so you don't bite your tongue or cheek."
+   }
+  ]
+ },
+ {
+  "key": "kaplamasonrasi",
+  "date": "2026-10-08",
+  "cat": "Crowns",
+  "cover": "blog-kaplama-sonrasi",
+  "slug": "sensitivity-after-dental-crowns",
+  "title": "Sensitivity, pain and care after dental crowns: what's normal?",
+  "desc": "How long sensitivity lasts after a crown, whether pain is normal, what to watch for with temporary crowns, bite height, the gum margin and long-term care of crowns.",
+  "lead": "Sensitivity to hot and cold and slight gum tenderness are common in the first days after a crown and usually settle within a few days to a few weeks. A high bite, or pain that increases or throbs, should be checked.",
+  "sections": [
+   {
+    "id": "normal",
+    "h": "What's normal after a crown",
+    "html": "<ul>\n<li><strong>Hot and cold sensitivity:</strong> Especially in vital teeth, this can last a few days to a few weeks.</li>\n<li><strong>Gum tenderness:</strong> The gum is affected during preparation and impressions, so mild soreness for a few days is common.</li>\n<li><strong>Feeling different:</strong> Your tongue takes a few days to adjust to new surfaces; speech may feel slightly different.</li>\n<li><strong>Getting used to the look:</strong> Especially when many teeth are crowned, it can take time to get used to your new smile.</li>\n</ul>"
+   },
+   {
+    "id": "anormal",
+    "h": "When should you contact the clinic?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Symptom</th><th scope=\"col\">Possible cause</th></tr></thead><tbody><tr><td>That tooth hits first when you bite</td><td>High bite; fixed with a quick adjustment</td></tr><tr><td>Throbbing pain that wakes you at night</td><td>Nerve inflammation; root canal treatment may be needed</td></tr><tr><td>The crown is loose or has come off</td><td>Cement failure or a problem with the tooth underneath</td></tr><tr><td>Persistent bleeding or swelling at the gum line</td><td>Poor marginal fit or gum inflammation</td></tr><tr><td>Sensitivity that gets worse after weeks</td><td>Needs a detailed examination</td></tr></tbody></table></div>\n<aside class=\"note\"><strong>Good to know</strong><p>Rarely, the nerve of a vital tooth can become inflamed some time after a crown, needing root canal treatment. This doesn't mean the crown was poorly made; it's linked to the tooth's history of decay and fillings.</p></aside>"
+   },
+   {
+    "id": "gecici",
+    "h": "What to watch with temporary crowns",
+    "html": "<p>Temporary crowns, worn between the impression and the final crown, protect the tooth and maintain your appearance, but they aren't as strong as the final ones.</p>\n<ul>\n<li>Avoid sticky (chewing gum, toffee) and very hard foods.</li>\n<li>When flossing, slide the floss out sideways rather than pulling it up.</li>\n<li>If a temporary comes off, keep it and call the clinic; an uncovered tooth can shift if left too long.</li>\n</ul>"
+   },
+   {
+    "id": "bakim",
+    "h": "How to protect your crowns",
+    "html": "<ul>\n<li>Brush twice a day and floss or use interdental brushes daily</li>\n<li>Pay attention to cleaning the crown margins (where decay most often starts)</li>\n<li>A check-up and professional clean every six months</li>\n<li>A night guard if you grind</li>\n<li>Don't bite hard objects such as seeds, ice or pens</li>\n</ul>\n<p>See our article on <a class=\"text-link\" href=\"/en/blog/teeth-grinding-night-guard/\">teeth grinding</a> and <a class=\"text-link\" href=\"/en/blog/types-of-dental-crowns/\">types of dental crowns</a>.</p>"
+   },
+   {
+    "id": "koku",
+    "h": "Can crowns cause odour or decay underneath?",
+    "html": "<p>Well-fitting, well-cleaned crowns shouldn't cause odour. Bad breath can be a sign of decay at the crown margin or gum inflammation. Read our guide to <a class=\"text-link\" href=\"/en/blog/bleeding-and-receding-gums/\">bleeding and receding gums</a>, and if in doubt, <a class=\"text-link\" href=\"/en/contact/\">book a check-up</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How long does sensitivity last after a crown?",
+    "a": "For most people it fades over a few days to two or three weeks. If it gets worse or turns into spontaneous pain, it needs checking."
+   },
+   {
+    "q": "Can I eat straight after a crown is fitted?",
+    "a": "You can eat once the numbness has worn off. Depending on the cement used, you may be given extra advice for the first few hours."
+   },
+   {
+    "q": "Does sensitive toothpaste help?",
+    "a": "Yes, toothpastes with potassium nitrate or similar ingredients can help reduce temporary sensitivity."
+   },
+   {
+    "q": "What should I do if a crown falls out?",
+    "a": "Keep the crown and call the clinic. Don't try to glue it back yourself; both the tooth and the crown can be damaged."
+   }
+  ]
+ },
+ {
+  "key": "implantkimlere",
+  "date": "2026-10-07",
+  "cat": "Implants",
+  "cover": "blog-implant-kimlere",
+  "slug": "who-can-get-dental-implants",
+  "title": "Can people with diabetes, smokers or older adults get dental implants?",
+  "desc": "Who can and can't have dental implants? Implants with diabetes, smoking, older age, high blood pressure, heart conditions, blood thinners and osteoporosis medication.",
+  "lead": "There's no upper age limit for implants: most adults whose general health allows minor surgery and who have enough bone can have them. Uncontrolled diabetes, heavy smoking and some medications increase the risk and need careful assessment.",
+  "sections": [
+   {
+    "id": "genel",
+    "h": "What are the basic requirements?",
+    "html": "<ul>\n<li>Jaw growth complete (usually 18 or over)</li>\n<li>Enough bone to hold the implant, or bone that can be built up</li>\n<li>No active infection or untreated gum disease</li>\n<li>General health suitable for minor surgery under local anaesthetic</li>\n<li>Commitment to oral hygiene and check-ups afterwards</li>\n</ul>"
+   },
+   {
+    "id": "diyabet",
+    "h": "Can people with diabetes have implants?",
+    "html": "<p>People whose blood sugar is well controlled can have implants, with success rates close to those without diabetes. With uncontrolled diabetes, wound healing slows and the risk of infection rises.</p>\n<p>That's why a recent HbA1c result is requested during planning and, where needed, we coordinate with your doctor. On the day of surgery, keep to your usual meals and medication.</p>\n<aside class=\"note\"><strong>Practical tip</strong><p>Bringing your latest HbA1c result to the examination speeds up planning.</p></aside>"
+   },
+   {
+    "id": "sigara",
+    "h": "Can smokers have implants?",
+    "html": "<p>Yes, but smoking significantly increases the risk of the implant failing to fuse and of later inflammation around it (peri-implantitis). The more you smoke, the higher the risk. Stopping for at least a few days before surgery and throughout healing improves the odds. See our <a class=\"text-link\" href=\"/en/blog/dental-implant-aftercare/\">aftercare guide</a> for post-surgery advice.</p>"
+   },
+   {
+    "id": "yas",
+    "h": "Can people over 65 have implants?",
+    "html": "<p>Age alone isn't a barrier; many patients have implants in their seventies and eighties. What matters is general health, medication and bone. For people with no teeth whose dentures move, securing the denture on a few implants can greatly improve quality of life. See <a class=\"text-link\" href=\"/en/blog/implant-supported-dentures/\">implant-supported dentures</a>.</p>"
+   },
+   {
+    "id": "ilaclar",
+    "h": "Which conditions and medications need special assessment?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Condition</th><th scope=\"col\">What's checked</th></tr></thead><tbody><tr><td>Blood thinners</td><td>Never stopped without your doctor's advice; most procedures can go ahead with dose management</td></tr><tr><td>Osteoporosis medication</td><td>The type, duration and route of drugs such as bisphosphonates are reviewed</td></tr><tr><td>High blood pressure and heart conditions</td><td>Usually not a barrier if well controlled; current status is assessed</td></tr><tr><td>Radiotherapy to the head and neck</td><td>Bone healing may be affected, so detailed planning is needed</td></tr><tr><td>Pregnancy</td><td>Elective surgery is usually postponed until after birth</td></tr></tbody></table></div>\n<p>Bring a list of all your medications to the examination. If needed, we'll consult your doctor.</p>"
+   },
+   {
+    "id": "kemik",
+    "h": "Can people with little bone have implants?",
+    "html": "<p>In most cases, yes. Options include bone grafts, sinus lifts, or short and angled implants. See <a class=\"text-link\" href=\"/en/blog/bone-graft-and-sinus-lift/\">bone grafts and sinus lifts</a>. To find out whether implants are right for you, <a class=\"text-link\" href=\"/en/contact/\">book an examination</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is there an age limit for implants?",
+    "a": "The lower limit is when jaw growth is complete (usually 18). There's no upper limit; general health is what counts."
+   },
+   {
+    "q": "I have high blood pressure. Can I have an implant?",
+    "a": "If it's controlled with medication, usually yes. Take your medication as normal on the day, and your blood pressure will be checked before the procedure."
+   },
+   {
+    "q": "Do e-cigarettes affect implants too?",
+    "a": "Nicotine narrows blood vessels and can impair healing. It's best to avoid nicotine products during healing as well."
+   },
+   {
+    "q": "Can I have an implant if I have gum disease?",
+    "a": "Gum disease is treated first. Uncontrolled gum disease raises the risk of inflammation around implants too."
+   }
+  ]
+ },
+ {
+  "key": "yirmilik",
+  "date": "2026-10-06",
+  "cat": "Treatment",
+  "cover": "blog-yirmilik",
+  "slug": "wisdom-tooth-removal",
+  "title": "When should wisdom teeth come out? Symptoms, procedure and recovery",
+  "desc": "Do wisdom teeth always need removing? Symptoms of impacted wisdom teeth, the extraction procedure, pain and swelling, aftercare and recovery time.",
+  "lead": "Wisdom teeth that have come through properly, can be cleaned and cause no problems don't need to be removed. Extraction is recommended for repeated gum infections, decay, damage to the neighbouring tooth or cysts.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "Why do wisdom teeth cause problems?",
+    "html": "<p>Wisdom teeth are the last to come through, usually between 17 and 25. When there isn't enough room in the jaw, they may stay partly or fully in the bone or gum (impacted) or tilt against the neighbouring tooth.</p>\n<p>The flap of gum over a partly erupted tooth traps food and is hard to clean, leading to repeated inflammation (pericoronitis).</p>"
+   },
+   {
+    "id": "belirti",
+    "h": "Symptoms that may mean extraction",
+    "html": "<ul>\n<li>Repeated pain, swelling and gum inflammation at the back of the mouth</li>\n<li>Difficulty opening the mouth</li>\n<li>Bad taste or bad breath</li>\n<li>Decay in the wisdom tooth or the tooth in front of it</li>\n<li>A cyst or root damage to the neighbouring tooth on X-ray</li>\n</ul>\n<aside class=\"note\"><strong>No symptoms?</strong><p>Impacted wisdom teeth without symptoms can be monitored if the X-ray shows no risk. The decision weighs age, the tooth's position and possible risks.</p></aside>"
+   },
+   {
+    "id": "islem",
+    "h": "How are wisdom teeth removed?",
+    "html": "<p>A panoramic X-ray, and a CT scan if needed, shows the tooth's position and its proximity to the lower jaw nerve. The procedure is done under local anaesthetic.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Situation</th><th scope=\"col\">Procedure</th></tr></thead><tbody><tr><td>Fully erupted</td><td>Similar to a normal extraction, usually quick</td></tr><tr><td>Partly impacted</td><td>The gum is opened, the tooth sectioned if needed and removed, then stitched</td></tr><tr><td>Fully impacted (in bone)</td><td>Surgical extraction; a small window is made in the bone</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "sonrasi",
+    "h": "Aftercare",
+    "html": "<ul>\n<li>Bite on the gauze for 30–45 minutes.</li>\n<li>Apply cold to the cheek on and off on the first day.</li>\n<li>For the first 24 hours avoid vigorous rinsing, spitting and straws.</li>\n<li>Don't smoke; it can dislodge the clot and cause a painful \"dry socket\".</li>\n<li>Eat soft, lukewarm food and avoid hot drinks on the first day.</li>\n<li>Brush from the next day, being gentle around the extraction site.</li>\n</ul>\n<p>This advice is similar to our <a class=\"text-link\" href=\"/en/blog/dental-implant-aftercare/\">implant aftercare guide</a>, where you'll find more detail.</p>"
+   },
+   {
+    "id": "iyilesme",
+    "h": "How long does recovery take?",
+    "html": "<p>Swelling usually peaks on day 2–3 and reduces noticeably within a week. Stitches are removed after 7–10 days or dissolve. The bone takes a few months to fill in completely, but most people are back to normal within a few days.</p>\n<aside class=\"note\"><strong>When to call</strong><p>Call the clinic if pain increases after day 3 (possible dry socket), bleeding won't stop, you develop a fever, or lip or tongue numbness hasn't gone by the next day.</p></aside>"
+   },
+   {
+    "id": "dent32",
+    "h": "Wisdom tooth removal in Beylikdüzü",
+    "html": "<p>At Dent32 we plan wisdom tooth extraction with X-rays and, when needed, a CT scan. For a painful wisdom tooth, see our <a class=\"text-link\" href=\"/en/blog/emergency-toothache-istanbul/\">emergency toothache guide</a>, or <a class=\"text-link\" href=\"/en/contact/\">book an appointment</a> at our clinic, open seven days a week.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Does wisdom tooth removal hurt?",
+    "a": "It's done under local anaesthetic, so no pain is expected during the procedure; you may feel pressure. Pain and swelling for a few days afterwards are controlled with painkillers."
+   },
+   {
+    "q": "Can upper and lower wisdom teeth be removed together?",
+    "a": "Yes, upper and lower wisdom teeth on the same side can often be removed in one visit. Removing all four is planned case by case."
+   },
+   {
+    "q": "Do wisdom teeth cause crowding?",
+    "a": "Wisdom teeth aren't the only cause of front-tooth crowding. Their status is assessed separately when orthodontic treatment is planned."
+   },
+   {
+    "q": "How soon can I go back to work?",
+    "a": "After a simple extraction, usually the next day; after surgical extraction, usually 1–3 days."
+   }
+  ]
+ },
+ {
+  "key": "bonding",
+  "date": "2026-10-05",
+  "cat": "Aesthetics",
+  "cover": "blog-bonding",
+  "slug": "dental-bonding",
+  "title": "What is dental bonding? Cosmetic correction without drilling",
+  "desc": "What composite bonding is, who it suits, whether teeth are drilled and how long it lasts. Bonding versus porcelain veneers, and aftercare tips.",
+  "lead": "Bonding is a cosmetic procedure in which tooth-coloured composite resin is applied to the tooth in layers and shaped. Often little or no tooth structure is removed and it's completed in one visit; it costs less than porcelain veneers but is less resistant to staining and wear.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "How is bonding done?",
+    "html": "<p>The tooth surface is lightly roughened, a bonding agent is applied, and tooth-coloured composite resin is built up in layers and hardened with a curing light. It's then shaped and polished. It usually takes 30–60 minutes per tooth and often needs no anaesthetic.</p>"
+   },
+   {
+    "id": "kimlere",
+    "h": "When is bonding used?",
+    "html": "<ul>\n<li>Small chips and cracks on front teeth</li>\n<li>Small gaps between teeth (diastema)</li>\n<li>Short or misshapen teeth</li>\n<li>Localised stains that whitening can't lift</li>\n<li>Exposed root surfaces due to gum recession</li>\n</ul>"
+   },
+   {
+    "id": "fark",
+    "h": "Bonding or porcelain veneers?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Feature</th><th scope=\"col\">Bonding (composite)</th><th scope=\"col\">Porcelain veneer</th></tr></thead><tbody><tr><td>Tooth reduction</td><td>Usually none or minimal</td><td>Usually 0.3–0.7 mm</td></tr><tr><td>Visits</td><td>Usually one</td><td>2–3 (impression and laboratory)</td></tr><tr><td>Colour stability</td><td>Can stain over time with tea and coffee</td><td>Doesn't change colour</td></tr><tr><td>Durability</td><td>Edges can chip and wear</td><td>More durable</td></tr><tr><td>Repair</td><td>Easily repaired in the mouth</td><td>Usually replaced if broken</td></tr><tr><td>Cost</td><td>Lower</td><td>Higher</td></tr></tbody></table></div>\n<p>For details on porcelain veneers, see our <a class=\"text-link\" href=\"/en/blog/laminate-veneers/\">laminate veneer article</a>.</p>"
+   },
+   {
+    "id": "omur",
+    "h": "How long does bonding last?",
+    "html": "<p>Depending on care and habits, bonding usually lasts several years up to around ten. Polishing and small repairs may be needed along the way. Nail biting, chewing pens and grinding shorten its life.</p>\n<aside class=\"note\"><strong>Tip</strong><p>If you're also considering whitening, whiten first and do the bonding once the shade has settled (usually after 2 weeks). Composite doesn't whiten.</p></aside>"
+   },
+   {
+    "id": "bakim",
+    "h": "Aftercare",
+    "html": "<ul>\n<li>Avoid strongly coloured food and drinks (coffee, tea, red wine, cola) for the first 48 hours</li>\n<li>Brush and floss regularly</li>\n<li>Have the surface polished at check-ups</li>\n<li>Don't bite hard objects with your front teeth</li>\n</ul>\n<p>For a more comprehensive change, options are assessed together through <a class=\"text-link\" href=\"/en/blog/smile-design/\">smile design</a>. For tooth colour, see our <a class=\"text-link\" href=\"/en/blog/teeth-whitening/\">teeth whitening guide</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are teeth drilled for bonding?",
+    "a": "In most cases no drilling is needed, or only light roughening of the surface. That makes bonding one of the most reversible cosmetic options."
+   },
+   {
+    "q": "Does bonding turn yellow?",
+    "a": "Composite can pick up stains from tea, coffee and smoking over time. Regular polishing helps keep the colour."
+   },
+   {
+    "q": "Does bonding hurt?",
+    "a": "It usually needs no anaesthetic and is painless. Local anaesthetic can be used for sensitive areas."
+   },
+   {
+    "q": "Can gaps between teeth be closed with bonding?",
+    "a": "Small and moderate gaps can often be closed with bonding. For large gaps or crowding, orthodontics is assessed first."
+   }
+  ]
+ },
+ {
+  "key": "distasi",
+  "date": "2026-10-05",
+  "cat": "Treatment",
+  "cover": "blog-dis-tasi",
+  "slug": "professional-teeth-cleaning",
+  "title": "Does professional teeth cleaning damage enamel? How often should you have it?",
+  "desc": "What tartar is and why it forms. Whether scaling damages enamel or creates gaps, whether it hurts, how often it's needed, sensitivity afterwards and home care.",
+  "lead": "Professional cleaning (scaling) removes hardened bacterial plaque from the teeth with ultrasonic instruments. Done properly, it doesn't damage enamel; most people need it every six months, and people with gum disease more often.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "How does tartar form?",
+    "html": "<p>Bacterial plaque forms on teeth all the time. Plaque that isn't removed by brushing and flossing combines with minerals in saliva and starts to harden within days, turning into tartar. It builds up most on the inner surfaces of the lower front teeth and the cheek side of the upper molars, where the salivary glands open.</p>\n<p>Tartar's rough surface holds more plaque and fuels gum inflammation. Once formed, it can't be brushed off.</p>"
+   },
+   {
+    "id": "zarar",
+    "h": "Does scaling damage your teeth?",
+    "html": "<p>No. Ultrasonic instruments break up tartar with vibration and wash it away with a water spray; used correctly, they don't wear enamel. The feeling that gaps have \"opened up\" afterwards is actually the spaces that tartar was filling. Teeth don't move apart; as inflammation settles, the gums recover.</p>\n<aside class=\"note\"><strong>A common myth</strong><p>\"Scaling makes teeth loose\" isn't true. Looseness is caused by bone loss from tartar left for a long time. Cleaning stops that process.</p></aside>"
+   },
+   {
+    "id": "islem",
+    "h": "How is it done, and does it hurt?",
+    "html": "<ol>\n<li>Examination and X-rays if needed</li>\n<li>Removing tartar with ultrasonic instruments</li>\n<li>Cleaning delicate areas with hand instruments</li>\n<li>Removing stains and polishing</li>\n</ol>\n<p>It usually takes 30–45 minutes. Without gum inflammation, most people feel only mild discomfort. For sensitivity, local anaesthetic or desensitising treatments can be used.</p>"
+   },
+   {
+    "id": "siklik",
+    "h": "How often should you have it?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Situation</th><th scope=\"col\">Recommended frequency</th></tr></thead><tbody><tr><td>Healthy gums, little tartar</td><td>Every 6–12 months</td></tr><tr><td>Fast tartar build-up, smokers</td><td>Usually every 6 months</td></tr><tr><td>After gum disease treatment</td><td>Every 3–4 months</td></tr><tr><td>Implants or many crowns</td><td>Every 6 months, with a check-up</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "sonrasi",
+    "h": "Sensitivity and care afterwards",
+    "html": "<p>For a few days afterwards there may be sensitivity to cold and slight gum bleeding; this usually settles by itself, and sensitive toothpaste helps. Cleaning also reduces tea and coffee stains; lightening the teeth's natural colour is a separate procedure, <a class=\"text-link\" href=\"/en/blog/teeth-whitening/\">teeth whitening</a>.</p>\n<p>For more on bleeding and receding gums, see our <a class=\"text-link\" href=\"/en/blog/bleeding-and-receding-gums/\">gum health guide</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Does scaling whiten teeth?",
+    "a": "It removes tartar and surface stains from tea, coffee and smoking, so teeth look cleaner and brighter, but it doesn't change the teeth's natural colour."
+   },
+   {
+    "q": "Can I remove tartar at home?",
+    "a": "No. Tartar can't be safely removed with a toothbrush or home tools. What you can do at home is prevent it with regular brushing and flossing."
+   },
+   {
+    "q": "Is scaling safe during pregnancy?",
+    "a": "Yes, and it's recommended to keep gum inflammation under control. The second trimester is usually the most comfortable time."
+   },
+   {
+    "q": "Is a clean included in a check-up?",
+    "a": "It depends on the clinic and your needs. At Dent32 we tell you at the examination whether a clean is needed and what it involves."
+   }
+  ]
+ },
+ {
+  "key": "bruksizm",
+  "date": "2026-10-04",
+  "cat": "Treatment",
+  "cover": "blog-bruksizm",
+  "slug": "teeth-grinding-night-guard",
+  "title": "Teeth clenching and grinding (bruxism): symptoms and night guards",
+  "desc": "What bruxism is and why it happens. Symptoms such as morning jaw pain and tooth wear, how a night guard is made, and other treatments including Botox.",
+  "lead": "Bruxism is clenching or grinding the teeth without realising, during the day or in sleep. It can cause tooth wear, chips and cracks, damage to crowns and jaw pain; the most common protection is a custom-made night guard.",
+  "sections": [
+   {
+    "id": "belirti",
+    "h": "Signs of clenching and grinding",
+    "html": "<ul>\n<li>Pain or tiredness in the jaw, temples or facial muscles on waking</li>\n<li>Morning headaches</li>\n<li>Flattened, worn teeth and chipped enamel</li>\n<li>Increased sensitivity to cold</li>\n<li>Clicking in the jaw or difficulty opening the mouth</li>\n<li>A partner noticing grinding noises at night</li>\n</ul>"
+   },
+   {
+    "id": "neden",
+    "h": "What causes it?",
+    "html": "<p>There's no single cause. Stress and anxiety, sleep disorders (especially snoring and sleep apnoea), caffeine, alcohol, smoking and some medications can increase the risk. Daytime clenching usually happens unconsciously during concentration or stress.</p>"
+   },
+   {
+    "id": "plak",
+    "h": "What is a night guard and how is it made?",
+    "html": "<p>A night guard is a clear, rigid appliance made to fit your upper or lower teeth from an impression or digital scan. It doesn't stop grinding entirely, but it takes the force instead of your teeth, protecting them and any restorations and balancing the muscle load.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Type</th><th scope=\"col\">Features</th></tr></thead><tbody><tr><td>Over-the-counter guards</td><td>Cheap but poor fit; not recommended long term</td></tr><tr><td>Soft custom guard</td><td>Comfortable, but can increase the chewing reflex in some people</td></tr><tr><td>Hard custom guard</td><td>The bite can be balanced; the most common choice for bruxism</td></tr></tbody></table></div>\n<aside class=\"note\"><strong>Crowns and implants</strong><p>For people with zirconia, e.max or implant crowns who grind, a night guard is especially important to protect their restorations.</p></aside>"
+   },
+   {
+    "id": "diger",
+    "h": "Other treatment options",
+    "html": "<ul>\n<li><strong>Awareness:</strong> Notice during the day whether your teeth are touching; at rest, with lips closed, teeth should be slightly apart.</li>\n<li><strong>Muscle relaxation:</strong> Jaw exercises, warm compresses, physiotherapy.</li>\n<li><strong>Botulinum toxin (Botox):</strong> After assessment, can be used in some patients to reduce excessive contraction of the chewing muscles; its effect is temporary.</li>\n<li><strong>Sleep assessment:</strong> Referral to a specialist if snoring or sleep apnoea is suspected.</li>\n<li><strong>Repairing damaged teeth:</strong> Worn teeth are restored with fillings, bonding or crowns.</li>\n</ul>"
+   },
+   {
+    "id": "bakim",
+    "h": "Caring for your night guard",
+    "html": "<p>Rinse the guard with cold or lukewarm water every morning, clean it with a soft brush and store it dry in its case. Don't use hot water, which can warp it. Bring it to your check-ups. For restoring worn teeth, see <a class=\"text-link\" href=\"/en/blog/types-of-dental-crowns/\">types of dental crowns</a> and <a class=\"text-link\" href=\"/en/blog/dental-bonding/\">dental bonding</a>.</p>\n<p>A night guard is different from orthodontic aligners: it doesn't move teeth, it only protects them. For aligners, see <a class=\"text-link\" href=\"/en/blog/clear-aligners-vs-braces/\">clear aligners or braces</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Will a night guard stop me grinding?",
+    "a": "Not always, but it protects teeth and restorations from wear and can reduce the load on the muscles."
+   },
+   {
+    "q": "How long does a night guard last?",
+    "a": "Depending on how hard you grind, usually several years. It's replaced if it wears through, cracks or no longer fits."
+   },
+   {
+    "q": "Is grinding normal in children?",
+    "a": "Night grinding is common with baby teeth and often decreases on its own. If there's pain, marked wear or sleep problems, it should be assessed."
+   },
+   {
+    "q": "Can someone having aligner treatment use a night guard?",
+    "a": "Aligners protect the teeth to some extent during treatment. If grinding continues afterwards, a retainer and night guard can be planned together."
+   }
+  ]
+ },
+ {
   "key": "gulus",
   "date": "2026-10-03",
   "cat": "Aesthetics",
@@ -355,7 +1495,7 @@
  {
   "key": "zirkonyum",
   "date": "2026-09-04",
-  "cat": "Aesthetics",
+  "cat": "Crowns",
   "cover": "blog-zirkonyum",
   "slug": "zirconia-vs-porcelain-crowns",
   "title": "Zirconia or porcelain? What to consider when choosing a crown",

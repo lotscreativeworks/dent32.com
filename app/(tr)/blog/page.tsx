@@ -5,8 +5,8 @@ import { BlogList } from "@/views/Blog";
 export const metadata: Metadata = pageMetadata({
   key: "blog",
   lang: "tr",
-  title: "Blog: diş tedavisi rehberleri | Dent32",
-  description: "İmplant, zirkonyum, lamine, beyazlatma, şeffaf plak ve gülüş tasarımı hakkında kısa ve net rehberler.",
+  title: "Diş Sağlığı Blogu: İmplant, Kaplama ve Tedavi Rehberleri | Dent32",
+  description: "İmplant, diş kaplama, kanal tedavisi, diş eti, çocuk diş sağlığı ve estetik diş hekimliği hakkında Beylikdüzü'ndeki Dent32 hekimlerinden kısa ve net rehberler.",
   image: "blog-gulus-tasarimi",
 });
 

@@ -262,7 +262,7 @@
    "id": "kanal",
    "icon": "kanal",
    "img": "detay-kanal",
-   "post": null,
+   "post": "kanal",
    "title": {
     "tr": "Kanal tedavisi",
     "en": "Root canal treatment"
@@ -314,7 +314,7 @@
    "id": "cocuk",
    "icon": "cocuk",
    "img": "detay-cocuk",
-   "post": null,
+   "post": "cocuk",
    "title": {
     "tr": "Çocuk diş hekimliği",
     "en": "Children's dentistry"
@@ -364,7 +364,7 @@
    "id": "diseti",
    "icon": "dis-eti",
    "img": "detay-diseti",
-   "post": null,
+   "post": "diseti",
    "title": {
     "tr": "Diş eti tedavisi",
     "en": "Gum treatment"

@@ -5,8 +5,8 @@ import { Home } from "@/views/Home";
 export const metadata: Metadata = pageMetadata({
   key: "home",
   lang: "tr",
-  title: "Dent32 Diş Kliniği | Beylikdüzü, İstanbul",
-  description: "Beylikdüzü'nde diş kliniği. İmplant, zirkonyum, gülüş tasarımı ve şeffaf plak tedavilerinde açık ve planlı bir yaklaşım. Haftanın yedi günü açık.",
+  title: "Beylikdüzü Diş Kliniği: İmplant, Kaplama, Gülüş Tasarımı | Dent32",
+  description: "Beylikdüzü'nde diş kliniği. İmplant, zirkonyum ve porselen kaplama, gülüş tasarımı, kanal tedavisi ve şeffaf plak. Haftanın yedi günü açık; WhatsApp'tan randevu alın.",
   image: "hekim-huseyin-asci",
 });
 

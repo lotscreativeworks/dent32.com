@@ -5,7 +5,7 @@ import { BlogCard, PageHead } from "@/components/blocks";
 import { Icon } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
-import { jsonLd } from "@/lib/seo";
+import { breadcrumbLd, DENTIST_ID, jsonLd } from "@/lib/seo";
 import { absUrl, dateLong, type Lang, type Post, POSTS, readMinutes, route, SITE, translator, WA } from "@/lib/site";
 
 export function BlogList({ lang }: { lang: Lang }) {
@@ -42,8 +42,11 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
     image: `${SITE}/img/${post.cover}.webp`, datePublished: post.date, dateModified: post.date, inLanguage: lang,
     mainEntityOfPage: absUrl(`post-${post.key}`, lang), articleSection: post.cat,
     author: { "@type": "Organization", name: author, url: SITE },
-    publisher: { "@type": "Organization", name: "Dent32", logo: { "@type": "ImageObject", url: `${SITE}/logo.svg` } },
+    publisher: { "@type": "Organization", "@id": DENTIST_ID, name: "Dent32", url: SITE, logo: { "@type": "ImageObject", url: `${SITE}/logo.svg` } },
   };
+  const crumbs = breadcrumbLd([
+    [t("Anasayfa", "Home"), route("home", lang)], ["Blog", route("blog", lang)], [post.title, route(`post-${post.key}`, lang)],
+  ]);
   const faqLd = {
     "@context": "https://schema.org", "@type": "FAQPage",
     mainEntity: post.faq.map(({ q, a }) => ({ "@type": "Question", name: q, acceptedAnswer: { "@type": "Answer", text: a.replace(/<[^>]+>/g, "") } })),
@@ -53,6 +56,7 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
     <Shell lang={lang} pageKey={`post-${post.key}`}>
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(posting)} />
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(faqLd)} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(crumbs)} />
       <div className="wrap post-wrap">
         {/* Başlık bloğu ve gövde aynı sütunda; içindekiler başlığın hizasından başlar */}
         <div className="post-layout">

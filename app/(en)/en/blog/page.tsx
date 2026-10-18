@@ -5,8 +5,8 @@ import { BlogList } from "@/views/Blog";
 export const metadata: Metadata = pageMetadata({
   key: "blog",
   lang: "en",
-  title: "Blog: dental treatment guides | Dent32",
-  description: "Short, clear guides on implants, zirconia, veneers, whitening, clear aligners and smile design.",
+  title: "Dental Health Blog: Implant, Crown and Treatment Guides | Dent32",
+  description: "Short, clear guides on dental implants, crowns, root canal treatment, gum health, children's teeth and cosmetic dentistry from the Dent32 team in Istanbul.",
   image: "blog-gulus-tasarimi",
 });
 

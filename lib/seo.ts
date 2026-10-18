@@ -1,5 +1,8 @@
 import type { Metadata } from "next";
-import { absUrl, type Lang, type PageKey, SITE } from "@/lib/site";
+import {
+  absUrl, CLINIC_HOURS, EMAIL, GEO, GMB, type Lang, type PageKey, PHONE_E164, route, SITE, SOCIAL, STREET, TEAM, translator,
+  TREATMENTS,
+} from "@/lib/site";
 
 type Args = {
   key: PageKey;
@@ -36,3 +39,44 @@ export function pageMetadata({ key, lang, title, description, image = "kolaj-ic-
 
 /** JSON-LD script etiketi için güvenli serileştirme */
 export const jsonLd = (data: object) => ({ __html: JSON.stringify(data).replace(/</g, "\\u003c") });
+
+/** Kliniğin tüm sayfalarda aynı @id ile anılan kaydı; yerel aramada ilçe ve hizmetleri tanıtır */
+export const DENTIST_ID = `${SITE}/#dentist`;
+
+/** Klinikten hasta gelen ilçeler (Google'a hizmet bölgesi olarak bildirilir) */
+const AREA_SERVED = ["Beylikdüzü", "Esenyurt", "Büyükçekmece", "Avcılar", "İstanbul"];
+
+export function dentistLd(lang: Lang) {
+  const t = translator(lang);
+  return {
+    "@context": "https://schema.org", "@type": "Dentist", "@id": DENTIST_ID, name: "Dent32",
+    description: t("Beylikdüzü, İstanbul'da diş kliniği: implant, zirkonyum kaplama, gülüş tasarımı, şeffaf plak, kanal tedavisi, diş eti ve çocuk diş hekimliği.",
+      "Dental clinic in Beylikdüzü, Istanbul: implants, zirconia crowns, smile design, clear aligners, root canal treatment, gum care and children's dentistry."),
+    url: absUrl("home", lang), logo: `${SITE}/logo.svg`, image: `${SITE}/img/klinik-01-bina.webp`,
+    telephone: PHONE_E164, email: EMAIL,
+    address: { "@type": "PostalAddress", streetAddress: STREET, addressLocality: "Beylikdüzü", addressRegion: "İstanbul", postalCode: "34520", addressCountry: "TR" },
+    geo: { "@type": "GeoCoordinates", latitude: GEO.lat, longitude: GEO.lng },
+    hasMap: GMB, sameAs: SOCIAL.filter((s) => s.key !== "whatsapp").map((s) => s.url),
+    areaServed: AREA_SERVED.map((name) => ({ "@type": "AdministrativeArea", name })),
+    medicalSpecialty: "Dentistry",
+    availableService: TREATMENTS.map((tr) => ({
+      "@type": "MedicalProcedure", name: tr.title[lang], description: tr.short[lang], url: SITE + route("treat", lang, tr.id),
+    })),
+    founder: { "@type": "Person", name: "Dr. Hüseyin Aşçı" },
+    employee: TEAM.map((m) => ({ "@type": "Person", name: m.name, jobTitle: m.role[lang] })),
+    availableLanguage: ["tr", "en"],
+    ...(CLINIC_HOURS && {
+      openingHoursSpecification: [{
+        "@type": "OpeningHoursSpecification",
+        dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        opens: CLINIC_HOURS[0], closes: CLINIC_HOURS[1],
+      }],
+    }),
+  };
+}
+
+/** Sayfa yolu (breadcrumb) JSON-LD: [ad, yol] listesi, anasayfadan başlar */
+export const breadcrumbLd = (items: [string, string][]) => ({
+  "@context": "https://schema.org", "@type": "BreadcrumbList",
+  itemListElement: items.map(([name, path], i) => ({ "@type": "ListItem", position: i + 1, name, item: SITE + path })),
+});

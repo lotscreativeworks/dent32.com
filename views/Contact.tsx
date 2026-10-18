@@ -2,12 +2,14 @@ import { WaForm } from "@/components/client/WaForm";
 import { delay, PageHead } from "@/components/blocks";
 import { Icon } from "@/components/Icon";
 import { Shell } from "@/components/Shell";
+import { dentistLd, jsonLd } from "@/lib/seo";
 import { ADDRESS, EMAIL, GMB, type Lang, MAP_EMBED, PHONE, PHONE_E164, translator, WA } from "@/lib/site";
 
 export function Contact({ lang }: { lang: Lang }) {
   const t = translator(lang);
   return (
     <Shell lang={lang} pageKey="contact">
+      <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(dentistLd(lang))} />
       <PageHead lang={lang} title={t("İletişim ve randevu", "Contact and appointments")} crumb={t("İletişim", "Contact")}
         lead={t("Formu doldurun ya da doğrudan WhatsApp'tan yazın. Mesajınızı hekimlerimizle paylaşıp size dönüyoruz.",
           "Fill in the form or message us directly on WhatsApp. We'll share your message with our dentists and get back to you.")} />

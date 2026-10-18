@@ -8,11 +8,8 @@ import { BaCard, BlogCard, delay, LangRail, NextStep, SecHead } from "@/componen
 import { Icon, Star } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
-import { jsonLd } from "@/lib/seo";
-import {
-  absUrl, CLINIC_HOURS, EMAIL, GEO, GMB, IG, type Lang, PHONE_E164, POSTS, REELS, REVIEWS, route, SITE, SOCIAL, STREET,
-  STRIP, translator,
-} from "@/lib/site";
+import { dentistLd, jsonLd } from "@/lib/seo";
+import { GMB, IG, type Lang, POSTS, REELS, REVIEWS, route, STRIP, translator } from "@/lib/site";
 
 export function Home({ lang }: { lang: Lang }) {
   const t = translator(lang);
@@ -29,25 +26,6 @@ export function Home({ lang }: { lang: Lang }) {
     { q: "Will I feel pain during treatment?", a: "Most procedures are done under local anaesthetic, and no significant pain is expected during treatment. We explain any sensitivity you might have afterwards and what to do. If you feel anxious about the dentist, let us know when booking." },
   ];
 
-  const dentist = {
-    "@context": "https://schema.org", "@type": "Dentist", name: "Dent32",
-    description: t("Beylikdüzü, İstanbul'da diş kliniği: implant, zirkonyum, gülüş tasarımı, şeffaf plak ortodonti.",
-      "Dental clinic in Beylikdüzü, Istanbul: implants, zirconia, smile design, clear aligner orthodontics."),
-    url: absUrl("home", lang), logo: `${SITE}/logo.svg`, image: `${SITE}/img/klinik-01-bina.webp`,
-    telephone: PHONE_E164, email: EMAIL,
-    address: { "@type": "PostalAddress", streetAddress: STREET, addressLocality: "Beylikdüzü", addressRegion: "İstanbul", postalCode: "34520", addressCountry: "TR" },
-    geo: { "@type": "GeoCoordinates", latitude: GEO.lat, longitude: GEO.lng },
-    hasMap: GMB, sameAs: SOCIAL.filter((s) => s.key !== "whatsapp").map((s) => s.url),
-    founder: { "@type": "Person", name: "Dr. Hüseyin Aşçı" }, availableLanguage: ["tr", "en"],
-    ...(CLINIC_HOURS && {
-      openingHoursSpecification: [{
-        "@type": "OpeningHoursSpecification",
-        dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
-        opens: CLINIC_HOURS[0], closes: CLINIC_HOURS[1],
-      }],
-    }),
-  };
-
   const badges: [string, string, number][] = [
     ["iso-13485", t("ISO 13485:2016 tıbbi cihaz kalite yönetimi", "ISO 13485:2016 medical devices quality management"), 124],
     ["saglik-bakanligi", t("T.C. Sağlık Bakanlığı", "Republic of Türkiye Ministry of Health"), 124],
@@ -56,13 +34,13 @@ export function Home({ lang }: { lang: Lang }) {
 
   return (
     <Shell lang={lang} pageKey="home">
-      <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(dentist)} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(dentistLd(lang))} />
 
       <section className="hero">
         <HeroVideo />
         <div className="wrap hero__grid">
           <div>
-            <p className="eyebrow hero__fade">{t("Dent32 · Beylikdüzü, İstanbul", "Dent32 · Beylikdüzü, Istanbul")}</p>
+            <p className="eyebrow hero__fade">{t("Dent32 · Beylikdüzü diş kliniği, İstanbul", "Dent32 · Dental clinic in Beylikdüzü, Istanbul")}</p>
             <h1 className="hero__title">
               <span className="line"><span style={{ ["--i" as string]: 0 }}>{t("Sağlıklı bir gülüş", "A healthy smile starts")}</span></span>
               <span className="line"><span style={{ ["--i" as string]: 1 }}>{t("doğru planla başlar.", "with the right plan.")}</span></span>
