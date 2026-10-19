@@ -8,18 +8,40 @@ import { BaCard, BlogCard, delay, LangRail, NextStep, SecHead } from "@/componen
 import { Icon, Star } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
-import { dentistLd, jsonLd } from "@/lib/seo";
-import { GMB, IG, type Lang, POSTS, REELS, REVIEWS, route, STRIP, translator } from "@/lib/site";
+import { dentistLd, jsonLd, websiteLd } from "@/lib/seo";
+import { ADDRESS, GMB, IG, type Lang, PHONE, PHONE_E164, POSTS, REELS, REVIEWS, route, STRIP, translator } from "@/lib/site";
+
+/** Anasayfadaki "Beylikdüzü diş rehberleri" listesi: [yazı anahtarı, TR, EN] */
+const LOCAL_GUIDES: [string, string, string][] = [
+  ["beydis", "Beylikdüzü diş hekimi", "Dentist in Beylikdüzü"],
+  ["beyimplant", "İmplant tedavisi", "Dental implants"],
+  ["beyzirk", "Zirkonyum kaplama", "Zirconia crowns"],
+  ["beylamine", "Lamine kaplama", "Laminate veneers"],
+  ["beygulus", "Gülüş tasarımı", "Smile design"],
+  ["beyorto", "Ortodonti ve şeffaf plak", "Orthodontics and aligners"],
+  ["beybeyaz", "Diş beyazlatma", "Teeth whitening"],
+  ["beykanal", "Kanal tedavisi", "Root canal treatment"],
+  ["beydiseti", "Diş eti tedavisi", "Gum treatment"],
+  ["beycocuk", "Çocuk diş hekimi", "Children's dentist"],
+  ["beyprotez", "Protez diş", "Dentures"],
+  ["beyhaftasonu", "Hafta sonu açık diş kliniği", "Weekend dentist"],
+  ["beyfiyat", "Diş tedavisi fiyatları", "Treatment prices"],
+  ["beyilce", "Esenyurt, Avcılar, Büyükçekmece", "From Esenyurt, Avcılar, Büyükçekmece"],
+];
 
 export function Home({ lang }: { lang: Lang }) {
   const t = translator(lang);
 
   const faq = lang === "tr" ? [
+    { q: "Dent32 Beylikdüzü'nün neresinde?", a: `Barış Mahallesi'nde, E-5 yanyolu üzerindeki Ginza Lavinya'dayız (No:30 D:179, 34520 Beylikdüzü / İstanbul). Esenyurt, Avcılar ve Büyükçekmece'den de kolayca ulaşılır; harita ve yol tarifi <a class="text-link" href="${route("contact", lang)}">iletişim sayfamızda</a>.` },
+    { q: "Hafta sonu ve pazar günü açık mısınız?", a: `Evet, klinik haftanın yedi günü açıktır. Güncel saatler ve randevu için WhatsApp'tan yazabilirsiniz. Hafta sonu yapılabilen işlemleri <a class="text-link" href="${route("post-beyhaftasonu", lang)}">bu yazımızda</a> anlattık.` },
     { q: "İlk muayenede ne yapılıyor?", a: "Ağız içi muayene yapıyor, gerekirse röntgen ya da tomografi çekiyoruz. Ardından bulguları anlatıyor, tedavi seçeneklerini ve yaklaşık maliyeti yazılı olarak paylaşıyoruz. Muayene sonrası tedaviye başlamak zorunda değilsiniz." },
     { q: "Tedavi fiyatlarını önceden öğrenebilir miyim?", a: "Fiyat; diş sayısına, kullanılacak malzemeye ve ek işlem gerekip gerekmediğine göre değişir. Fotoğraf ve röntgen gönderirseniz ön bilgi verebiliriz; kesin plan ve maliyet muayeneden sonra kalem kalem yazılı olarak verilir." },
     { q: "Yurt dışından geliyorum, tedavimi nasıl planlarım?", a: `Röntgen ve fotoğraflarınızı WhatsApp'tan gönderin. Hekim ön değerlendirme yapar; kaç ziyaret gerektiğini ve İstanbul'da ne kadar kalmanız gerektiğini birlikte konuşuruz. Ayrıntılar için <a class="text-link" href="${route("post-istanbul", lang)}">planlama rehberimize</a> bakabilirsiniz.` },
     { q: "Tedavi sırasında ağrı hissedecek miyim?", a: "İşlemlerin çoğu lokal anestezi altında yapılır ve tedavi sırasında belirgin ağrı beklenmez. İşlem sonrası olabilecek hassasiyeti ve ne yapmanız gerektiğini önceden anlatırız. Diş hekimi kaygınız varsa randevu alırken bize söyleyin." },
   ] : [
+    { q: "Where in Beylikdüzü is Dent32?", a: `We're at Ginza Lavinya on the E-5 service road in Barış (No:30 D:179, 34520 Beylikdüzü, Istanbul), easy to reach from Esenyurt, Avcılar and Büyükçekmece too. The map and directions are on our <a class="text-link" href="${route("contact", lang)}">contact page</a>.` },
+    { q: "Are you open at weekends and on Sundays?", a: `Yes, the clinic is open seven days a week. Message us on WhatsApp for current hours and appointments. We explain what can be done at the weekend in <a class="text-link" href="${route("post-beyhaftasonu", lang)}">this article</a>.` },
     { q: "What happens at the first examination?", a: "We carry out a clinical examination and take X-rays or a CT scan if needed. We then explain the findings and share the treatment options and an approximate cost in writing. You're under no obligation to start treatment after the examination." },
     { q: "Can I find out treatment prices in advance?", a: "Price depends on the number of teeth, the materials used and whether additional procedures are needed. If you send photos and X-rays we can give preliminary information; the final plan and cost are given in writing, itemised, after the examination." },
     { q: "I'm coming from abroad. How do I plan my treatment?", a: `Send your X-rays and photos via WhatsApp. The dentist will make a preliminary assessment, and together we'll discuss how many visits you need and how long to stay in Istanbul. See our <a class="text-link" href="${route("post-istanbul", lang)}">planning guide</a> for details.` },
@@ -32,16 +54,24 @@ export function Home({ lang }: { lang: Lang }) {
     ["health-turkiye", "Health Türkiye", 195],
   ];
 
+  const faqLd = {
+    "@context": "https://schema.org", "@type": "FAQPage",
+    mainEntity: faq.map(({ q, a }) => ({ "@type": "Question", name: q, acceptedAnswer: { "@type": "Answer", text: a.replace(/<[^>]+>/g, "") } })),
+  };
+
   return (
     <Shell lang={lang} pageKey="home">
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(dentistLd(lang))} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(websiteLd(lang))} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(faqLd)} />
 
       <section className="hero">
         <HeroVideo />
         <div className="wrap hero__grid">
           <div>
-            <p className="eyebrow hero__fade">{t("Dent32 · Beylikdüzü diş kliniği, İstanbul", "Dent32 · Dental clinic in Beylikdüzü, Istanbul")}</p>
+            {/* Üst satır da başlığın parçası: arama motoru H1'i "Beylikdüzü diş kliniği" ile başlar, görünüm aynı kalır */}
             <h1 className="hero__title">
+              <span className="eyebrow hero__fade">{t("Beylikdüzü diş kliniği · Dent32, İstanbul", "Dental clinic in Beylikdüzü, Istanbul · Dent32")}</span>
               <span className="line"><span style={{ ["--i" as string]: 0 }}>{t("Sağlıklı bir gülüş", "A healthy smile starts")}</span></span>
               <span className="line"><span style={{ ["--i" as string]: 1 }}>{t("doğru planla başlar.", "with the right plan.")}</span></span>
             </h1>
@@ -171,7 +201,33 @@ export function Home({ lang }: { lang: Lang }) {
         </div>
       </section>
 
-      <section className="section" aria-labelledby="h-faq">
+      <section className="section" aria-labelledby="h-local">
+        <div className="wrap local">
+          <div className="rv">
+            <p className="eyebrow">Beylikdüzü</p>
+            <h2 id="h-local">{t("Beylikdüzü'nde diş kliniği", "A dental clinic in Beylikdüzü")}</h2>
+            <p>{t("Dent32, Beylikdüzü Barış Mahallesi'nde, E-5 yanyolu üzerindeki Ginza Lavinya'da hizmet veren bir diş kliniğidir. İmplant, zirkonyum ve lamine kaplama, gülüş tasarımı, şeffaf plak ortodonti, diş beyazlatma, kanal tedavisi, diş eti tedavisi ve çocuk diş hekimliği aynı çatı altında, birlikte plan yapan bir hekim ekibiyle yürütülür.",
+              "Dent32 is a dental clinic at Ginza Lavinya on the E-5 service road in Barış, Beylikdüzü. Implants, zirconia crowns and veneers, smile design, clear aligner orthodontics, teeth whitening, root canal treatment, gum care and children's dentistry are all under one roof, with a team that plans together.")}</p>
+            <p>{t("Klinik hafta sonu dahil her gün açıktır. Beylikdüzü'nün tüm mahallelerinden ve Esenyurt, Avcılar, Büyükçekmece gibi komşu ilçelerden gelen hastalarımız için randevuları ziyaret sayısını azaltacak şekilde planlıyoruz. Türkçe ve İngilizce hizmet veriyoruz.",
+              "The clinic is open every day, including weekends. For patients from every part of Beylikdüzü and neighbouring districts such as Esenyurt, Avcılar and Büyükçekmece, we plan appointments to keep the number of visits down. We work in Turkish and English.")}</p>
+            <ul className="info">
+              <li><span className="info__ico"><Icon name="pin" /></span><div><strong>{t("Adres", "Address")}</strong><address style={{ fontStyle: "normal" }}>{ADDRESS}</address></div></li>
+              <li><span className="info__ico"><Icon name="clock" /></span><div><strong>{t("Çalışma günleri", "Opening days")}</strong>{t("Haftanın yedi günü, hafta sonu dahil", "Seven days a week, including weekends")}</div></li>
+              <li><span className="info__ico"><Icon name="phone" /></span><div><strong>{t("Telefon ve WhatsApp", "Phone and WhatsApp")}</strong><a href={`tel:${PHONE_E164}`}>{PHONE}</a></div></li>
+            </ul>
+          </div>
+          <div className="rv" style={delay(1)}>
+            <h3 className="local__title">{t("Beylikdüzü diş rehberleri", "Beylikdüzü dental guides")}</h3>
+            <ul className="local__links">
+              {LOCAL_GUIDES.map(([key, tr, en]) => (
+                <li key={key}><Link href={route(`post-${key}`, lang)}>{t(tr, en)} <Icon name="arrow" /></Link></li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section className="section section--mist" aria-labelledby="h-faq">
         <div className="wrap faq-layout">
           <div className="rv">
             <p className="eyebrow">{t("Sık sorulan sorular", "FAQ")}</p>

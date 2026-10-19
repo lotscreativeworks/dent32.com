@@ -5,7 +5,7 @@ import { Treatments } from "@/views/Treatments";
 export const metadata: Metadata = pageMetadata({
   key: "treat",
   lang: "en",
-  title: "Dental Treatments in Istanbul: Implants, Crowns | Dent32",
+  title: "Dental Treatments in Beylikdüzü, Istanbul: Implants, Crowns | Dent32",
   description: "Implants, zirconia and porcelain crowns, smile design, clear aligners, whitening, root canal treatment, children's dentistry and gum treatment.",
   image: "tedavi-implant",
 });

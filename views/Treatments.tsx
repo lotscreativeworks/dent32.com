@@ -9,7 +9,8 @@ export function Treatments({ lang }: { lang: Lang }) {
   const t = translator(lang);
   return (
     <Shell lang={lang} pageKey="treat">
-      <PageHead lang={lang} title={t("Tedaviler", "Treatments")} crumb={t("Tedaviler", "Treatments")}
+      <PageHead lang={lang} title={t("Beylikdüzü'nde diş tedavileri", "Dental treatments in Beylikdüzü")} crumb={t("Tedaviler", "Treatments")}
+        eyebrow={t("Dent32 · Beylikdüzü diş kliniği", "Dent32 · Dental clinic in Beylikdüzü")}
         lead={t("Her tedaviyi ne olduğu, kimler için uygun olduğu ve nasıl ilerlediğiyle anlatıyoruz. Süre ve maliyet kişiye göre değişir; muayene sonrası size özel yazılı plan veriyoruz.",
           "For each treatment we explain what it is, who it suits and how it works. Timing and cost vary from person to person; after the examination you'll get a written plan made for you.")} />
 

@@ -1,5 +1,871 @@
 [
  {
+  "key": "beydis",
+  "date": "2026-10-19",
+  "cat": "Rehber",
+  "cover": "blog-bey-dis-hekimi",
+  "slug": "beylikduzu-dis-hekimi",
+  "title": "Beylikdüzü diş hekimi: Dent32'de hangi tedaviler yapılır, randevu nasıl alınır?",
+  "desc": "Beylikdüzü'nde diş hekimi arayanlar için Dent32 rehberi: implant, zirkonyum, gülüş tasarımı, şeffaf plak, kanal, diş eti ve çocuk diş tedavisi; hekim kadrosu, konum, haftanın yedi günü açık klinik ve randevu.",
+  "lead": "Dent32, Beylikdüzü Barış Mahallesi'nde E-5 yanyolu üzerinde, haftanın yedi günü açık bir diş kliniğidir. İmplanttan çocuk diş hekimliğine kadar temel ve estetik diş tedavileri aynı çatı altında, muayene sonrası verilen yazılı bir planla yürütülür.",
+  "sections": [
+   {
+    "id": "kimiz",
+    "h": "Dent32 kimdir, nerededir?",
+    "html": "<p>Dent32, kurucu hekim Dr. Hüseyin Aşçı'nın Beylikdüzü'nde açtığı bir diş kliniğidir. Dr. Hüseyin Aşçı ortodonti ve diş estetiği alanında çalışır; kadroda Dr. Anıl Işıklı ve Dr. Fulya Toraman da yer alır. Hekimlerimizi ve çalışma biçimimizi <a class=\"text-link\" href=\"/hakkimizda/#kadro\">hakkımızda sayfasında</a> tanıtıyoruz.</p>\n<p>Klinik, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir. Metrobüs hattının geçtiği E-5 yanyolu üzerinde olduğu için Beylikdüzü'nün Barış, Cumhuriyet, Adnan Kahveci, Kavaklı, Yakuplu, Marmara, Büyükşehir, Sahil, Dereağzı ve Gürpınar mahallelerinden kolayca ulaşılır.</p><aside class=\"note\"><strong>Kısaca</strong><p>Beylikdüzü'nde diş hekimi arıyorsanız Dent32; yedi gün açık, Türkçe ve İngilizce hizmet veren, ortodonti, implant ve estetik diş hekimliğini birlikte planlayan bir <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniği</a>dir.</p></aside>"
+   },
+   {
+    "id": "tedaviler",
+    "h": "Klinikte hangi diş tedavileri yapılıyor?",
+    "html": "<p>Aşağıdaki tablo, en sık başvurulan tedavileri ve her biri için hazırladığımız ayrıntılı rehberi gösterir. Tedavilerin tamamını <a class=\"text-link\" href=\"/tedaviler/\">tedaviler sayfamızda</a> da bulabilirsiniz.</p><div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Tedavi</th><th scope=\"col\">Ne zaman gerekir?</th><th scope=\"col\">Ayrıntılı rehber</th></tr></thead><tbody><tr><td>İmplant</td><td>Bir ya da birden fazla eksik diş</td><td><a class=\"text-link\" href=\"/blog/beylikduzu-implant-tedavisi/\">Beylikdüzü'nde implant tedavisi</a></td></tr><tr><td>Zirkonyum kaplama</td><td>Aşınmış, kırık, renk değiştirmiş ya da kanal tedavili diş</td><td><a class=\"text-link\" href=\"/blog/beylikduzu-zirkonyum-kaplama/\">Zirkonyum kaplama rehberi</a></td></tr><tr><td>Lamine kaplama</td><td>Ön dişlerde şekil, renk ve boyut düzeltmesi</td><td><a class=\"text-link\" href=\"/blog/beylikduzu-lamine-kaplama/\">Lamine kaplama rehberi</a></td></tr><tr><td>Gülüş tasarımı</td><td>Gülüşün bütün olarak yeniden planlanması</td><td><a class=\"text-link\" href=\"/blog/beylikduzu-gulus-tasarimi/\">Gülüş tasarımı rehberi</a></td></tr><tr><td>Şeffaf plak / ortodonti</td><td>Çapraşık, aralıklı ya da öne çıkık dişler</td><td><a class=\"text-link\" href=\"/blog/beylikduzu-ortodonti-seffaf-plak/\">Ortodonti rehberi</a></td></tr><tr><td>Diş beyazlatma</td><td>Sararmış ya da lekelenmiş dişler</td><td><a class=\"text-link\" href=\"/blog/beylikduzu-dis-beyazlatma/\">Diş beyazlatma rehberi</a></td></tr><tr><td>Kanal tedavisi</td><td>Sinire ulaşmış çürük, gece ağrısı, apse</td><td><a class=\"text-link\" href=\"/blog/beylikduzu-kanal-tedavisi/\">Kanal tedavisi rehberi</a></td></tr><tr><td>Diş eti tedavisi</td><td>Kanayan, şişen ya da çekilen diş eti</td><td><a class=\"text-link\" href=\"/blog/beylikduzu-dis-eti-tedavisi/\">Diş eti tedavisi rehberi</a></td></tr><tr><td>Çocuk diş hekimliği</td><td>Süt dişi çürükleri, koruyucu uygulamalar</td><td><a class=\"text-link\" href=\"/blog/beylikduzu-cocuk-dis-hekimi/\">Çocuk diş hekimi rehberi</a></td></tr><tr><td>Protez diş</td><td>Çok sayıda ya da tüm dişlerin eksikliği</td><td><a class=\"text-link\" href=\"/blog/beylikduzu-protez-dis/\">Protez diş rehberi</a></td></tr></tbody></table></div>"
+   },
+   {
+    "id": "muayene",
+    "h": "İlk randevuda neler oluyor?",
+    "html": "<p>Her tedavi ayrıntılı bir muayeneyle başlar. Şikâyetinizi dinledikten sonra ağzın tamamını, diş etlerini ve ısırmanızı inceliyor, gerekirse röntgen ya da üç boyutlu tomografi istiyoruz. Ardından bulguları size gösteriyor, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşıyoruz.</p>\n<p>Muayene sonrası tedaviye başlamak zorunda değilsiniz; planı düşünmeniz için zaman tanırız. Ayrıntılar için <a class=\"text-link\" href=\"/blog/beylikduzu-dis-muayenesi/\">diş muayenesi rehberimize</a> bakabilirsiniz.</p>"
+   },
+   {
+    "id": "saatler",
+    "h": "Haftanın yedi günü açık: hafta sonu randevuları",
+    "html": "<p>Dent32 hafta sonu dahil her gün açıktır. Hafta içi işten çıkamayanlar, öğrenciler ve çevre ilçelerden gelen hastalar için cumartesi ve pazar randevuları büyük kolaylık sağlar. Gece ya da tatil günü başlayan diş ağrısında aynı gün değerlendirme yapılabilmesi de bunun bir sonucudur.</p>\n<p>Hafta sonu hangi işlemlerin yapılabildiğini <a class=\"text-link\" href=\"/blog/beylikduzu-hafta-sonu-acik-dis-klinigi/\">hafta sonu açık diş kliniği</a> yazımızda, ağrı anında yapılacakları ise <a class=\"text-link\" href=\"/blog/acil-dis-agrisi-beylikduzu/\">acil diş ağrısı rehberinde</a> anlattık.</p>"
+   },
+   {
+    "id": "ulasim",
+    "h": "Çevre ilçelerden gelenler için",
+    "html": "<p>Hastalarımızın bir bölümü Esenyurt, Avcılar ve Büyükçekmece'den geliyor. Birden fazla seans gerektiren tedavilerde randevuları ziyaret sayısını azaltacak şekilde planlıyoruz. Yol ve planlama önerilerini <a class=\"text-link\" href=\"/blog/esenyurt-avcilar-buyukcekmece-dis-klinigi/\">çevre ilçelerden gelen hastalar için hazırladığımız rehberde</a> bulabilirsiniz.</p>"
+   },
+   {
+    "id": "randevu",
+    "h": "Randevu nasıl alınır?",
+    "html": "<ul>\n<li><strong>WhatsApp:</strong> +90 555 011 33 68 numarasına yazabilirsiniz. Şikâyetinizi ve uygun olduğunuz günleri belirtmeniz yeterlidir.</li>\n<li><strong>Telefon:</strong> Aynı numaradan arayarak randevu alabilirsiniz.</li>\n<li><strong>İletişim formu:</strong> <a class=\"text-link\" href=\"/iletisim/\">İletişim sayfamızdaki form</a> bilgilerinizi bir WhatsApp mesajına dönüştürür.</li>\n<li><strong>Ön değerlendirme:</strong> Varsa röntgeninizi ve dişlerinizin fotoğraflarını gönderirseniz hekim ön bilgi verebilir; kesin plan muayeneden sonra netleşir.</li>\n</ul>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Beylikdüzü'nde pazar günü açık diş hekimi var mı?",
+    "a": "Dent32 haftanın yedi günü, pazar dahil açıktır. Gelmeden önce WhatsApp'tan yazarak o günkü uygun saatleri öğrenmenizi öneririz."
+   },
+   {
+    "q": "Dent32 Beylikdüzü'nün neresinde?",
+    "a": "Barış Mahallesi'nde, E-5 yanyolu üzerindeki Ginza Lavinya'dadır (No:30 D:179). Adres tarifini ve haritayı iletişim sayfamızda bulabilirsiniz."
+   },
+   {
+    "q": "Tedavimi hangi hekim yapacak?",
+    "a": "Muayenede bulgulara göre hangi hekimin hangi aşamayı üstleneceği size söylenir. Ortodonti, implant ve estetik tedaviler ekip içinde birlikte planlanır."
+   },
+   {
+    "q": "Çocuklar için uygun bir ortam var mı?",
+    "a": "Evet. Klinikte çocuklar için ayrı düzenlenmiş bir tedavi odası bulunur ve küçük hastalarla işlemleri yaşlarına uygun bir dille anlatarak çalışırız."
+   },
+   {
+    "q": "İngilizce konuşan hekim var mı?",
+    "a": "Evet, Türkçe ve İngilizce hizmet veriyoruz. Beylikdüzü'nde yaşayan yabancı hastalar ve yurt dışından gelenler randevularını İngilizce de alabilir."
+   }
+  ]
+ },
+ {
+  "key": "beyzirk",
+  "date": "2026-10-19",
+  "cat": "Kaplama",
+  "cover": "blog-bey-zirkonyum",
+  "slug": "beylikduzu-zirkonyum-kaplama",
+  "title": "Beylikdüzü'nde zirkonyum kaplama: kaç seans sürer, kimlere uygun, fiyatı neye göre değişir?",
+  "desc": "Beylikdüzü'nde zirkonyum diş kaplama: kimlere uygun, kaç randevuda ve kaç günde biter, diş ne kadar küçültülür, ömrü ve fiyatı belirleyen etkenler.",
+  "lead": "Zirkonyum kaplama, aşınmış, kırık, renk değiştirmiş ya da kanal tedavisi görmüş dişin üzerine yapıştırılan, metal içermeyen dayanıklı bir kaplamadır; muayeneden yapıştırmaya kadar süreç çoğu hastada 3–4 randevu ve yaklaşık 1–2 haftada tamamlanır.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "Zirkonyum kaplama nedir?",
+    "html": "<p>Zirkonyum (zirkonya), yüksek dayanımlı bir seramik malzemedir. Kaplamanın altyapısında metal olmadığı için diş eti kenarında koyu bir çizgi oluşmaz ve ışık doğal dişe yakın biçimde geçer. Bu nedenle hem ön hem arka dişlerde sık tercih edilir.</p>\n<p>Arka dişlerde çiğneme yükünü taşıyabilmesi için genellikle tek parça (monolitik) zirkonyum; ön dişlerde ise üzerine porselen katmanlanarak daha canlı bir görünüm elde edilen seçenekler kullanılır. Malzeme farklarını <a class=\"text-link\" href=\"/blog/dis-kaplama-cesitleri/\">diş kaplama çeşitleri</a> yazımızda karşılaştırdık.</p>"
+   },
+   {
+    "id": "kimlere",
+    "h": "Kimlere uygundur?",
+    "html": "<ul>\n<li>Büyük dolgu nedeniyle zayıflamış ya da kırılmış dişler</li>\n<li>Kanal tedavisi sonrası güçlendirilmesi gereken arka dişler</li>\n<li>Beyazlatmaya yanıt vermeyen ileri renk değişiklikleri</li>\n<li>Köprü ile eksik dişin tamamlanması ya da implant üstü kronlar</li>\n<li>Eski metal destekli kaplamalarını yenilemek isteyenler</li>\n</ul><p>Diş yapısı büyük ölçüde sağlamsa ve yalnızca ön yüzde estetik düzeltme gerekiyorsa daha az aşındırma gerektiren <a class=\"text-link\" href=\"/blog/beylikduzu-lamine-kaplama/\">lamine kaplama</a> daha uygun olabilir.</p>"
+   },
+   {
+    "id": "asamalar",
+    "h": "Tedavi kaç randevuda ve kaç günde biter?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Aşama</th><th scope=\"col\">Ne yapılır?</th><th scope=\"col\">Tipik süre</th></tr></thead><tbody><tr><td>1. Muayene ve plan</td><td>Röntgen, diş eti ve kapanış kontrolü, renk ve şekil planı</td><td>1 randevu</td></tr><tr><td>2. Hazırlık ve ölçü</td><td>Dişler lokal anestezi altında küçültülür, ölçü alınır, geçici kaplama takılır</td><td>1 randevu (1–2 saat)</td></tr><tr><td>3. Prova</td><td>Altyapı ya da kaplama ağızda denenir, renk ve uyum kontrol edilir</td><td>1 randevu</td></tr><tr><td>4. Yapıştırma</td><td>Kaplamalar kalıcı olarak yapıştırılır, ısırma ayarlanır</td><td>1 randevu</td></tr></tbody></table></div><p>Ölçüden yapıştırmaya kadar laboratuvar süreci genellikle 5–10 iş günü sürer. Öncesinde kanal tedavisi, dolgu ya da diş eti tedavisi gerekiyorsa süre uzar. Hafta sonu da açık olduğumuz için randevuları iş takviminize göre yerleştirmek kolaylaşır.</p><aside class=\"note\"><strong>Kısaca</strong><p>Sağlıklı dişlerde zirkonyum kaplama çoğunlukla 1–2 haftada, 3–4 randevuda tamamlanır.</p></aside>"
+   },
+   {
+    "id": "kesim",
+    "h": "Diş ne kadar küçültülür, ağrı olur mu?",
+    "html": "<p>Zirkonyum kaplama için dişin çevresinden genellikle 1–1,5 mm civarında doku kaldırılır; bu miktar lamineye göre fazladır. İşlem lokal anestezi altında yapıldığından ağrı beklenmez. Hazırlık sonrası birkaç gün sıcak-soğuk hassasiyeti olabilir; geçici kaplama bu dönemde dişi korur.</p>\n<p>Kaplama sonrası hangi hassasiyetin normal olduğunu <a class=\"text-link\" href=\"/blog/dis-kaplama-sonrasi-hassasiyet/\">kaplama sonrası hassasiyet</a> yazımızda ayrıntılı anlattık.</p>"
+   },
+   {
+    "id": "fiyat",
+    "h": "Fiyatı neye göre değişir?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Etken</th><th scope=\"col\">Açıklama</th></tr></thead><tbody><tr><td>Diş sayısı</td><td>Tek diş, birkaç diş ya da tüm gülüş planı</td></tr><tr><td>Zirkonyum türü</td><td>Monolitik ya da porselen katmanlı; ön ve arka diş ihtiyaçları farklıdır</td></tr><tr><td>Ön tedaviler</td><td>Kanal tedavisi, dolgu, diş eti tedavisi gerekip gerekmediği</td></tr><tr><td>Estetik beklenti</td><td>Ön dişlerde renk ve yüzey ayrıntısı için ek laboratuvar işçiliği</td></tr><tr><td>İmplant üstü mü?</td><td>İmplant üzerine yapılan kronlarda bağlantı parçaları da maliyete eklenir</td></tr></tbody></table></div><p>Muayene sonrası her kalemi yazılı olarak paylaşıyoruz. Genel fiyat etkenlerini <a class=\"text-link\" href=\"/blog/beylikduzu-dis-tedavisi-fiyatlari/\">Beylikdüzü'nde diş tedavisi fiyatları</a> yazımızda topladık.</p>"
+   },
+   {
+    "id": "omur",
+    "h": "Zirkonyum kaplama kaç yıl dayanır?",
+    "html": "<p>İyi planlanmış ve bakımı yapılan zirkonyum kaplamalar uzun yıllar kullanılabilir. Ömrü belirleyen asıl etkenler; kaplamanın altındaki dişin sağlığı, diş eti kenarının temiz tutulması ve diş sıkma alışkanlığıdır. Gece diş sıkıyorsanız <a class=\"text-link\" href=\"/blog/dis-sikma-gece-plagi/\">gece plağı</a> kaplamalarınızı korur.</p>\n<p>Rötuşsuz vaka fotoğraflarını <a class=\"text-link\" href=\"/galeri/\">galerimizde</a> görebilir, kendi durumunuz için <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniğimizden</a> randevu alabilirsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Zirkonyum kaplama aynı hafta biter mi?",
+    "a": "Ön tedavi gerekmiyorsa çoğu hastada ölçüden yapıştırmaya 5–10 iş günü yeterlidir. Kanal ya da diş eti tedavisi gerekiyorsa süre uzar."
+   },
+   {
+    "q": "Zirkonyum kaplama zamanla renk değiştirir mi?",
+    "a": "Hayır. Zirkonyum ve porselen yüzey çay, kahve ya da sigara ile kalıcı olarak renk değiştirmez; ancak çevresindeki doğal dişler ve diş eti kenarı lekelenebilir."
+   },
+   {
+    "q": "Zirkonyum kaplamadan önce beyazlatma yapılmalı mı?",
+    "a": "Kaplamanın rengi komşu doğal dişlere göre seçilir. Dişlerinizi açmak istiyorsanız beyazlatma kaplamadan önce yapılmalıdır; çünkü kaplama sonradan beyazlamaz."
+   },
+   {
+    "q": "Kaplamalı dişte çürük olur mu?",
+    "a": "Kaplamanın kendisi çürümez, ancak diş eti kenarındaki doğal diş dokusu çürüyebilir. Diş ipi, arayüz fırçası ve düzenli kontrol bu riski azaltır."
+   },
+   {
+    "q": "Zirkonyum mu, porselen mi?",
+    "a": "Metal destekli porselene göre zirkonyum daha estetik ve doku dostudur. Seçim; dişin konumuna, ısırma kuvvetine ve estetik beklentiye göre muayenede yapılır."
+   }
+  ]
+ },
+ {
+  "key": "beygulus",
+  "date": "2026-10-19",
+  "cat": "Estetik",
+  "cover": "blog-bey-gulus",
+  "slug": "beylikduzu-gulus-tasarimi",
+  "title": "Beylikdüzü'nde gülüş tasarımı: planlama, prova ve uygulama adım adım",
+  "desc": "Beylikdüzü'nde gülüş tasarımı nasıl yapılır? Dijital planlama, ağızda prova (mock-up), lamine, zirkonyum, ortodonti ve diş eti düzeltmesi seçenekleri, süre ve maliyet etkenleri.",
+  "lead": "Gülüş tasarımı; dişlerin boyunu, şeklini, rengini ve diş eti çizgisini yüz oranlarınıza göre planlayıp, uygulamadan önce ağızda deneyerek göstermektir. Plan çoğu zaman lamine ya da zirkonyum kaplama, beyazlatma, ortodonti ve diş eti düzeltmesinin bir bileşimidir.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "Gülüş tasarımı tek bir işlem mi?",
+    "html": "<p>Hayır. Gülüş tasarımı bir tedavi adı değil, bir planlama yöntemidir. Önce yüzünüz, dudaklarınız ve dişleriniz birlikte analiz edilir; ardından hedeflenen gülüşe ulaşmak için en az müdahaleli işlemler seçilir. Kimi hastada yalnızca beyazlatma ve bonding yeterlidir, kimi hastada önce ortodonti ardından kaplama gerekir.</p>\n<p>Yöntemin genel çerçevesini <a class=\"text-link\" href=\"/blog/gulus-tasarimi-nedir/\">gülüş tasarımı nedir</a> yazımızda anlattık; bu yazıda Beylikdüzü'ndeki kliniğimizde sürecin nasıl ilerlediğine odaklanıyoruz.</p>"
+   },
+   {
+    "id": "islemler",
+    "h": "Planda hangi işlemler yer alabilir?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">İşlem</th><th scope=\"col\">Ne sağlar?</th><th scope=\"col\">Diş aşındırma</th></tr></thead><tbody><tr><td>Diş beyazlatma</td><td>Doğal dişlerin rengini açar</td><td>Yok</td></tr><tr><td>Bonding</td><td>Küçük kırık, aralık ve şekil düzeltmeleri</td><td>Yok ya da çok az</td></tr><tr><td>Lamine kaplama</td><td>Ön dişlerde şekil, renk ve boy değişikliği</td><td>Az (yaklaşık 0,3–0,7 mm)</td></tr><tr><td>Zirkonyum kaplama</td><td>Zayıf, kırık ya da çok renkli dişlerin tamamen kaplanması</td><td>Daha fazla</td></tr><tr><td>Şeffaf plak ortodonti</td><td>Çapraşıklığı düzeltir, kaplama ihtiyacını azaltabilir</td><td>Yok</td></tr><tr><td>Diş eti düzeltmesi</td><td>Diş eti görünen (gummy) gülüşü ve asimetriyi dengeler</td><td>Yok</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "adimlar",
+    "h": "Süreç nasıl ilerler?",
+    "html": "<ol>\n<li><strong>Muayene ve fotoğraf:</strong> Ağız içi muayene, röntgen ve yüz-gülüş fotoğrafları alınır; beklentileriniz konuşulur.</li>\n<li><strong>Dijital plan:</strong> Diş boyları, orta hat, gülüş çizgisi ve renk seçenekleri planlanır.</li>\n<li><strong>Ağızda prova (mock-up):</strong> Planlanan gülüş, geçici bir malzemeyle dişlerinizin üzerinde canlandırılır; aynada ve fotoğrafta görür, değişiklik isteyebilirsiniz.</li>\n<li><strong>Onay ve yazılı plan:</strong> Hangi dişe ne yapılacağı, süre ve maliyet yazılı olarak verilir.</li>\n<li><strong>Uygulama:</strong> Onaylanan plan; beyazlatma, ortodonti, lamine ya da zirkonyum aşamalarıyla uygulanır.</li>\n<li><strong>Kontrol:</strong> Isırma, konuşma ve diş eti uyumu kontrol edilir; gerekirse gece plağı önerilir.</li>\n</ol><aside class=\"note\"><strong>Neden prova önemli?</strong><p>Gülüş tasarımında geri dönüşü zor adım diş aşındırmadır. Ağızda prova, sonuca karar vermeden önce görmenizi sağlar ve gereksiz aşındırmanın önüne geçer.</p></aside>"
+   },
+   {
+    "id": "ortodonti",
+    "h": "Önce ortodonti mi, doğrudan kaplama mı?",
+    "html": "<p>Dişler çapraşık ya da öne-arkaya doğru dizilmişse, onları kaplama ile hizalamak daha fazla diş dokusu kaldırmayı gerektirir. Bu durumda birkaç aylık şeffaf plak tedavisiyle dişleri önce hizaya getirmek, ardından daha az aşındırmayla lamine yapmak çoğu zaman daha koruyucu bir yoldur.</p>\n<p>Kurucu hekimimiz Dr. Hüseyin Aşçı ortodonti ve diş estetiği alanında çalıştığı için bu iki aşamayı aynı plan içinde birlikte değerlendiriyoruz. Ayrıntılar için <a class=\"text-link\" href=\"/blog/beylikduzu-ortodonti-seffaf-plak/\">Beylikdüzü'nde ortodonti</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "sure",
+    "h": "Gülüş tasarımı ne kadar sürer?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Plan türü</th><th scope=\"col\">Tipik süre</th></tr></thead><tbody><tr><td>Beyazlatma + bonding</td><td>1–2 randevu</td></tr><tr><td>Lamine ya da zirkonyum kaplama</td><td>Yaklaşık 1–2 hafta, 3–4 randevu</td></tr><tr><td>Önce ortodonti, sonra kaplama</td><td>Birkaç ay ile bir yıl arası, ortodontinin süresine göre</td></tr><tr><td>Diş eti düzeltmesi eklenirse</td><td>İyileşme için birkaç hafta eklenir</td></tr></tbody></table></div><p>Maliyet; işlem türüne, diş sayısına ve malzemeye göre değişir. Muayene ve prova sonrası kalem kalem yazılı plan veriyoruz. <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniği</a> Dent32'de ilk adım için <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Gülüş tasarımında kaç diş yapılır?",
+    "a": "Gülerken görünen diş sayısı kişiden kişiye değişir; çoğu planda üst çenede 6 ile 10 diş arasında çalışılır. Sayı, fotoğraf analizi ve prova sonucunda belirlenir."
+   },
+   {
+    "q": "Gülüş tasarımı doğal görünür mü?",
+    "a": "Doğallık; diş boylarının yüzle uyumuna, renk seçimine ve yüzey ayrıntısına bağlıdır. Ağızda prova, sonucun size uygun olup olmadığını önceden görmenizi sağlar."
+   },
+   {
+    "q": "Gülüş tasarımı için yaş sınırı var mı?",
+    "a": "Dişlerin ve diş etlerinin gelişimini tamamlamış olması gerekir; bu genellikle 18 yaş civarıdır. Üst sınır yoktur, önemli olan dişlerin ve diş etlerinin sağlığıdır."
+   },
+   {
+    "q": "Prova sonrası vazgeçebilir miyim?",
+    "a": "Evet. Ağızda prova geçici bir malzemeyle yapılır ve dişlerinize kalıcı bir işlem uygulanmaz. Plan onayınız olmadan uygulamaya geçilmez."
+   }
+  ]
+ },
+ {
+  "key": "beybeyaz",
+  "date": "2026-10-19",
+  "cat": "Estetik",
+  "cover": "blog-bey-beyazlatma",
+  "slug": "beylikduzu-dis-beyazlatma",
+  "title": "Beylikdüzü'nde diş beyazlatma: klinikte tek seans mı, evde plakla mı?",
+  "desc": "Beylikdüzü'nde diş beyazlatma: klinik (ofis tipi) ve ev tipi beyazlatma farkları, kaç seans sürer, hassasiyet, kalıcılık, kimlere uygun olmadığı ve sonrasında dikkat edilmesi gerekenler.",
+  "lead": "Diş beyazlatma, hekim kontrolünde peroksit içeren jellerle diş renginin açılmasıdır; klinikte yaklaşık bir saatlik tek seansta ya da kişiye özel plaklarla evde 1–2 haftada yapılır ve sonuç alışkanlıklara bağlı olarak genellikle 1–3 yıl korunur.",
+  "sections": [
+   {
+    "id": "kimlere",
+    "h": "Kimlere uygundur?",
+    "html": "<p>Çay, kahve, sigara ya da yaşla birlikte sararan doğal dişlerde beyazlatma iyi sonuç verir. Antibiyotik kaynaklı (tetrasiklin) ya da florozis kaynaklı lekelerde sonuç daha sınırlı olabilir; bu durumlarda lamine ya da bonding gibi seçenekler konuşulur.</p><aside class=\"note\"><strong>Önemli</strong><p>Dolgu, kaplama ve lamine gibi yapay yüzeyler beyazlamaz. Ön dişlerinizde eski dolgular varsa beyazlatma sonrası bunların yenilenmesi gerekebilir; bunu baştan planlıyoruz.</p></aside>"
+   },
+   {
+    "id": "yontemler",
+    "h": "Klinikte mi, evde mi?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\"></th><th scope=\"col\">Klinik (ofis tipi)</th><th scope=\"col\">Ev tipi</th></tr></thead><tbody><tr><td>Nasıl yapılır?</td><td>Diş eti koruyucu bariyerle korunur, dişlere jel uygulanır</td><td>Kişiye özel şeffaf plaklarla düşük yoğunluklu jel kullanılır</td></tr><tr><td>Süre</td><td>Yaklaşık 1 saatlik tek seans</td><td>Her gün belirli süre, yaklaşık 1–2 hafta</td></tr><tr><td>Sonucun görülmesi</td><td>Aynı gün</td><td>Kademeli</td></tr><tr><td>Hassasiyet</td><td>Birkaç gün geçici hassasiyet olabilir</td><td>Genellikle daha hafif</td></tr><tr><td>Kimler için?</td><td>Hızlı sonuç isteyenler</td><td>Evde düzenli uygulayabilenler, rötuş ihtiyacı olanlar</td></tr></tbody></table></div><p>Bazı hastalarda iki yöntemi birleştiriyoruz: klinikte başlayıp ev plağıyla sonucu pekiştirmek ya da yıllar içinde rötuş yapmak. Genel bilgiler için <a class=\"text-link\" href=\"/blog/dis-beyazlatma/\">diş beyazlatma: klinikte mi, evde mi?</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "once",
+    "h": "Beyazlatmadan önce neler yapılır?",
+    "html": "<ul>\n<li><strong>Muayene:</strong> Çürük, açık dolgu kenarı ya da diş eti çekilmesi varsa önce bunlar tedavi edilir; aksi hâlde hassasiyet artar.</li>\n<li><strong>Diş taşı temizliği:</strong> Yüzeydeki taş ve lekeler temizlenmeden yapılan beyazlatma eşit sonuç vermez. <a class=\"text-link\" href=\"/blog/dis-tasi-temizligi/\">Diş taşı temizliği</a> genellikle birkaç gün önce yapılır.</li>\n<li><strong>Renk kaydı:</strong> Başlangıç rengi kaydedilir; böylece sonucu karşılaştırabilirsiniz.</li>\n</ul>"
+   },
+   {
+    "id": "sonra",
+    "h": "Beyazlatma sonrası nelere dikkat edilmeli?",
+    "html": "<p>İlk 24–48 saat dişler renk almaya daha yatkındır. Bu sürede çay, kahve, kola, kırmızı şarap, koyu soslar ve sigaradan uzak durmanızı öneririz. Geçici hassasiyet için hassas dişlere yönelik diş macunu kullanılabilir.</p>\n<p>Sonucun ne kadar kalacağı büyük ölçüde alışkanlıklara bağlıdır. Düzenli diş taşı temizliği ve gerektiğinde kısa ev tipi rötuşlarla renk uzun süre korunabilir.</p>"
+   },
+   {
+    "id": "uygun-degil",
+    "h": "Kimlere önerilmez?",
+    "html": "<ul>\n<li>Hamileler ve emziren anneler</li>\n<li>Dişleri ve diş özü gelişimini tamamlamamış gençler (genellikle 16–18 yaş altı)</li>\n<li>Tedavi edilmemiş çürüğü ya da aktif diş eti hastalığı olanlar</li>\n<li>Belirgin diş eti çekilmesi ve açık kök yüzeyi nedeniyle şiddetli hassasiyeti olanlar</li>\n</ul><p><a class=\"text-link\" href=\"/\">Beylikdüzü'ndeki diş kliniğimizde</a> beyazlatma için uygunluğunuzu kısa bir muayeneyle değerlendirebiliriz. Gülüşünüzü bütün olarak değiştirmek istiyorsanız <a class=\"text-link\" href=\"/blog/beylikduzu-gulus-tasarimi/\">gülüş tasarımı</a> seçeneklerine de göz atın.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş beyazlatma mineye zarar verir mi?",
+    "a": "Hekim kontrolünde ve uygun yoğunlukta yapılan beyazlatma mine yapısına kalıcı zarar vermez. Zarar riski daha çok denetimsiz, internetten alınan ürünlerin aşırı kullanımıyla ilgilidir."
+   },
+   {
+    "q": "Kaç ton beyazlar?",
+    "a": "Sonuç dişin başlangıç rengine ve lekelerin türüne göre değişir. Önceden kesin bir ton vaat etmek doğru değildir; renk ölçümünü başlangıçta birlikte kaydederiz."
+   },
+   {
+    "q": "Beyazlatma acıtır mı?",
+    "a": "İşlem sırasında ağrı beklenmez. Bazı hastalarda işlem sonrası 1–2 gün geçici, keskin sızlamalar olabilir; genellikle kendiliğinden geçer."
+   },
+   {
+    "q": "Kaplamalı dişlerim de beyazlar mı?",
+    "a": "Hayır. Kaplama, lamine ve dolgular beyazlamaz. Görünen bölgedeyse beyazlatma sonrası yeni renge göre yenilenmeleri gerekebilir."
+   },
+   {
+    "q": "Ne sıklıkla tekrarlanabilir?",
+    "a": "Çoğu hastada ilk sonuç yıllarca korunur. Gerekirse ev tipi plaklarla kısa rötuşlar yapılabilir; sık tekrarlanan klinik seanslar önerilmez."
+   }
+  ]
+ },
+ {
+  "key": "beyorto",
+  "date": "2026-10-19",
+  "cat": "Ortodonti",
+  "cover": "blog-bey-ortodonti",
+  "slug": "beylikduzu-ortodonti-seffaf-plak",
+  "title": "Beylikdüzü'nde ortodonti: şeffaf plak ve diş teli seçenekleri, süre ve kontroller",
+  "desc": "Beylikdüzü'nde ortodonti tedavisi: şeffaf plak (aligner) ve diş teli nasıl çalışır, kimlere uygun, ne kadar sürer, çocuklarda ilk ortodonti muayenesi ve tedavi sonrası pekiştirme.",
+  "lead": "Ortodonti, çapraşık, aralıklı ya da yanlış kapanan dişleri şeffaf plak ya da diş teliyle düzelten tedavidir; yetişkinlerde süre çoğunlukla 6 ay ile 2 yıl arasındadır ve tedaviden sonra dişlerin yerinde kalması için pekiştirme aygıtı kullanılır.",
+  "sections": [
+   {
+    "id": "kimler",
+    "h": "Kimlerin ortodontiye ihtiyacı olur?",
+    "html": "<ul>\n<li>Çapraşık (üst üste binmiş) ya da aralıklı dişler</li>\n<li>Üst dişlerin fazla önde ya da alt dişlerin önde kapandığı durumlar</li>\n<li>Derin kapanış, açık kapanış ve çapraz kapanış</li>\n<li>Kaplama, lamine ya da implant öncesi dişlerin doğru konuma getirilmesi gereken vakalar</li>\n</ul><p>Ortodonti yalnızca estetik değildir. Düzgün dizilmemiş dişler daha zor temizlenir; bu da çürük ve diş eti hastalığı riskini artırır.</p>"
+   },
+   {
+    "id": "seffaf",
+    "h": "Şeffaf plak nasıl çalışır?",
+    "html": "<p>Şeffaf plak tedavisinde dişlerin dijital modeli üzerinde hareketler planlanır ve her biri dişleri küçük miktarda hareket ettiren bir dizi plak üretilir. Plaklar günde yaklaşık 20–22 saat takılır, yemek ve diş fırçalama sırasında çıkarılır ve hekimin belirttiği aralıkla bir sonrakine geçilir.</p>\n<p>Bazı dişlerin üzerine plağın daha iyi kavraması için küçük, diş renginde çıkıntılar (ataşman) yapıştırılır. Plakların başarısı büyük ölçüde düzenli takılmasına bağlıdır.</p>"
+   },
+   {
+    "id": "karsilastirma",
+    "h": "Şeffaf plak mı, diş teli mi?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\"></th><th scope=\"col\">Şeffaf plak</th><th scope=\"col\">Diş teli (braket)</th></tr></thead><tbody><tr><td>Görünüm</td><td>Neredeyse görünmez</td><td>Metal ya da diş renginde seramik braketler</td></tr><tr><td>Yemek</td><td>Plak çıkarılarak rahatça yenir</td><td>Sert ve yapışkan gıdalara dikkat gerekir</td></tr><tr><td>Temizlik</td><td>Normal fırçalama ve diş ipi</td><td>Braket çevresi daha özenli temizlik ister</td></tr><tr><td>Hasta uyumu</td><td>Günde 20–22 saat takılması şart</td><td>Sabit olduğu için uyuma daha az bağlı</td></tr><tr><td>Uygun vakalar</td><td>Hafif ve orta düzey çoğu vaka</td><td>Karmaşık iskeletsel vakalar dahil geniş yelpaze</td></tr></tbody></table></div><p>Ayrıntılı karşılaştırmayı <a class=\"text-link\" href=\"/blog/seffaf-plak-mi-tel-mi/\">şeffaf plak mı tel mi</a> yazımızda bulabilirsiniz.</p>"
+   },
+   {
+    "id": "cocuk",
+    "h": "Çocuklarda ilk ortodonti muayenesi ne zaman?",
+    "html": "<p>Ortodontistler, çocukların ilk ortodontik değerlendirmesinin yaklaşık 7 yaş civarında yapılmasını önerir. Bu yaşta tedaviye her zaman başlanmaz; ancak çene gelişimindeki sorunlar ve yer darlığı erken fark edilirse daha basit aygıtlarla yönlendirilebilir.</p>\n<p>Çocuklara yönelik diğer konuları <a class=\"text-link\" href=\"/blog/beylikduzu-cocuk-dis-hekimi/\">Beylikdüzü çocuk diş hekimi</a> yazımızda topladık.</p>"
+   },
+   {
+    "id": "sure",
+    "h": "Tedavi ne kadar sürer ve kaç kez kontrole gelinir?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">Tipik süre</th></tr></thead><tbody><tr><td>Hafif çapraşıklık ya da aralık</td><td>Yaklaşık 6–12 ay</td></tr><tr><td>Orta düzey vakalar</td><td>Yaklaşık 12–18 ay</td></tr><tr><td>Karmaşık kapanış sorunları</td><td>18–24 ay ya da daha uzun</td></tr></tbody></table></div><p>Kontroller tedavi türüne göre genellikle 4–8 haftada bir yapılır. Klinik haftanın yedi günü açık olduğundan kontrolleri iş ya da okul saatleri dışında, hafta sonuna da alabilirsiniz.</p>\n<p>Tedavi bittikten sonra dişler eski konumuna dönme eğilimindedir. Bu yüzden şeffaf ya da sabit bir pekiştirme (retainer) aygıtı kullanılır; özellikle ilk yıl düzenli takılması önemlidir.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Dent32'de ortodonti",
+    "html": "<p>Kurucu hekimimiz Dr. Hüseyin Aşçı ortodonti ve diş estetiği alanında çalışmaktadır. Ortodontiyi gerektiğinde gülüş tasarımı, kaplama ya da implant planıyla birlikte ele alıyoruz. <a class=\"text-link\" href=\"/tedaviler/#orto\">Şeffaf plak ortodonti</a> sayfamızdan genel bilgiye ulaşabilir, <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniğimizde</a> muayene için <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Yetişkinlikte ortodonti yapılır mı?",
+    "a": "Evet. Dişler ve diş etleri sağlıklıysa ortodontinin yaş sınırı yoktur. Yetişkinlerde şeffaf plaklar görünmez oldukları için sık tercih edilir."
+   },
+   {
+    "q": "Şeffaf plak konuşmayı etkiler mi?",
+    "a": "İlk birkaç gün hafif bir peltekleşme olabilir; çoğu hasta kısa sürede alışır."
+   },
+   {
+    "q": "Plaklarla yemek yenir mi?",
+    "a": "Hayır. Yemekten önce plaklar çıkarılır, yemekten sonra dişler fırçalanıp plaklar tekrar takılır. Su dışında bir şey içerken de çıkarılması önerilir."
+   },
+   {
+    "q": "Ortodonti ağrılı mı?",
+    "a": "Yeni plağa geçişte ya da tel ayarından sonra 1–2 gün baskı ve hassasiyet hissedilebilir. Bu, dişlerin hareket ettiğini gösterir ve kısa sürede geçer."
+   },
+   {
+    "q": "Pekiştirme plağını ne kadar takmalıyım?",
+    "a": "İlk dönemde daha uzun süre, sonrasında genellikle yalnızca geceleri takılır. Dişlerin yerinde kalması için uzun süreli kullanım önerilir."
+   }
+  ]
+ },
+ {
+  "key": "beycocuk",
+  "date": "2026-10-19",
+  "cat": "Tedavi",
+  "cover": "blog-bey-cocuk",
+  "slug": "beylikduzu-cocuk-dis-hekimi",
+  "title": "Beylikdüzü'nde çocuk diş hekimi: ilk muayene, koruyucu uygulamalar ve korkusuz tedavi",
+  "desc": "Beylikdüzü'nde çocuk diş hekimi arayan aileler için: ilk diş muayenesi ne zaman, flor vernik ve fissür örtücü nedir, süt dişi çürüğü neden tedavi edilmeli, çocuğun diş hekimi korkusu nasıl azaltılır.",
+  "lead": "Çocuğun ilk diş muayenesi, ilk süt dişi çıktığında ya da en geç 1 yaşında yapılmalıdır. Düzenli kontroller, flor vernik ve fissür örtücü gibi koruyucu uygulamalarla süt ve kalıcı dişlerdeki çürüklerin büyük kısmı önlenebilir.",
+  "sections": [
+   {
+    "id": "ilk",
+    "h": "İlk muayene ne zaman yapılmalı?",
+    "html": "<p>İlk süt dişi genellikle 6. ay civarında çıkar. Bu dönemde ya da en geç 1 yaşında yapılan ilk ziyaret; beslenme, biberon ve emzik alışkanlıkları ile diş fırçalama konusunda aileye rehberlik etmek içindir. Erken başlayan düzenli ziyaretler, çocuğun diş hekimini ağrıyla değil, sıradan bir kontrolle tanımasını sağlar.</p>\n<p>İlk muayenenin nasıl geçtiğini <a class=\"text-link\" href=\"/blog/cocuk-dis-hekimi-ilk-muayene/\">çocuğunuzu ilk kez diş hekimine götürmek</a> yazımızda anlattık.</p>"
+   },
+   {
+    "id": "koruyucu",
+    "h": "Koruyucu uygulamalar nelerdir?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Uygulama</th><th scope=\"col\">Ne işe yarar?</th><th scope=\"col\">Ne zaman?</th></tr></thead><tbody><tr><td>Flor vernik</td><td>Mineyi güçlendirir, çürük başlangıcını yavaşlatır</td><td>Risk durumuna göre yılda 2–4 kez</td></tr><tr><td>Fissür örtücü</td><td>Azı dişlerinin çiğneme yüzeyindeki derin olukları kapatır</td><td>Kalıcı azı dişleri çıktıktan sonra (yaklaşık 6 ve 12 yaş)</td></tr><tr><td>Düzenli kontrol</td><td>Çürükleri küçükken yakalar</td><td>Genellikle 6 ayda bir</td></tr><tr><td>Fırçalama eğitimi</td><td>Doğru teknik ve flor miktarını öğretir</td><td>Her ziyarette</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "sut-disi",
+    "h": "Süt dişi zaten düşecek, neden tedavi edilmeli?",
+    "html": "<ul>\n<li><strong>Ağrı ve enfeksiyon:</strong> Tedavi edilmeyen çürük sinire ulaşır, ağrı ve apseye yol açar.</li>\n<li><strong>Kalıcı dişlere etki:</strong> Süt dişi kökündeki enfeksiyon, altında gelişen kalıcı dişi etkileyebilir.</li>\n<li><strong>Yer tutma:</strong> Erken kaybedilen süt dişinin yeri kapanabilir; kalıcı diş çapraşık çıkar. Gerekirse yer tutucu yapılır.</li>\n<li><strong>Beslenme ve konuşma:</strong> Ağrılı dişler çiğnemeyi ve bazı seslerin çıkarılmasını zorlaştırır.</li>\n</ul>"
+   },
+   {
+    "id": "korku",
+    "h": "Çocuğun diş hekimi korkusu nasıl azaltılır?",
+    "html": "<p>Çocuklarla çalışırken önce aletleri ve yapılacak işlemi yaşına uygun bir dille tanıtıyor, ardından gösterip sonra uyguluyoruz (anlat-göster-uygula). Kısa ve olumlu biten randevular, çocuğun bir sonraki ziyarete daha rahat gelmesini sağlar.</p><ul>\n<li>Randevuyu ödül ya da ceza olarak sunmayın; \"acımayacak\" gibi kaygı uyandıran cümlelerden kaçının.</li>\n<li>Çocuğun yorgun ya da aç olmadığı saatleri seçin.</li>\n<li>Kendi diş hekimi kaygınızı çocuğa yansıtmamaya çalışın.</li>\n</ul><p>Dent32'de çocuklar için ayrı düzenlenmiş renkli bir tedavi odası bulunur. Klinik hafta sonu da açık olduğu için okul günlerini aksatmadan randevu planlanabilir.</p>"
+   },
+   {
+    "id": "acil",
+    "h": "Çocuklarda diş acilleri",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">Ne yapılmalı?</th></tr></thead><tbody><tr><td>Kalıcı diş tamamen yerinden çıktı</td><td>Dişi kökünden değil tacından tutun, kirliyse kısaca suyla çalkalayın, süt içinde saklayıp hemen kliniğe gelin. İlk bir saat çok önemlidir.</td></tr><tr><td>Diş kırıldı</td><td>Kırık parçayı saklayın, ağzı ılık suyla çalkalayın ve aynı gün muayeneye gelin.</td></tr><tr><td>Yüzde şişlik ve ateş</td><td>Enfeksiyon belirtisi olabilir; ertelemeden hekime başvurun.</td></tr><tr><td>Süt dişi yerinden çıktı</td><td>Süt dişi yerine geri takılmaz; yine de çevre dokuların kontrolü için muayene gerekir.</td></tr></tbody></table></div><p>Ayrıntılı bilgi için <a class=\"text-link\" href=\"/tedaviler/#cocuk\">çocuk diş hekimliği</a> sayfamıza bakabilir, <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniği</a> Dent32'den <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Çocuklar kaç yaşında diş fırçalamaya başlamalı?",
+    "a": "İlk diş çıktığı andan itibaren. 3 yaşına kadar pirinç tanesi kadar, 3–6 yaş arasında bezelye tanesi kadar florlu diş macunu önerilir; fırçalamayı 7–8 yaşına kadar ebeveynin yapması ya da kontrol etmesi gerekir."
+   },
+   {
+    "q": "Fissür örtücü dişe zarar verir mi?",
+    "a": "Hayır. Fissür örtücü, diş aşındırılmadan yüzeye sürülen akışkan bir malzemedir. Ağrısızdır ve anestezi gerekmez."
+   },
+   {
+    "q": "Süt dişine kanal tedavisi yapılır mı?",
+    "a": "Evet. Süt dişlerinde çürük sinire ulaştığında dişi korumak için amputasyon ya da süt dişi kanal tedavisi uygulanabilir."
+   },
+   {
+    "q": "Çocuğum tedavide işbirliği yapmazsa ne olur?",
+    "a": "Önce alıştırma randevularıyla güven kurmaya çalışırız. Bazı durumlarda tedavi birkaç kısa seansa bölünür; kapsamlı tedavi gerektiren ve uyum sağlanamayan vakalarda ileri sedasyon seçenekleri için yönlendirme yapılabilir."
+   }
+  ]
+ },
+ {
+  "key": "beykanal",
+  "date": "2026-10-19",
+  "cat": "Tedavi",
+  "cover": "blog-bey-kanal",
+  "slug": "beylikduzu-kanal-tedavisi",
+  "title": "Beylikdüzü'nde kanal tedavisi: belirtiler, seans sayısı ve tedavi sonrası",
+  "desc": "Beylikdüzü'nde kanal tedavisi: hangi belirtiler kanal tedavisi gerektirir, işlem kaç seans sürer, ağrılı mı, sonrasında kaplama gerekir mi ve hafta sonu diş ağrısında ne yapılır.",
+  "lead": "Kanal tedavisi, çürük ya da travma nedeniyle iltihaplanmış diş sinirinin temizlenip kanalların doldurularak dişin ağızda tutulmasıdır; lokal anestezi altında yapılır ve çoğu diş 1–2 seansta tamamlanır.",
+  "sections": [
+   {
+    "id": "belirtiler",
+    "h": "Hangi belirtiler kanal tedavisine işaret eder?",
+    "html": "<ul>\n<li>Soğuk ya da sıcaktan sonra uzun süre geçmeyen sızı</li>\n<li>Kendiliğinden başlayan, geceleri uyandıran zonklayıcı ağrı</li>\n<li>Isırınca ya da dişe dokununca artan ağrı</li>\n<li>Diş eti üzerinde sivilce benzeri kabarıklık (fistül) ya da yüzde şişlik</li>\n<li>Travma sonrası rengi koyulaşan diş</li>\n</ul><p>Bazen sinir belirti vermeden ölür ve sorun yalnızca röntgende görülür. Kesin karar muayene ve röntgen ile verilir.</p>"
+   },
+   {
+    "id": "islem",
+    "h": "Kanal tedavisi nasıl yapılır?",
+    "html": "<ol>\n<li>Diş lokal anestezi ile uyuşturulur ve çevresi tükürükten izole edilir.</li>\n<li>Çürük temizlenir, sinir odasına ulaşılır.</li>\n<li>İnce aletlerle kanallar temizlenir, şekillendirilir ve dezenfektan solüsyonlarla yıkanır.</li>\n<li>Kanal boyları röntgen ya da elektronik ölçümle kontrol edilir.</li>\n<li>Kanallar kalıcı bir dolgu malzemesiyle doldurulur ve diş kapatılır.</li>\n</ol><aside class=\"note\"><strong>Kaç seans?</strong><p>Enfeksiyon yoksa çoğu diş tek seansta biter. Apse ya da yoğun iltihap varsa kanallara ilaç konup ikinci seansta doldurulabilir.</p></aside>"
+   },
+   {
+    "id": "agri",
+    "h": "Kanal tedavisi ağrılı mı?",
+    "html": "<p>Anestezi etkili olduğunda işlem sırasında ağrı hissedilmez; yalnızca baskı ve titreşim hissedilebilir. Tedavi sonrası 2–3 gün dişte ısırınca hassasiyet olabilir, bu normaldir ve ağrı kesicilerle kontrol edilir. Ağrı giderek artıyor ya da şişlik oluşuyorsa klinikle iletişime geçin.</p>\n<p>Kanal tedavisinin genel bilgilerini <a class=\"text-link\" href=\"/blog/kanal-tedavisi/\">kanal tedavisi ne zaman gerekir</a> yazımızda ayrıntılı anlattık.</p>"
+   },
+   {
+    "id": "sonra",
+    "h": "Kanal tedavisinden sonra kaplama gerekir mi?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Diş</th><th scope=\"col\">Genel öneri</th></tr></thead><tbody><tr><td>Ön dişler, az madde kaybı</td><td>Çoğu zaman kompozit dolgu yeterlidir</td></tr><tr><td>Küçük ve büyük azılar</td><td>Kırılma riskine karşı genellikle kaplama (kron) önerilir</td></tr><tr><td>Çok madde kaybı olan dişler</td><td>Kanal içi destek (post) ve kaplama gerekebilir</td></tr></tbody></table></div><p>Kanal tedavili diş zamanla daha kırılgan hâle gelir. Arka dişlerde <a class=\"text-link\" href=\"/blog/beylikduzu-zirkonyum-kaplama/\">zirkonyum kaplama</a> dişi kırılmaya karşı korur ve uzun ömürlü olmasını sağlar.</p>"
+   },
+   {
+    "id": "basarisiz",
+    "h": "Kanal tedavisi başarısız olursa ne olur?",
+    "html": "<p>Kanal tedavisi yüksek başarı oranına sahiptir, ancak yıllar sonra enfeksiyon tekrarlayabilir. Bu durumda önce kanal tedavisinin yenilenmesi denenir; gerekirse kök ucu cerrahisi (apikal rezeksiyon) yapılır. Diş korunamıyorsa çekim sonrası <a class=\"text-link\" href=\"/blog/beylikduzu-implant-tedavisi/\">implant</a> ya da köprü ile eksiklik giderilir.</p>"
+   },
+   {
+    "id": "acil",
+    "h": "Hafta sonu başlayan diş ağrısında",
+    "html": "<p>Kanal tedavisi gerektiren ağrılar çoğu zaman en uygunsuz anda, gece ya da hafta sonu başlar. Dent32 haftanın yedi günü açık olduğu için ağrılı dişi aynı gün değerlendirip gerekirse ilk müdahaleyi (sinirin açılarak basıncın alınması) yapabiliriz. <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniğimize</a> gelmeden önce <a class=\"text-link\" href=\"/iletisim/\">WhatsApp'tan yazmanız</a> beklemenizi kısaltır.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Kanal tedavisi kaç dakika sürer?",
+    "a": "Ön dişlerde genellikle 30–60 dakika, çok kanallı azı dişlerinde 60–90 dakika sürer. Süre, kanal sayısına ve iltihap durumuna göre değişir."
+   },
+   {
+    "q": "Antibiyotik kanal tedavisinin yerine geçer mi?",
+    "a": "Hayır. Antibiyotik yayılan enfeksiyonu ve şişliği kontrol etmeye yardım edebilir, ancak dişin içindeki iltihaplı dokuyu temizlemez. Ağrı geçici olarak azalsa da sorun devam eder."
+   },
+   {
+    "q": "Kanal tedavili diş ömür boyu kalır mı?",
+    "a": "Doğru yapılmış ve üzeri uygun şekilde restore edilmiş bir diş uzun yıllar, çoğu zaman ömür boyu kullanılabilir."
+   },
+   {
+    "q": "Kanal tedavisi mi, çekim mi?",
+    "a": "Mümkünse doğal dişi korumak tercih edilir. Diş çok kırık ya da kökü çatlaksa çekim ve implant daha öngörülebilir olabilir; karar muayenede verilir."
+   }
+  ]
+ },
+ {
+  "key": "beydiseti",
+  "date": "2026-10-19",
+  "cat": "Tedavi",
+  "cover": "blog-bey-dis-eti",
+  "slug": "beylikduzu-dis-eti-tedavisi",
+  "title": "Beylikdüzü'nde diş eti tedavisi: kanama, çekilme ve derin temizlik",
+  "desc": "Beylikdüzü'nde diş eti tedavisi: diş eti kanaması ve çekilmesinin nedenleri, gingivitis ile periodontitis farkı, derin temizlik (küretaj), sigara ve diyabetin etkisi, evde bakım ve kontrol aralıkları.",
+  "lead": "Diş eti kanaması, diş eti hastalığının en erken belirtisidir. Erken evrede (gingivitis) profesyonel temizlik ve doğru evde bakımla tamamen geri döner; ilerlemiş evrede (periodontitis) ise derin temizlik ve düzenli kontrolle hastalığın ilerlemesi durdurulur.",
+  "sections": [
+   {
+    "id": "belirtiler",
+    "h": "Diş eti hastalığının belirtileri",
+    "html": "<ul>\n<li>Fırçalarken ya da diş ipi kullanırken kanama</li>\n<li>Kızarık, şiş ve hassas diş eti</li>\n<li>Geçmeyen ağız kokusu ya da ağızda kötü tat</li>\n<li>Diş etinin çekilmesi, dişlerin uzamış görünmesi</li>\n<li>Dişlerde sallanma ya da aralarının açılması</li>\n</ul><p>Sigara içenlerde diş eti damarları büzüldüğü için kanama daha az görülür; bu durum hastalığın fark edilmesini geciktirebilir.</p>"
+   },
+   {
+    "id": "evreler",
+    "h": "Gingivitis ile periodontitis arasındaki fark",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\"></th><th scope=\"col\">Gingivitis</th><th scope=\"col\">Periodontitis</th></tr></thead><tbody><tr><td>Etkilenen doku</td><td>Yalnızca diş eti</td><td>Diş eti, diş çevresi bağ dokusu ve kemik</td></tr><tr><td>Belirti</td><td>Kanama, kızarıklık</td><td>Çekilme, cep oluşumu, sallanma, kemik kaybı</td></tr><tr><td>Geri dönüş</td><td>Tamamen geri döner</td><td>Kaybedilen kemik genellikle geri gelmez; ilerleme durdurulur</td></tr><tr><td>Tedavi</td><td>Diş taşı temizliği ve evde bakım</td><td>Derin temizlik, gerekirse cerrahi, düzenli idame</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "tedavi",
+    "h": "Tedavi nasıl yapılır?",
+    "html": "<ol>\n<li><strong>Muayene ve ölçüm:</strong> Diş eti cep derinlikleri ölçülür, röntgenle kemik seviyesi değerlendirilir.</li>\n<li><strong>Diş taşı temizliği:</strong> Diş yüzeyindeki taş ve plak temizlenir, cilalanır.</li>\n<li><strong>Derin temizlik (kök yüzeyi düzleştirme):</strong> Diş eti altındaki taşlar lokal anestezi altında temizlenir, kök yüzeyleri düzleştirilir.</li>\n<li><strong>Yeniden değerlendirme:</strong> Birkaç hafta sonra diş etinin yanıtı ölçülür; derin cepler devam ediyorsa cerrahi seçenekler konuşulur.</li>\n<li><strong>İdame:</strong> Risk durumuna göre genellikle 3–6 ayda bir kontrol ve temizlik yapılır.</li>\n</ol>"
+   },
+   {
+    "id": "risk",
+    "h": "Sigara, diyabet ve diş eti",
+    "html": "<p>Sigara ve kontrolsüz diyabet, diş eti hastalığının en güçlü risk etkenleridir; hem hastalığın ilerlemesini hızlandırır hem de tedaviye yanıtı azaltır. Diyabet ile diş eti hastalığı arasında çift yönlü bir ilişki vardır: diş eti iltihabının tedavisi kan şekeri kontrolüne de katkı sağlayabilir.</p>\n<p>İmplantı olan hastalarda da benzer bir iltihap (periimplantitis) gelişebilir. Bu yüzden <a class=\"text-link\" href=\"/blog/implant-sonrasi-bakim/\">implant sonrası bakım</a> ve düzenli kontroller önemlidir.</p>"
+   },
+   {
+    "id": "bakim",
+    "h": "Evde bakım: neler gerçekten işe yarar?",
+    "html": "<ul>\n<li>Günde iki kez, iki dakika, yumuşak kıllı fırçayla fırçalama</li>\n<li>Dişler arası için diş ipi ya da uygun boyda arayüz fırçası</li>\n<li>Hekimin önerdiği durumlarda kısa süreli antiseptik gargara</li>\n<li>Sigarayı bırakmak ya da azaltmak</li>\n</ul><p>Diş eti kanaması ve çekilmesinin nedenlerini <a class=\"text-link\" href=\"/blog/dis-eti-kanamasi-ve-cekilmesi/\">diş eti kanaması ve çekilmesi</a> yazımızda daha ayrıntılı anlattık. <a class=\"text-link\" href=\"/\">Beylikdüzü'ndeki diş kliniğimizde</a> diş eti muayenesi için <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş eti kanaması kendiliğinden geçer mi?",
+    "a": "Nedeni olan plak ve taş temizlenmedikçe genellikle geçmez. Kanama varken fırçalamayı bırakmak ise durumu kötüleştirir; nazikçe fırçalamaya devam edip muayeneye gelin."
+   },
+   {
+    "q": "Çekilen diş eti geri gelir mi?",
+    "a": "Kendiliğinden geri gelmez. İlerlemesi durdurulabilir; uygun vakalarda diş eti grefti gibi cerrahi işlemlerle kök yüzeyi kapatılabilir."
+   },
+   {
+    "q": "Derin temizlik acıtır mı?",
+    "a": "Lokal anestezi altında yapıldığı için işlem sırasında ağrı beklenmez. Sonrasında birkaç gün hassasiyet olabilir."
+   },
+   {
+    "q": "Diş eti hastalığı diş kaybına yol açar mı?",
+    "a": "Evet. İleri periodontitis, yetişkinlerde diş kaybının başlıca nedenlerinden biridir. Erken tedavi dişleri korumanın en etkili yoludur."
+   }
+  ]
+ },
+ {
+  "key": "beylamine",
+  "date": "2026-10-19",
+  "cat": "Estetik",
+  "cover": "blog-bey-lamine",
+  "slug": "beylikduzu-lamine-kaplama",
+  "title": "Beylikdüzü'nde lamine kaplama (veneer): kimlere uygun, kaç seansta biter?",
+  "desc": "Beylikdüzü'nde lamine diş kaplama (porselen veneer): kimlere uygun, kimlere uygun değil, diş ne kadar aşındırılır, kaç randevuda biter, lamine ile zirkonyum ve bonding farkı.",
+  "lead": "Lamine kaplama, ön dişlerin yalnızca ön yüzüne yapıştırılan, yaklaşık 0,3–0,7 mm kalınlığında ince seramik yapraklardır; dişlerin şeklini, rengini ve boyunu az aşındırmayla değiştirir ve çoğu hastada 2–3 randevuda, yaklaşık 1–2 haftada tamamlanır.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "Lamine kaplama nedir?",
+    "html": "<p>Lamine (veneer), genellikle e.max gibi cam seramiklerden üretilen, ışığı doğal mineye benzer biçimde geçiren ince bir kaplamadır. Zirkonyum kaplamadan farkı, dişin tamamını değil yalnızca ön yüzünü kaplamasıdır; bu nedenle çok daha az diş dokusu kaldırılır.</p>\n<p>Genel bilgiler için <a class=\"text-link\" href=\"/blog/lamine-veneer-nedir/\">lamine veneer nedir</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "kimlere",
+    "h": "Kimlere uygundur, kimlere uygun değildir?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Uygun durumlar</th><th scope=\"col\">Dikkat gerektiren durumlar</th></tr></thead><tbody><tr><td>Beyazlatmaya yanıt vermeyen renk değişiklikleri</td><td>Şiddetli diş sıkma ve gıcırdatma (bruksizm)</td></tr><tr><td>Ön dişlerde küçük aralıklar (diastema)</td><td>Belirgin çapraşıklık: önce ortodonti gerekebilir</td></tr><tr><td>Aşınmış, kısa ya da şekli bozuk dişler</td><td>Mine dokusunun çok az kaldığı dişler</td></tr><tr><td>Küçük kırıklar ve kenar düzensizlikleri</td><td>Büyük dolgulu ya da kanal tedavili zayıf dişler</td></tr></tbody></table></div><p>Dikkat gerektiren durumlarda lamine yine yapılabilir; ancak önce gece plağı, ortodonti ya da farklı bir kaplama türü konuşulur. Dişleriniz çapraşıksa <a class=\"text-link\" href=\"/blog/beylikduzu-ortodonti-seffaf-plak/\">şeffaf plakla ön hizalama</a> gereken aşındırmayı azaltabilir.</p>"
+   },
+   {
+    "id": "surec",
+    "h": "Lamine kaplama süreci",
+    "html": "<ol>\n<li><strong>Muayene ve gülüş analizi:</strong> Fotoğraflar alınır, diş ve diş eti sağlığı kontrol edilir.</li>\n<li><strong>Ağızda prova (mock-up):</strong> Planlanan şekil dişlerin üzerinde geçici malzemeyle denenir.</li>\n<li><strong>Hazırlık ve ölçü:</strong> Gerekli en az aşındırma yapılır, ölçü alınır, geçici lamine takılır.</li>\n<li><strong>Yapıştırma:</strong> Renk ve uyum kontrol edildikten sonra laminalar özel yapıştırıcılarla kalıcı olarak yapıştırılır.</li>\n</ol><aside class=\"note\"><strong>Kısaca</strong><p>Planlama ve prova dahil süreç çoğunlukla 2–3 randevu ve yaklaşık 1–2 haftadır. Bazı vakalarda hiç ya da çok az aşındırma yapılan (no-prep) laminalar mümkündür.</p></aside>"
+   },
+   {
+    "id": "karsilastirma",
+    "h": "Lamine mi, zirkonyum mu, bonding mi?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\"></th><th scope=\"col\">Lamine</th><th scope=\"col\">Zirkonyum kaplama</th><th scope=\"col\">Bonding</th></tr></thead><tbody><tr><td>Aşındırma</td><td>Az</td><td>Daha fazla</td><td>Yok ya da çok az</td></tr><tr><td>Malzeme</td><td>Seramik (çoğunlukla e.max)</td><td>Zirkonyum seramik</td><td>Kompozit reçine</td></tr><tr><td>Renk kararlılığı</td><td>Çok iyi</td><td>Çok iyi</td><td>Zamanla renk alabilir</td></tr><tr><td>Uygun diş</td><td>Sağlam ön dişler</td><td>Zayıf, kırık ya da kanal tedavili dişler</td><td>Küçük düzeltmeler</td></tr><tr><td>Seans</td><td>2–3</td><td>3–4</td><td>Genellikle 1</td></tr></tbody></table></div><p>Malzeme seçimini <a class=\"text-link\" href=\"/blog/beylikduzu-zirkonyum-kaplama/\">zirkonyum kaplama</a> ve <a class=\"text-link\" href=\"/blog/bonding-nedir/\">bonding</a> yazılarımızda ayrıca ele aldık.</p>"
+   },
+   {
+    "id": "bakim",
+    "h": "Lamine kaç yıl dayanır, bakımı nasıl yapılır?",
+    "html": "<p>Doğru planlanmış ve bakımı yapılan laminalar uzun yıllar kullanılabilir. Ön dişlerle sert cisimleri (fındık kabuğu, kalem, tırnak) ısırmamak, diş sıkıyorsanız gece plağı kullanmak ve 6 ayda bir kontrole gelmek ömürlerini uzatır.</p>\n<p>Vaka fotoğraflarını <a class=\"text-link\" href=\"/galeri/\">galerimizde</a> görebilir, <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniği</a> Dent32'de muayene ve prova için <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Lamine yapılan diş tamamen kesilir mi?",
+    "a": "Hayır. Lamine için dişin yalnızca ön yüzünden yaklaşık 0,3–0,7 mm doku kaldırılır; bazı vakalarda hiç aşındırma gerekmez."
+   },
+   {
+    "q": "Lamine düşer mi?",
+    "a": "Doğru yapıştırılmış lamine kolayca düşmez. Sert cisimleri ön dişlerle ısırmak ve gece diş sıkmak kırılma ya da ayrılma riskini artırır."
+   },
+   {
+    "q": "Laminadan sonra hassasiyet olur mu?",
+    "a": "Aşındırma mine sınırları içinde kaldığında hassasiyet genellikle hafif ve geçicidir."
+   },
+   {
+    "q": "Lamine ile dişlerin rengi istenildiği kadar açılabilir mi?",
+    "a": "Evet, renk geniş bir aralıkta seçilebilir. Ancak doğal görünüm için ten rengi, göz akı ve diş eti ile uyumlu bir ton önerilir; prova ile birlikte karar verilir."
+   }
+  ]
+ },
+ {
+  "key": "beyfiyat",
+  "date": "2026-10-19",
+  "cat": "Rehber",
+  "cover": "blog-bey-fiyat",
+  "slug": "beylikduzu-dis-tedavisi-fiyatlari",
+  "title": "Beylikdüzü'nde diş tedavisi fiyatları neye göre belirlenir? (2026)",
+  "desc": "Beylikdüzü'nde dolgu, kanal tedavisi, zirkonyum, lamine, implant ve ortodonti fiyatlarını belirleyen etkenler; TDB asgari ücret tarifesi, sigorta, yazılı tedavi planı ve ucuz fiyatın gizli maliyetleri.",
+  "lead": "Diş tedavisi fiyatları; yapılacak işlemin türüne, diş sayısına, kullanılan malzemeye ve ek işlem gerekip gerekmediğine göre değişir. Bu yüzden doğru fiyat ancak muayene ve gerekli görüntülemelerden sonra, kalem kalem yazılı bir planla verilebilir.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Neden tek bir fiyat söylenemiyor?",
+    "html": "<p>\"Kanal tedavisi ne kadar?\" sorusunun cevabı, dişin ön diş mi azı dişi mi olduğuna, kaç kanalı bulunduğuna ve tedavi sonrası dişin dolguyla mı kaplamayla mı tamamlanacağına bağlıdır. İmplantta ise markadan kemik ilavesine kadar birçok kalem devreye girer. Telefonda verilen tek bir rakam, muayene sonrası çoğu zaman değişir.</p>\n<p>Bu nedenle Dent32'de muayene sonrası bulguları, seçenekleri ve her kalemin maliyetini yazılı olarak paylaşıyoruz.</p>"
+   },
+   {
+    "id": "etkenler",
+    "h": "Tedaviye göre fiyatı belirleyen etkenler",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Tedavi</th><th scope=\"col\">Fiyatı etkileyen başlıca etkenler</th></tr></thead><tbody><tr><td>Dolgu</td><td>Çürüğün büyüklüğü, kaç yüzeyi kapsadığı, malzeme (kompozit, inley/onley)</td></tr><tr><td>Kanal tedavisi</td><td>Dişin konumu ve kanal sayısı, enfeksiyon durumu, yenileme olup olmadığı</td></tr><tr><td>Zirkonyum kaplama</td><td>Diş sayısı, monolitik ya da katmanlı zirkonyum, ön tedavi ihtiyacı</td></tr><tr><td>Lamine kaplama</td><td>Diş sayısı, seramik türü, prova ve laboratuvar işçiliği</td></tr><tr><td>İmplant</td><td>İmplant markası, üst yapı malzemesi, kemik tozu veya sinüs lifting, implant sayısı</td></tr><tr><td>Ortodonti</td><td>Vakanın zorluğu, tedavi süresi, şeffaf plak ya da tel seçimi</td></tr><tr><td>Diş beyazlatma</td><td>Klinik ya da ev tipi, birleşik uygulama</td></tr><tr><td>Diş eti tedavisi</td><td>Etkilenen bölge sayısı, cerrahi gerekip gerekmediği</td></tr></tbody></table></div><p>İmplant maliyetini ayrıntılı olarak <a class=\"text-link\" href=\"/blog/implant-fiyatlari-neye-gore-degisir/\">implant fiyatları neye göre değişir</a> yazımızda ele aldık.</p>"
+   },
+   {
+    "id": "tdb",
+    "h": "TDB asgari ücret tarifesi nedir?",
+    "html": "<p>Türk Dişhekimleri Birliği (TDB) her yıl serbest çalışan diş hekimleri için bir asgari ücret tarifesi yayımlar. Bu tarife, işlemlerin alt sınırını gösterir; klinikler kendi fiyatlarını bu tarifenin altında olmamak kaydıyla, malzeme ve hizmet koşullarına göre belirler.</p>\n<p>Tarifenin çok altında verilen fiyatlarda kullanılan malzemeyi ve planda neyin dahil olup neyin olmadığını özellikle sormanızı öneririz.</p>"
+   },
+   {
+    "id": "sigorta",
+    "h": "Sigorta ve ödeme",
+    "html": "<ul>\n<li><strong>Özel sağlık sigortası:</strong> Bazı poliçeler belirli diş tedavilerini kapsar. Kapsamı ve limitleri poliçenizden ya da sigorta şirketinizden öğrenmeniz gerekir.</li>\n<li><strong>SGK:</strong> SGK kapsamındaki diş tedavileri genellikle devlete bağlı ağız ve diş sağlığı merkezlerinde yapılır; özel kliniklerdeki tedavi ücretleri çoğunlukla hasta tarafından karşılanır.</li>\n<li><strong>Ödeme seçenekleri:</strong> Uzun süreli tedavilerde ödemenin nasıl planlanacağını randevu sırasında sorabilirsiniz.</li>\n</ul>"
+   },
+   {
+    "id": "ucuz",
+    "h": "Ucuz fiyatın gizli maliyetleri",
+    "html": "<p>Diş tedavilerinde asıl pahalı olan, yenilenmek zorunda kalan tedavidir. Uyumsuz bir kaplama diş eti hastalığına, eksik temizlenmiş bir kanal yeniden enfeksiyona, yanlış konumlanmış bir implant da kemik kaybına yol açabilir. Bu durumlarda ödenen ilk ücrete bir de tekrar tedavinin maliyeti eklenir.</p><aside class=\"note\"><strong>Karşılaştırırken sorun</strong><p>Hangi malzeme ve marka kullanılacak? Planda hangi kalemler var, hangileri dahil değil? Kontroller ücretli mi? Sorun çıkarsa ne yapılıyor?</p></aside>"
+   },
+   {
+    "id": "plan",
+    "h": "Dent32'de fiyat nasıl öğrenilir?",
+    "html": "<p>Röntgeninizi ve dişlerinizin fotoğraflarını <a class=\"text-link\" href=\"/iletisim/\">WhatsApp üzerinden</a> gönderirseniz hekim ön bilgi verebilir. Kesin plan ve maliyet, <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniğimizde</a> yapılan muayene ve gerekli görüntülemeler sonrasında yazılı olarak verilir. Klinik seçerken nelere bakılacağını <a class=\"text-link\" href=\"/blog/beylikduzu-dis-klinigi-secimi/\">Beylikdüzü'nde diş kliniği seçimi</a> yazımızda özetledik.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Muayeneden önce fiyat öğrenebilir miyim?",
+    "a": "Fotoğraf ve röntgenle yaklaşık bir aralık verilebilir. Kesin fiyat ağız içi muayene ve gerekli görüntülemelerden sonra netleşir."
+   },
+   {
+    "q": "Beylikdüzü'ndeki fiyatlar İstanbul'un merkezinden farklı mı?",
+    "a": "Fiyatlar ilçeden çok kliniğin kullandığı malzeme, laboratuvar ve hekim deneyimine göre değişir. Karşılaştırmayı aynı malzeme ve aynı kapsam üzerinden yapmak gerekir."
+   },
+   {
+    "q": "Fiyatlar her yıl değişir mi?",
+    "a": "Malzeme ve laboratuvar maliyetleri ile TDB tarifesi her yıl güncellendiği için fiyatlar da değişebilir. Yazılı planınızda geçerlilik süresini sorabilirsiniz."
+   },
+   {
+    "q": "Kontroller ücretli mi?",
+    "a": "Kontrol ve takip randevularının plana dahil olup olmadığı tedaviden tedaviye değişir; bunu yazılı planda açıkça belirtiyoruz."
+   }
+  ]
+ },
+ {
+  "key": "beyhaftasonu",
+  "date": "2026-10-19",
+  "cat": "Rehber",
+  "cover": "blog-bey-hafta-sonu",
+  "slug": "beylikduzu-hafta-sonu-acik-dis-klinigi",
+  "title": "Beylikdüzü'nde hafta sonu ve pazar açık diş kliniği: randevu ve acil durumlar",
+  "desc": "Beylikdüzü'nde cumartesi ve pazar açık diş kliniği: Dent32 haftanın yedi günü açık. Hafta sonu hangi tedaviler yapılır, acil diş ağrısında ne yapılmalı, randevu nasıl alınır.",
+  "lead": "Dent32, Beylikdüzü'nde cumartesi ve pazar dahil haftanın yedi günü açık bir diş kliniğidir. Hafta sonu muayene, acil müdahale ve planlı tedavi seansları için randevu verilir; gelmeden önce WhatsApp'tan yazmanız beklemenizi kısaltır.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Hafta sonu açık olmak kimin işine yarar?",
+    "html": "<ul>\n<li><strong>Çalışanlar:</strong> Hafta içi izin almadan muayene ve tedavi seanslarına gelebilirsiniz.</li>\n<li><strong>Öğrenciler ve çocuklu aileler:</strong> Okul günlerini aksatmadan çocuğunuzun kontrol ve tedavilerini planlayabilirsiniz.</li>\n<li><strong>Çevre ilçelerden gelenler:</strong> Esenyurt, Avcılar ve Büyükçekmece'den gelenler için hafta sonu trafiği genellikle daha rahattır.</li>\n<li><strong>Ani ağrılar:</strong> Gece ya da hafta sonu başlayan ağrıda pazartesiyi beklemek zorunda kalmazsınız.</li>\n</ul>"
+   },
+   {
+    "id": "islemler",
+    "h": "Hafta sonu hangi işlemler yapılabilir?",
+    "html": "<p>Hafta sonu randevuları hafta içi randevulardan farklı değildir; muayene, röntgen, dolgu, kanal tedavisi, kaplama aşamaları, ortodonti kontrolleri ve implant kontrolleri planlanabilir. O gün hangi hekimin klinikte olduğuna göre işlem planı yapılır.</p><aside class=\"note\"><strong>Kısaca</strong><p>Beylikdüzü'nde pazar günü diş hekimi arıyorsanız Dent32 açıktır. Uygun saatleri öğrenmek için +90 555 011 33 68 numarasından WhatsApp'a yazın.</p></aside>"
+   },
+   {
+    "id": "acil",
+    "h": "Acil durumlar: ne zaman beklememeli?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">Ne yapmalı?</th></tr></thead><tbody><tr><td>Yüzde ya da boyunda hızla artan şişlik, ateş, yutkunma ya da nefes almada güçlük</td><td>Bu yayılan bir enfeksiyon belirtisi olabilir; vakit kaybetmeden hastane acil servisine başvurun.</td></tr><tr><td>Geceleri uyandıran, ağrı kesiciyle geçmeyen diş ağrısı</td><td>Aynı gün diş hekimine başvurun; sinirin açılması ağrıyı hızla azaltabilir.</td></tr><tr><td>Kırılan diş</td><td>Parçayı saklayın, ağzı ılık suyla çalkalayın ve aynı gün gelin.</td></tr><tr><td>Yerinden çıkan kalıcı diş</td><td>Dişi tacından tutun, süt içinde saklayın ve hemen gelin; ilk bir saat çok önemlidir.</td></tr><tr><td>Düşen kaplama ya da geçici diş</td><td>Kaplamayı saklayın; yapıştırıcı kullanmadan klinikle iletişime geçin.</td></tr><tr><td>Çekim sonrası durmayan kanama</td><td>Temiz bir gazlı bezi 20–30 dakika ısırarak bastırın; durmazsa hekime başvurun.</td></tr></tbody></table></div><p>Ağrı anında evde yapılabilecekleri ve yapılmaması gerekenleri <a class=\"text-link\" href=\"/blog/acil-dis-agrisi-beylikduzu/\">gece ya da hafta sonu diş ağrısı</a> yazımızda ayrıntılı anlattık.</p>"
+   },
+   {
+    "id": "randevu",
+    "h": "Hafta sonu randevusu nasıl alınır?",
+    "html": "<ol>\n<li>WhatsApp'tan +90 555 011 33 68 numarasına şikâyetinizi kısaca yazın.</li>\n<li>Ağrı, şişlik ya da kırık varsa mümkünse bir fotoğraf ekleyin.</li>\n<li>Size uygun saat bildirilir; gelirken kullandığınız ilaçların listesini getirin.</li>\n</ol><p>Adres: Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, Beylikdüzü. Haritayı ve yol tarifini <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızda</a> bulabilirsiniz. Klinikte yapılan tüm tedavileri <a class=\"text-link\" href=\"/blog/beylikduzu-dis-hekimi/\">Beylikdüzü diş hekimi rehberimizde</a> özetledik.</p>"
+   },
+   {
+    "id": "planli",
+    "h": "Planlı tedavileri hafta sonuna yaymak",
+    "html": "<p>İmplant, zirkonyum kaplama ya da ortodonti gibi birden fazla seans gerektiren tedavileri hafta sonu randevularıyla planlamak mümkündür. Böylece iş günü kaybetmeden tedavinizi tamamlayabilirsiniz. Planlama için <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniğimiz</a> Dent32 ile iletişime geçin.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Dent32 pazar günü açık mı?",
+    "a": "Evet, Dent32 pazar dahil haftanın yedi günü açıktır. Gelmeden önce WhatsApp'tan yazarak o günkü uygun saati öğrenebilirsiniz."
+   },
+   {
+    "q": "Cumartesi günü diş hekimi açık mı?",
+    "a": "Evet. Dent32 cumartesi ve pazar dahil her gün açıktır; hafta sonu randevuları hafta içi randevular gibi planlanır."
+   },
+   {
+    "q": "Pazar günü kanal tedavisi yapılabilir mi?",
+    "a": "Evet. Hekim uygunluğuna göre hafta sonu da kanal tedavisi yapılabilir; acil durumda en azından ağrıyı giderecek ilk müdahale yapılır."
+   },
+   {
+    "q": "Randevusuz gelebilir miyim?",
+    "a": "Acil durumlarda değerlendirme yapılır; ancak beklememek için gelmeden önce WhatsApp'tan ya da telefonla haber vermeniz önerilir."
+   }
+  ]
+ },
+ {
+  "key": "beyilce",
+  "date": "2026-10-19",
+  "cat": "Rehber",
+  "cover": "blog-bey-ilceler",
+  "slug": "esenyurt-avcilar-buyukcekmece-dis-klinigi",
+  "title": "Esenyurt, Avcılar ve Büyükçekmece'den diş tedavisi için Beylikdüzü'ne gelmek",
+  "desc": "Esenyurt, Avcılar ve Büyükçekmece'den Beylikdüzü'ndeki Dent32 diş kliniğine ulaşım ve tedavi planlaması: kaç ziyaret gerekir, randevular nasıl birleştirilir, hafta sonu seçenekleri.",
+  "lead": "Dent32, E-5 yanyolu üzerinde olduğu için Esenyurt, Avcılar ve Büyükçekmece'den kolay ulaşılan bir Beylikdüzü diş kliniğidir. Çok seanslı tedavilerde randevuları birleştirerek ve hafta sonu seçenekleriyle ziyaret sayısını azaltıyoruz.",
+  "sections": [
+   {
+    "id": "konum",
+    "h": "Klinik nerede?",
+    "html": "<p>Dent32; Beylikdüzü Barış Mahallesi, Ginza Lavinya, E-5 Yanyolu No:30 D:179 adresindedir. E-5 (D-100) karayolu ve metrobüs hattı Avcılar'dan Beylikdüzü'ne kadar uzandığı için çevre ilçelerden hem toplu taşımayla hem de araçla ulaşım kolaydır. Konumu haritada görmek için <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamıza</a> bakabilirsiniz.</p>"
+   },
+   {
+    "id": "ilceler",
+    "h": "İlçelere göre kısa bilgiler",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Nereden?</th><th scope=\"col\">Ulaşım</th><th scope=\"col\">Not</th></tr></thead><tbody><tr><td>Esenyurt</td><td>Komşu ilçe; E-5 bağlantılarıyla kısa mesafe</td><td>Kısa süreli kontroller için ayrı bir gün ayırmanıza çoğu zaman gerek kalmaz</td></tr><tr><td>Avcılar</td><td>E-5 ve metrobüs hattı boyunca Beylikdüzü yönü</td><td>Hafta içi akşam yoğunluğunda hafta sonu randevuları daha rahat olabilir</td></tr><tr><td>Büyükçekmece</td><td>E-5 üzerinden İstanbul yönü</td><td>Çok seanslı tedavilerde randevuları aynı güne toplamaya çalışırız</td></tr></tbody></table></div><p>Başakşehir, Küçükçekmece, Silivri ve İstanbul'un diğer ilçelerinden gelen hastalarımız da var. Yurt dışında yaşıyorsanız <a class=\"text-link\" href=\"/blog/yurt-disindan-istanbul-dis-tedavisi/\">yurt dışından İstanbul'a diş tedavisi</a> rehberimiz işinize yarayabilir.</p>"
+   },
+   {
+    "id": "ziyaret",
+    "h": "Hangi tedavi kaç ziyaret gerektirir?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Tedavi</th><th scope=\"col\">Yaklaşık ziyaret sayısı</th><th scope=\"col\">Süre</th></tr></thead><tbody><tr><td>Muayene ve diş taşı temizliği</td><td>1</td><td>Aynı gün</td></tr><tr><td>Dolgu</td><td>1</td><td>Aynı gün</td></tr><tr><td>Kanal tedavisi</td><td>1–2</td><td>Birkaç gün içinde</td></tr><tr><td>Zirkonyum ya da lamine kaplama</td><td>3–4</td><td>Yaklaşık 1–2 hafta</td></tr><tr><td>İmplant</td><td>4–6</td><td>Kemik durumuna göre yaklaşık 3–6 ay</td></tr><tr><td>Şeffaf plak ortodonti</td><td>Başlangıç + 4–8 haftada bir kontrol</td><td>Vakaya göre 6–24 ay</td></tr></tbody></table></div><aside class=\"note\"><strong>Planlama ipucu</strong><p>İlk muayenede röntgen ve ölçü gibi işlemleri mümkün olduğunca aynı güne topluyoruz. Ortodonti ya da implant gibi uzun tedavilerde kontrol tarihlerini önceden birlikte belirliyoruz.</p></aside>"
+   },
+   {
+    "id": "on-degerlendirme",
+    "h": "Gelmeden önce ön değerlendirme",
+    "html": "<p>Yol gelmeden önce durumunuz hakkında fikir edinmek isterseniz elinizdeki röntgeni ve dişlerinizin net fotoğraflarını WhatsApp'tan gönderebilirsiniz. Hekim ön bilgi verir; kesin plan muayeneden sonra netleşir.</p>\n<p>Muayenede neler yapıldığını <a class=\"text-link\" href=\"/blog/beylikduzu-dis-muayenesi/\">diş muayenesi rehberimizde</a> anlattık.</p>"
+   },
+   {
+    "id": "hafta-sonu",
+    "h": "Hafta sonu randevuları",
+    "html": "<p>Klinik haftanın yedi günü açık olduğu için, hafta içi işten çıkamayan ya da trafiğe takılmak istemeyen hastalarımız randevularını cumartesi ve pazara alabiliyor. Ayrıntılar için <a class=\"text-link\" href=\"/blog/beylikduzu-hafta-sonu-acik-dis-klinigi/\">hafta sonu açık diş kliniği</a> yazımıza, tüm tedavilerimiz için <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniği</a> anasayfamıza bakabilirsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Esenyurt'a yakın diş kliniği arıyorum, Dent32 uygun mu?",
+    "a": "Dent32, Esenyurt'a komşu Beylikdüzü'nde E-5 yanyolu üzerindedir; Esenyurt'tan gelen birçok hastamız var. Randevularınızı yol sayısını azaltacak şekilde planlıyoruz."
+   },
+   {
+    "q": "Avcılar'dan toplu taşımayla gelinir mi?",
+    "a": "Evet. Metrobüs hattı E-5 boyunca Avcılar'dan Beylikdüzü'ne uzanır. En uygun durağı ve yürüyüş yolunu randevu alırken sorabilirsiniz."
+   },
+   {
+    "q": "Uzun tedavilerde her hafta gelmem gerekir mi?",
+    "a": "Çoğu tedavide hayır. İmplantta kaynaşma döneminde, ortodontide ise kontroller arasında haftalarca gelmeniz gerekmez."
+   },
+   {
+    "q": "Büyükçekmece'den gelirsem tedaviyi tek günde bitirebilir miyim?",
+    "a": "Muayene, temizlik ve dolgu gibi işlemler çoğu zaman tek ziyarette tamamlanır. Kaplama ve implant gibi laboratuvar ya da iyileşme süresi gerektiren tedavilerde birden fazla ziyaret gerekir; bunları önceden birlikte planlarız."
+   }
+  ]
+ },
+ {
+  "key": "beyprotez",
+  "date": "2026-10-19",
+  "cat": "Tedavi",
+  "cover": "blog-bey-protez",
+  "slug": "beylikduzu-protez-dis",
+  "title": "Beylikdüzü'nde protez diş (takma diş): çeşitleri, alışma süreci ve bakım",
+  "desc": "Beylikdüzü'nde protez diş: tam ve bölümlü takma diş, iskelet protez, implant üstü protez; yapım aşamaları, alışma süreci, temizlik, rebazaj ve ne zaman yenilenmesi gerektiği.",
+  "lead": "Protez diş, çok sayıda ya da tüm dişlerin eksik olduğu durumlarda çiğneme, konuşma ve görünümü geri kazandıran yapay dişlerdir. Hareketli (takılıp çıkarılan) ya da implantlara sabitlenen seçenekler vardır; hareketli protezlerin yapımı genellikle 4–5 randevuda tamamlanır.",
+  "sections": [
+   {
+    "id": "cesitler",
+    "h": "Protez diş çeşitleri",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Tür</th><th scope=\"col\">Kimler için?</th><th scope=\"col\">Özellik</th></tr></thead><tbody><tr><td>Tam protez</td><td>Bir çenede hiç dişi kalmayanlar</td><td>Damak ve diş eti üzerine oturur; tutuculuğu ağız yapısına bağlıdır</td></tr><tr><td>Bölümlü (parsiyel) protez</td><td>Bazı dişleri eksik olanlar</td><td>Kalan dişlere kancalarla tutunur</td></tr><tr><td>İskelet ya da hassas bağlantılı protez</td><td>Daha ince ve estetik bir bölümlü protez isteyenler</td><td>Metal iskelet ya da görünmez bağlantı parçaları kullanılır</td></tr><tr><td>İmplant üstü protez</td><td>Takma dişinin oynamasından şikâyetçi olanlar</td><td>2–4 implanta çıtçıtla ya da sabit olarak bağlanır</td></tr></tbody></table></div><p>İmplantla sabitlenen seçenekleri <a class=\"text-link\" href=\"/blog/implant-ustu-protez/\">implant üstü protez</a> ve <a class=\"text-link\" href=\"/blog/all-on-four/\">All-on-Four</a> yazılarımızda ayrıca anlattık.</p>"
+   },
+   {
+    "id": "asamalar",
+    "h": "Protez nasıl yapılır?",
+    "html": "<ol>\n<li><strong>Muayene:</strong> Ağız dokuları ve kalan dişler değerlendirilir; gerekiyorsa önce çekim ve dolgu yapılır.</li>\n<li><strong>Ölçü:</strong> Ağzınıza özel ölçü kaşığıyla hassas ölçü alınır.</li>\n<li><strong>Kapanış ve diş seçimi:</strong> Çenelerin ilişkisi kaydedilir; diş rengi ve şekli yüzünüze göre seçilir.</li>\n<li><strong>Prova:</strong> Dişler mumda dizilerek ağızda denenir; görünüm ve konuşma kontrol edilir.</li>\n<li><strong>Teslim ve kontroller:</strong> Protez takılır; ilk haftalarda vuruk yapan bölgeler düzeltilir.</li>\n</ol>"
+   },
+   {
+    "id": "alisma",
+    "h": "Alışma süreci",
+    "html": "<p>Yeni bir protez ilk günlerde ağızda büyük ve yabancı hissedilebilir. Konuşmada hafif değişiklik, tükürük artışı ve bazı bölgelerde vuruk (yara) olması normaldir. Çoğu hasta 2–4 hafta içinde alışır.</p><ul>\n<li>İlk günlerde yumuşak ve küçük lokmalarla, iki tarafı birlikte kullanarak çiğneyin.</li>\n<li>Yüksek sesle okuma, konuşmaya alışmayı hızlandırır.</li>\n<li>Vuruk olursa protezi kendiniz törpülemeyin; düzeltme için kliniğe gelin.</li>\n</ul>"
+   },
+   {
+    "id": "bakim",
+    "h": "Protez bakımı nasıl yapılır?",
+    "html": "<ul>\n<li>Protezi her yemekten sonra çıkarıp akan su altında fırçalayın; diş macunu yerine sabun ya da protez temizleyici kullanın.</li>\n<li>Geceleri çıkarıp temiz su ya da temizleme tableti içeren bir kapta saklayın; dokular dinlenmiş olur.</li>\n<li>Sıcak su kullanmayın, protezin şekli bozulabilir.</li>\n<li>Damak, dil ve diş etlerinizi de yumuşak bir fırçayla temizleyin.</li>\n</ul>"
+   },
+   {
+    "id": "yenileme",
+    "h": "Rebazaj ve yenileme",
+    "html": "<p>Diş kaybından sonra çene kemiği zamanla erir; bu nedenle başta iyi oturan protez yıllar içinde gevşeyebilir. Protezin iç yüzeyinin yeniden şekillendirilmesine (rebazaj) ya da belirli aralıklarla yenilenmesine ihtiyaç duyulur. Gevşek protez yara ve çiğneme güçlüğüne yol açtığı için yılda bir kontrol önerilir.</p>\n<p>Hareketli protezden memnun değilseniz implant destekli seçenekler için <a class=\"text-link\" href=\"/blog/beylikduzu-implant-tedavisi/\">Beylikdüzü'nde implant tedavisi</a> yazımıza bakabilir, <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniğimizde</a> muayene için <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Protezle her şeyi yiyebilir miyim?",
+    "a": "Alıştıktan sonra çoğu yiyeceği yiyebilirsiniz. Çok sert, yapışkan ve küçük çekirdekli gıdalar zorlayabilir; implant üstü protezlerde çiğneme gücü belirgin şekilde artar."
+   },
+   {
+    "q": "Protez yapıştırıcısı kullanmalı mıyım?",
+    "a": "İyi oturan bir protez çoğu zaman yapıştırıcı gerektirmez. Sürekli yapıştırıcıya ihtiyaç duyuyorsanız protezin rebazaj ya da yenileme ihtiyacı olabilir."
+   },
+   {
+    "q": "Diş çekildikten hemen sonra protez takılır mı?",
+    "a": "Evet, çekimle aynı gün takılan geçici (immediat) protezler yapılabilir. Dokular iyileştikçe uyum değişeceği için sonradan rebazaj ya da kalıcı protez gerekir."
+   },
+   {
+    "q": "Protez diş ne kadar dayanır?",
+    "a": "Ağız dokularındaki değişime ve kullanıma bağlı olarak birkaç yılda bir kontrol ve gerektiğinde yenileme önerilir."
+   }
+  ]
+ },
+ {
+  "key": "beymuayene",
+  "date": "2026-10-19",
+  "cat": "Rehber",
+  "cover": "blog-bey-muayene",
+  "slug": "beylikduzu-dis-muayenesi",
+  "title": "Beylikdüzü'nde diş muayenesi ve kontrol: ilk randevuda neler yapılır, ne sıklıkla gitmeli?",
+  "desc": "Beylikdüzü'nde diş muayenesi: ilk randevuda yapılanlar, panoramik röntgen ve 3B tomografi ne zaman gerekir, kontrol aralığı, muayeneye gelmeden önce hazırlanması gerekenler ve yazılı tedavi planı.",
+  "lead": "Diş muayenesi; şikâyetinizin dinlenmesi, ağzın tamamının ve diş etlerinin incelenmesi, gerekiyorsa röntgen çekilmesi ve bulguların size anlatılmasından oluşur. Çoğu yetişkin için 6 ayda bir kontrol önerilir; risk durumuna göre bu aralık 3 ile 12 ay arasında değişebilir.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Şikâyet yokken neden kontrole gitmeli?",
+    "html": "<p>Çürük ve diş eti hastalığı başlangıçta çoğu zaman ağrı yapmaz. Küçükken yakalanan bir çürük basit bir dolguyla giderilirken, ağrı başladığında kanal tedavisi ve kaplama gerekebilir. Düzenli kontrol, hem daha basit hem de daha az maliyetli tedavi demektir.</p>"
+   },
+   {
+    "id": "adimlar",
+    "h": "Muayenede neler yapılır?",
+    "html": "<ol>\n<li><strong>Sağlık geçmişi:</strong> Kullandığınız ilaçlar, kronik hastalıklar, alerjiler ve hamilelik durumu sorulur.</li>\n<li><strong>Şikâyetin dinlenmesi:</strong> Ağrı, hassasiyet ya da estetik beklentileriniz konuşulur.</li>\n<li><strong>Ağız içi inceleme:</strong> Tüm dişler, dolgular, kaplamalar, diş etleri, dil, yanak ve damak incelenir.</li>\n<li><strong>Diş eti ölçümü:</strong> Gerekirse diş eti cep derinlikleri ölçülür.</li>\n<li><strong>Görüntüleme:</strong> Gerekiyorsa röntgen ya da 3B tomografi çekilir.</li>\n<li><strong>Bulgular ve plan:</strong> Görülenler size gösterilir, seçenekler ve yaklaşık maliyet yazılı olarak paylaşılır.</li>\n</ol>"
+   },
+   {
+    "id": "rontgen",
+    "h": "Hangi röntgen ne zaman çekilir?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Görüntüleme</th><th scope=\"col\">Ne zaman kullanılır?</th></tr></thead><tbody><tr><td>Periapikal (küçük) röntgen</td><td>Tek bir dişin kökü, kanal tedavisi ve iltihap kontrolü</td></tr><tr><td>Bitewing röntgen</td><td>Dişler arası çürüklerin erken tespiti</td></tr><tr><td>Panoramik röntgen</td><td>Tüm dişlerin, çenelerin ve gömülü dişlerin genel görünümü</td></tr><tr><td>3B tomografi (CBCT)</td><td>İmplant planlaması, gömülü 20 yaş dişleri, kemik hacmi ve sinir mesafesi</td></tr></tbody></table></div><p>Diş röntgenlerinde kullanılan radyasyon dozu düşüktür; yine de yalnızca gerektiğinde çekilir. Hamileyseniz mutlaka belirtin.</p>"
+   },
+   {
+    "id": "hazirlik",
+    "h": "Muayeneye gelmeden önce",
+    "html": "<ul>\n<li>Kullandığınız ilaçların listesini (özellikle kan sulandırıcılar ve kemik ilaçları) yanınızda getirin.</li>\n<li>Elinizde son 1–2 yılda çekilmiş röntgen ya da tomografi varsa getirin veya WhatsApp'tan gönderin.</li>\n<li>Sorularınızı önceden not alın; muayenede hepsini sorabilmeniz için.</li>\n</ul>"
+   },
+   {
+    "id": "sonra",
+    "h": "Muayeneden sonra",
+    "html": "<p>Muayene sonrası tedaviye başlamak zorunda değilsiniz. Planı düşünmek, ailenizle konuşmak ya da ikinci bir görüş almak için zaman tanırız. Diş taşı ya da küçük bir dolgu gibi basit işlemler uygunsa aynı gün yapılabilir.</p>\n<p>Kontrol randevusunu çoğu hasta diş taşı temizliğiyle birleştirir; ayrıntılar için <a class=\"text-link\" href=\"/blog/dis-tasi-temizligi/\">diş taşı temizliği</a> yazımıza bakabilirsiniz. <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniği</a> Dent32'de haftanın yedi günü muayene randevusu alabilirsiniz: <a class=\"text-link\" href=\"/iletisim/\">randevu için iletişim</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş kontrolüne ne sıklıkla gitmeliyim?",
+    "a": "Çoğu yetişkin için 6 ayda bir önerilir. Diş eti hastalığı, çok sayıda dolgu ya da implantı olanlarda 3–4 ayda bir, riski düşük kişilerde yılda bir kontrol yeterli olabilir."
+   },
+   {
+    "q": "Muayene ne kadar sürer?",
+    "a": "Genellikle 20–30 dakika sürer. Röntgen ya da tomografi gerekiyorsa süre biraz uzayabilir."
+   },
+   {
+    "q": "Hamileyken diş muayenesine gidilir mi?",
+    "a": "Evet, gidilmelidir. Hamilelikte diş eti iltihabı sıklaşır. Rutin tedaviler için en uygun dönem genellikle ikinci üç aylık dönemdir; röntgen yalnızca gerekirse ve korumayla çekilir."
+   },
+   {
+    "q": "Çocuğumu da aynı gün muayene ettirebilir miyim?",
+    "a": "Evet. Aile randevularını aynı güne planlayabiliriz; çocuklar için ayrı bir tedavi odamız bulunur."
+   }
+  ]
+ },
+ {
+  "key": "beyenglish",
+  "date": "2026-10-19",
+  "cat": "Rehber",
+  "cover": "blog-bey-ingilizce",
+  "slug": "beylikduzu-ingilizce-dis-hekimi",
+  "title": "Beylikdüzü'nde İngilizce hizmet veren diş kliniği: yabancı ve yurt dışında yaşayan hastalar için",
+  "desc": "Beylikdüzü'nde İngilizce konuşan diş hekimi: yabancı uyruklu hastalar ve yurt dışında yaşayan Türkler için randevu, uzaktan ön değerlendirme, tedavi planlaması ve tedavi sonrası belgeler.",
+  "lead": "Dent32, Beylikdüzü'nde Türkçe ve İngilizce hizmet veren bir diş kliniğidir. Beylikdüzü'nde yaşayan yabancı hastalar ve yaz tatilinde Türkiye'ye gelen gurbetçiler; muayene, tedavi planı ve tedavi sonrası bilgileri İngilizce alabilir.",
+  "sections": [
+   {
+    "id": "kimler",
+    "h": "Kimler için?",
+    "html": "<ul>\n<li><strong>Beylikdüzü'nde yaşayan yabancılar:</strong> İlçede yaşayan yabancı uyruklu aileler için İngilizce muayene ve yazılı plan.</li>\n<li><strong>Yurt dışında yaşayan Türkler:</strong> Türkiye ziyaretleri sırasında tedavilerini tamamlamak isteyen gurbetçiler.</li>\n<li><strong>Tedavi için İstanbul'a gelenler:</strong> Kısa sürede çok seanslı tedavi planlaması gereken hastalar.</li>\n</ul>"
+   },
+   {
+    "id": "iletisim",
+    "h": "İletişim ve randevu",
+    "html": "<p>Randevu, ön değerlendirme ve tedavi sırasındaki iletişim Türkçe ya da İngilizce yapılabilir. WhatsApp'tan +90 555 011 33 68 numarasına İngilizce yazabilirsiniz. Sitemizin <a class=\"text-link\" href=\"/en/\">İngilizce sürümü</a> de tüm tedavi bilgilerini içerir.</p>"
+   },
+   {
+    "id": "uzaktan",
+    "h": "Uzaktan ön değerlendirme",
+    "html": "<ol>\n<li>Elinizdeki röntgeni (varsa son 1–2 yıl içinde çekilmiş panoramik röntgen ya da tomografi) gönderin.</li>\n<li>Gülerken ve dişler kapalıyken önden, sağdan ve soldan net fotoğraflar ekleyin.</li>\n<li>Şikâyetinizi ve ne kadar süre Türkiye'de kalacağınızı yazın.</li>\n<li>Hekim ön değerlendirme yapar; kaç ziyaret gerektiğini ve tahmini süreyi birlikte planlarız.</li>\n</ol><aside class=\"note\"><strong>Önemli</strong><p>Uzaktan değerlendirme yalnızca ön bilgidir. Kesin plan ve maliyet, klinikte yapılan muayene ve gerekli görüntülemelerden sonra netleşir.</p></aside>"
+   },
+   {
+    "id": "planlama",
+    "h": "Kısıtlı sürede tedavi planlama",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Tedavi</th><th scope=\"col\">Türkiye'de kalış için yaklaşık süre</th></tr></thead><tbody><tr><td>Muayene, temizlik, dolgu</td><td>1–2 gün</td></tr><tr><td>Kanal tedavisi</td><td>1–3 gün</td></tr><tr><td>Zirkonyum ya da lamine kaplama</td><td>Yaklaşık 1–2 hafta</td></tr><tr><td>İmplant</td><td>İki ayrı ziyaret: yerleştirme ve birkaç ay sonra kalıcı diş</td></tr></tbody></table></div><p>Ayrıntılı planlama önerilerini <a class=\"text-link\" href=\"/blog/yurt-disindan-istanbul-dis-tedavisi/\">yurt dışından İstanbul'a diş tedavisi</a> rehberimizde bulabilirsiniz.</p>"
+   },
+   {
+    "id": "belgeler",
+    "h": "Tedavi sonrası belgeler",
+    "html": "<p>Yurt dışına döndüğünüzde oradaki diş hekiminizin tedaviyi takip edebilmesi için yapılan işlemlerin özetini, röntgenlerinizi ve implant yapıldıysa kullanılan implantın marka ve model bilgisini yazılı olarak isteyin. Bu bilgiler ileride olası bir bakım ya da parça değişiminde büyük kolaylık sağlar.</p>\n<p>Tüm tedavilerimiz için <a class=\"text-link\" href=\"/blog/beylikduzu-dis-hekimi/\">Beylikdüzü diş hekimi rehberimize</a> ya da <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniği</a> anasayfamıza göz atabilirsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Hekimler İngilizce konuşuyor mu?",
+    "a": "Evet, muayene ve tedavi sürecinde İngilizce iletişim kurulabilir. Randevu alırken İngilizce görüşmek istediğinizi belirtmeniz yeterlidir."
+   },
+   {
+    "q": "Tedavi planını İngilizce alabilir miyim?",
+    "a": "Evet. Bulgular, seçenekler ve maliyet yazılı olarak İngilizce de paylaşılabilir."
+   },
+   {
+    "q": "Döndükten sonra bir sorun olursa ne yapmalıyım?",
+    "a": "WhatsApp'tan fotoğraf ve açıklamayla bize ulaşın. Gerekirse bulunduğunuz yerdeki bir diş hekimine yol gösterecek bilgileri paylaşırız."
+   },
+   {
+    "q": "Muayeneye gelirken pasaport ya da kimlik gerekir mi?",
+    "a": "Sağlık kaydınızın oluşturulması için kimlik ya da pasaport bilgileriniz istenir; randevuya gelirken yanınızda bulundurmanız yeterlidir."
+   }
+  ]
+ },
+ {
   "key": "klinik",
   "date": "2026-10-19",
   "cat": "Rehber",

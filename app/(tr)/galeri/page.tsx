@@ -5,8 +5,8 @@ import { Gallery } from "@/views/Gallery";
 export const metadata: Metadata = pageMetadata({
   key: "gallery",
   lang: "tr",
-  title: "Galeri: öncesi ve sonrası | Dent32",
-  description: "İmplant ve zirkonyum tedavilerinden rötuşsuz öncesi ve sonrası fotoğrafları.",
+  title: "Öncesi ve Sonrası Galeri | Dent32 Beylikdüzü Diş Kliniği",
+  description: "Beylikdüzü'ndeki Dent32 diş kliniğinde yapılan implant ve zirkonyum tedavilerinden rötuşsuz öncesi ve sonrası fotoğrafları.",
   image: "vaka-zirkonyum1-sonrasi",
 });
 

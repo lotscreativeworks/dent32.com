@@ -25,6 +25,7 @@ export function About({ lang }: { lang: Lang }) {
   return (
     <Shell lang={lang} pageKey="about">
       <PageHead lang={lang} title={t("Dent32'yi tanıyın", "Get to know Dent32")} crumb={t("Hakkımızda", "About")}
+        eyebrow={t("Beylikdüzü diş kliniği", "Dental clinic in Beylikdüzü")}
         lead={t("Beylikdüzü'nde, haftanın yedi günü açık bir diş kliniği. Her tedaviyi açıkça anlatılan, yazılı bir planla yürütüyoruz.",
           "A dental clinic in Beylikdüzü, Istanbul, open seven days a week. Every treatment follows a clearly explained, written plan.")} />
 

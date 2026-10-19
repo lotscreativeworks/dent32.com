@@ -24,7 +24,7 @@ Next.js 16 (App Router) · TypeScript (strict) · Tailwind CSS 4 · statik çık
 | `components/` | Başlık/altlık (`Shell`), kartlar (`blocks`), `client/` altında etkileşimli parçalar |
 | `lib/site.ts` | Klinik bilgileri, rota haritası, tarih yardımcıları, `CLINIC_HOURS` |
 | `lib/seo.ts` | Sayfa metadata'sı: canonical, hreflang (+x-default), Open Graph, Twitter |
-| `content/*.json` | Tedaviler, yorumlar, kadro, klinik fotoğrafları ve 28 blog yazısı (her biri TR + EN) |
+| `content/*.json` | Tedaviler, yorumlar, kadro, klinik fotoğrafları ve 43 blog yazısı (her biri TR + EN) |
 | `app/globals.css` | Tailwind + marka tokenları (`@theme`) + tasarım sistemi (`@layer components`) |
 | `public/img/` | WebP görseller ve SVG ikonlar |
 

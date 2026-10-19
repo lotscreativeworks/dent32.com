@@ -11,6 +11,7 @@ export function Contact({ lang }: { lang: Lang }) {
     <Shell lang={lang} pageKey="contact">
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(dentistLd(lang))} />
       <PageHead lang={lang} title={t("İletişim ve randevu", "Contact and appointments")} crumb={t("İletişim", "Contact")}
+        eyebrow={t("Dent32 · Beylikdüzü diş kliniği", "Dent32 · Dental clinic in Beylikdüzü")}
         lead={t("Formu doldurun ya da doğrudan WhatsApp'tan yazın. Mesajınızı hekimlerimizle paylaşıp size dönüyoruz.",
           "Fill in the form or message us directly on WhatsApp. We'll share your message with our dentists and get back to you.")} />
       <section className="section" style={{ paddingTop: "clamp(40px,5vw,64px)" }}>

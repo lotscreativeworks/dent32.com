@@ -6,7 +6,9 @@ import { Icon } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
 import { breadcrumbLd, DENTIST_ID, jsonLd } from "@/lib/seo";
-import { absUrl, dateLong, type Lang, type Post, POSTS, readMinutes, route, SITE, translator, WA } from "@/lib/site";
+import {
+  absUrl, ADDRESS, dateLong, type Lang, PHONE, PHONE_E164, type Post, POSTS, readMinutes, route, SITE, translator, WA,
+} from "@/lib/site";
 
 export function BlogList({ lang }: { lang: Lang }) {
   const t = translator(lang);
@@ -96,6 +98,12 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
               <p>
                 {t("Size uygun tedavi ancak muayeneyle belirlenebilir. Sorularınız için", "The right treatment for you can only be decided after an examination. For questions,")}{" "}
                 <a className="text-link" href={WA} target="_blank" rel="noopener">{t("WhatsApp'tan yazın", "message us on WhatsApp")}</a>.
+              </p>
+              {/* Her yazıda klinik adı, adresi ve anasayfa bağlantısı (yerel aramada tutarlı NAP) */}
+              <p>
+                <Link className="text-link" href={route("home", lang)}>{t("Dent32 Beylikdüzü diş kliniği", "Dent32 dental clinic in Beylikdüzü")}</Link>
+                {" · "}{ADDRESS}{" · "}{t("Haftanın yedi günü açık", "Open seven days a week")}{" · "}
+                <a className="text-link" href={`tel:${PHONE_E164}`}>{PHONE}</a>
               </p>
             </aside>
           </article>

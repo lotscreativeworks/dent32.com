@@ -46,10 +46,14 @@ export const DENTIST_ID = `${SITE}/#dentist`;
 /** Klinikten hasta gelen ilçeler (Google'a hizmet bölgesi olarak bildirilir) */
 const AREA_SERVED = ["Beylikdüzü", "Esenyurt", "Büyükçekmece", "Avcılar", "İstanbul"];
 
+/** Kliniğin aranırken kullanılan diğer adları */
+const ALTERNATE_NAMES = ["Dent32 Beylikdüzü Diş Kliniği", "Dent32 Diş Kliniği", "Dent 32"];
+
 export function dentistLd(lang: Lang) {
   const t = translator(lang);
   return {
     "@context": "https://schema.org", "@type": "Dentist", "@id": DENTIST_ID, name: "Dent32",
+    alternateName: ALTERNATE_NAMES,
     description: t("Beylikdüzü, İstanbul'da diş kliniği: implant, zirkonyum kaplama, gülüş tasarımı, şeffaf plak, kanal tedavisi, diş eti ve çocuk diş hekimliği.",
       "Dental clinic in Beylikdüzü, Istanbul: implants, zirconia crowns, smile design, clear aligners, root canal treatment, gum care and children's dentistry."),
     url: absUrl("home", lang), logo: `${SITE}/logo.svg`, image: `${SITE}/img/klinik-01-bina.webp`,
@@ -74,6 +78,12 @@ export function dentistLd(lang: Lang) {
     }),
   };
 }
+
+/** Sitenin adı: Google arama sonucunda site adı olarak "Dent32" gösterilsin, yerel adlar da tanınsın */
+export const websiteLd = (lang: Lang) => ({
+  "@context": "https://schema.org", "@type": "WebSite", "@id": `${SITE}/#website`, name: "Dent32",
+  alternateName: ALTERNATE_NAMES, url: `${SITE}/`, inLanguage: lang, publisher: { "@id": DENTIST_ID },
+});
 
 /** Sayfa yolu (breadcrumb) JSON-LD: [ad, yol] listesi, anasayfadan başlar */
 export const breadcrumbLd = (items: [string, string][]) => ({

@@ -241,6 +241,7 @@ ul, ol { margin: 0; padding: 0; }
 .hero__grid { position: relative; z-index: 2; display: grid; grid-template-columns: 1.1fr .9fr; gap: clamp(32px, 5vw, 72px); align-items: center; }
 .hero h1 { color: #fff; margin-bottom: 24px; }
 .hero .lead { color: #b9c9d6; max-width: 46ch; margin-bottom: 32px; }
+.hero__title .eyebrow { line-height: 1.65; text-wrap: wrap; }
 .hero__title .line { display: block; overflow: hidden; padding-bottom: .1em; margin-bottom: -.1em; }
 .hero__title .line > span { display: block; animation: line-up 1100ms var(--hx-ease) both; animation-delay: calc(var(--i) * 130ms + 120ms); }
 @keyframes line-up { from { transform: translateY(110%); } to { transform: none; } }
@@ -449,6 +450,20 @@ ul, ol { margin: 0; padding: 0; }
 @media (max-width: 600px) { .blog-grid { grid-template-columns: 1fr; } }
 
 /* --- SSS (.faq) --------------------------------------------------------- */
+/* Anasayfa: Beylikdüzü bölümü (metin + yerel rehber bağlantıları) */
+.local { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(32px, 6vw, 88px); align-items: start; }
+.local .info { margin: 28px 0 0; padding: 0; }
+.local__title { font-size: 1.2rem; margin: 0 0 12px; }
+.local__links { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; column-gap: 28px; }
+.local__links a {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 13px 0;
+  border-bottom: 1px solid var(--line); color: var(--ink); font-weight: 500; text-decoration: none; transition: color .3s;
+}
+.local__links a:hover { color: #1d6f94; }
+.local__links svg { width: 16px; height: 16px; flex: none; }
+@media (max-width: 860px) { .local { grid-template-columns: 1fr; } }
+@media (max-width: 520px) { .local__links { grid-template-columns: 1fr; } }
+
 .faq-layout { display: grid; grid-template-columns: .8fr 1.2fr; gap: clamp(32px, 6vw, 88px); align-items: start; }
 @media (max-width: 860px) { .faq-layout { grid-template-columns: 1fr; } }
 .faq { border-top: 1px solid var(--line); }

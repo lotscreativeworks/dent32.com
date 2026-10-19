@@ -6,7 +6,7 @@ export const metadata: Metadata = pageMetadata({
   key: "blog",
   lang: "en",
   title: "Dental Health Blog: Implant, Crown and Treatment Guides | Dent32",
-  description: "Short, clear guides on dental implants, crowns, root canal treatment, gum health, children's teeth and cosmetic dentistry from the Dent32 team in Istanbul.",
+  description: "Short, clear guides on dental implants, crowns, root canal treatment, gum health, children's teeth and cosmetic dentistry from the Dent32 team in Beylikdüzü, Istanbul.",
   image: "blog-gulus-tasarimi",
 });
 
