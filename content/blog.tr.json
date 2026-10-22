@@ -1,5 +1,585 @@
 [
  {
+  "key": "agizkokusu",
+  "date": "2026-10-23",
+  "cat": "Tedavi",
+  "cover": "blog-agiz-kokusu",
+  "slug": "agiz-kokusu-nedenleri-ve-tedavisi",
+  "title": "Ağız kokusu neden olur, nasıl geçer? Nedenleri ve kalıcı çözüm",
+  "desc": "Ağız kokusunun (halitozis) en sık nedenleri: dil paslanması, diş eti hastalığı, çürük, ağız kuruluğu ve bademcik taşı. Evde yapılabilecekler, gargaranın etkisi ve ne zaman diş hekimine gitmeli.",
+  "lead": "Kalıcı ağız kokusunun büyük çoğunluğu (yaklaşık yüzde 80–90'ı) ağızdan kaynaklanır. En sık nedenler dilin arka kısmında biriken bakteri tabakası, diş eti hastalığı ve diş aralarında kalan yiyeceklerdir. Bu yüzden çözüm çoğunlukla gargarada değil; dil temizliği, diş arası bakımı ve gerekiyorsa diş taşı temizliği ile diş eti tedavisindedir.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Ağız kokusu neden olur?",
+    "html": "<p>Ağızdaki bakteriler yiyecek artıklarını, dökülen hücreleri ve diş eti cebindeki proteinleri parçalarken uçucu kükürtlü bileşikler üretir. Kötü kokunun asıl kaynağı bu gazlardır. Bakterilerin en rahat çoğaldığı yerler; dilin arka yüzü, diş araları, derinleşmiş diş eti cepleri ve çürük oyuklarıdır.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Neden</th><th scope=\"col\">Nasıl anlaşılır?</th></tr></thead><tbody><tr><td>Dil üzerindeki tabaka (dil paslanması)</td><td>Dilin arka kısmında beyaz-sarı kaplama</td></tr><tr><td>Diş eti iltihabı ve diş eti hastalığı</td><td>Fırçalarken kanama, şişlik, diş eti çekilmesi</td></tr><tr><td>Çürük, kırık dolgu ya da kaplama kenarı</td><td>Yemek takılması, tek bölgeden gelen koku</td></tr><tr><td>Ağız kuruluğu</td><td>Az su içme, ağızdan nefes alma, bazı ilaçlar (antidepresan, tansiyon, alerji ilaçları)</td></tr><tr><td>Temizlenmeyen protez ya da plak</td><td>Protezi çıkarınca belirginleşen koku</td></tr><tr><td>Yiyecek, içecek ve sigara</td><td>Sarımsak, soğan, kahve, alkol; geçici koku</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "agiz-disi",
+    "h": "Ağız dışından kaynaklanan nedenler nelerdir?",
+    "html": "<p>Daha az görülse de ağız kokusu bazen ağız dışından gelir. Bademcik taşı ve kronik bademcik iltihabı, sinüzit ve geniz akıntısı, mide reflüsü bunların başında gelir. Kontrolsüz diyabette nefeste aseton benzeri, böbrek ve karaciğer hastalıklarında ise farklı karakterde koku görülebilir.</p>\n<p>Diş hekimi muayenesinde ağızda bir neden bulunmazsa kulak burun boğaz ya da iç hastalıkları hekimine yönlendirme yapılır.</p>"
+   },
+   {
+    "id": "test",
+    "h": "Ağzımın koktuğunu nasıl anlarım?",
+    "html": "<p>İnsan kendi nefes kokusuna alıştığı için bunu fark etmek zordur. Şu basit yöntemler fikir verir:</p>\n<ul>\n<li>Bileğinizi yalayın, birkaç saniye kuruduktan sonra koklayın.</li>\n<li>Arka dişler arasından geçirdiğiniz diş ipini koklayın.</li>\n<li>Dilin arka kısmını bir kaşıkla hafifçe sıyırıp koklayın.</li>\n<li>Güvendiğiniz bir yakınınıza açıkça sorun.</li>\n</ul>\n<aside class=\"note\"><strong>Sabah kokusu normaldir</strong><p>Uykuda tükürük akışı azaldığı için sabah ağız kokusu herkeste olur ve kahvaltı ile fırçalamadan sonra geçer. Gün boyu süren koku ise bir nedeni olduğunu gösterir.</p></aside>"
+   },
+   {
+    "id": "evde",
+    "h": "Evde neler yapılabilir?",
+    "html": "<ul>\n<li>Dişleri günde iki kez, iki dakika, florürlü macunla fırçalayın. <a class=\"text-link\" href=\"/blog/dogru-dis-fircalama/\">Doğru fırçalama tekniğini burada anlattık</a>.</li>\n<li>Dil temizleyiciyle dili arkadan öne doğru birkaç kez sıyırın. Ağız kokusunda en hızlı farkı genellikle bu yaratır.</li>\n<li>Günde bir kez diş ipi ya da ara yüz fırçası kullanın.</li>\n<li>Gün içinde yeterince su için; şekersiz sakız tükürük akışını artırır.</li>\n<li>Hareketli protez ya da plak kullanıyorsanız gece çıkarıp her gün temizleyin.</li>\n<li>Sigarayı bırakmak hem kokuyu hem diş eti hastalığı riskini azaltır.</li>\n</ul>"
+   },
+   {
+    "id": "gargara",
+    "h": "Gargara ve nane şekeri işe yarar mı?",
+    "html": "<p>Nane şekeri ve parfümlü gargaralar kokuyu yalnızca kısa süre bastırır, nedeni ortadan kaldırmaz. Alkolsüz ve setilpiridinyum klorür (CPC) ya da çinko içeren gargaralar bakteri yükünü azaltarak destek olabilir. Klorheksidinli gargaralar etkilidir ancak uzun süre kullanıldığında dişlerde renklenme ve tat değişikliği yapabildiği için hekim önerisiyle ve kısa süreli kullanılmalıdır.</p>"
+   },
+   {
+    "id": "tedavi",
+    "h": "Diş hekimi muayenesinde neler yapılır?",
+    "html": "<p>Muayenede dişler, dil, diş etleri ve varsa protezler incelenir; diş eti cepleri ölçülür, gerekirse röntgen çekilir. Kaynağa göre tedavi şu şekilde planlanır:</p>\n<ul>\n<li><a class=\"text-link\" href=\"/blog/dis-tasi-temizligi/\">Diş taşı temizliği</a> ve cilalama</li>\n<li>Diş eti hastalığında derin temizlik ve <a class=\"text-link\" href=\"/blog/dis-eti-kanamasi-ve-cekilmesi/\">diş eti tedavisi</a></li>\n<li>Çürüklerin ve kenarı bozulmuş eski dolgu ya da kaplamaların yenilenmesi</li>\n<li>Yarı gömülü yirmi yaş dişi çevresindeki iltihabın tedavisi; gerekirse <a class=\"text-link\" href=\"/blog/yirmilik-dis-cekimi/\">yirmi yaş dişinin çekimi</a></li>\n</ul>\n<p>Dent32 Beylikdüzü'nde haftanın yedi günü muayene yapıyoruz. Ağız kokusu birkaç haftadır sürüyorsa <a class=\"text-link\" href=\"/iletisim/\">muayene randevusu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Sabahları ağız kokusu normal mi?",
+    "a": "Evet. Gece tükürük akışı azaldığı için sabah ağız kokusu herkeste olur ve kahvaltı ile diş fırçalamadan sonra geçer."
+   },
+   {
+    "q": "Ağız kokusu mideden mi gelir?",
+    "a": "Nadiren. Reflü katkıda bulunabilir ancak kalıcı ağız kokusunun büyük çoğunluğunun kaynağı ağızdır. Önce diş hekimi muayenesi önerilir."
+   },
+   {
+    "q": "Diş taşı temizliği ağız kokusunu geçirir mi?",
+    "a": "Koku diş taşı ve diş eti iltihabından kaynaklanıyorsa belirgin şekilde azaltır. Kalıcı sonuç için evde dil temizliği ve diş arası bakımı da gerekir."
+   },
+   {
+    "q": "Çocuklarda ağız kokusu neden olur?",
+    "a": "Ağızdan nefes alma, geniz eti ve bademcik büyüklüğü, çürük dişler ve yetersiz fırçalama en sık nedenlerdir. Diş hekimi ve gerekirse çocuk KBB muayenesi önerilir."
+   }
+  ]
+ },
+ {
+  "key": "hamilelik",
+  "date": "2026-10-23",
+  "cat": "Rehber",
+  "cover": "blog-hamilelik",
+  "slug": "hamilelikte-dis-tedavisi",
+  "title": "Hamilelikte diş tedavisi: hangi işlemler güvenli, en uygun dönem hangisi?",
+  "desc": "Hamilelikte dolgu, kanal tedavisi, diş çekimi, röntgen ve lokal anestezi yapılır mı? En uygun dönem, doğum sonrasına bırakılan işlemler, gebelik diş eti iltihabı ve ilaç kullanımı.",
+  "lead": "Hamilelikte diş tedavisi yapılabilir ve çoğu zaman ertelenmemelidir. Dolgu, kanal tedavisi, diş taşı temizliği ve gerekiyorsa diş çekimi uygun önlemlerle uygulanır. En rahat dönem genellikle gebeliğin ikinci üç ayıdır (yaklaşık 4. ile 6. aylar). Diş beyazlatma, implant ve estetik işlemler ise doğum sonrasına bırakılır.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Hamilelikte diş tedavisi neden ertelenmemeli?",
+    "html": "<p>Tedavi edilmeyen bir çürük ya da diş enfeksiyonu ilerledikçe ağrı, uykusuzluk, beslenme güçlüğü ve daha fazla ilaç ihtiyacı doğurur. Bu durum anne için de bebek için de planlı ve kısa bir tedaviden daha fazla yük demektir.</p>\n<p>Gebelikte hormon değişiklikleri diş etlerini iltihaba daha yatkın hale getirir. Bazı çalışmalar ilerlemiş diş eti hastalığı ile erken doğum arasında ilişki bildirse de neden-sonuç bağı kesinleşmiş değildir; yine de sağlıklı diş eti her açıdan önemlidir.</p>\n<aside class=\"note\"><strong>Kısaca</strong><p>Hamile olduğunuzu muayenede mutlaka söyleyin. Tedavi planı gebelik haftanıza ve kadın doğum hekiminizin önerilerine göre yapılır.</p></aside>"
+   },
+   {
+    "id": "donem",
+    "h": "Gebeliğin hangi döneminde hangi işlem yapılır?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Dönem</th><th scope=\"col\">Uygun işlemler</th><th scope=\"col\">Not</th></tr></thead><tbody><tr><td>1. üç ay (0–13. hafta)</td><td>Muayene, diş taşı temizliği, ağrı ve enfeksiyon gibi acil tedaviler</td><td>Bebeğin organ gelişimi sürdüğü için planlı işlemler mümkünse ikinci üç aya bırakılır</td></tr><tr><td>2. üç ay (14–27. hafta)</td><td>Dolgu, kanal tedavisi, diş çekimi, diş eti tedavisi</td><td>En uygun dönem; bulantı azalır, koltukta oturmak kolaydır</td></tr><tr><td>3. üç ay (28. hafta sonrası)</td><td>Acil ve kısa işlemler</td><td>Uzun seanslardan kaçınılır; sırtüstü yatarken hafif sol yana dönük pozisyon tercih edilir</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "anestezi",
+    "h": "Lokal anestezi ve diş röntgeni bebeğe zarar verir mi?",
+    "html": "<p>Diş tedavisinde kullanılan lokal anestezikler (lidokain, artikain) standart dozlarda gebelikte güvenli kabul edilir. Ağrı ve stres altında tedavi olmak, uyuşturularak tedavi olmaktan daha zararlıdır.</p>\n<p>Diş röntgenlerinin radyasyon dozu çok düşüktür ve ışın yalnızca ağız bölgesine yönlendirilir. Yine de gebelikte röntgen yalnızca tanı için gerçekten gerekliyse çekilir; kurşun önlük ve tiroid koruyucu kullanılır.</p>"
+   },
+   {
+    "id": "ilaclar",
+    "h": "Hamilelikte hangi ağrı kesici ve antibiyotik kullanılır?",
+    "html": "<p>Gebelikte hiçbir ilacı kendi başınıza kullanmayın. Diş hekimi ilaç önerisini kadın doğum hekiminizle uyumlu yapar. Genel çerçeve şöyledir:</p>\n<ul>\n<li>Ağrı için çoğunlukla parasetamol tercih edilir.</li>\n<li>İbuprofen gibi steroid olmayan ağrı kesiciler, özellikle gebeliğin ikinci yarısında önerilmez.</li>\n<li>Antibiyotik gerektiğinde penisilin grubu (örneğin amoksisilin) yaygın olarak kullanılır; tetrasiklin grubu kullanılmaz.</li>\n</ul>"
+   },
+   {
+    "id": "dis-eti",
+    "h": "Gebelik diş eti iltihabı ve gebelik epulisi",
+    "html": "<p>Hamilelerin önemli bir bölümünde diş etleri kızarır, şişer ve fırçalarken kanar. Bu tabloya gebelik gingiviti denir. Düzenli fırçalama, diş arası temizliği ve gerekirse gebelikte yapılan <a class=\"text-link\" href=\"/blog/dis-tasi-temizligi/\">diş taşı temizliği</a> ile kontrol altına alınır.</p>\n<p>Bazen diş eti üzerinde kolay kanayan, kırmızı, küçük bir şişlik (gebelik epulisi) gelişir. Çoğu doğumdan sonra küçülür; yemeye engel oluyor ya da sık kanıyorsa hekim değerlendirir.</p>\n<p>Bulantı ve kusma sonrası dişleri hemen fırçalamayın; asit mineyi yumuşatır. Önce ağzınızı suyla ya da bir bardak suya bir çay kaşığı karbonat ekleyerek çalkalayın, yaklaşık yarım saat sonra fırçalayın.</p>"
+   },
+   {
+    "id": "ertelenen",
+    "h": "Hangi işlemler doğum sonrasına bırakılır?",
+    "html": "<ul>\n<li>Diş beyazlatma</li>\n<li>İmplant, kemik tozu ve sinüs lifting gibi planlı cerrahiler</li>\n<li>Lamine, zirkonyum kaplama gibi estetik tedaviler</li>\n<li>Yeni bir ortodonti tedavisine başlamak (devam eden tedavi genellikle sürdürülür)</li>\n</ul>\n<p>Emzirme döneminde çoğu diş tedavisi yapılabilir; lokal anestezi emzirmeye engel değildir. Hamilelik öncesinde ya da gebeliğin ilk aylarında <a class=\"text-link\" href=\"/blog/beylikduzu-dis-muayenesi/\">bir kontrol muayenesi</a> yaptırmak, sürprizleri en aza indirir.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Hamileyken diş çekilir mi?",
+    "a": "Gerekiyorsa evet. Planlı çekimler tercihen ikinci üç ayda yapılır; ağrı ve enfeksiyon varsa gebeliğin her döneminde tedavi edilir."
+   },
+   {
+    "q": "Hamilelikte dolgu yaptırılır mı?",
+    "a": "Evet. Çürük ilerlemeden yapılan dolgu, ileride kanal tedavisi gerekmesini önler. Gebelikte genellikle beyaz (kompozit) dolgu tercih edilir."
+   },
+   {
+    "q": "Emzirirken diş tedavisi olur mu?",
+    "a": "Evet. Lokal anestezi ve diş tedavilerinin çoğu emzirmeye engel değildir; ilaç önerileri emzirmeye uygun seçilir."
+   },
+   {
+    "q": "Hamilelikte bebek annenin dişlerinden kalsiyum alır mı?",
+    "a": "Hayır. \"Her çocuk bir diş götürür\" inancı doğru değildir. Gebelikte artan çürük; sık atıştırma, kusma ve ağız bakımının aksamasıyla ilgilidir."
+   }
+  ]
+ },
+ {
+  "key": "cekimsonrasi",
+  "date": "2026-10-23",
+  "cat": "Tedavi",
+  "cover": "blog-cekim-sonrasi",
+  "slug": "dis-cekimi-sonrasi",
+  "title": "Diş çekimi sonrası: kanama, ağrı, ne zaman yemek yenir ve kuru soket",
+  "desc": "Diş çekiminden sonraki ilk 24 saat: tampon ne kadar ısırılır, ne zaman yemek yenir, sigara, gargara, şişlik ve ağrı. Kuru soket (alveolit) belirtileri ve hangi durumda hekime dönmeli.",
+  "lead": "Diş çekiminden sonra en önemli kural, çekim boşluğunda oluşan kan pıhtısını korumaktır. Tamponu 30–45 dakika ısırmak, ilk 24 saat tükürmemek, gargara yapmamak ve pipet kullanmamak, en az 2–3 gün sigara içmemek iyileşmenin büyük bölümünü belirler.",
+  "sections": [
+   {
+    "id": "ilk-saatler",
+    "h": "Diş çekiminden sonra ilk saatlerde ne yapılmalı?",
+    "html": "<ol>\n<li>Hekimin yerleştirdiği gazlı bez tamponu 30–45 dakika boyunca sıkıca ısırın, sonra çıkarın.</li>\n<li>İlk 24 saat tükürmeyin, ağzınızı çalkalamayın, pipetle içmeyin; bunlar pıhtıyı yerinden oynatır.</li>\n<li>Yüzünüze, çekim tarafından 15–20 dakika soğuk uygulayıp ara verin; ilk gün birkaç kez tekrarlayın.</li>\n<li>Hekimin önerdiği ağrı kesiciyi uyuşukluk geçmeden almak ağrıyı daha kolay kontrol eder.</li>\n<li>Gece başınızı bir yastık yüksekte tutarak yatın.</li>\n<li>En az 48–72 saat sigara içmeyin.</li>\n</ol>\n<aside class=\"note\"><strong>Kısaca</strong><p>Çekim boşluğundaki pıhtı, yaranın doğal bandajıdır. İlk günlerde yapılan her şeyin amacı bu pıhtıyı korumaktır.</p></aside>"
+   },
+   {
+    "id": "yemek",
+    "h": "Diş çekiminden sonra ne zaman yemek yenir?",
+    "html": "<p>Uyuşukluk geçtikten sonra (genellikle 2–3 saat) yemek yiyebilirsiniz. Uyuşukken yemek, dudak ve yanağın fark edilmeden ısırılmasına yol açar.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Zaman</th><th scope=\"col\">Önerilen</th><th scope=\"col\">Kaçınılması gereken</th></tr></thead><tbody><tr><td>İlk gün</td><td>Ilık ya da soğuk, yumuşak yiyecekler: yoğurt, çorba (ılık), püre, muhallebi</td><td>Sıcak içecekler, alkol, gazlı içecek, pipet</td></tr><tr><td>2–3. gün</td><td>Makarna, yumurta, haşlanmış sebze; diğer taraftan çiğneme</td><td>Kabuklu çerez, çekirdek, sert ve baharatlı yiyecekler</td></tr><tr><td>1 hafta sonrası</td><td>Normal beslenmeye kademeli dönüş</td><td>Çekim bölgesine yemek takılmasına dikkat</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "kanama",
+    "h": "Kanama, şişlik ve morarma ne kadar sürer?",
+    "html": "<p>İlk 24 saat tükürüğün pembe gelmesi normaldir. Aktif kanama olursa yeni bir gazlı bezi ya da ıslatılmış bir siyah çay poşetini bölgeye yerleştirip 30 dakika sıkıca ısırın; çaydaki tanen kanamayı durdurmaya yardım eder.</p>\n<p>Şişlik genellikle 2. ya da 3. gün en yüksek seviyeye ulaşır, sonra azalır. İlk 24 saatten sonra soğuk yerine ılık kompres rahatlatır. Özellikle zor ya da cerrahi çekimlerde yüzde morarma görülebilir ve bir haftada kaybolur.</p>"
+   },
+   {
+    "id": "bakim",
+    "h": "Çekimden sonra dişler nasıl fırçalanır?",
+    "html": "<ul>\n<li>İlk akşam dişlerinizi fırçalayın ama çekim bölgesine dokunmayın.</li>\n<li>24 saat sonra, yemeklerden sonra ılık tuzlu suyla (bir bardak suya yarım çay kaşığı tuz) nazikçe, çalkalamadan ağzınızda tutarak temizleyin.</li>\n<li>Dikiş atıldıysa 7–10 gün sonra alınır ya da kendiliğinden erir.</li>\n<li>Ağır spor ve eforu 24–48 saat erteleyin.</li>\n</ul>"
+   },
+   {
+    "id": "kuru-soket",
+    "h": "Kuru soket (alveolit) nedir, nasıl anlaşılır?",
+    "html": "<p>Kuru soket, çekim boşluğundaki pıhtının erken dağılması ve kemiğin açıkta kalmasıdır. En sık belirtisi, çekimden 2–4 gün sonra azalacağı yerde artan, zonklayıcı ve kulağa vuran ağrıdır. Ağızda kötü tat ve koku olabilir; boşluk boş görünür.</p>\n<p>Sigara içenlerde, alt yirmi yaş dişi çekimlerinde ve zor çekimlerde daha sık görülür. Tedavisi basittir: hekim boşluğu temizler ve içine ağrıyı azaltan bir pansuman yerleştirir; ağrı genellikle birkaç gün içinde belirgin şekilde azalır. Bu durumda beklemek yerine hekiminize başvurun.</p>"
+   },
+   {
+    "id": "hekim",
+    "h": "Hangi durumda hekime dönmeli?",
+    "html": "<ul>\n<li>Bastırmaya rağmen bir saatten uzun süren kanama</li>\n<li>Üçüncü günden sonra artan şişlik ya da ateş</li>\n<li>Yutma ya da nefes almada güçlük (acil durum)</li>\n<li>24 saatten uzun süren dudak, çene ya da dil uyuşukluğu</li>\n<li>Kuru soket belirtileri</li>\n</ul>\n<p>Hafta sonu ve gece başlayan şikâyetler için <a class=\"text-link\" href=\"/blog/acil-dis-agrisi-beylikduzu/\">acil diş ağrısı rehberimize</a> bakabilirsiniz. Çekilen dişin yerine ne yapılacağını <a class=\"text-link\" href=\"/blog/implant-mi-kopru-mu/\">implant mı köprü mü</a> yazımızda anlattık; boşluk uzun süre bırakılırsa çene kemiği zamanla erir.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş çekiminden sonra ne zaman sigara içilebilir?",
+    "a": "En az 48–72 saat, mümkünse bir hafta beklenmesi önerilir. Sigara pıhtının dağılmasına ve kuru sokete yol açabilir."
+   },
+   {
+    "q": "Diş çekiminden sonra kaç gün dinlenmek gerekir?",
+    "a": "Basit çekimlerden sonra çoğu kişi ertesi gün işe ya da okula döner. Cerrahi yirmi yaş dişi çekiminden sonra 2–3 gün dinlenmek gerekebilir."
+   },
+   {
+    "q": "Çekimden sonra sıcak çay içilir mi?",
+    "a": "İlk gün sıcak içeceklerden kaçının; kanamayı artırabilir. Ilık içecekler sorun değildir."
+   },
+   {
+    "q": "Çekilen dişin yerine hemen implant yapılır mı?",
+    "a": "Uygun durumlarda çekimle aynı seansta implant yapılabilir; çoğu durumda ise birkaç hafta ile birkaç ay beklenir. Karar kemik ve enfeksiyon durumuna göre verilir."
+   }
+  ]
+ },
+ {
+  "key": "hassasiyet",
+  "date": "2026-10-23",
+  "cat": "Tedavi",
+  "cover": "blog-hassasiyet",
+  "slug": "dis-hassasiyeti",
+  "title": "Dişlerde soğuk ve sıcak hassasiyeti: nedenleri, evde bakım ve tedavisi",
+  "desc": "Diş hassasiyeti neden olur, hassasiyet macunu işe yarar mı, ne zaman çürük ya da sinir iltihabından şüphelenmeli? Flor vernik, bonding, diş eti tedavisi ve gece plağıyla tedavi seçenekleri.",
+  "lead": "Soğuk, sıcak, tatlı ya da ekşi ile gelen ve birkaç saniyede geçen keskin sızının en sık nedeni, mine aşınması ya da diş eti çekilmesiyle açığa çıkan dentin tabakasıdır. Hassasiyet macunu çoğu kişide 2–4 haftada belirgin rahatlama sağlar. Ağrı uzun sürüyorsa, kendiliğinden başlıyorsa ya da geceleri uyandırıyorsa çürük veya sinir iltihabı açısından muayene gerekir.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Diş hassasiyeti neden olur?",
+    "html": "<p>Dişin dış yüzeyindeki mine ve kök yüzeyini örten doku, alttaki dentin tabakasını korur. Dentinde sinire uzanan çok ince kanalcıklar vardır; bu tabaka açığa çıktığında soğuk ya da tatlı gibi uyaranlar sinire kolayca ulaşır.</p>\n<ul>\n<li>Sert fırça ve yatay, bastırarak fırçalama</li>\n<li>Diş eti çekilmesiyle kök yüzeyinin açığa çıkması</li>\n<li>Asitli içecekler, sık meyve suyu ve reflü nedeniyle mine erimesi</li>\n<li>Diş sıkma ve gıcırdatma</li>\n<li>Çatlak diş, çürük ya da kenarı açılmış dolgu</li>\n<li>Beyazlatma, diş taşı temizliği ya da kaplama sonrası geçici hassasiyet</li>\n</ul>"
+   },
+   {
+    "id": "ayirt",
+    "h": "Basit hassasiyet mi, sinir iltihabı mı?",
+    "html": "<p>Ağrının nasıl başladığı ve ne kadar sürdüğü, nedeni hakkında önemli ipucu verir:</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Ağrının özelliği</th><th scope=\"col\">Olası neden</th></tr></thead><tbody><tr><td>Soğuk ya da tatlıyla gelen, birkaç saniyede geçen keskin sızı</td><td>Açıkta dentin (diş hassasiyeti)</td></tr><tr><td>Uyaran kalktıktan sonra 30 saniyeden uzun süren ağrı</td><td>Sinirde başlayan iltihap</td></tr><tr><td>Kendiliğinden başlayan, zonklayan, geceleri uyandıran ağrı</td><td>İlerlemiş sinir iltihabı; <a class=\"text-link\" href=\"/blog/kanal-tedavisi/\">kanal tedavisi</a> gerekebilir</td></tr><tr><td>Isırıp bırakırken gelen ani ağrı</td><td>Çatlak diş ya da yüksek dolgu</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "evde",
+    "h": "Diş hassasiyetine evde ne iyi gelir?",
+    "html": "<ul>\n<li>Potasyum nitrat, kalay florür ya da arjinin içeren bir hassasiyet macununu günde iki kez kullanın; fırçaladıktan sonra tükürün ama suyla çalkalamayın.</li>\n<li>Gece yatmadan önce macunu parmağınızla hassas bölgeye ince bir tabaka halinde sürebilirsiniz.</li>\n<li>Yumuşak kıllı fırçaya geçin ve diş etine zarar veren yatay, sert fırçalamayı bırakın.</li>\n<li>Asitli içecekleri öğünlerle birlikte tüketin; sonrasında hemen fırçalamak yerine ağzınızı suyla çalkalayın.</li>\n<li>Aşındırıcı beyazlatıcı ve kömürlü macunları kullanmayın.</li>\n</ul>\n<aside class=\"note\"><strong>Ne kadar beklemeli?</strong><p>Hassasiyet macunu düzenli kullanımda genellikle 2–4 haftada etki eder. Bu sürede azalmayan ya da tek bir dişte yoğunlaşan hassasiyet muayene gerektirir.</p></aside>"
+   },
+   {
+    "id": "klinik",
+    "h": "Klinikte hangi tedaviler yapılır?",
+    "html": "<ul>\n<li>Hassas yüzeylere flor vernik ya da dentin kanalcıklarını kapatan özel uygulamalar</li>\n<li>Açıkta kalan kök yüzeyinin beyaz dolgu ya da <a class=\"text-link\" href=\"/blog/bonding-nedir/\">bonding</a> ile kapatılması</li>\n<li>İleri diş eti çekilmesinde <a class=\"text-link\" href=\"/blog/dis-eti-kanamasi-ve-cekilmesi/\">diş eti tedavisi</a> ve uygun vakalarda diş eti grefti</li>\n<li>Diş sıkma varsa <a class=\"text-link\" href=\"/blog/dis-sikma-gece-plagi/\">gece plağı</a></li>\n<li>Çürük ya da bozuk dolgunun yenilenmesi</li>\n<li>Diğer yöntemlerle geçmeyen şiddetli hassasiyette son seçenek olarak kanal tedavisi</li>\n</ul>"
+   },
+   {
+    "id": "gecici",
+    "h": "Beyazlatma ve kaplama sonrası hassasiyet",
+    "html": "<p>Diş beyazlatma sonrasında birkaç gün süren hassasiyet sık görülür ve kendiliğinden geçer. Kaplama sonrası hassasiyetin ne kadar sürmesinin normal olduğunu <a class=\"text-link\" href=\"/blog/dis-kaplama-sonrasi-hassasiyet/\">kaplama sonrası hassasiyet</a> yazımızda anlattık.</p>\n<p>Dent32 Beylikdüzü'nde hassasiyetin nedenini muayene ve gerekirse röntgenle belirliyoruz. Şikâyetiniz birkaç haftadır sürüyorsa <a class=\"text-link\" href=\"/iletisim/\">muayene randevusu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Hassasiyet macunu ne kadar sürede etki eder?",
+    "a": "Düzenli kullanımda genellikle 2–4 hafta içinde. Kullanımı bırakınca hassasiyet geri dönebilir."
+   },
+   {
+    "q": "Diş hassasiyeti kendiliğinden geçer mi?",
+    "a": "Beyazlatma ya da temizlik sonrası hassasiyet birkaç günde geçer. Açıkta kök yüzeyi ya da aşınma varsa neden giderilmeden kalıcı olarak geçmesi beklenmez."
+   },
+   {
+    "q": "Diş taşı temizliği hassasiyet yapar mı?",
+    "a": "Temizlikten sonra birkaç gün hafif hassasiyet olabilir; taşın altında kalan yüzeylerin açığa çıkmasından kaynaklanır ve kısa sürede azalır."
+   },
+   {
+    "q": "Tek dişte hassasiyet ne anlama gelir?",
+    "a": "Tek dişe sınırlı hassasiyet çoğunlukla çürük, çatlak ya da dolgu sorununa işaret eder ve muayene gerektirir."
+   }
+  ]
+ },
+ {
+  "key": "kirikdis",
+  "date": "2026-10-23",
+  "cat": "Tedavi",
+  "cover": "blog-kirik-dis",
+  "slug": "dis-kirilmasi-ne-yapmali",
+  "title": "Dişim kırıldı ya da çatladı: ilk anda ne yapmalı, nasıl tedavi edilir?",
+  "desc": "Ön dişte kırık, çatlak diş ya da yerinden çıkan diş: ilk yardımda yapılacaklar, kırık parçanın nasıl saklanacağı, hangi durumun acil olduğu ve kırığın büyüklüğüne göre bonding, kaplama ya da kanal tedavisi.",
+  "lead": "Diş kırıldığında ağzınızı ılık suyla çalkalayın, kırık parçayı bulabiliyorsanız süt ya da su içinde saklayın ve aynı gün diş hekimine başvurun. Dişin tamamı yerinden çıktıysa durum acildir: dişi kök kısmına dokunmadan yerine yerleştirmek ya da sütte saklayıp ilk bir saat içinde hekime ulaşmak, dişi kurtarma şansını belirgin şekilde artırır.",
+  "sections": [
+   {
+    "id": "ilk-yardim",
+    "h": "Diş kırılınca ilk anda ne yapılmalı?",
+    "html": "<ol>\n<li>Ağzınızı ılık suyla nazikçe çalkalayın.</li>\n<li>Kanama varsa temiz bir gazlı bez ya da mendille 10 dakika bastırın.</li>\n<li>Kırık parçayı bulun ve kurumaması için süt ya da su dolu bir kapta saklayın.</li>\n<li>Şişliği azaltmak için yanağa dışarıdan soğuk uygulayın.</li>\n<li>Keskin kenar dilinizi ya da yanağınızı kesiyorsa üzerine şekersiz sakız ya da eczaneden alınan dental mum koyabilirsiniz.</li>\n<li>Kırık taraftan çiğnemeyin; sıcak ve soğuktan kaçının, aynı gün hekime başvurun.</li>\n</ol>\n<aside class=\"note\"><strong>Kısaca</strong><p>Kırık diş ağrısız olsa bile mine kendini onaramaz. Erken yapılan küçük bir onarım, ileride kanal tedavisi ya da kaplama gerekmesini önleyebilir.</p></aside>"
+   },
+   {
+    "id": "cikan-dis",
+    "h": "Diş tamamen yerinden çıktıysa ne yapılmalı?",
+    "html": "<p>Kalıcı bir dişin yuvasından tamamen çıkması (avülsiyon) diş hekimliğinin en acil durumlarından biridir; dakikalar önemlidir.</p>\n<ul>\n<li>Dişi kök kısmından değil, taç (görünen) kısmından tutun.</li>\n<li>Kirlendiyse birkaç saniye süt ya da su altında çalkalayın; ovalamayın, kurulamayın.</li>\n<li>Mümkünse dişi yuvasına geri yerleştirip temiz bir mendili ısırarak yerinde tutun.</li>\n<li>Yerleştiremiyorsanız dişi bir bardak sütün içinde ya da yetişkinlerde yanakla diş arasında tükürük içinde taşıyın.</li>\n<li>Vakit kaybetmeden, tercihen ilk bir saat içinde hekime ulaşın.</li>\n</ul>\n<p>Süt dişleri ise yerine konmaz; alttaki kalıcı dişe zarar verebilir. Yine de çocuğun aynı gün muayene edilmesi gerekir.</p>"
+   },
+   {
+    "id": "turler",
+    "h": "Kırığın türüne göre tedavi nasıl yapılır?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Kırık türü</th><th scope=\"col\">Belirti</th><th scope=\"col\">Tedavi</th></tr></thead><tbody><tr><td>Minede ince çatlak çizgileri</td><td>Genellikle belirti yok</td><td>Çoğunlukla tedavi gerekmez; takip</td></tr><tr><td>Küçük köşe ya da kenar kırığı</td><td>Pürüzlü kenar, hafif hassasiyet</td><td><a class=\"text-link\" href=\"/blog/bonding-nedir/\">Bonding</a> ya da beyaz dolgu; uygunsa kırık parçanın yapıştırılması</td></tr><tr><td>Sinire ulaşmayan büyük kırık</td><td>Soğuk hassasiyeti, belirgin madde kaybı</td><td>Geniş dolgu, onlay ya da <a class=\"text-link\" href=\"/blog/dis-kaplama-cesitleri/\">kaplama</a></td></tr><tr><td>Sinire ulaşan kırık</td><td>Pembe-kırmızı nokta, şiddetli ağrı ya da kanama</td><td><a class=\"text-link\" href=\"/blog/kanal-tedavisi/\">Kanal tedavisi</a> ve ardından kaplama</td></tr><tr><td>Çatlak diş</td><td>Isırıp bırakırken ani ağrı</td><td>Çatlağın ilerlemesini önlemek için kaplama; gerekirse kanal tedavisi</td></tr><tr><td>Dikey kök kırığı</td><td>Isırınca ağrı, tekrarlayan şişlik</td><td>Çoğunlukla çekim ve implant ya da köprü</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "catlak",
+    "h": "Çatlak diş nasıl anlaşılır?",
+    "html": "<p>Çatlak dişler çoğu zaman gözle ve röntgende görünmez. En tipik belirti, sert bir şeyi ısırırken ya da ısırmayı bırakırken gelen kısa ve keskin ağrıdır; soğuk hassasiyeti de eşlik edebilir. Büyük dolgulu dişlerde ve diş sıkanlarda daha sık görülür.</p>\n<p>Erken tespit edilen çatlak, dişi saran bir kaplama ile çoğunlukla korunabilir. Çatlak köke ilerlediğinde ise dişi kurtarmak zorlaşır.</p>"
+   },
+   {
+    "id": "onlem",
+    "h": "Diş kırılmasını önlemek için neler yapılabilir?",
+    "html": "<ul>\n<li>Buz, çekirdek, kalem ve tırnak ısırmayın; dişlerinizle ambalaj ya da şişe açmayın.</li>\n<li>Temas sporlarında ağız koruyucu kullanın.</li>\n<li>Diş sıkıyorsanız <a class=\"text-link\" href=\"/blog/dis-sikma-gece-plagi/\">gece plağı</a> kullanın.</li>\n<li>Çok büyük dolgulu ya da kanal tedavili arka dişlerin kaplama ile korunması hakkında hekiminize danışın.</li>\n</ul>\n<p>Dent32 Beylikdüzü haftanın yedi günü açıktır; hafta sonu kırılan dişler için <a class=\"text-link\" href=\"/blog/beylikduzu-hafta-sonu-acik-dis-klinigi/\">hafta sonu randevu seçeneklerimize</a> bakabilirsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Kırık diş acil midir?",
+    "a": "Diş tamamen çıktıysa, kanama ya da şiddetli ağrı varsa veya kırıkta pembe-kırmızı bir nokta görünüyorsa aynı gün hekime başvurulmalıdır. Ağrısız küçük kırıklar birkaç gün içinde onarılabilir."
+   },
+   {
+    "q": "Kırılan diş parçası yapıştırılabilir mi?",
+    "a": "Parça büyük ve sağlamsa, nemli ortamda saklandıysa çoğu zaman yerine yapıştırılabilir."
+   },
+   {
+    "q": "Kırık diş kendiliğinden iyileşir mi?",
+    "a": "Hayır. Mine ve dentin kendini onaramaz; tedavi edilmeyen kırık zamanla büyüyebilir ve çürüyebilir."
+   },
+   {
+    "q": "Çocuğumun süt dişi kırıldı, ne yapmalıyım?",
+    "a": "Aynı gün muayene ettirin. Yerinden tamamen çıkan süt dişi yerine konmaz; ancak alttaki kalıcı dişin durumunun kontrol edilmesi gerekir."
+   }
+  ]
+ },
+ {
+  "key": "fircalama",
+  "date": "2026-10-23",
+  "cat": "Rehber",
+  "cover": "blog-fircalama",
+  "slug": "dogru-dis-fircalama",
+  "title": "Doğru diş fırçalama nasıl yapılır? Macun, diş ipi ve ara yüz fırçası rehberi",
+  "desc": "Dişler günde kaç kez ve kaç dakika fırçalanmalı, hangi macun ve fırça seçilmeli, elektrikli fırça daha mı iyi? Diş ipi, ara yüz fırçası, ağız duşu ve dil temizliği adım adım.",
+  "lead": "Dişleri günde iki kez, en az iki dakika, florürlü bir macun ve yumuşak kıllı bir fırçayla fırçalamak yeterlidir; asıl fark tekniktedir. Fırçayı diş etine 45 derece açıyla tutup küçük hareketlerle temizlemek, sonrasında ağzı suyla çalkalamadan yalnızca tükürmek ve günde bir kez diş aralarını diş ipi ya da ara yüz fırçasıyla temizlemek, çürük ve diş eti hastalığı riskini belirgin şekilde azaltır.",
+  "sections": [
+   {
+    "id": "teknik",
+    "h": "Adım adım doğru diş fırçalama tekniği",
+    "html": "<ol>\n<li>Fırçaya bezelye tanesi kadar florürlü macun koyun.</li>\n<li>Fırçayı diş ile diş etinin birleştiği çizgiye 45 derece açıyla yerleştirin.</li>\n<li>Her seferinde iki-üç dişi kapsayacak şekilde, bastırmadan küçük ileri-geri ya da dairesel hareketler yapın.</li>\n<li>Dişlerin dış, iç ve çiğneyen yüzeylerinin hepsini sırayla temizleyin; ön dişlerin iç yüzü için fırçayı dik tutun.</li>\n<li>Toplam süre en az iki dakika olsun; ağzı dört bölgeye ayırıp her birine 30 saniye ayırabilirsiniz.</li>\n<li>Macunu tükürün ama suyla çalkalamayın; florür dişin üzerinde kalarak etki eder.</li>\n</ol>\n<aside class=\"note\"><strong>Kısaca</strong><p>Bastırarak ve yatay sert hareketlerle fırçalamak diş etini çeker ve mineyi aşındırır. Daha çok kuvvet, daha iyi temizlik demek değildir.</p></aside>"
+   },
+   {
+    "id": "macun",
+    "h": "Hangi diş macunu seçilmeli?",
+    "html": "<p>En önemli içerik florürdür. Yaşa göre önerilen miktar şöyledir:</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Yaş</th><th scope=\"col\">Macun miktarı</th><th scope=\"col\">Florür</th></tr></thead><tbody><tr><td>0–3 yaş</td><td>Pirinç tanesi kadar ince bir sürme</td><td>En az 1000 ppm</td></tr><tr><td>3–6 yaş</td><td>Bezelye tanesi kadar</td><td>1000–1450 ppm</td></tr><tr><td>7 yaş ve yetişkin</td><td>Bezelye tanesi kadar</td><td>1350–1500 ppm</td></tr></tbody></table></div>\n<p>Hassasiyet varsa <a class=\"text-link\" href=\"/blog/dis-hassasiyeti/\">hassasiyet macunu</a> kullanılabilir. Beyazlatıcı ve kömürlü macunların bir kısmı aşındırıcı olduğundan uzun süreli ve tek başına kullanım önerilmez.</p>"
+   },
+   {
+    "id": "firca",
+    "h": "Elektrikli fırça mı, manuel fırça mı?",
+    "html": "<p>Doğru teknikle her ikisi de etkilidir. Dönerek titreşen başlıklı şarjlı fırçalar plak temizliğinde manuel fırçaya göre küçük bir avantaj sağlar ve basınç sensörü olanlar bastırma alışkanlığını önler. Hangisini seçerseniz seçin:</p>\n<ul>\n<li>Yumuşak ya da orta-yumuşak kıllı fırça kullanın.</li>\n<li>Fırçayı ya da başlığı yaklaşık üç ayda bir, kılları açıldığında ise daha erken değiştirin.</li>\n<li>Grip ya da boğaz enfeksiyonu geçirdikten sonra fırçanızı yenileyin.</li>\n</ul>"
+   },
+   {
+    "id": "ara-yuz",
+    "h": "Diş ipi mi, ara yüz fırçası mı, ağız duşu mu?",
+    "html": "<p>Diş fırçası diş aralarına ulaşamaz; çürük ve diş eti hastalığı en sık bu bölgelerde başlar. Bu yüzden günde bir kez diş arası temizliği gerekir.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Araç</th><th scope=\"col\">Kimler için uygun?</th></tr></thead><tbody><tr><td>Diş ipi</td><td>Dişleri sıkı temaslı, diş eti çekilmesi olmayanlar</td></tr><tr><td>Ara yüz fırçası</td><td>Diş arası açık olanlar, diş eti çekilmesi, köprü ve implant</td></tr><tr><td>Ağız duşu</td><td>Diş teli, implant ve köprü kullananlar için ek temizlik; diş ipinin yerine geçmez</td></tr></tbody></table></div>\n<p>Fırçalarken diş etleriniz kanıyorsa fırçalamayı bırakmayın; kanama çoğunlukla iltihaba işaret eder ve düzenli bakımla 1–2 haftada azalır. Azalmıyorsa <a class=\"text-link\" href=\"/blog/dis-eti-kanamasi-ve-cekilmesi/\">diş eti kanaması</a> yazımıza göz atın.</p>"
+   },
+   {
+    "id": "dil",
+    "h": "Dil temizliği ve gargara gerekli mi?",
+    "html": "<p>Dilin arka yüzünde biriken tabaka <a class=\"text-link\" href=\"/blog/agiz-kokusu-nedenleri-ve-tedavisi/\">ağız kokusunun</a> en sık nedenidir. Dil temizleyiciyle günde bir kez arkadan öne doğru sıyırmak yeterlidir.</p>\n<p>Gargara zorunlu değildir; kullanacaksanız florürü yıkamaması için fırçalamadan hemen sonra değil, gün içinde farklı bir zamanda kullanın.</p>"
+   },
+   {
+    "id": "zaman",
+    "h": "Dişler ne zaman fırçalanmalı?",
+    "html": "<ul>\n<li>En önemli fırçalama gece yatmadan öncesidir; uykuda tükürük azaldığı için çürük riski artar.</li>\n<li>İkinci fırçalama sabah, kahvaltıdan önce ya da sonra yapılabilir.</li>\n<li>Meyve suyu, gazlı içecek ve sirkeli yiyecekler gibi asitli besinlerden sonra 30–60 dakika bekleyin.</li>\n<li>Diş teli, implant ya da köprünüz varsa size özel temizlik araçları için hekiminize danışın.</li>\n</ul>\n<p>Yılda bir ya da iki kez yapılan <a class=\"text-link\" href=\"/blog/beylikduzu-dis-muayenesi/\">kontrol muayenesi</a> ve gerektiğinde <a class=\"text-link\" href=\"/blog/dis-tasi-temizligi/\">diş taşı temizliği</a>, evde ulaşılamayan bölgeleri tamamlar.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Yemekten hemen sonra diş fırçalamak zararlı mı?",
+    "a": "Normal bir öğünden sonra zararı yoktur. Asitli yiyecek ve içeceklerden sonra ise mine geçici olarak yumuşadığı için 30–60 dakika beklemek önerilir."
+   },
+   {
+    "q": "Dişlerimi fırçalarken diş etim kanıyor, bırakmalı mıyım?",
+    "a": "Hayır. Kanama çoğunlukla plak kaynaklı iltihaptır; nazik ve düzenli fırçalamayla azalır. 1–2 haftada geçmezse muayene olun."
+   },
+   {
+    "q": "Diş ipi diş aralarını açar mı?",
+    "a": "Hayır. Doğru kullanılan diş ipi diş aralarını açmaz; kanama ve şişlik azaldıkça diş eti sıkılaşır."
+   },
+   {
+    "q": "Çocuklar ne zamana kadar yardımla fırçalamalı?",
+    "a": "Genellikle 7–8 yaşına kadar ebeveynin fırçalamaya yardım etmesi ya da sonrasında kontrol etmesi önerilir."
+   }
+  ]
+ },
+ {
+  "key": "yetiskinorto",
+  "date": "2026-10-23",
+  "cat": "Ortodonti",
+  "cover": "blog-yetiskin-ortodonti",
+  "slug": "yetiskinlerde-ortodonti",
+  "title": "Yetişkinlerde ortodonti: kaç yaşına kadar tel ya da şeffaf plak takılır?",
+  "desc": "Ortodonti tedavisi için üst yaş sınırı var mı? 30, 40 ve 50 yaş sonrası ortodonti, şeffaf plak ve tel seçenekleri, tedavi süresi, diş eti hastalığı ve eksik dişte dikkat edilmesi gerekenler.",
+  "lead": "Ortodonti tedavisi için üst yaş sınırı yoktur; dişleri taşıyan kemik ve diş eti sağlıklı olduğu sürece 30'lu, 40'lı ve 50'li yaşlarda da dişler güvenle hareket ettirilebilir. Yetişkinlerde tedavi çoğunlukla 12–24 ay sürer, şeffaf plaklar sık tercih edilir ve tedaviden önce diş eti hastalığının kontrol altına alınması gerekir.",
+  "sections": [
+   {
+    "id": "yas",
+    "h": "Yetişkinlikte dişler hâlâ hareket ettirilebilir mi?",
+    "html": "<p>Evet. Dişleri çevreleyen kemik ömür boyu yenilenir; ortodonti bu doğal yenilenmeyi kullanarak dişleri yavaşça hareket ettirir. Yetişkinlerde hareket biraz daha yavaş olabilir, ancak sonuç çocuklardaki kadar başarılıdır.</p>\n<p>Temel fark çene gelişiminin tamamlanmış olmasıdır. Çocuklukta yönlendirilebilen iskelet sorunları, yetişkinlikte ileri vakalarda ortodonti ile birlikte çene cerrahisi gerektirebilir.</p>\n<aside class=\"note\"><strong>Kısaca</strong><p>Yaş değil, diş eti ve kemik sağlığı belirleyicidir. Sağlıklı bir ağızda 50 yaşından sonra da ortodonti yapılabilir.</p></aside>"
+   },
+   {
+    "id": "neden",
+    "h": "Yetişkinler neden ortodonti tedavisi alır?",
+    "html": "<ul>\n<li>Çapraşık dişlerin temizliği zordur; çürük ve diş eti hastalığı riski artar.</li>\n<li>Hatalı kapanış bazı dişlerde aşırı aşınmaya ve kırıklara yol açabilir.</li>\n<li>Çocuklukta tedavi görmüş dişler, pekiştirme kullanılmadığı için yıllar içinde yeniden çapraşabilir.</li>\n<li>İmplant ya da köprü öncesinde boşluğu açmak veya kapatmak gerekebilir.</li>\n<li><a class=\"text-link\" href=\"/blog/lamine-veneer-nedir/\">Lamine</a> öncesinde dişleri hizalamak, dişlerden daha az madde kaldırılmasını sağlar.</li>\n<li>Gülüşün görünümünden memnun olmamak da başlı başına geçerli bir nedendir.</li>\n</ul>"
+   },
+   {
+    "id": "secenek",
+    "h": "Yetişkinlerde hangi ortodonti seçenekleri var?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Seçenek</th><th scope=\"col\">Avantaj</th><th scope=\"col\">Dikkat edilecek nokta</th></tr></thead><tbody><tr><td>Şeffaf plak</td><td>Neredeyse görünmez, çıkarılabilir, temizliği kolay</td><td>Günde yaklaşık 22 saat takılmalı</td></tr><tr><td>Seramik (şeffaf) braket</td><td>Metal tele göre daha az belirgin, her vakada etkili</td><td>Sabit; diş arası temizliği özen ister</td></tr><tr><td>Metal braket</td><td>Karmaşık vakalarda en esnek seçenek</td><td>Görünürlüğü daha fazla</td></tr></tbody></table></div>\n<p>İki seçeneğin ayrıntılı karşılaştırması için <a class=\"text-link\" href=\"/blog/seffaf-plak-mi-tel-mi/\">şeffaf plak mı, tel mi</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "sure",
+    "h": "Yetişkinlerde ortodonti tedavisi ne kadar sürer?",
+    "html": "<p>Hafif çapraşıklıklar 6–12 ayda düzelebilir. Orta ve ileri düzey kapanış bozukluklarında tedavi genellikle 18–24 ay, bazen daha uzun sürer. Şeffaf plakta süre, plağın günde kaç saat takıldığına doğrudan bağlıdır. Kontroller çoğunlukla 6–10 haftada bir yapılır.</p>"
+   },
+   {
+    "id": "dikkat",
+    "h": "Yetişkin tedavisinde nelere dikkat edilir?",
+    "html": "<ul>\n<li>Diş eti hastalığı varsa önce <a class=\"text-link\" href=\"/blog/beylikduzu-dis-eti-tedavisi/\">diş eti tedavisi</a> yapılır; iltihaplı diş eti üzerinde dişler hareket ettirilmez.</li>\n<li>Kemik kaybı olan dişlerde daha hafif kuvvetler ve sık kontrol uygulanır.</li>\n<li>İmplantlar hareket etmez; implant yapılacaksa sıralama ortodonti planına göre belirlenir.</li>\n<li>Kaplamalı ya da büyük dolgulu dişlerde plak ve braket bağlantısı buna göre planlanır.</li>\n<li>Tedavi sırasında kök sağlığı gerektiğinde röntgenle kontrol edilir.</li>\n</ul>"
+   },
+   {
+    "id": "sonra",
+    "h": "Tedaviden sonra neler olur?",
+    "html": "<p>Tedavinin sonunda dişlerin geri kaymasını önlemek için pekiştirme (retainer) kullanılır. Yetişkinlerde pekiştirmenin uzun süre, çoğunlukla ömür boyu geceleri sürdürülmesi önerilir. Ayrıntılar için <a class=\"text-link\" href=\"/blog/ortodonti-sonrasi-pekistirme/\">ortodonti sonrası pekiştirme</a> rehberimize bakabilirsiniz.</p>\n<p>Dent32'de ortodonti tedavilerini kurucu hekimimiz Dr. Hüseyin Aşçı planlıyor. Beylikdüzü'ndeki seçenekler için <a class=\"text-link\" href=\"/blog/beylikduzu-ortodonti-seffaf-plak/\">Beylikdüzü ortodonti rehberimizi</a> okuyabilir ya da <a class=\"text-link\" href=\"/iletisim/\">muayene randevusu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "40 yaşından sonra diş teli takılır mı?",
+    "a": "Evet. Diş eti ve kemik sağlıklıysa 40'lı, 50'li ve daha ileri yaşlarda da ortodonti tedavisi yapılabilir."
+   },
+   {
+    "q": "Yetişkinlerde ortodonti daha mı ağrılı?",
+    "a": "Hayır, belirgin bir fark yoktur. Tel takıldıktan ya da yeni plağa geçildikten sonraki birkaç gün baskı hissi olur ve kısa sürede geçer."
+   },
+   {
+    "q": "İmplantlı ağızda ortodonti olur mu?",
+    "a": "Olur. İmplant hareket etmez ama diğer dişler hareket ettirilebilir. Henüz yapılmadıysa implantın ortodontiden sonra yapılması genellikle daha doğrudur."
+   },
+   {
+    "q": "Şeffaf plak her vakaya uygun mu?",
+    "a": "Çoğu çapraşıklık ve aralık şeffaf plakla tedavi edilebilir. Bazı karmaşık kapanış bozukluklarında sabit tel daha öngörülebilir sonuç verir."
+   }
+  ]
+ },
+ {
+  "key": "pekistirme",
+  "date": "2026-10-23",
+  "cat": "Ortodonti",
+  "cover": "blog-pekistirme",
+  "slug": "ortodonti-sonrasi-pekistirme",
+  "title": "Tel ya da şeffaf plak sonrası pekiştirme: retainer ne kadar süre takılır?",
+  "desc": "Ortodonti sonrası dişler neden eski yerine döner? Sabit (lingual tel) ve hareketli pekiştirme plağı farkı, ne kadar süre ve günde kaç saat takılmalı, plak kırılır ya da kaybolursa ne yapmalı.",
+  "lead": "Ortodonti tedavisi bittiğinde dişler yeni yerlerine henüz tam yerleşmemiştir; pekiştirme (retainer) kullanılmazsa özellikle ilk aylarda geri kayabilirler. Bu nedenle çoğu hastaya ön dişlerin arkasına ince bir sabit tel, gece takılan şeffaf bir plak ya da ikisi birden verilir. Sonucu uzun vadede korumanın en güvenli yolu, pekiştirmeyi ömür boyu en azından geceleri sürdürmektir.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Ortodonti sonrası dişler neden geri kayar?",
+    "html": "<p>Dişler kemiğe esnek liflerle bağlıdır. Ortodonti sırasında bu lifler ve çevredeki kemik yeniden düzenlenir; yeni konuma uyum sağlamaları aylar, diş etindeki bazı lifler için ise bir yıldan uzun sürebilir. Özellikle kendi ekseni etrafında döndürülmüş dişler eski konumlarına dönme eğilimindedir.</p>\n<p>Ayrıca ortodonti görmemiş kişilerde de yaş ilerledikçe dişler, özellikle alt ön dişler, doğal olarak çapraşmaya meyillidir. Pekiştirme bu değişime karşı da koruma sağlar.</p>\n<aside class=\"note\"><strong>Kısaca</strong><p>Pekiştirme tedavinin bir parçasıdır, ek bir seçenek değildir. Tedavi sonucunu korumanın en ucuz yolu, düzenli kullanılan bir pekiştirme plağıdır.</p></aside>"
+   },
+   {
+    "id": "turler",
+    "h": "Sabit ve hareketli pekiştirme arasındaki fark",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Tür</th><th scope=\"col\">Avantaj</th><th scope=\"col\">Dezavantaj</th></tr></thead><tbody><tr><td>Sabit lingual tel (ön dişlerin arkasına yapıştırılır)</td><td>Görünmez; takıp çıkarma gerektirmez</td><td>Diş arası temizliği özen ister; kopması fark edilmeyebilir</td></tr><tr><td>Şeffaf hareketli plak</td><td>Görünmez, temizliği kolay; tüm dişleri kapsar</td><td>Düzenli takma disiplini ister; zamanla aşınır ya da çatlar</td></tr><tr><td>Tel-akrilik hareketli plak</td><td>Dayanıklı ve ayarlanabilir</td><td>Konuşurken daha belirgin; teli görünür</td></tr></tbody></table></div>\n<p>Hangi tür ya da kombinasyonun seçileceği; başlangıçtaki çapraşıklığa, diş eti durumuna ve kişinin alışkanlıklarına göre hekim tarafından belirlenir.</p>"
+   },
+   {
+    "id": "sure",
+    "h": "Pekiştirme plağı ne kadar süre ve günde kaç saat takılır?",
+    "html": "<p>Protokol hekime ve vakaya göre değişmekle birlikte genel uygulama şöyledir:</p>\n<ul>\n<li>Tedavinin bitiminden sonraki ilk 3–6 ay: yemek ve fırçalama dışında neredeyse tüm gün</li>\n<li>Sonrasında: yalnızca geceleri</li>\n<li>Uzun vadede: çoğu hastada ömür boyu, en azından haftada birkaç gece</li>\n<li>Sabit tel: hekim aksini önermedikçe yıllarca yerinde kalabilir</li>\n</ul>"
+   },
+   {
+    "id": "bakim",
+    "h": "Pekiştirme plağının bakımı nasıl yapılır?",
+    "html": "<ul>\n<li>Plağı her sabah soğuk ya da ılık suyla ve yumuşak bir fırçayla temizleyin; sıcak su şeklini bozar.</li>\n<li>Diş macunu plağın yüzeyini çizebilir; sıvı sabun ya da hekimin önerdiği temizleyiciyi kullanın.</li>\n<li>Takmadığınız zaman mutlaka kutusunda saklayın; peçeteye sarılan plaklar en sık bu şekilde kaybolur.</li>\n<li>Evcil hayvanların ulaşabileceği yerlerde bırakmayın.</li>\n<li>Sabit tel için diş ipi geçirici ya da <a class=\"text-link\" href=\"/blog/dogru-dis-fircalama/\">ara yüz fırçası</a> kullanın; taş birikimine karşı düzenli temizlik yaptırın.</li>\n</ul>"
+   },
+   {
+    "id": "sorun",
+    "h": "Plak kırıldı, kayboldu ya da sıkıyorsa ne yapmalı?",
+    "html": "<p>Plak kaybolduğunda ya da çatladığında beklemeden yenisini yaptırın; birkaç hafta takılmaması bile dişlerin kaymasına yetebilir. Birkaç gün takmadıktan sonra plak sıkıyorsa dişler hareket etmeye başlamış demektir; plağı zorlamadan takabiliyorsanız kesintisiz kullanın ve hekiminize haber verin.</p>\n<p>Sabit telin bir ucu koptuysa ya da bir dişten ayrıldıysa en geç bir hafta içinde onarım için başvurun. Pekiştirme dönemindeki kontroller genellikle 6–12 ayda bir yapılır.</p>\n<p>Yetişkinlerde tedavi süreci için <a class=\"text-link\" href=\"/blog/yetiskinlerde-ortodonti/\">yetişkinlerde ortodonti</a> yazımıza bakabilirsiniz. Pekiştirme plağınız kırıldıysa, kaybolduysa ya da dişlerinizde kayma fark ettiyseniz Dent32 Beylikdüzü'nde <a class=\"text-link\" href=\"/iletisim/\">muayene randevusu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Pekiştirme plağını takmazsam ne olur?",
+    "a": "Dişler, özellikle ilk aylarda, eski konumlarına doğru kayabilir. İlerleyen kaymada yeniden ortodonti tedavisi gerekebilir."
+   },
+   {
+    "q": "Sabit pekiştirme teli ne zaman çıkarılır?",
+    "a": "Belirli bir süre yoktur; temiz tutulabildiği sürece yıllarca kalabilir. Çıkarılırsa gece takılan bir hareketli plakla pekiştirme sürdürülür."
+   },
+   {
+    "q": "Pekiştirme plağıyla yemek yenir mi?",
+    "a": "Hareketli plaklar yemek ve sıcak içecek sırasında çıkarılır. Su dışında bir şey içerken de çıkarmak önerilir."
+   },
+   {
+    "q": "Plak takınca konuşma bozulur mu?",
+    "a": "İlk birkaç gün hafif peltek konuşma olabilir; dil kısa sürede alışır."
+   }
+  ]
+ },
+ {
+  "key": "gummysmile",
+  "date": "2026-10-23",
+  "cat": "Estetik",
+  "cover": "blog-dis-eti-estetigi",
+  "slug": "dis-eti-gulusu-gummy-smile",
+  "title": "Diş eti gülüşü (gummy smile): nedenleri ve diş eti estetiği seçenekleri",
+  "desc": "Gülerken diş etinin fazla görünmesi neden olur? Diş eti şekillendirme (gingivektomi), kron boyu uzatma, botoks, ortodonti ve çene cerrahisi seçenekleri; iyileşme süresi ve gülüş tasarımıyla ilişkisi.",
+  "lead": "Gülerken diş etinin yaklaşık 3–4 milimetreden fazla görünmesine diş eti gülüşü (gummy smile) denir. Nedeni çoğunlukla diş etinin dişi gereğinden fazla örtmesi, üst dudağın fazla yukarı kalkması ya da üst çenenin dikey yönde fazla gelişmesidir; tedavi bu nedene göre seçilir. Diş etinin dişi fazla örttüğü durumlarda diş eti şekillendirme, lokal anesteziyle yapılan kısa bir işlemdir.",
+  "sections": [
+   {
+    "id": "nedir",
+    "h": "Diş eti gülüşü nedir, ne zaman sorun sayılır?",
+    "html": "<p>Geniş bir gülüşte üst dişlerin üzerinde 1–2 milimetre diş eti görünmesi doğal kabul edilir. Bu miktar 3–4 milimetreyi aştığında gülüş \"diş etli\" algılanmaya başlar. Dişlerin kısa ve kare görünmesi ya da diş eti seviyelerinin sağ ve sol tarafta farklı olması da sık rastlanan estetik şikâyetlerdir.</p>\n<p>Bu bir hastalık değil, estetik bir tercihtir. Tedavi, kişinin gülüşünden memnun olmadığı durumlarda planlanır.</p>\n<aside class=\"note\"><strong>Kısaca</strong><p>Doğru tedavi nedene bağlıdır. Diş etinden kaynaklanan durumlar diş eti şekillendirmeyle, dudak veya çeneden kaynaklananlar farklı yöntemlerle düzeltilir.</p></aside>"
+   },
+   {
+    "id": "nedenler",
+    "h": "Diş eti gülüşünün nedenleri ve tedavisi",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Neden</th><th scope=\"col\">Uygun tedavi</th></tr></thead><tbody><tr><td>Diş etinin dişi gereğinden fazla örtmesi</td><td>Diş eti şekillendirme (gingivektomi)</td></tr><tr><td>Diş eti ile birlikte kemiğin de dişe yakın olması</td><td>Kron boyu uzatma (diş eti ve kemik düzeltmesi)</td></tr><tr><td>Gülerken üst dudağın fazla yukarı kalkması</td><td>Yetkili hekimce uygulanan botoks (etkisi geçici) ya da dudak cerrahisi</td></tr><tr><td>Ön dişlerin fazla sürmüş olması, derin kapanış</td><td>Ortodonti tedavisi</td></tr><tr><td>Üst çenenin dikey yönde fazla gelişmesi</td><td>Ortodonti ile birlikte çene cerrahisi</td></tr><tr><td>İltihap ya da bazı ilaçlara bağlı diş eti büyümesi</td><td>Önce <a class=\"text-link\" href=\"/blog/beylikduzu-dis-eti-tedavisi/\">diş eti tedavisi</a>; ilaçla ilgili ise ilgili hekimle değerlendirme</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "islem",
+    "h": "Diş eti şekillendirme nasıl yapılır?",
+    "html": "<ol>\n<li>Muayenede diş eti kalınlığı ve cep derinliği ölçülür, röntgenle kemik seviyesi değerlendirilir.</li>\n<li>Yeni diş eti çizgisi, gülüşün tamamıyla uyumlu olacak şekilde planlanır; gerekirse fotoğraf ve prova ile önceden gösterilir.</li>\n<li>İşlem lokal anesteziyle yapılır ve genellikle 30–60 dakika sürer.</li>\n<li>Kemik düzeltmesi gerekiyorsa (kron boyu uzatma) küçük bir cerrahi olarak planlanır ve dikiş atılabilir.</li>\n</ol>\n<p>Kullanılacak yöntem, diş etinin ve kemiğin durumuna göre hekim tarafından seçilir.</p>"
+   },
+   {
+    "id": "iyilesme",
+    "h": "İyileşme süreci nasıl geçer?",
+    "html": "<ul>\n<li>İlk birkaç gün hafif hassasiyet olur; ağrı kesiciyle kontrol edilir.</li>\n<li>Bu sürede yumuşak, ılık yiyecekler tercih edilir; bölge nazikçe temizlenir.</li>\n<li>Yüzeysel iyileşme 1–2 hafta sürer.</li>\n<li>Diş eti çizgisinin son şeklini alması birkaç hafta sürer; kaplama ya da lamine yapılacaksa ölçü bu dönemden sonra alınır.</li>\n</ul>"
+   },
+   {
+    "id": "gulus",
+    "h": "Gülüş tasarımı ve lamine ile birlikte planlama",
+    "html": "<p>Diş eti seviyeleri, gülüş estetiğinin çerçevesidir. <a class=\"text-link\" href=\"/blog/gulus-tasarimi-nedir/\">Gülüş tasarımı</a> ya da <a class=\"text-link\" href=\"/blog/lamine-veneer-nedir/\">lamine</a> planlanıyorsa, diş eti düzenlemesinin önce yapılması daha uyumlu ve kalıcı bir sonuç verir. Kısa görünen dişler bazen yalnızca diş eti şekillendirmesiyle, hiç kaplama gerekmeden uzatılabilir.</p>\n<p>Dent32 Beylikdüzü'nde diş eti gülüşünün nedenini muayene ve fotoğraf analiziyle belirleyip size uygun seçenekleri paylaşıyoruz. Değerlendirme için <a class=\"text-link\" href=\"/iletisim/\">muayene randevusu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş eti şekillendirme kalıcı mı?",
+    "a": "Diş eti fazlalığından kaynaklanan durumlarda sonuç genellikle kalıcıdır. Kemik de dişe yakınsa ve yalnızca diş eti alınırsa diş eti kısmen geri büyüyebilir; bu nedenle doğru teşhis önemlidir."
+   },
+   {
+    "q": "Diş eti şekillendirme ağrılı mı?",
+    "a": "İşlem lokal anesteziyle yapıldığı için ağrı hissedilmez. Sonrasındaki birkaç gün hafif hassasiyet olabilir."
+   },
+   {
+    "q": "Diş eti gülüşü için botoks kalıcı mı?",
+    "a": "Hayır. Botoksun etkisi genellikle 3–6 ay sürer ve tekrarlanması gerekir. Yalnızca dudağın fazla hareketinden kaynaklanan durumlarda etkilidir."
+   },
+   {
+    "q": "Diş eti büyümesi bir hastalık belirtisi olabilir mi?",
+    "a": "Evet. Plağa bağlı iltihap ve bazı tansiyon, epilepsi ya da bağışıklık ilaçları diş eti büyümesine yol açabilir. Bu durumda önce neden tedavi edilir."
+   }
+  ]
+ },
+ {
+  "key": "curuk",
+  "date": "2026-10-23",
+  "cat": "Tedavi",
+  "cover": "blog-curuk",
+  "slug": "dis-curugu-belirtileri-ve-evreleri",
+  "title": "Diş çürüğü nasıl anlaşılır? Belirtileri, evreleri ve hangi evrede ne yapılır",
+  "desc": "Diş çürüğünün ilk belirtileri, beyaz lekeden apseye kadar evreleri, çürük kendiliğinden durur mu, dolgu mu kanal mı gerekir? Diş arası çürükleri, röntgen ve çürükten korunma yolları.",
+  "lead": "Diş çürüğü başlangıçta ağrı yapmaz: ilk belirti mine yüzeyinde tebeşir beyazı bir lekedir ve bu evrede florür ve iyi ağız bakımıyla durdurulabilir. Çürük dentine ilerleyince soğuk-tatlı hassasiyeti ve kararma başlar, dolgu gerekir. Sinire ulaştığında ise kendiliğinden ve geceleri başlayan ağrı ortaya çıkar ve kanal tedavisi gerekir.",
+  "sections": [
+   {
+    "id": "nasil",
+    "h": "Diş çürüğü nasıl oluşur?",
+    "html": "<p>Diş yüzeyindeki plakta yaşayan bakteriler, yediğimiz şeker ve nişastadan asit üretir. Bu asit mineden mineral çözer. Tükürük ise asidi nötralize ederek mineyi yeniden onarır. Gün içinde sık şekerli atıştırma yapıldığında onarıma zaman kalmaz ve çürük başlar.</p>\n<aside class=\"note\"><strong>Kısaca</strong><p>Çürükte şekerin miktarından çok sıklığı önemlidir. Gün boyu yudumlanan şekerli çay ya da meyve suyu, tek seferde yenen tatlıdan daha zararlıdır.</p></aside>"
+   },
+   {
+    "id": "evreler",
+    "h": "Diş çürüğünün evreleri ve tedavisi",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Evre</th><th scope=\"col\">Belirti</th><th scope=\"col\">Tedavi</th></tr></thead><tbody><tr><td>1. Beyaz leke (minede mineral kaybı)</td><td>Belirti yok; mat, tebeşir beyazı leke</td><td>Florür vernik, florürlü macun, takip; geri döndürülebilir</td></tr><tr><td>2. Mine çürüğü</td><td>Kahverengi-siyah renk, hafif pürüz</td><td>Küçük <a class=\"text-link\" href=\"/blog/beyaz-dolgu-kompozit/\">beyaz dolgu</a></td></tr><tr><td>3. Dentin çürüğü</td><td>Soğuk-tatlı hassasiyeti, oyuk, yemek takılması</td><td>Dolgu; madde kaybı büyükse onlay ya da kaplama</td></tr><tr><td>4. Sinire ulaşan çürük</td><td>Kendiliğinden, zonklayan, gece artan ağrı</td><td><a class=\"text-link\" href=\"/blog/kanal-tedavisi/\">Kanal tedavisi</a> ve çoğunlukla kaplama</td></tr><tr><td>5. Apse</td><td>Şişlik, ısırınca ağrı, diş etinde sivilce benzeri akıntı, ateş</td><td>Kanal tedavisi ya da çekim; gerekirse antibiyotik desteği</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "belirtiler",
+    "h": "Diş çürüğünün belirtileri nelerdir?",
+    "html": "<ul>\n<li>Dişte beyaz, kahverengi ya da siyah leke</li>\n<li>Soğuk, sıcak veya tatlıyla gelen sızı</li>\n<li>Dişte hissedilen oyuk ya da sürekli aynı yere yemek takılması</li>\n<li>Diş ipinin aynı noktada yırtılması</li>\n<li>Tek bölgeden gelen kötü tat ya da <a class=\"text-link\" href=\"/blog/agiz-kokusu-nedenleri-ve-tedavisi/\">ağız kokusu</a></li>\n<li>Isırırken ağrı, kendiliğinden başlayan ağrı ya da şişlik (ileri evre)</li>\n</ul>"
+   },
+   {
+    "id": "gizli",
+    "h": "Görünmeyen çürükler: diş arası ve dolgu altı",
+    "html": "<p>Çürüklerin önemli bir kısmı iki dişin temas noktasında ya da eski dolgu ve kaplamaların kenarında başlar. Bu bölgeler aynada görünmez ve uzun süre belirti vermez. Isırma röntgeni (bitewing) bu çürükleri, ağrı başlamadan ve küçük bir dolguyla tedavi edilebilecekken gösterir.</p>\n<p>Çürük riskiniz düşükse yılda bir, yüksekse altı ayda bir <a class=\"text-link\" href=\"/blog/beylikduzu-dis-muayenesi/\">kontrol muayenesi</a> önerilir.</p>"
+   },
+   {
+    "id": "durur-mu",
+    "h": "Diş çürüğü kendiliğinden geçer mi?",
+    "html": "<p>Yalnızca ilk evre olan beyaz leke durdurulabilir ve geri döndürülebilir. Minede oyuk oluştuktan sonra çürük kendiliğinden düzelmez; yalnızca ilerleme hızı değişir.</p>\n<p>Uzun süre ağrıyan bir dişin ağrısının birden geçmesi iyiye işaret değildir; çoğu zaman sinirin canlılığını yitirdiğini gösterir. Bu durumda enfeksiyon sessizce kök ucuna ilerleyebilir.</p>"
+   },
+   {
+    "id": "korunma",
+    "h": "Diş çürüğünden nasıl korunulur?",
+    "html": "<ul>\n<li>Günde iki kez florürlü macunla <a class=\"text-link\" href=\"/blog/dogru-dis-fircalama/\">doğru fırçalama</a>, özellikle gece</li>\n<li>Günde bir kez diş ipi ya da ara yüz fırçası</li>\n<li>Şekerli yiyecek ve içecekleri öğünlerle sınırlamak, ara öğünlerde su içmek</li>\n<li>Öğün sonrası şekersiz (ksilitollü) sakız</li>\n<li>Çocuklarda azı dişlerine fissür örtücü ve düzenli flor uygulaması; ayrıntılar <a class=\"text-link\" href=\"/blog/cocuk-dis-hekimi-ilk-muayene/\">çocuk diş hekimi rehberimizde</a></li>\n<li>Düzenli kontrol ve röntgen</li>\n</ul>\n<p>Dent32 Beylikdüzü'nde çürükleri erken evrede, mümkün olduğunca az diş dokusu kaldırarak tedavi ediyoruz. Kontrol için <a class=\"text-link\" href=\"/iletisim/\">muayene randevusu alabilirsiniz</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Çürük diş ağrımıyorsa tedavi şart mı?",
+    "a": "Evet. Çürükler çoğu zaman sinire yaklaşana kadar ağrı yapmaz. Ağrısız evrede yapılan dolgu, kanal tedavisi ve kaplama ihtiyacını önler."
+   },
+   {
+    "q": "Dolgu mu kanal tedavisi mi gerektiği nasıl anlaşılır?",
+    "a": "Muayene, röntgen ve dişin soğuğa verdiği yanıta bakılarak karar verilir. Kendiliğinden ve gece başlayan ağrı genellikle kanal tedavisi gerektiğini gösterir."
+   },
+   {
+    "q": "Çürük diş ağız kokusu yapar mı?",
+    "a": "Evet. Çürük oyuklarında biriken yiyecek ve bakteriler kötü koku ve tat yapabilir."
+   },
+   {
+    "q": "Süt dişi çürükleri tedavi edilmeli mi?",
+    "a": "Evet. Tedavi edilmeyen süt dişi çürüğü ağrı ve enfeksiyona yol açar, alttaki kalıcı dişi ve yer tutma görevini olumsuz etkileyebilir."
+   }
+  ]
+ },
+ {
   "key": "beydis",
   "date": "2026-10-19",
   "cat": "Rehber",

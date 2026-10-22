@@ -1,5 +1,585 @@
 [
  {
+  "key": "agizkokusu",
+  "date": "2026-10-23",
+  "cat": "Treatment",
+  "cover": "blog-agiz-kokusu",
+  "slug": "bad-breath-causes-and-treatment",
+  "title": "What causes bad breath and how do you get rid of it for good?",
+  "desc": "The most common causes of bad breath (halitosis): tongue coating, gum disease, decay, dry mouth and tonsil stones. What you can do at home, whether mouthwash helps and when to see a dentist.",
+  "lead": "Most persistent bad breath (around 80–90% of cases) starts in the mouth. The usual culprits are the bacterial coating on the back of the tongue, gum disease and food trapped between the teeth. That is why the fix is rarely mouthwash; it is tongue cleaning, cleaning between the teeth and, where needed, a professional clean and gum treatment.",
+  "sections": [
+   {
+    "id": "cause",
+    "h": "What causes bad breath?",
+    "html": "<p>Bacteria in the mouth break down food debris, shed cells and proteins in gum pockets, releasing volatile sulphur compounds. These gases are the main source of the smell. Bacteria thrive on the back of the tongue, between the teeth, in deepened gum pockets and in decayed cavities.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Cause</th><th scope=\"col\">How to spot it</th></tr></thead><tbody><tr><td>Coating on the tongue</td><td>White-yellow layer on the back of the tongue</td></tr><tr><td>Gum inflammation and gum disease</td><td>Bleeding when brushing, swelling, receding gums</td></tr><tr><td>Decay, broken fillings or crown margins</td><td>Food trapping, smell from one area</td></tr><tr><td>Dry mouth</td><td>Drinking too little, mouth breathing, some medicines (antidepressants, blood pressure and allergy drugs)</td></tr><tr><td>Uncleaned dentures or aligners</td><td>Smell is stronger when the appliance is removed</td></tr><tr><td>Food, drink and smoking</td><td>Garlic, onion, coffee, alcohol; temporary smell</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "outside",
+    "h": "What causes bad breath outside the mouth?",
+    "html": "<p>Less often, bad breath comes from elsewhere. Tonsil stones and chronic tonsillitis, sinusitis and post-nasal drip, and acid reflux are the most common. Uncontrolled diabetes can give the breath an acetone-like smell, and kidney or liver disease can cause other distinctive odours.</p>\n<p>If the dental examination finds no cause in the mouth, we refer you to an ear, nose and throat specialist or your GP.</p>"
+   },
+   {
+    "id": "test",
+    "h": "How can I tell if my breath smells?",
+    "html": "<p>We get used to our own breath, so it is hard to notice. These simple checks give you an idea:</p>\n<ul>\n<li>Lick your wrist, let it dry for a few seconds and smell it.</li>\n<li>Smell a piece of floss after passing it between your back teeth.</li>\n<li>Gently scrape the back of your tongue with a spoon and smell it.</li>\n<li>Ask someone you trust.</li>\n</ul>\n<aside class=\"note\"><strong>Morning breath is normal</strong><p>Saliva flow drops during sleep, so everyone has some morning breath; it goes after breakfast and brushing. Breath that smells all day usually has a cause.</p></aside>"
+   },
+   {
+    "id": "home",
+    "h": "What can you do at home?",
+    "html": "<ul>\n<li>Brush twice a day for two minutes with fluoride toothpaste. <a class=\"text-link\" href=\"/en/blog/how-to-brush-your-teeth/\">Here is the right technique</a>.</li>\n<li>Scrape your tongue from back to front a few times with a tongue cleaner; this usually makes the quickest difference.</li>\n<li>Clean between your teeth once a day with floss or interdental brushes.</li>\n<li>Drink enough water; sugar-free gum increases saliva flow.</li>\n<li>Take out removable dentures or aligners at night and clean them daily.</li>\n<li>Stopping smoking reduces both the smell and the risk of gum disease.</li>\n</ul>"
+   },
+   {
+    "id": "mouthwash",
+    "h": "Do mouthwash and mints help?",
+    "html": "<p>Mints and scented mouthwashes only mask the smell for a short time. Alcohol-free mouthwashes containing cetylpyridinium chloride (CPC) or zinc can help by lowering the bacterial load. Chlorhexidine mouthwash is effective, but long-term use can stain teeth and change taste, so use it briefly and only on your dentist's advice.</p>"
+   },
+   {
+    "id": "treatment",
+    "h": "What happens at the dental examination?",
+    "html": "<p>We check the teeth, tongue, gums and any appliances, measure gum pockets and take X-rays if needed. Treatment depends on the source:</p>\n<ul>\n<li><a class=\"text-link\" href=\"/en/blog/professional-teeth-cleaning/\">Professional cleaning</a> and polishing</li>\n<li>Deep cleaning and <a class=\"text-link\" href=\"/en/blog/bleeding-and-receding-gums/\">gum treatment</a> for gum disease</li>\n<li>Treating decay and replacing old fillings or crowns with leaking margins</li>\n<li>Treating inflammation around a partly erupted wisdom tooth, or <a class=\"text-link\" href=\"/en/blog/wisdom-tooth-removal/\">removing it</a> if needed</li>\n</ul>\n<p>Dent32 in Beylikdüzü sees patients seven days a week. If bad breath has lasted several weeks, <a class=\"text-link\" href=\"/en/contact/\">book an examination</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is morning breath normal?",
+    "a": "Yes. Saliva flow drops at night, so everyone has some morning breath. It goes after breakfast and brushing."
+   },
+   {
+    "q": "Does bad breath come from the stomach?",
+    "a": "Rarely. Reflux can contribute, but most persistent bad breath starts in the mouth. A dental examination is the best first step."
+   },
+   {
+    "q": "Will a professional clean get rid of bad breath?",
+    "a": "If the smell comes from tartar and gum inflammation, it helps a great deal. For a lasting result you also need tongue cleaning and cleaning between the teeth at home."
+   },
+   {
+    "q": "Why do children get bad breath?",
+    "a": "Mouth breathing, enlarged adenoids or tonsils, decayed teeth and poor brushing are the most common causes. A dental check and, if needed, a paediatric ENT review are recommended."
+   }
+  ]
+ },
+ {
+  "key": "hamilelik",
+  "date": "2026-10-23",
+  "cat": "Guide",
+  "cover": "blog-hamilelik",
+  "slug": "dental-treatment-during-pregnancy",
+  "title": "Dental treatment during pregnancy: what is safe and when is the best time?",
+  "desc": "Can you have fillings, root canal treatment, extractions, X-rays and local anaesthetic while pregnant? The best trimester, treatments to postpone, pregnancy gingivitis and medicines.",
+  "lead": "Dental treatment is possible during pregnancy and often should not be postponed. Fillings, root canal treatment, professional cleaning and, if needed, extractions can be done with the right precautions. The most comfortable time is usually the second trimester (roughly months 4 to 6). Whitening, implants and cosmetic treatment are left until after the birth.",
+  "sections": [
+   {
+    "id": "why",
+    "h": "Why shouldn't dental treatment wait during pregnancy?",
+    "html": "<p>Untreated decay or a dental infection gets worse over time, bringing pain, poor sleep, difficulty eating and a greater need for medicines. That is a bigger burden for both mother and baby than a short, planned treatment.</p>\n<p>Hormonal changes in pregnancy make the gums more prone to inflammation. Some studies have linked advanced gum disease with premature birth, though cause and effect have not been proven; healthy gums matter either way.</p>\n<aside class=\"note\"><strong>In short</strong><p>Always tell us you are pregnant. The treatment plan is based on how many weeks pregnant you are and on your obstetrician's advice.</p></aside>"
+   },
+   {
+    "id": "timing",
+    "h": "Which treatments suit which stage of pregnancy?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Stage</th><th scope=\"col\">Suitable treatment</th><th scope=\"col\">Note</th></tr></thead><tbody><tr><td>1st trimester (weeks 0–13)</td><td>Examination, cleaning, urgent care for pain or infection</td><td>Planned treatment is moved to the second trimester where possible, as the baby's organs are forming</td></tr><tr><td>2nd trimester (weeks 14–27)</td><td>Fillings, root canal treatment, extractions, gum treatment</td><td>The best time; nausea eases and sitting in the chair is comfortable</td></tr><tr><td>3rd trimester (week 28 onwards)</td><td>Urgent and short procedures</td><td>Long appointments are avoided; a slight left-side tilt is used when lying back</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "anaesthetic",
+    "h": "Are local anaesthetic and dental X-rays safe for the baby?",
+    "html": "<p>The local anaesthetics used in dentistry (lidocaine, articaine) are considered safe in pregnancy at standard doses. Being treated in pain and under stress is worse than being treated with anaesthetic.</p>\n<p>Dental X-rays use a very low dose and the beam is aimed only at the mouth. Even so, during pregnancy they are taken only when genuinely needed for diagnosis, with a lead apron and thyroid collar.</p>"
+   },
+   {
+    "id": "medicines",
+    "h": "Which painkillers and antibiotics can be used in pregnancy?",
+    "html": "<p>Do not take any medicine on your own while pregnant. Your dentist coordinates prescriptions with your obstetrician. The general approach is:</p>\n<ul>\n<li>Paracetamol is usually the first choice for pain.</li>\n<li>Non-steroidal painkillers such as ibuprofen are not recommended, particularly in the second half of pregnancy.</li>\n<li>When an antibiotic is needed, the penicillin group (for example amoxicillin) is widely used; tetracyclines are not.</li>\n</ul>"
+   },
+   {
+    "id": "gums",
+    "h": "Pregnancy gingivitis and pregnancy epulis",
+    "html": "<p>Many pregnant women notice red, swollen gums that bleed when brushing. This is pregnancy gingivitis. It is controlled with regular brushing, cleaning between the teeth and, if needed, a <a class=\"text-link\" href=\"/en/blog/professional-teeth-cleaning/\">professional clean</a> during pregnancy.</p>\n<p>Sometimes a small red swelling that bleeds easily (pregnancy epulis) develops on the gum. Most shrink after the birth; if it gets in the way of eating or bleeds often, your dentist will assess it.</p>\n<p>Do not brush straight after vomiting, as acid softens the enamel. Rinse with water, or with a teaspoon of baking soda in a glass of water, and brush about half an hour later.</p>"
+   },
+   {
+    "id": "postpone",
+    "h": "Which treatments are left until after the birth?",
+    "html": "<ul>\n<li>Teeth whitening</li>\n<li>Planned surgery such as implants, bone grafts and sinus lifts</li>\n<li>Cosmetic treatment such as veneers and zirconia crowns</li>\n<li>Starting new orthodontic treatment (ongoing treatment usually continues)</li>\n</ul>\n<p>Most dental treatment is fine while breastfeeding; local anaesthetic does not interfere with it. A <a class=\"text-link\" href=\"/en/blog/dental-check-up-beylikduzu/\">check-up</a> before pregnancy or early on keeps surprises to a minimum.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I have a tooth extracted while pregnant?",
+    "a": "Yes, if needed. Planned extractions are best done in the second trimester; pain and infection are treated at any stage."
+   },
+   {
+    "q": "Can I have a filling during pregnancy?",
+    "a": "Yes. A filling done before decay progresses prevents the need for root canal treatment later. White (composite) fillings are usually preferred."
+   },
+   {
+    "q": "Can I have dental treatment while breastfeeding?",
+    "a": "Yes. Local anaesthetic and most dental treatment do not interfere with breastfeeding, and any medicines are chosen to suit it."
+   },
+   {
+    "q": "Does the baby take calcium from the mother's teeth?",
+    "a": "No. The idea that you \"lose a tooth for every child\" is a myth. More decay in pregnancy is linked to frequent snacking, vomiting and harder-to-keep-up oral care."
+   }
+  ]
+ },
+ {
+  "key": "cekimsonrasi",
+  "date": "2026-10-23",
+  "cat": "Treatment",
+  "cover": "blog-cekim-sonrasi",
+  "slug": "after-tooth-extraction",
+  "title": "After a tooth extraction: bleeding, pain, when to eat and dry socket",
+  "desc": "The first 24 hours after a tooth extraction: how long to bite on the gauze, when to eat, smoking, rinsing, swelling and pain. Signs of dry socket and when to call your dentist.",
+  "lead": "The most important rule after an extraction is to protect the blood clot that forms in the socket. Biting on the gauze for 30–45 minutes, not spitting, rinsing or using a straw for the first 24 hours, and not smoking for at least 2–3 days do most of the work of healing.",
+  "sections": [
+   {
+    "id": "first-hours",
+    "h": "What should you do in the first hours after an extraction?",
+    "html": "<ol>\n<li>Bite firmly on the gauze pad your dentist placed for 30–45 minutes, then remove it.</li>\n<li>For the first 24 hours, do not spit, rinse or drink through a straw; these can dislodge the clot.</li>\n<li>Hold something cold against your cheek on the extraction side for 15–20 minutes at a time, several times on the first day.</li>\n<li>Taking the painkiller your dentist recommends before the numbness wears off makes pain easier to control.</li>\n<li>Sleep with your head raised on an extra pillow.</li>\n<li>Do not smoke for at least 48–72 hours.</li>\n</ol>\n<aside class=\"note\"><strong>In short</strong><p>The clot in the socket is the wound's natural dressing. Everything you do in the first days is about protecting it.</p></aside>"
+   },
+   {
+    "id": "eating",
+    "h": "When can you eat after a tooth extraction?",
+    "html": "<p>You can eat once the numbness has gone (usually 2–3 hours). Eating while numb makes it easy to bite your lip or cheek without noticing.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">When</th><th scope=\"col\">Recommended</th><th scope=\"col\">Avoid</th></tr></thead><tbody><tr><td>First day</td><td>Lukewarm or cold soft food: yoghurt, lukewarm soup, mash, puddings</td><td>Hot drinks, alcohol, fizzy drinks, straws</td></tr><tr><td>Days 2–3</td><td>Pasta, eggs, cooked vegetables; chew on the other side</td><td>Nuts, seeds, hard and spicy food</td></tr><tr><td>After a week</td><td>Gradual return to a normal diet</td><td>Watch for food getting stuck in the socket</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "bleeding",
+    "h": "How long do bleeding, swelling and bruising last?",
+    "html": "<p>Pink-tinged saliva is normal for the first 24 hours. If there is active bleeding, place a fresh gauze pad or a moistened black tea bag over the area and bite firmly for 30 minutes; the tannin in tea helps stop bleeding.</p>\n<p>Swelling usually peaks on day 2 or 3 and then settles. After the first 24 hours, warm compresses are more soothing than cold. Bruising can appear after difficult or surgical extractions and fades within a week.</p>"
+   },
+   {
+    "id": "care",
+    "h": "How should you brush after an extraction?",
+    "html": "<ul>\n<li>Brush your teeth on the first evening, but avoid the extraction site.</li>\n<li>After 24 hours, gently bathe the area with warm salt water (half a teaspoon of salt in a glass of water) after meals, letting it sit rather than swishing hard.</li>\n<li>Stitches, if used, are removed after 7–10 days or dissolve on their own.</li>\n<li>Avoid heavy exercise for 24–48 hours.</li>\n</ul>"
+   },
+   {
+    "id": "dry-socket",
+    "h": "What is dry socket and how do you recognise it?",
+    "html": "<p>Dry socket happens when the clot breaks down early and the bone in the socket is exposed. The typical sign is throbbing pain that gets worse, rather than better, 2–4 days after the extraction and spreads towards the ear. There may be a bad taste or smell and the socket looks empty.</p>\n<p>It is more common in smokers, after lower wisdom tooth removal and after difficult extractions. Treatment is simple: your dentist cleans the socket and places a soothing dressing, and the pain usually eases markedly within a few days. Do not just wait it out; contact your dentist.</p>"
+   },
+   {
+    "id": "when",
+    "h": "When should you contact your dentist?",
+    "html": "<ul>\n<li>Bleeding that continues for more than an hour despite pressure</li>\n<li>Swelling that increases after day 3, or a fever</li>\n<li>Difficulty swallowing or breathing (an emergency)</li>\n<li>Numbness of the lip, chin or tongue lasting more than 24 hours</li>\n<li>Signs of dry socket</li>\n</ul>\n<p>For problems that start at night or at the weekend, see our <a class=\"text-link\" href=\"/en/blog/emergency-toothache-istanbul/\">emergency toothache guide</a>. We cover what to do about the gap in <a class=\"text-link\" href=\"/en/blog/implant-or-bridge/\">implant or bridge?</a>; if the gap is left for a long time, the jawbone gradually shrinks.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "When can I smoke after a tooth extraction?",
+    "a": "Wait at least 48–72 hours, ideally a week. Smoking can break down the clot and cause dry socket."
+   },
+   {
+    "q": "How long do I need to rest after an extraction?",
+    "a": "After a simple extraction most people go back to work or school the next day. After surgical wisdom tooth removal, 2–3 days of rest may be needed."
+   },
+   {
+    "q": "Can I drink hot tea after an extraction?",
+    "a": "Avoid hot drinks on the first day, as they can increase bleeding. Lukewarm drinks are fine."
+   },
+   {
+    "q": "Can an implant be placed straight after an extraction?",
+    "a": "In suitable cases, yes, in the same appointment. More often we wait a few weeks to a few months, depending on the bone and any infection."
+   }
+  ]
+ },
+ {
+  "key": "hassasiyet",
+  "date": "2026-10-23",
+  "cat": "Treatment",
+  "cover": "blog-hassasiyet",
+  "slug": "sensitive-teeth",
+  "title": "Sensitive teeth to cold and heat: causes, home care and treatment",
+  "desc": "Why are teeth sensitive, does sensitive toothpaste work, and when should you suspect decay or nerve inflammation? Treatment options including fluoride varnish, bonding, gum treatment and night guards.",
+  "lead": "A sharp twinge with cold, heat, sweet or sour food that passes in a few seconds is most often caused by exposed dentine, after enamel wear or gum recession. Sensitive toothpaste brings clear relief for most people within 2–4 weeks. If the pain lingers, starts on its own or wakes you at night, you need an examination to check for decay or nerve inflammation.",
+  "sections": [
+   {
+    "id": "cause",
+    "h": "What causes sensitive teeth?",
+    "html": "<p>Enamel on the crown, and the tissue covering the root, protect the dentine underneath. Dentine contains tiny channels that lead to the nerve, so when it is exposed, cold or sweet stimuli reach the nerve easily.</p>\n<ul>\n<li>A hard toothbrush and scrubbing sideways with pressure</li>\n<li>Gum recession exposing the root surface</li>\n<li>Enamel erosion from acidic drinks, frequent fruit juice or reflux</li>\n<li>Clenching and grinding</li>\n<li>A cracked tooth, decay or a leaking filling</li>\n<li>Temporary sensitivity after whitening, cleaning or crowns</li>\n</ul>"
+   },
+   {
+    "id": "tell",
+    "h": "Simple sensitivity or nerve inflammation?",
+    "html": "<p>How the pain starts and how long it lasts are important clues:</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">What the pain is like</th><th scope=\"col\">Likely cause</th></tr></thead><tbody><tr><td>A sharp twinge with cold or sweet that passes in seconds</td><td>Exposed dentine (dentine hypersensitivity)</td></tr><tr><td>Pain lasting more than 30 seconds after the trigger is gone</td><td>Early inflammation of the nerve</td></tr><tr><td>Spontaneous, throbbing pain that wakes you at night</td><td>Advanced nerve inflammation; <a class=\"text-link\" href=\"/en/blog/root-canal-treatment/\">root canal treatment</a> may be needed</td></tr><tr><td>Sudden pain when biting down and releasing</td><td>A cracked tooth or a high filling</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "home",
+    "h": "What helps sensitive teeth at home?",
+    "html": "<ul>\n<li>Use a sensitive toothpaste containing potassium nitrate, stannous fluoride or arginine twice a day; spit after brushing but do not rinse.</li>\n<li>At night you can dab a thin layer of the toothpaste onto the sensitive area with your finger.</li>\n<li>Switch to a soft brush and stop scrubbing sideways with force.</li>\n<li>Have acidic drinks with meals, and rinse with water afterwards rather than brushing straight away.</li>\n<li>Avoid abrasive whitening and charcoal toothpastes.</li>\n</ul>\n<aside class=\"note\"><strong>How long to wait?</strong><p>With regular use, sensitive toothpaste usually works within 2–4 weeks. Sensitivity that does not improve, or that is focused on one tooth, needs an examination.</p></aside>"
+   },
+   {
+    "id": "clinic",
+    "h": "What treatments are available at the clinic?",
+    "html": "<ul>\n<li>Fluoride varnish or special agents that seal the dentine channels</li>\n<li>Covering an exposed root surface with a white filling or <a class=\"text-link\" href=\"/en/blog/dental-bonding/\">bonding</a></li>\n<li><a class=\"text-link\" href=\"/en/blog/bleeding-and-receding-gums/\">Gum treatment</a> for advanced recession and, in suitable cases, a gum graft</li>\n<li>A <a class=\"text-link\" href=\"/en/blog/teeth-grinding-night-guard/\">night guard</a> if you clench or grind</li>\n<li>Replacing decayed or failing fillings</li>\n<li>Root canal treatment as a last resort for severe sensitivity that does not respond to anything else</li>\n</ul>"
+   },
+   {
+    "id": "temporary",
+    "h": "Sensitivity after whitening and crowns",
+    "html": "<p>Sensitivity lasting a few days after whitening is common and settles on its own. We explain how long sensitivity after a crown is normal in <a class=\"text-link\" href=\"/en/blog/sensitivity-after-dental-crowns/\">sensitivity after dental crowns</a>.</p>\n<p>At Dent32 in Beylikdüzü we find the cause of sensitivity through examination and, if needed, X-rays. If your symptoms have lasted several weeks, <a class=\"text-link\" href=\"/en/contact/\">book an examination</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How long does sensitive toothpaste take to work?",
+    "a": "Usually 2–4 weeks with regular use. Sensitivity may come back if you stop using it."
+   },
+   {
+    "q": "Does tooth sensitivity go away on its own?",
+    "a": "Sensitivity after whitening or cleaning passes in a few days. If a root surface is exposed or enamel is worn, it is unlikely to disappear for good unless the cause is treated."
+   },
+   {
+    "q": "Can a professional clean cause sensitivity?",
+    "a": "Mild sensitivity for a few days after cleaning is possible, as surfaces previously covered by tartar are exposed. It eases quickly."
+   },
+   {
+    "q": "What does sensitivity in one tooth mean?",
+    "a": "Sensitivity limited to one tooth usually points to decay, a crack or a problem with a filling, and needs an examination."
+   }
+  ]
+ },
+ {
+  "key": "kirikdis",
+  "date": "2026-10-23",
+  "cat": "Treatment",
+  "cover": "blog-kirik-dis",
+  "slug": "broken-or-cracked-tooth",
+  "title": "Broken or cracked tooth: what to do straight away and how it is treated",
+  "desc": "A chipped front tooth, a cracked tooth or a tooth knocked out: first aid, how to store the broken piece, which situations are urgent, and bonding, crowns or root canal treatment depending on the break.",
+  "lead": "If you break a tooth, rinse your mouth with warm water, keep the broken piece in milk or water if you can find it, and see a dentist the same day. If the whole tooth has been knocked out, it is an emergency: putting it back in the socket without touching the root, or keeping it in milk and reaching a dentist within the first hour, greatly improves the chance of saving it.",
+  "sections": [
+   {
+    "id": "first-aid",
+    "h": "What should you do the moment a tooth breaks?",
+    "html": "<ol>\n<li>Rinse your mouth gently with warm water.</li>\n<li>If there is bleeding, press a clean gauze pad or tissue on it for 10 minutes.</li>\n<li>Find the broken piece and keep it in a container of milk or water so it does not dry out.</li>\n<li>Hold something cold against your cheek to limit swelling.</li>\n<li>If a sharp edge is cutting your tongue or cheek, cover it with sugar-free gum or dental wax from a pharmacy.</li>\n<li>Do not chew on that side, avoid hot and cold, and see a dentist the same day.</li>\n</ol>\n<aside class=\"note\"><strong>In short</strong><p>Even if a broken tooth does not hurt, enamel cannot repair itself. A small repair done early can prevent the need for root canal treatment or a crown later.</p></aside>"
+   },
+   {
+    "id": "knocked-out",
+    "h": "What if the whole tooth is knocked out?",
+    "html": "<p>A permanent tooth knocked completely out of its socket (avulsion) is one of the true dental emergencies; minutes matter.</p>\n<ul>\n<li>Hold the tooth by the crown (the part you normally see), not the root.</li>\n<li>If it is dirty, rinse it for a few seconds in milk or water; do not scrub or dry it.</li>\n<li>If you can, push it back into the socket and bite on a clean tissue to hold it in place.</li>\n<li>If not, carry it in a glass of milk or, for adults, inside the cheek in saliva.</li>\n<li>Get to a dentist without delay, ideally within the first hour.</li>\n</ul>\n<p>Baby teeth are not put back, as this can damage the permanent tooth underneath. The child still needs to be seen the same day.</p>"
+   },
+   {
+    "id": "types",
+    "h": "How is each type of break treated?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Type of break</th><th scope=\"col\">Signs</th><th scope=\"col\">Treatment</th></tr></thead><tbody><tr><td>Fine crack lines in the enamel</td><td>Usually none</td><td>Usually no treatment; monitoring</td></tr><tr><td>Small chipped corner or edge</td><td>Rough edge, mild sensitivity</td><td><a class=\"text-link\" href=\"/en/blog/dental-bonding/\">Bonding</a> or a white filling; the fragment can sometimes be reattached</td></tr><tr><td>Large break not reaching the nerve</td><td>Cold sensitivity, obvious loss of tooth</td><td>Larger filling, onlay or <a class=\"text-link\" href=\"/en/blog/types-of-dental-crowns/\">crown</a></td></tr><tr><td>Break reaching the nerve</td><td>Pink-red dot, severe pain or bleeding</td><td><a class=\"text-link\" href=\"/en/blog/root-canal-treatment/\">Root canal treatment</a> followed by a crown</td></tr><tr><td>Cracked tooth</td><td>Sudden pain when biting and releasing</td><td>A crown to stop the crack spreading; root canal treatment if needed</td></tr><tr><td>Vertical root fracture</td><td>Pain on biting, recurring swelling</td><td>Usually extraction and an implant or bridge</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "crack",
+    "h": "How do you know if a tooth is cracked?",
+    "html": "<p>Cracked teeth often cannot be seen by eye or on an X-ray. The classic sign is a short, sharp pain when biting on something hard or when releasing the bite; cold sensitivity may come with it. Cracks are more common in teeth with large fillings and in people who clench.</p>\n<p>A crack found early can usually be protected with a crown that holds the tooth together. Once it extends into the root, saving the tooth becomes much harder.</p>"
+   },
+   {
+    "id": "prevent",
+    "h": "How can you prevent broken teeth?",
+    "html": "<ul>\n<li>Do not bite ice, seeds, pens or nails, and do not open packets or bottles with your teeth.</li>\n<li>Wear a mouthguard for contact sports.</li>\n<li>If you clench, wear a <a class=\"text-link\" href=\"/en/blog/teeth-grinding-night-guard/\">night guard</a>.</li>\n<li>Ask your dentist whether back teeth with very large fillings or root canal treatment should be protected with a crown.</li>\n</ul>\n<p>Dent32 in Beylikdüzü is open seven days a week; for teeth broken at the weekend, see our <a class=\"text-link\" href=\"/en/blog/weekend-dentist-beylikduzu/\">weekend appointments</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is a broken tooth an emergency?",
+    "a": "See a dentist the same day if the tooth has been knocked out, if there is bleeding or severe pain, or if you can see a pink-red dot in the break. Small painless chips can be repaired within a few days."
+   },
+   {
+    "q": "Can the broken piece be stuck back on?",
+    "a": "If the piece is large, intact and was kept moist, it can often be bonded back in place."
+   },
+   {
+    "q": "Does a broken tooth heal on its own?",
+    "a": "No. Enamel and dentine cannot repair themselves; an untreated break can grow and decay over time."
+   },
+   {
+    "q": "My child's baby tooth broke. What should I do?",
+    "a": "Have it seen the same day. A baby tooth that has been knocked out is not put back, but the permanent tooth underneath needs to be checked."
+   }
+  ]
+ },
+ {
+  "key": "fircalama",
+  "date": "2026-10-23",
+  "cat": "Guide",
+  "cover": "blog-fircalama",
+  "slug": "how-to-brush-your-teeth",
+  "title": "How to brush your teeth properly: toothpaste, floss and interdental brushes",
+  "desc": "How often and for how long should you brush, which toothpaste and brush to choose, and is an electric toothbrush better? Floss, interdental brushes, water flossers and tongue cleaning step by step.",
+  "lead": "Brushing twice a day for at least two minutes with fluoride toothpaste and a soft brush is enough; technique is what makes the difference. Angling the brush at 45 degrees to the gum line and using small movements, spitting out the toothpaste without rinsing, and cleaning between your teeth once a day with floss or interdental brushes clearly lowers the risk of decay and gum disease.",
+  "sections": [
+   {
+    "id": "technique",
+    "h": "Step-by-step brushing technique",
+    "html": "<ol>\n<li>Put a pea-sized amount of fluoride toothpaste on the brush.</li>\n<li>Place the bristles at a 45-degree angle where the teeth meet the gums.</li>\n<li>Use small back-and-forth or circular movements over two or three teeth at a time, without pressing hard.</li>\n<li>Clean the outer, inner and biting surfaces in turn; hold the brush upright for the inside of the front teeth.</li>\n<li>Spend at least two minutes in total; you can split your mouth into four areas and give each 30 seconds.</li>\n<li>Spit out the toothpaste but do not rinse with water, so the fluoride stays on the teeth.</li>\n</ol>\n<aside class=\"note\"><strong>In short</strong><p>Scrubbing hard from side to side causes gum recession and wears enamel. More force does not mean a better clean.</p></aside>"
+   },
+   {
+    "id": "toothpaste",
+    "h": "Which toothpaste should you choose?",
+    "html": "<p>Fluoride is the most important ingredient. The recommended amount by age is:</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Age</th><th scope=\"col\">Amount</th><th scope=\"col\">Fluoride</th></tr></thead><tbody><tr><td>0–3 years</td><td>A thin smear, the size of a grain of rice</td><td>At least 1000 ppm</td></tr><tr><td>3–6 years</td><td>Pea-sized</td><td>1000–1450 ppm</td></tr><tr><td>7 years and adults</td><td>Pea-sized</td><td>1350–1500 ppm</td></tr></tbody></table></div>\n<p>If you have sensitivity, a <a class=\"text-link\" href=\"/en/blog/sensitive-teeth/\">sensitive toothpaste</a> can help. Some whitening and charcoal toothpastes are abrasive, so they are not recommended for long-term use on their own.</p>"
+   },
+   {
+    "id": "brush",
+    "h": "Electric or manual toothbrush?",
+    "html": "<p>Both work well with good technique. Rechargeable brushes with oscillating-rotating heads give a small advantage in plaque removal, and models with a pressure sensor stop you pressing too hard. Whichever you choose:</p>\n<ul>\n<li>Use soft or medium-soft bristles.</li>\n<li>Replace the brush or head about every three months, or sooner if the bristles splay.</li>\n<li>Replace your brush after a cold, flu or throat infection.</li>\n</ul>"
+   },
+   {
+    "id": "between",
+    "h": "Floss, interdental brushes or a water flosser?",
+    "html": "<p>A toothbrush cannot reach between the teeth, where decay and gum disease most often start. That is why you need to clean between your teeth once a day.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Tool</th><th scope=\"col\">Best for</th></tr></thead><tbody><tr><td>Floss</td><td>Tight contacts between teeth, no gum recession</td></tr><tr><td>Interdental brushes</td><td>Wider gaps, gum recession, bridges and implants</td></tr><tr><td>Water flosser</td><td>Extra cleaning with braces, implants and bridges; not a replacement for floss</td></tr></tbody></table></div>\n<p>If your gums bleed when you brush, do not stop; bleeding usually means inflammation and settles within 1–2 weeks of regular care. If it does not, read our guide to <a class=\"text-link\" href=\"/en/blog/bleeding-and-receding-gums/\">bleeding gums</a>.</p>"
+   },
+   {
+    "id": "tongue",
+    "h": "Do you need tongue cleaning and mouthwash?",
+    "html": "<p>The coating on the back of the tongue is the most common cause of <a class=\"text-link\" href=\"/en/blog/bad-breath-causes-and-treatment/\">bad breath</a>. Scraping it from back to front once a day with a tongue cleaner is enough.</p>\n<p>Mouthwash is optional. If you use one, use it at a different time of day rather than straight after brushing, so it does not wash away the fluoride.</p>"
+   },
+   {
+    "id": "timing",
+    "h": "When should you brush?",
+    "html": "<ul>\n<li>The most important brush is the one before bed, as saliva flow drops during sleep and decay risk rises.</li>\n<li>The second brush can be in the morning, before or after breakfast.</li>\n<li>Wait 30–60 minutes after acidic food and drinks such as fruit juice, fizzy drinks and vinegar.</li>\n<li>If you have braces, implants or a bridge, ask your dentist about cleaning aids suited to you.</li>\n</ul>\n<p>A <a class=\"text-link\" href=\"/en/blog/dental-check-up-beylikduzu/\">check-up</a> once or twice a year and a <a class=\"text-link\" href=\"/en/blog/professional-teeth-cleaning/\">professional clean</a> when needed take care of the areas you cannot reach at home.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is it bad to brush straight after eating?",
+    "a": "Not after an ordinary meal. After acidic food or drinks, wait 30–60 minutes, as enamel is temporarily softened."
+   },
+   {
+    "q": "My gums bleed when I brush. Should I stop?",
+    "a": "No. Bleeding is usually plaque-related inflammation and improves with gentle, regular brushing. If it does not settle in 1–2 weeks, see a dentist."
+   },
+   {
+    "q": "Does flossing widen the gaps between teeth?",
+    "a": "No. Correct flossing does not open up gaps; as bleeding and swelling settle, the gums firm up."
+   },
+   {
+    "q": "Until what age should children have help brushing?",
+    "a": "Parents are usually advised to help with brushing, or check it afterwards, until about age 7–8."
+   }
+  ]
+ },
+ {
+  "key": "yetiskinorto",
+  "date": "2026-10-23",
+  "cat": "Orthodontics",
+  "cover": "blog-yetiskin-ortodonti",
+  "slug": "adult-orthodontics",
+  "title": "Orthodontics for adults: is there an age limit for braces or clear aligners?",
+  "desc": "Is there an upper age limit for orthodontic treatment? Orthodontics in your 30s, 40s and 50s, clear aligners and braces, treatment time, and what to consider with gum disease or missing teeth.",
+  "lead": "There is no upper age limit for orthodontic treatment; as long as the bone and gums supporting the teeth are healthy, teeth can be moved safely in your 30s, 40s and 50s. Adult treatment usually takes 12–24 months, clear aligners are a popular choice, and any gum disease must be brought under control first.",
+  "sections": [
+   {
+    "id": "age",
+    "h": "Can teeth still be moved in adulthood?",
+    "html": "<p>Yes. The bone around the teeth renews itself throughout life, and orthodontics uses this natural renewal to move teeth slowly. Movement may be a little slower in adults, but results are as good as in children.</p>\n<p>The main difference is that jaw growth has finished. Skeletal problems that can be guided in childhood may, in severe adult cases, need jaw surgery alongside orthodontics.</p>\n<aside class=\"note\"><strong>In short</strong><p>Gum and bone health matter, not age. In a healthy mouth, orthodontics is possible after 50 too.</p></aside>"
+   },
+   {
+    "id": "why",
+    "h": "Why do adults have orthodontic treatment?",
+    "html": "<ul>\n<li>Crowded teeth are harder to clean, raising the risk of decay and gum disease.</li>\n<li>A poor bite can cause heavy wear and fractures on some teeth.</li>\n<li>Teeth straightened in childhood can crowd again over the years if retainers were not worn.</li>\n<li>A gap may need to be opened or closed before an implant or bridge.</li>\n<li>Aligning teeth before <a class=\"text-link\" href=\"/en/blog/laminate-veneers/\">veneers</a> means less tooth needs to be removed.</li>\n<li>Simply not liking how your smile looks is a valid reason too.</li>\n</ul>"
+   },
+   {
+    "id": "options",
+    "h": "What orthodontic options are there for adults?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Option</th><th scope=\"col\">Advantage</th><th scope=\"col\">Keep in mind</th></tr></thead><tbody><tr><td>Clear aligners</td><td>Almost invisible, removable, easy to clean</td><td>Must be worn about 22 hours a day</td></tr><tr><td>Ceramic (clear) braces</td><td>Less noticeable than metal, effective in all cases</td><td>Fixed; cleaning between teeth needs care</td></tr><tr><td>Metal braces</td><td>The most flexible option for complex cases</td><td>More visible</td></tr></tbody></table></div>\n<p>For a detailed comparison, see <a class=\"text-link\" href=\"/en/blog/clear-aligners-vs-braces/\">clear aligners or braces?</a>.</p>"
+   },
+   {
+    "id": "duration",
+    "h": "How long does adult orthodontic treatment take?",
+    "html": "<p>Mild crowding can be corrected in 6–12 months. Moderate to severe bite problems usually take 18–24 months, sometimes longer. With aligners, the time depends directly on how many hours a day you wear them. Check-ups are usually every 6–10 weeks.</p>"
+   },
+   {
+    "id": "considerations",
+    "h": "What needs extra care in adult treatment?",
+    "html": "<ul>\n<li>Any gum disease is treated first with <a class=\"text-link\" href=\"/en/blog/gum-treatment-beylikduzu/\">gum treatment</a>; teeth are not moved in inflamed gums.</li>\n<li>Teeth with bone loss are moved with lighter forces and checked more often.</li>\n<li>Implants do not move; if an implant is planned, its timing is set around the orthodontic plan.</li>\n<li>Aligner attachments and brackets are planned accordingly on crowned or heavily filled teeth.</li>\n<li>Root health is checked with X-rays during treatment when needed.</li>\n</ul>"
+   },
+   {
+    "id": "after",
+    "h": "What happens after treatment?",
+    "html": "<p>At the end of treatment, retainers stop the teeth drifting back. Adults are usually advised to keep wearing retainers at night for the long term, often for life. See our guide to <a class=\"text-link\" href=\"/en/blog/retainers-after-orthodontics/\">retainers after orthodontic treatment</a>.</p>\n<p>At Dent32, orthodontic treatment is planned by our founding dentist Dr Hüseyin Aşçı. Read our <a class=\"text-link\" href=\"/en/blog/orthodontics-clear-aligners-beylikduzu/\">guide to orthodontics in Beylikdüzü</a> or <a class=\"text-link\" href=\"/en/contact/\">book an examination</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I get braces after 40?",
+    "a": "Yes. If your gums and bone are healthy, orthodontic treatment is possible in your 40s, 50s and beyond."
+   },
+   {
+    "q": "Is orthodontic treatment more painful for adults?",
+    "a": "Not noticeably. There is some pressure for a few days after braces are fitted or a new aligner is started, and it passes quickly."
+   },
+   {
+    "q": "Can I have orthodontics if I have implants?",
+    "a": "Yes. The implant will not move, but the other teeth can. If the implant has not been placed yet, it is usually better to place it after orthodontics."
+   },
+   {
+    "q": "Are clear aligners suitable for every case?",
+    "a": "Most crowding and gaps can be treated with aligners. For some complex bite problems, fixed braces give a more predictable result."
+   }
+  ]
+ },
+ {
+  "key": "pekistirme",
+  "date": "2026-10-23",
+  "cat": "Orthodontics",
+  "cover": "blog-pekistirme",
+  "slug": "retainers-after-orthodontics",
+  "title": "Retainers after braces or clear aligners: how long do you need to wear them?",
+  "desc": "Why do teeth move back after orthodontic treatment? Fixed (bonded) and removable retainers compared, how long and how many hours a day to wear them, and what to do if a retainer breaks or is lost.",
+  "lead": "When orthodontic treatment ends, the teeth have not yet fully settled in their new positions; without retainers they can drift back, especially in the first months. That is why most patients get a thin fixed wire behind the front teeth, a clear retainer worn at night, or both. The safest way to keep the result in the long term is to keep wearing a retainer for life, at least at night.",
+  "sections": [
+   {
+    "id": "why",
+    "h": "Why do teeth move back after orthodontics?",
+    "html": "<p>Teeth are attached to the bone by elastic fibres. During treatment these fibres and the surrounding bone reorganise, and adapting to the new position takes months, or over a year for some fibres in the gum. Teeth that have been rotated are especially prone to turning back.</p>\n<p>Even in people who never had orthodontics, teeth, especially the lower front teeth, tend to crowd naturally with age. A retainer protects against this change too.</p>\n<aside class=\"note\"><strong>In short</strong><p>Retainers are part of treatment, not an optional extra. A retainer worn regularly is the cheapest way to protect your result.</p></aside>"
+   },
+   {
+    "id": "types",
+    "h": "Fixed and removable retainers compared",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Type</th><th scope=\"col\">Advantage</th><th scope=\"col\">Disadvantage</th></tr></thead><tbody><tr><td>Fixed bonded wire (behind the front teeth)</td><td>Invisible; nothing to remember</td><td>Cleaning between teeth needs care; a broken bond may go unnoticed</td></tr><tr><td>Clear removable retainer</td><td>Invisible, easy to clean; covers all teeth</td><td>Needs discipline to wear; wears or cracks over time</td></tr><tr><td>Wire-and-acrylic removable retainer</td><td>Durable and adjustable</td><td>More noticeable when speaking; wire is visible</td></tr></tbody></table></div>\n<p>Your dentist chooses the type or combination based on how crowded the teeth were, your gum health and your habits.</p>"
+   },
+   {
+    "id": "duration",
+    "h": "How long and how many hours a day should you wear a retainer?",
+    "html": "<p>Protocols vary by dentist and case, but a typical approach is:</p>\n<ul>\n<li>First 3–6 months after treatment: almost all day, except when eating and brushing</li>\n<li>After that: at night only</li>\n<li>Long term: for most patients for life, at least a few nights a week</li>\n<li>Fixed wire: can stay in place for years unless your dentist advises otherwise</li>\n</ul>"
+   },
+   {
+    "id": "care",
+    "h": "How do you look after a retainer?",
+    "html": "<ul>\n<li>Clean the retainer every morning with cold or lukewarm water and a soft brush; hot water warps it.</li>\n<li>Toothpaste can scratch the surface; use liquid soap or the cleaner your dentist recommends.</li>\n<li>Always keep it in its case when not wearing it; retainers wrapped in a napkin are the ones most often lost.</li>\n<li>Keep it away from pets.</li>\n<li>For a fixed wire, use a floss threader or <a class=\"text-link\" href=\"/en/blog/how-to-brush-your-teeth/\">interdental brushes</a>, and have regular professional cleans to stop tartar building up.</li>\n</ul>"
+   },
+   {
+    "id": "problems",
+    "h": "What if a retainer breaks, is lost or feels tight?",
+    "html": "<p>If your retainer is lost or cracked, get a new one without delay; even a few weeks without it can let teeth move. If it feels tight after a few days without it, the teeth have started to shift; if you can still put it in without forcing it, wear it continuously and let your dentist know.</p>\n<p>If one end of a fixed wire comes loose or detaches from a tooth, have it repaired within a week. Retention check-ups are usually every 6–12 months.</p>\n<p>For the treatment itself, see <a class=\"text-link\" href=\"/en/blog/adult-orthodontics/\">orthodontics for adults</a>. If your retainer is broken or lost, or you have noticed your teeth shifting, <a class=\"text-link\" href=\"/en/contact/\">book an examination</a> at Dent32 in Beylikdüzü.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "What happens if I don't wear my retainer?",
+    "a": "Teeth can drift back towards their old positions, especially in the first months. Significant movement may need orthodontic treatment again."
+   },
+   {
+    "q": "When is a fixed retainer removed?",
+    "a": "There is no set time; it can stay for years as long as it can be kept clean. If it is removed, a removable retainer is worn at night instead."
+   },
+   {
+    "q": "Can I eat with my retainer in?",
+    "a": "Removable retainers come out for meals and hot drinks. It is best to take them out when drinking anything other than water."
+   },
+   {
+    "q": "Will a retainer affect my speech?",
+    "a": "You may lisp slightly for the first few days; your tongue adapts quickly."
+   }
+  ]
+ },
+ {
+  "key": "gummysmile",
+  "date": "2026-10-23",
+  "cat": "Aesthetics",
+  "cover": "blog-dis-eti-estetigi",
+  "slug": "gummy-smile-treatment",
+  "title": "Gummy smile: causes and gum contouring options",
+  "desc": "Why does too much gum show when you smile? Gum contouring (gingivectomy), crown lengthening, Botox, orthodontics and jaw surgery; healing time and how it fits with smile design.",
+  "lead": "A smile that shows more than about 3–4 millimetres of gum is called a gummy smile. It is usually caused by gum covering more of the tooth than it should, an upper lip that lifts too high, or excess vertical growth of the upper jaw, and treatment depends on the cause. Where gum covers too much of the tooth, gum contouring is a short procedure done under local anaesthetic.",
+  "sections": [
+   {
+    "id": "what",
+    "h": "What is a gummy smile and when is it a problem?",
+    "html": "<p>Showing 1–2 millimetres of gum above the upper teeth in a broad smile is considered natural. Beyond 3–4 millimetres, the smile starts to look \"gummy\". Teeth that look short and square, or gum levels that differ between left and right, are other common concerns.</p>\n<p>It is not a disease but an aesthetic preference. Treatment is planned when someone is unhappy with their smile.</p>\n<aside class=\"note\"><strong>In short</strong><p>The right treatment depends on the cause. Gum-related cases are corrected with gum contouring; lip- or jaw-related cases need different approaches.</p></aside>"
+   },
+   {
+    "id": "causes",
+    "h": "Causes of a gummy smile and how each is treated",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Cause</th><th scope=\"col\">Suitable treatment</th></tr></thead><tbody><tr><td>Gum covering more of the tooth than it should</td><td>Gum contouring (gingivectomy)</td></tr><tr><td>Bone sitting too close to the crown as well as the gum</td><td>Crown lengthening (gum and bone reshaping)</td></tr><tr><td>Upper lip lifting too high when smiling</td><td>Botox by an authorised practitioner (temporary) or lip surgery</td></tr><tr><td>Over-erupted front teeth, deep bite</td><td>Orthodontic treatment</td></tr><tr><td>Excess vertical growth of the upper jaw</td><td>Orthodontics combined with jaw surgery</td></tr><tr><td>Gum overgrowth from inflammation or certain medicines</td><td><a class=\"text-link\" href=\"/en/blog/gum-treatment-beylikduzu/\">Gum treatment</a> first; if medicine-related, a review with the prescribing doctor</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "procedure",
+    "h": "How is gum contouring done?",
+    "html": "<ol>\n<li>At the examination, gum thickness and pocket depth are measured and the bone level is checked on an X-ray.</li>\n<li>The new gum line is planned to suit the whole smile, and can be previewed with photos and a mock-up if needed.</li>\n<li>The procedure is done under local anaesthetic and usually takes 30–60 minutes.</li>\n<li>If bone reshaping is needed (crown lengthening), it is planned as minor surgery and stitches may be used.</li>\n</ol>\n<p>The technique is chosen by the dentist according to the gum and bone.</p>"
+   },
+   {
+    "id": "healing",
+    "h": "What is recovery like?",
+    "html": "<ul>\n<li>The first few days are mildly tender; painkillers keep it comfortable.</li>\n<li>Soft, lukewarm food is best during this time, and the area is cleaned gently.</li>\n<li>Surface healing takes 1–2 weeks.</li>\n<li>The gum line takes a few weeks to reach its final shape; if crowns or veneers are planned, impressions are taken after this.</li>\n</ul>"
+   },
+   {
+    "id": "smile",
+    "h": "Planning with smile design and veneers",
+    "html": "<p>Gum levels frame the smile. If <a class=\"text-link\" href=\"/en/blog/smile-design/\">smile design</a> or <a class=\"text-link\" href=\"/en/blog/laminate-veneers/\">veneers</a> are planned, adjusting the gums first gives a more harmonious and lasting result. Teeth that look short can sometimes be lengthened with gum contouring alone, without any crowns.</p>\n<p>At Dent32 in Beylikdüzü we identify the cause of a gummy smile with an examination and photo analysis, then explain the options that suit you. To be assessed, <a class=\"text-link\" href=\"/en/contact/\">book an examination</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is gum contouring permanent?",
+    "a": "When the cause is excess gum, the result is usually permanent. If the bone is also too close to the crown and only gum is removed, the gum can partly grow back, which is why an accurate diagnosis matters."
+   },
+   {
+    "q": "Does gum contouring hurt?",
+    "a": "It is done under local anaesthetic, so you do not feel pain. There may be mild tenderness for a few days afterwards."
+   },
+   {
+    "q": "Is Botox a permanent fix for a gummy smile?",
+    "a": "No. Its effect usually lasts 3–6 months and needs repeating. It only works when the cause is an overactive upper lip."
+   },
+   {
+    "q": "Can gum overgrowth be a sign of disease?",
+    "a": "Yes. Plaque-related inflammation and some blood pressure, epilepsy or immune-suppressing medicines can cause gum overgrowth. In that case the cause is treated first."
+   }
+  ]
+ },
+ {
+  "key": "curuk",
+  "date": "2026-10-23",
+  "cat": "Treatment",
+  "cover": "blog-curuk",
+  "slug": "tooth-decay-signs-and-stages",
+  "title": "How do you know if you have tooth decay? Signs, stages and treatment at each stage",
+  "desc": "Early signs of tooth decay, the stages from white spot to abscess, whether decay can stop on its own, and when you need a filling or root canal treatment. Decay between teeth, X-rays and prevention.",
+  "lead": "Tooth decay does not hurt at first: the earliest sign is a chalky white spot on the enamel, and at this stage it can be stopped with fluoride and good oral care. Once decay reaches the dentine, sensitivity to cold and sweet and darkening begin, and a filling is needed. When it reaches the nerve, spontaneous pain that is worse at night appears and root canal treatment is needed.",
+  "sections": [
+   {
+    "id": "how",
+    "h": "How does tooth decay form?",
+    "html": "<p>Bacteria in plaque on the teeth turn the sugars and starches we eat into acid, which dissolves minerals from the enamel. Saliva neutralises the acid and repairs the enamel. When you snack on sugar often through the day, there is no time for repair and decay begins.</p>\n<aside class=\"note\"><strong>In short</strong><p>How often you have sugar matters more than how much. Sweet tea or juice sipped all day does more harm than a dessert eaten in one go.</p></aside>"
+   },
+   {
+    "id": "stages",
+    "h": "Stages of tooth decay and their treatment",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Stage</th><th scope=\"col\">Signs</th><th scope=\"col\">Treatment</th></tr></thead><tbody><tr><td>1. White spot (mineral loss in enamel)</td><td>No symptoms; dull, chalky white spot</td><td>Fluoride varnish, fluoride toothpaste, monitoring; reversible</td></tr><tr><td>2. Enamel decay</td><td>Brown-black discolouration, slight roughness</td><td>A small <a class=\"text-link\" href=\"/en/blog/white-composite-fillings/\">white filling</a></td></tr><tr><td>3. Dentine decay</td><td>Sensitivity to cold and sweet, a hole, food trapping</td><td>Filling; onlay or crown if a lot of tooth is lost</td></tr><tr><td>4. Decay reaching the nerve</td><td>Spontaneous, throbbing pain, worse at night</td><td><a class=\"text-link\" href=\"/en/blog/root-canal-treatment/\">Root canal treatment</a>, usually followed by a crown</td></tr><tr><td>5. Abscess</td><td>Swelling, pain on biting, a pimple-like spot on the gum, fever</td><td>Root canal treatment or extraction; antibiotics if needed</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "signs",
+    "h": "What are the signs of tooth decay?",
+    "html": "<ul>\n<li>A white, brown or black spot on a tooth</li>\n<li>A twinge with cold, heat or sweet food</li>\n<li>A hole you can feel, or food always catching in the same place</li>\n<li>Floss shredding at the same spot</li>\n<li>A bad taste or <a class=\"text-link\" href=\"/en/blog/bad-breath-causes-and-treatment/\">bad breath</a> from one area</li>\n<li>Pain on biting, spontaneous pain or swelling (advanced stage)</li>\n</ul>"
+   },
+   {
+    "id": "hidden",
+    "h": "Hidden decay: between teeth and under fillings",
+    "html": "<p>Much decay starts where two teeth touch or at the edges of old fillings and crowns. You cannot see these areas in a mirror and they give no symptoms for a long time. Bitewing X-rays show this decay before it hurts, while it can still be treated with a small filling.</p>\n<p>A <a class=\"text-link\" href=\"/en/blog/dental-check-up-beylikduzu/\">check-up</a> once a year is recommended if your decay risk is low, and every six months if it is high.</p>"
+   },
+   {
+    "id": "stop",
+    "h": "Can tooth decay go away on its own?",
+    "html": "<p>Only the first stage, the white spot, can be stopped and reversed. Once a hole has formed in the enamel, decay does not heal; only its speed changes.</p>\n<p>When a tooth that has hurt for a while suddenly stops hurting, that is not good news; it often means the nerve has died. Infection can then spread silently to the tip of the root.</p>"
+   },
+   {
+    "id": "prevent",
+    "h": "How can you prevent tooth decay?",
+    "html": "<ul>\n<li><a class=\"text-link\" href=\"/en/blog/how-to-brush-your-teeth/\">Brushing properly</a> twice a day with fluoride toothpaste, especially at night</li>\n<li>Cleaning between the teeth once a day</li>\n<li>Keeping sugary food and drinks to mealtimes and drinking water between meals</li>\n<li>Sugar-free (xylitol) gum after meals</li>\n<li>Fissure sealants and regular fluoride for children's back teeth; see our <a class=\"text-link\" href=\"/en/blog/childs-first-dental-visit/\">children's dentistry guide</a></li>\n<li>Regular check-ups and X-rays</li>\n</ul>\n<p>At Dent32 in Beylikdüzü we treat decay early, removing as little tooth as possible. For a check-up, <a class=\"text-link\" href=\"/en/contact/\">book an examination</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Does decay need treating if it doesn't hurt?",
+    "a": "Yes. Decay usually does not hurt until it nears the nerve. A filling done at the painless stage avoids the need for root canal treatment and a crown."
+   },
+   {
+    "q": "How do you know whether you need a filling or a root canal?",
+    "a": "The decision is based on the examination, X-rays and how the tooth responds to cold. Spontaneous pain that comes on at night usually means root canal treatment is needed."
+   },
+   {
+    "q": "Can tooth decay cause bad breath?",
+    "a": "Yes. Food and bacteria collecting in decayed cavities can cause a bad smell and taste."
+   },
+   {
+    "q": "Should decay in baby teeth be treated?",
+    "a": "Yes. Untreated decay in baby teeth causes pain and infection, and can harm the permanent tooth underneath and the space it needs."
+   }
+  ]
+ },
+ {
   "key": "beydis",
   "date": "2026-10-19",
   "cat": "Guide",
