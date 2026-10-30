@@ -1,5 +1,950 @@
 [
  {
+  "key": "beyaile",
+  "date": "2026-10-30",
+  "cat": "Guide",
+  "cover": "blog-bey-aile",
+  "slug": "family-dentist-beylikduzu",
+  "title": "A family dentist in Beylikdüzü: one clinic for everyone from toddlers to grandparents",
+  "desc": "Choosing a dentist for the whole family in Beylikdüzü: what children, teenagers, pregnant women and older relatives need, booking back-to-back appointments and keeping records in one place. Dent32 in Beylikdüzü is open every day including weekends.",
+  "lead": "A family dentist is a clinic that follows the oral health of everyone in the household over the years. Going to one dental clinic in Beylikdüzü as a family makes it easier to combine appointments, helps children grow up without fear and makes it easier to spot inherited tendencies such as crowding, gum disease or a tendency to decay early.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Why one dental clinic for the whole family?",
+    "html": "<ul>\n<li><strong>Records in one place:</strong> X-rays, fillings and crowns, medication and allergy information all stay in the same file. Years later, if a tooth causes trouble, seeing its history makes diagnosis easier.</li>\n<li><strong>Family tendencies:</strong> Jaw shape, tooth alignment and susceptibility to gum disease can run in families. A dentist who knows about a parent's problem looks for the same signs in a child sooner.</li>\n<li><strong>Shared appointments:</strong> Grouping check-ups on the same day saves time, especially for working parents. Weekend appointments help here.</li>\n<li><strong>Trust for children:</strong> A child who sees a parent being examined calmly gets used to the room and the faces more easily.</li>\n</ul>"
+   },
+   {
+    "id": "yaslara-gore",
+    "h": "What each family member needs, by age",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Family member</th><th scope=\"col\">Main needs</th><th scope=\"col\">Check-up interval (general advice)</th></tr></thead><tbody><tr><td>0–6 years</td><td>First visit, bottle decay, fluoride varnish</td><td>Every 6 months</td></tr><tr><td>6–12 years</td><td>Fissure sealants, losing baby teeth, orthodontic check (age 7)</td><td>Every 6 months</td></tr><tr><td>Teenagers</td><td>Orthodontics, sports mouthguards, wisdom teeth</td><td>Every 6 months</td></tr><tr><td>Adults</td><td>Scaling, fillings, cosmetic work and missing teeth</td><td>Every 6–12 months</td></tr><tr><td>Pregnancy</td><td>Bleeding gums, the safest time for treatment</td><td>At least once during pregnancy</td></tr><tr><td>Older adults</td><td>Dentures, implants, dry mouth, medication interactions</td><td>Every 6 months</td></tr></tbody></table></div><p>Intervals vary from person to person; they may be shorter if you have gum disease or frequent decay. See our posts on the <a class=\"text-link\" href=\"/en/blog/childrens-dentist-beylikduzu/\">children's dentist in Beylikdüzü</a>, <a class=\"text-link\" href=\"/en/blog/dental-treatment-during-pregnancy/\">dental treatment during pregnancy</a> and <a class=\"text-link\" href=\"/en/blog/dental-care-older-adults-beylikduzu/\">dental care for older adults</a>.</p>"
+   },
+   {
+    "id": "ev",
+    "h": "Habits the whole family can share at home",
+    "html": "<ol>\n<li>Brush twice a day for at least two minutes with fluoride toothpaste; an adult finishes brushing for young children.</li>\n<li>Nothing but water after the evening brush.</li>\n<li>Have sugary and acidic drinks with meals rather than spread through the day.</li>\n<li>Adults and teenagers use floss or interdental brushes.</li>\n<li>Replace toothbrushes every 3 months or after an illness.</li>\n</ol><p>Read our <a class=\"text-link\" href=\"/en/blog/how-to-brush-your-teeth/\">guide to brushing properly</a> together as a family.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Family appointments at Dent32",
+    "html": "<p>Dent32 is a <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>, in the Barış neighbourhood, where children's dentistry, orthodontics, implants, cosmetic, root canal and gum treatments are planned under one roof. We can book consecutive appointments for several family members so everyone is checked in one visit.</p>\n<p>We are at <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. Call +90 555 011 33 68 or write to us through our <a class=\"text-link\" href=\"/en/contact/\">contact page</a>. Telling us how many of you are coming helps us plan.</p><aside class=\"note\"><strong>In short</strong><p>The real benefit of a family dentist is continuity: the same team sees changes over the years and catches problems while they're small.</p></aside>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can we book appointments for the whole family together?",
+    "a": "Yes. Consecutive appointments can be planned on the same day. Tell us in advance how many people are coming and what each person's concern is."
+   },
+   {
+    "q": "When should I bring my child for the first time?",
+    "a": "After the first tooth appears and by around the age of one. The early visit is more about getting to know each other and advising parents than treatment."
+   },
+   {
+    "q": "If gum disease runs in the family, are the children at risk too?",
+    "a": "Genetics and shared habits can both play a role. If there's a family history of tooth loss or receding gums, tell your dentist."
+   }
+  ]
+ },
+ {
+  "key": "beytasinma",
+  "date": "2026-10-30",
+  "cat": "Guide",
+  "cover": "blog-bey-tasinma",
+  "slug": "new-to-beylikduzu-dentist",
+  "title": "Just moved to Beylikdüzü? Changing dentists: records, X-rays and unfinished treatment",
+  "desc": "A guide for people moving to Beylikdüzü: which records to ask your old clinic for, how unfinished implant, root canal and orthodontic treatment continues, and what happens at the first visit to a new clinic.",
+  "lead": "When you move to a new area you may need to change dentists too. If you've moved to Beylikdüzü and getting to your old clinic is difficult, the most important thing is to take your records with you and, if you have unfinished treatment, to find out the details. That way your new dentist can carry on where things left off instead of starting again.",
+  "sections": [
+   {
+    "id": "kayitlar",
+    "h": "Which records should you ask your old clinic for?",
+    "html": "<ul>\n<li><strong>X-rays:</strong> Your panoramic X-ray, recent small (periapical) X-rays and any CT scan. Digital copies can be sent by email or on a USB stick.</li>\n<li><strong>Treatment summary:</strong> What was done to which tooth: fillings, root canals, crowns, extractions.</li>\n<li><strong>Implant details:</strong> The implant brand, system, diameter and length, and when it was placed. This is essential when the crown is made or a part needs replacing.</li>\n<li><strong>Orthodontic records:</strong> Starting records, photos and, for clear aligners, which stage you are at.</li>\n<li><strong>Health information:</strong> Medication, allergies and long-term conditions.</li>\n</ul><p>As a patient you have the right to ask for a copy of your own health records. Some treatment records may also appear on e-Nabız, Turkey's personal health record system, but X-ray images often don't, so asking the clinic directly is the most reliable route.</p>"
+   },
+   {
+    "id": "yarim",
+    "h": "How does unfinished treatment continue?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Unfinished treatment</th><th scope=\"col\">What the new clinic looks at</th></tr></thead><tbody><tr><td>An implant still healing</td><td>The implant brand and size; compatible parts are used for the crown</td></tr><tr><td>Teeth with temporary crowns</td><td>The condition of the teeth and whether a new impression is needed</td></tr><tr><td>A root canal that's been started</td><td>Whether the temporary filling is intact; medication shouldn't stay in the canal for too long</td></tr><tr><td>Clear aligner treatment</td><td>Aligner brand and stage; some systems allow transfer to another dentist</td></tr><tr><td>Braces</td><td>Bracket system and treatment plan; treatment continues using the records</td></tr></tbody></table></div><aside class=\"note\"><strong>In short</strong><p>Don't leave a started root canal or a temporary crown for months. Temporary materials aren't designed to last; the risk of leakage and fracture rises.</p></aside>"
+   },
+   {
+    "id": "ilk-randevu",
+    "h": "Your first appointment at a new clinic",
+    "html": "<p>At the first visit we review the records you bring, examine your whole mouth and take an up-to-date X-ray if needed. If your old images are very recent, new ones may not be necessary. We then explain how the unfinished treatment will be completed, and any new findings, in a written plan. See our post on the <a class=\"text-link\" href=\"/en/blog/dental-check-up-beylikduzu/\">dental check-up in Beylikdüzü</a> for details.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Getting to Dent32 in Beylikdüzü",
+    "html": "<p>Dent32 is in Ginza Lavinya on the E-5 service road in the Barış neighbourhood of Beylikdüzü: <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. It's easy to reach by metrobus or car; we describe the routes from each neighbourhood in our <a class=\"text-link\" href=\"/en/blog/dentist-beylikduzu-neighbourhoods/\">neighbourhoods post</a>.</p>\n<p>You can email your records before the appointment. To book at our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>, call +90 555 011 33 68 or use the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Does my old clinic have to give me my X-rays?",
+    "a": "Patients can ask for copies of their own health records. Most clinics share digital X-rays easily by email; a written request speeds things up."
+   },
+   {
+    "q": "I don't know my implant brand. Is that a problem?",
+    "a": "Ask your old clinic first. If they can't be reached, the system can often be identified from an X-ray and examination, but finding compatible parts can be harder."
+   },
+   {
+    "q": "Can I continue my clear aligner treatment in Beylikdüzü?",
+    "a": "In many cases, yes. Once the aligner brand and stage are known, a transfer can be planned. Some systems may need new scans and a new plan."
+   }
+  ]
+ },
+ {
+  "key": "beyikinci",
+  "date": "2026-10-30",
+  "cat": "Guide",
+  "cover": "blog-bey-ikinci-gorus",
+  "slug": "second-opinion-dentist-beylikduzu",
+  "title": "A second opinion on dental treatment in Beylikdüzü: how to assess the plan you've been given",
+  "desc": "When should you get a second opinion on dental treatment? Questions to ask, warning signs, and what to bring to a second-opinion appointment in Beylikdüzü.",
+  "lead": "If you've been given a plan with lots of crowns, implants or extractions, or the proposed treatment doesn't feel right, getting a second opinion is completely normal. A good dentist won't mind. Before visiting another dental clinic in Beylikdüzü, gather the plan and X-rays you've been given; it makes comparison much easier.",
+  "sections": [
+   {
+    "id": "ne-zaman",
+    "h": "When does a second opinion make sense?",
+    "html": "<ul>\n<li>You've been advised to crown many teeth that look healthy or don't hurt.</li>\n<li>You've been told to extract a tooth that might be saveable.</li>\n<li>Implants for the whole mouth or extensive smile design have been planned.</li>\n<li>You were asked to decide without being shown the findings or having the X-ray explained.</li>\n<li>There are large, unexplained differences in price.</li>\n</ul><p>A simple filling or scale and polish rarely needs a second opinion. What matters most are irreversible procedures: cutting teeth down, extracting them or placing implants.</p>"
+   },
+   {
+    "id": "sorular",
+    "h": "Questions to ask about a plan",
+    "html": "<ol>\n<li>What exactly is wrong with this tooth? Can you show me on the X-ray?</li>\n<li>What happens if I don't have the treatment, or postpone it?</li>\n<li>Is there a less invasive option (for example a filling or bonding instead of a crown)?</li>\n<li>Which treatment is urgent and which can wait?</li>\n<li>What materials will be used and what are the warranty terms?</li>\n<li>How long will it take in total, and how many visits?</li>\n</ol><aside class=\"note\"><strong>In short</strong><p>Different dentists can propose different but valid plans for the same mouth. What matters is that the reasoning behind each option is explained clearly.</p></aside>"
+   },
+   {
+    "id": "uyari",
+    "h": "Warning signs",
+    "html": "<ul>\n<li>Pressure to start the same day, or a \"today only\" price.</li>\n<li>Crowns proposed for all the front teeth without a clear reason.</li>\n<li>No written plan or price.</li>\n<li>Your questions being brushed aside.</li>\n</ul><p>We compare crowns and veneers in <a class=\"text-link\" href=\"/en/blog/types-of-dental-crowns/\">types of dental crowns</a>, and implants and bridges in <a class=\"text-link\" href=\"/en/blog/implant-or-bridge/\">implant or bridge</a>. For judging clinics, see <a class=\"text-link\" href=\"/en/blog/dental-clinic-reviews-beylikduzu/\">how to read dental clinic reviews</a>.</p>"
+   },
+   {
+    "id": "getir",
+    "h": "What to bring to a second-opinion appointment",
+    "html": "<ul>\n<li>The written treatment plan and quote you were given.</li>\n<li>Your panoramic X-ray and any CT scan (digital copies).</li>\n<li>A list of your medication.</li>\n<li>Brief notes on when your symptoms started.</li>\n</ul><p>At Dent32 we show second-opinion patients the findings on screen and explain our assessment side by side with the plan they've been given. Where you continue treatment is entirely your decision.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Dent32 for a second opinion in Beylikdüzü",
+    "html": "<p>Dent32 is in the Barış neighbourhood of Beylikdüzü, with a team made up of Dr. Hüseyin Aşçı, Dr. Anıl Işıklı and Dr. Fulya Toraman. To book at our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>, call +90 555 011 33 68 or <a class=\"text-link\" href=\"/en/contact/\">write to us</a>. You can meet our dentists on the <a class=\"text-link\" href=\"/en/about/#kadro\">about page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is getting a second opinion disrespectful to my first dentist?",
+    "a": "No. A second opinion is common and sensible, especially for extensive and irreversible treatment."
+   },
+   {
+    "q": "Will new X-rays be taken for a second opinion?",
+    "a": "If the X-rays you bring are recent and clear, they're usually enough. Old or incomplete images may need updating."
+   },
+   {
+    "q": "If the two plans are very different, which should I trust?",
+    "a": "Ask both dentists for their reasoning and alternatives. The plan that's explained most clearly and involves fewer irreversible steps is often a safe starting point."
+   }
+  ]
+ },
+ {
+  "key": "beytekseans",
+  "date": "2026-10-30",
+  "cat": "Treatment",
+  "cover": "blog-bey-tek-seans",
+  "slug": "same-day-dental-treatment-beylikduzu",
+  "title": "Same-day dental treatment in Beylikdüzü: what can be done in one visit, and what has to wait?",
+  "desc": "Which dental treatments are finished in one visit and why do others need several? Realistic times for fillings, cleaning, extractions, bonding, root canals, zirconia crowns and implants. Dent32 in Beylikdüzü.",
+  "lead": "Fillings, scale and polish, simple extractions, bonding and in-clinic whitening are usually finished in a single visit. Zirconia crowns and veneers need a few appointments because of the lab stage, and implants need a few months for the bone to heal. For busy patients in Beylikdüzü, the best approach is a plan that groups treatments sensibly.",
+  "sections": [
+   {
+    "id": "tek-seans",
+    "h": "Treatments usually finished in one visit",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Treatment</th><th scope=\"col\">Approximate time</th><th scope=\"col\">Note</th></tr></thead><tbody><tr><td>Examination and X-ray</td><td>20–40 min</td><td>A written plan can be given the same day</td></tr><tr><td>Scale and polish</td><td>30–60 min</td><td>Deep cleaning for gum disease may be split over several visits</td></tr><tr><td>White (composite) filling</td><td>20–60 min per tooth</td><td>Several fillings can be done in one visit</td></tr><tr><td>Simple extraction</td><td>20–40 min</td><td>Impacted wisdom teeth take longer</td></tr><tr><td>Small cosmetic fix with bonding</td><td>30–60 min per tooth</td><td>Chipped corner, small gap</td></tr><tr><td>In-clinic whitening</td><td>60–90 min</td><td>A clean may be needed first</td></tr><tr><td>Emergency pain treatment</td><td>30–60 min</td><td>The cause of pain is dealt with, then permanent treatment is planned</td></tr></tbody></table></div><p>Times vary with the person and the tooth. We describe fillings in detail in <a class=\"text-link\" href=\"/en/blog/dental-fillings-beylikduzu/\">dental fillings in Beylikdüzü</a>.</p>"
+   },
+   {
+    "id": "cok-seans",
+    "h": "Why do some treatments need more than one visit?",
+    "html": "<ul>\n<li><strong>Root canal treatment:</strong> Often finished in one visit when there's no infection. With an abscess or severe infection, medication is placed in the canal and a second visit follows.</li>\n<li><strong>Zirconia and e.max crowns:</strong> The tooth is prepared, an impression is taken and the crown is made in a lab. With a try-in and fitting, this usually takes 2–3 appointments over a few days to two weeks.</li>\n<li><strong>Veneers:</strong> The trial (mock-up) stage directly affects the result, so it shouldn't be rushed.</li>\n<li><strong>Implants:</strong> The implant is placed in one visit, but bonding with the bone takes a few months. In some suitable cases a temporary tooth can be fitted the same day; see <a class=\"text-link\" href=\"/en/blog/same-day-implants-beylikduzu/\">same-day implants</a>.</li>\n<li><strong>Orthodontics:</strong> Tooth movement is a biological process that takes months.</li>\n</ul>"
+   },
+   {
+    "id": "gruplama",
+    "h": "How we group treatment to keep visits to a minimum",
+    "html": "<p>For busy patients we combine treatments in the same area into one visit: for example, several fillings in the same jaw together, or an extraction and a clean on the same day. Long sessions aren't right for everyone; we plan with fatigue and jaw discomfort in mind.</p><aside class=\"note\"><strong>In short</strong><p>When you see \"smile in a day\" offers, ask exactly which part is really finished in a day and which part is temporary.</p></aside>"
+   },
+   {
+    "id": "dent32",
+    "h": "Booking at Dent32",
+    "html": "<p>Dent32 is a dental clinic in Beylikdüzü that's open every day, including weekends. See which treatments are possible at weekends in our <a class=\"text-link\" href=\"/en/blog/weekend-dentist-beylikduzu/\">weekend dentist</a> post. To reach our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>, call +90 555 011 33 68 or use the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>; we're at <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can a root canal be done in one visit?",
+    "a": "Often yes, if there's no infection or swelling and the canals allow it. With an abscess it's usually split over two visits."
+   },
+   {
+    "q": "Can a zirconia crown be fitted the same day?",
+    "a": "Usually not, because it's made in a lab. A temporary crown is fitted in between; the whole process usually takes a few days to two weeks."
+   },
+   {
+    "q": "Can several fillings be done in one visit?",
+    "a": "Yes, especially fillings in the same jaw, with a single anaesthetic. The total time and the condition of the teeth decide."
+   }
+  ]
+ },
+ {
+  "key": "beyrontgen",
+  "date": "2026-10-30",
+  "cat": "Treatment",
+  "cover": "blog-bey-rontgen",
+  "slug": "dental-x-ray-ct-beylikduzu",
+  "title": "Dental X-rays and CT scans in Beylikdüzü: when are panoramic, periapical and 3D images needed?",
+  "desc": "Types of dental X-ray: periapical, bitewing, panoramic and dental CT (CBCT). When each is used, how much radiation, and whether X-rays are taken during pregnancy. Dent32 in Beylikdüzü.",
+  "lead": "Dental X-rays are used to see decay that isn't visible, infection at the root tip and how much bone there is. Small periapical films look at one tooth, a panoramic image shows the whole mouth, and a dental CT (CBCT) shows the bone in three dimensions. Dental X-ray doses are very low, but they should still only be taken when needed.",
+  "sections": [
+   {
+    "id": "cesitler",
+    "h": "Types of dental X-ray and what they're for",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Image</th><th scope=\"col\">What it shows</th><th scope=\"col\">When it's used</th></tr></thead><tbody><tr><td>Periapical (small film)</td><td>One or two teeth down to the root tip</td><td>A painful tooth, root canal treatment, root-tip infection</td></tr><tr><td>Bitewing</td><td>The contact surfaces of the back teeth</td><td>Early detection of decay between teeth</td></tr><tr><td>Panoramic</td><td>Both jaws, all the teeth, the jaw joints</td><td>First visit, wisdom teeth, general assessment</td></tr><tr><td>Dental CT (CBCT)</td><td>Bone width and height, nerve and sinus position</td><td>Implant planning, impacted teeth, complex root canal cases</td></tr></tbody></table></div><p>Not every check-up needs an X-ray. How often you need one depends on your age, decay risk and symptoms, and is decided by the dentist.</p>"
+   },
+   {
+    "id": "doz",
+    "h": "How much radiation? Is it safe?",
+    "html": "<p>Dental X-rays are among the lowest-dose medical images. Roughly, a periapical film is a few microsieverts and a panoramic image is usually around 10–25 microsieverts. With dental CT, the dose depends on the size of the area scanned and usually ranges from tens to a few hundred microsieverts. For comparison, a person receives on average around 2,000–3,000 microsieverts a year from natural background radiation.</p><ul>\n<li>Images aren't taken unless needed; bring any recent X-rays you have.</li>\n<li>CT is only requested when a two-dimensional image isn't enough.</li>\n<li>In children, the area and frequency are kept even more limited.</li>\n</ul>"
+   },
+   {
+    "id": "hamilelik",
+    "h": "Can dental X-rays be taken during pregnancy?",
+    "html": "<p>Routine check-up X-rays can wait until after birth. But an X-ray needed to diagnose pain, an abscess or an emergency can be taken with appropriate protection; an untreated infection is also a risk for mother and baby. See <a class=\"text-link\" href=\"/en/blog/dental-treatment-during-pregnancy/\">dental treatment during pregnancy</a> for more.</p>"
+   },
+   {
+    "id": "implant",
+    "h": "Why is a CT scan important before implants?",
+    "html": "<p>A panoramic image gives an idea of bone height but doesn't show its width. A CT scan shows bone width, the nerve canal in the lower jaw and the sinus in the upper jaw in three dimensions. This lets the implant's length and angle be planned more safely and shows in advance whether a <a class=\"text-link\" href=\"/en/blog/bone-graft-sinus-lift-beylikduzu/\">bone graft or sinus lift</a> is needed.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Imaging at Dent32 in Beylikdüzü",
+    "html": "<p>At Dent32 we show you the images taken or brought in on screen during the examination and explain the findings. We'll tell you at your appointment which image is needed and where it will be taken. Our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a> is at <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>; to book, call +90 555 011 33 68.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How often should dental X-rays be taken?",
+    "a": "There's no fixed rule. Adults with low decay risk may only need bitewings every few years; with higher risk or symptoms, more often."
+   },
+   {
+    "q": "What's the difference between a dental CT and a panoramic X-ray?",
+    "a": "A panoramic is a two-dimensional overview. A CT shows the bone in three dimensions and is used for implant planning and impacted teeth."
+   },
+   {
+    "q": "Can I bring an X-ray taken elsewhere?",
+    "a": "Yes. If it's recent and clear, a new one may not be needed. A digital copy is easiest."
+   }
+  ]
+ },
+ {
+  "key": "beyhemen",
+  "date": "2026-10-30",
+  "cat": "Implants",
+  "cover": "blog-bey-hemen-implant",
+  "slug": "same-day-implants-beylikduzu",
+  "title": "Same-day implants in Beylikdüzü: who is suitable for an implant at extraction and immediate loading?",
+  "desc": "What are same-day implants? Conditions, benefits and risks of placing an implant at the extraction visit (immediate implant) and fitting a temporary tooth the same day (immediate loading). Dent32 in Beylikdüzü.",
+  "lead": "\"Same-day implant\" can mean two different things: placing the implant in the same visit the tooth is extracted, and fitting a temporary tooth on the implant the same day. Both are possible in patients with suitable bone, healthy gums and infection under control. The permanent tooth is made after the bone has healed, usually within a few months.",
+  "sections": [
+   {
+    "id": "tanim",
+    "h": "Immediate implant vs immediate loading",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Approach</th><th scope=\"col\">What's done</th><th scope=\"col\">When is the permanent tooth fitted?</th></tr></thead><tbody><tr><td>Conventional (delayed) implant</td><td>Tooth extracted, site heals for 2–3 months, then the implant is placed</td><td>2–4 months after the implant</td></tr><tr><td>Immediate implant</td><td>Implant placed in the same visit as the extraction</td><td>After the bone has bonded</td></tr><tr><td>Immediate loading</td><td>A temporary tooth is fitted on the implant the same day or within a few days</td><td>The temporary is used for a few months, then replaced</td></tr></tbody></table></div><p>With immediate loading, the temporary tooth is usually adjusted to keep it out of heavy biting; for the first weeks you don't bite hard things with it. We describe fixed temporary teeth for a whole jaw in <a class=\"text-link\" href=\"/en/blog/all-on-four-beylikduzu/\">All-on-Four in Beylikdüzü</a>.</p>"
+   },
+   {
+    "id": "uygun",
+    "h": "Who is it suitable for, and who not?",
+    "html": "<ul>\n<li><strong>May be suitable:</strong> Enough bone around the tooth to be extracted, no active widespread infection, and good initial stability (primary stability) when the implant is placed.</li>\n<li><strong>Waiting may be better:</strong> A large abscess or bone loss, uncontrolled diabetes, heavy smoking or severe grinding, or thin gum and bone at a front tooth that raises the aesthetic risk.</li>\n</ul><p>The decision is made after an examination and a dental CT scan, which shows bone width and the position of the nerve and sinus; see <a class=\"text-link\" href=\"/en/blog/dental-x-ray-ct-beylikduzu/\">dental X-rays and CT scans</a>.</p><aside class=\"note\"><strong>In short</strong><p>A same-day implant isn't \"better\" for everyone. In the right case it shortens treatment; in the wrong case it can raise the risk of failure.</p></aside>"
+   },
+   {
+    "id": "avantaj",
+    "h": "Benefits and things to watch",
+    "html": "<ul>\n<li>Fewer surgical procedures may be needed.</li>\n<li>Less time without a tooth, especially at the front.</li>\n<li>May help preserve bone and gum shape at the extraction site.</li>\n<li>The temporary tooth must not be loaded in the first weeks; a soft diet is advised.</li>\n<li>Smoking lowers the chance of success because it impairs bone healing.</li>\n</ul><p>For the first days, see our <a class=\"text-link\" href=\"/en/blog/dental-implant-aftercare/\">implant aftercare</a> post.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Implant planning at Dent32 in Beylikdüzü",
+    "html": "<p>At Dent32 implant treatment starts with an examination, a CT scan and a written plan; we tell you whether an immediate implant suits you after this assessment. We describe the whole process step by step in <a class=\"text-link\" href=\"/en/blog/dental-implants-beylikduzu-istanbul/\">dental implants in Beylikdüzü</a>.</p>\n<p>Our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a> is at <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. Call +90 555 011 33 68 or write to us through the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is a permanent tooth fitted on the same day as a same-day implant?",
+    "a": "No, the tooth fitted the same day is temporary. The permanent tooth is made from an impression after the implant has bonded with the bone."
+   },
+   {
+    "q": "Can an implant be placed immediately where an infected tooth was?",
+    "a": "Sometimes, with limited infection that can be cleaned well. With a large abscess or bone loss, waiting for healing is safer."
+   },
+   {
+    "q": "Is the success rate lower with immediate loading?",
+    "a": "In well-selected cases, results similar to the conventional approach have been reported. Patient selection and protecting the temporary tooth in the first weeks are key."
+   }
+  ]
+ },
+ {
+  "key": "beygreft",
+  "date": "2026-10-30",
+  "cat": "Implants",
+  "cover": "blog-bey-greft",
+  "slug": "bone-graft-sinus-lift-beylikduzu",
+  "title": "Bone grafts and sinus lifts in Beylikdüzü: not enough bone — can I still have an implant?",
+  "desc": "Implants when bone is lacking: bone grafts, open and closed sinus lifts, healing times and aftercare. CT-based planning at Dent32 in Beylikdüzü.",
+  "lead": "When a tooth has been missing for a long time, the jawbone gradually becomes thinner and shorter. Even with too little bone, an implant is often still possible; but adding bone graft material before or during the implant visit, or raising the sinus floor in the upper jaw (a sinus lift), may be needed. A dental CT shows which.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Why does bone shrink?",
+    "html": "<ul>\n<li>After an extraction there is no root to stimulate the bone; noticeable loss of bone width can happen in the first months.</li>\n<li>Advanced gum disease (periodontitis) destroys the bone around teeth.</li>\n<li>Removable dentures worn for years press on the bone underneath.</li>\n<li>When upper back teeth are lost, the sinus can expand downwards.</li>\n</ul><p>So if you're considering an implant after an extraction, it helps not to wait too long, or to preserve the socket with graft material at the time of extraction.</p>"
+   },
+   {
+    "id": "yontem",
+    "h": "Bone grafts, sinus lifts and other techniques",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Technique</th><th scope=\"col\">When?</th><th scope=\"col\">Healing</th></tr></thead><tbody><tr><td>Socket preservation</td><td>Right after extraction, with a future implant in mind</td><td>About 3–4 months</td></tr><tr><td>Bone graft at the implant visit</td><td>Small bone defects</td><td>As long as the implant takes to bond</td></tr><tr><td>Closed (crestal) sinus lift</td><td>Moderately reduced bone height in the upper back jaw</td><td>Usually in the same visit as the implant</td></tr><tr><td>Open (lateral) sinus lift</td><td>Very little bone height</td><td>Often 4–9 months</td></tr><tr><td>Block graft or ridge expansion</td><td>Large, advanced bone loss</td><td>Several months</td></tr></tbody></table></div><p>Graft material can be synthetic, animal-derived (usually bovine) or human-derived. The choice depends on the size of the defect. We explain the techniques in detail in <a class=\"text-link\" href=\"/en/blog/bone-graft-and-sinus-lift/\">bone graft and sinus lift</a>.</p>"
+   },
+   {
+    "id": "sonrasi",
+    "h": "After a sinus lift",
+    "html": "<ol>\n<li>Don't blow your nose hard for the first two weeks; sneeze with your mouth open.</li>\n<li>Don't drink through a straw, and don't smoke.</li>\n<li>Ask your dentist before flying, diving or heavy exercise.</li>\n<li>Take prescribed medication as directed.</li>\n<li>A little nosebleed can happen in the first days; call the clinic if it gets worse.</li>\n</ol><aside class=\"note\"><strong>In short</strong><p>Bone grafting makes treatment longer but gives the implant a solid base for a long life. Placing an implant in inadequate bone to save time can be risky.</p></aside>"
+   },
+   {
+    "id": "dent32",
+    "h": "Assessment at Dent32 in Beylikdüzü",
+    "html": "<p>At Dent32 we assess the bone with a CT scan and explain in a written plan whether grafting is needed and how much longer treatment will take. For the whole implant process, see <a class=\"text-link\" href=\"/en/blog/dental-implants-beylikduzu-istanbul/\">dental implants in Beylikdüzü</a>.</p>\n<p>To book, call +90 555 011 33 68 or use the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>. <a class=\"text-link\" href=\"/en/\">Dent32 dental clinic in Beylikdüzü</a>: <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can the body reject bone graft material?",
+    "a": "Graft materials are processed and biocompatible; over time they are replaced by or fuse with the patient's own bone. Infection and smoking can affect success."
+   },
+   {
+    "q": "Is a sinus lift painful?",
+    "a": "It's done under local anaesthetic. There may be swelling and tenderness for a few days afterwards, usually controlled with painkillers."
+   },
+   {
+    "q": "When is the implant placed after a bone graft?",
+    "a": "With small grafts, in the same visit; with large grafts, usually 4–9 months later. A follow-up CT decides the exact timing."
+   }
+  ]
+ },
+ {
+  "key": "beyemax",
+  "date": "2026-10-30",
+  "cat": "Crowns",
+  "cover": "blog-bey-emax",
+  "slug": "emax-crowns-beylikduzu",
+  "title": "E.max crowns in Beylikdüzü: glass ceramic for a natural look on front teeth",
+  "desc": "E.max (lithium disilicate) crowns in Beylikdüzü: how they differ from zirconia, which teeth they suit, how many visits they take and what affects how long they last. Crown planning at Dent32.",
+  "lead": "E.max is a glass ceramic called lithium disilicate that lets a lot of light through. Because it looks very close to a natural tooth, it's used especially on front teeth as crowns, veneers and inlays/onlays. On back teeth and for bridges, the stronger zirconia is usually preferred.",
+  "sections": [
+   {
+    "id": "fark",
+    "h": "E.max vs zirconia",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Feature</th><th scope=\"col\">E.max</th><th scope=\"col\">Zirconia</th></tr></thead><tbody><tr><td>Appearance</td><td>Very natural, translucent</td><td>Good; newer zirconias are more translucent</td></tr><tr><td>Strength</td><td>Sufficient for single teeth</td><td>Higher; preferred for bridges</td></tr><tr><td>Typical use</td><td>Front teeth, veneers, single crowns</td><td>Back teeth, bridges, on implants</td></tr><tr><td>Tooth reduction</td><td>Very little as a veneer</td><td>Usually more for a crown</td></tr></tbody></table></div><p>The material is chosen according to the tooth's position, biting forces, any grinding habit and its colour. See <a class=\"text-link\" href=\"/en/blog/emax-crowns/\">what are e.max crowns</a> and <a class=\"text-link\" href=\"/en/blog/zirconia-crowns-beylikduzu/\">zirconia crowns in Beylikdüzü</a> for more.</p>"
+   },
+   {
+    "id": "asamalar",
+    "h": "How many visits does an e.max crown take?",
+    "html": "<ol>\n<li>Examination, photos and shade selection; a trial smile (mock-up) if needed.</li>\n<li>Tooth preparation and impression; a temporary crown is fitted.</li>\n<li>Manufacture in the lab.</li>\n<li>Try-in: shade, shape and bite are checked.</li>\n<li>Permanent bonding with a special adhesive.</li>\n</ol><p>This usually takes 2–3 appointments over a few days to two weeks. On front teeth, the try-in stage may take longer depending on aesthetic expectations.</p>"
+   },
+   {
+    "id": "omur",
+    "h": "What affects how long e.max lasts?",
+    "html": "<ul>\n<li>Night-time grinding: a protective <a class=\"text-link\" href=\"/en/blog/teeth-grinding-jaw-pain-beylikduzu/\">night guard</a> is recommended if you grind.</li>\n<li>Not biting hard objects (pens, nails, ice, seeds).</li>\n<li>Healthy gums and regular professional cleaning.</li>\n<li>Check-ups every 6–12 months.</li>\n</ul><aside class=\"note\"><strong>In short</strong><p>Well-cared-for e.max crowns can last many years. The risk of fracture is highest in people who grind and don't wear a night guard.</p></aside>"
+   },
+   {
+    "id": "dent32",
+    "h": "Dent32 in Beylikdüzü",
+    "html": "<p>At Dent32 we plan crowns and veneers with photos and, where needed, a trial, and choose the material together based on what your tooth needs. You can see examples in our <a class=\"text-link\" href=\"/en/gallery/\">gallery</a>.</p>\n<p><a class=\"text-link\" href=\"/en/\">Dental clinic in Beylikdüzü</a> Dent32: <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. To book: +90 555 011 33 68 or the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can e.max be used on back teeth?",
+    "a": "For single crowns and onlays, yes. For bridges and in patients who grind heavily, zirconia is often safer."
+   },
+   {
+    "q": "Do e.max crowns change colour?",
+    "a": "The ceramic surface doesn't stain from tea, coffee or smoking. What changes over time is usually the colour of the surrounding natural teeth and gums."
+   },
+   {
+    "q": "Is e.max the same as a veneer?",
+    "a": "A veneer is a type of restoration; e.max is a material. Many veneers are made from e.max."
+   }
+  ]
+ },
+ {
+  "key": "beybonding",
+  "date": "2026-10-30",
+  "cat": "Aesthetics",
+  "cover": "blog-bey-bonding",
+  "slug": "bonding-gap-teeth-beylikduzu",
+  "title": "Bonding and closing gaps between teeth in Beylikdüzü: cosmetic fixes without drilling",
+  "desc": "Can a gap between front teeth (diastema), a chipped corner or a shape problem be fixed with bonding in one visit? Bonding vs veneers vs orthodontics. Dent32 in Beylikdüzü.",
+  "lead": "Bonding means adding tooth-coloured composite to the tooth surface layer by layer and shaping it. The tooth usually isn't drilled and it's done in one visit. It's a good option for small gaps between front teeth, chipped corners and small shape problems; for bigger colour and alignment problems, veneers or orthodontics may be better.",
+  "sections": [
+   {
+    "id": "bosluk",
+    "h": "Why do gaps between teeth (diastema) happen?",
+    "html": "<ul>\n<li>Teeth that are small relative to the jaw.</li>\n<li>A thick, low-attached frenum (the band linking the upper lip to the gum).</li>\n<li>Teeth drifting because of gum disease.</li>\n<li>Habits like tongue thrusting or thumb sucking.</li>\n<li>Missing or small lateral incisors.</li>\n</ul><p>If the gap is caused by gum disease, <a class=\"text-link\" href=\"/en/blog/gum-treatment-beylikduzu/\">gum treatment</a> comes first; otherwise a closed gap can open again.</p>"
+   },
+   {
+    "id": "secenekler",
+    "h": "Bonding, veneers or orthodontics?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Option</th><th scope=\"col\">Suitable for</th><th scope=\"col\">Time</th><th scope=\"col\">Tooth reduction</th></tr></thead><tbody><tr><td>Bonding</td><td>Small gaps, chipped corners, reshaping</td><td>One visit</td><td>Usually none</td></tr><tr><td>Veneers</td><td>Gap + colour + shape to be changed together</td><td>2–3 appointments</td><td>Little</td></tr><tr><td>Orthodontics</td><td>Large or multiple gaps, bite problems</td><td>Months</td><td>None</td></tr></tbody></table></div><p>We compare bonding and veneers in <a class=\"text-link\" href=\"/en/blog/dental-bonding/\">what is dental bonding</a> and <a class=\"text-link\" href=\"/en/blog/laminate-veneers-beylikduzu/\">veneers in Beylikdüzü</a>.</p>"
+   },
+   {
+    "id": "bakim",
+    "h": "How long does bonding last, and how do you look after it?",
+    "html": "<p>Composite is softer than ceramic; over time its colour may darken slightly and small chips may appear at the edges. It's often used for years and can be refreshed with polishing or small additions when needed.</p><ul>\n<li>Don't bite hard things (seeds, nails, pens) with your front teeth.</li>\n<li>Coffee, tea and smoking can affect the colour; regular polishing helps.</li>\n<li>Wear a night guard if you grind.</li>\n</ul><aside class=\"note\"><strong>In short</strong><p>Bonding preserves the tooth and is reversible. If you want veneers or orthodontics later, those options stay open.</p></aside>"
+   },
+   {
+    "id": "dent32",
+    "h": "Bonding at Dent32 in Beylikdüzü",
+    "html": "<p>At Dent32 we choose the colour and shape together before bonding and, where possible, show you the result temporarily first. Our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a> is at <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. To book, call +90 555 011 33 68 or use the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How many visits does it take to close a gap with bonding?",
+    "a": "Small gaps are usually closed in one visit, by adding to one or two teeth depending on the width."
+   },
+   {
+    "q": "Does bonding hurt?",
+    "a": "Usually no anaesthetic is needed because the tooth isn't drilled. Any mild sensitivity passes within a few days."
+   },
+   {
+    "q": "Can I whiten my teeth after bonding?",
+    "a": "Composite doesn't whiten. If you're considering whitening, do it first, then bonding."
+   }
+  ]
+ },
+ {
+  "key": "beybruksizm",
+  "date": "2026-10-30",
+  "cat": "Treatment",
+  "cover": "blog-bey-bruksizm",
+  "slug": "teeth-grinding-jaw-pain-beylikduzu",
+  "title": "Teeth grinding, night guards and jaw joint pain in Beylikdüzü: symptoms and treatment",
+  "desc": "Morning jaw pain, temple headaches, worn or cracked teeth... Night guards and other treatments for clenching and grinding (bruxism) and jaw joint (TMJ) problems. Dent32 in Beylikdüzü.",
+  "lead": "Clenching and grinding (bruxism) usually happens during sleep, without you noticing. Jaw or temple pain in the morning, flattened and worn tooth edges and cracked fillings are the most common signs. The first step is to protect the teeth with a custom-made night guard and reduce the habits that trigger it.",
+  "sections": [
+   {
+    "id": "belirti",
+    "h": "Signs of grinding",
+    "html": "<ul>\n<li>Jaw, face or temple pain, or a headache, on waking.</li>\n<li>Worn, flattened or chipped teeth; crowns and fillings that keep breaking.</li>\n<li>Sensitivity to hot and cold.</li>\n<li>Clicking in the jaw joint, pain when opening, or locking.</li>\n<li>Tooth marks on the inside of the cheeks and the sides of the tongue.</li>\n<li>A partner hearing grinding at night.</li>\n</ul><p>If you notice yourself clenching during the day too (at a screen, driving, under stress), that contributes to the same problem.</p>"
+   },
+   {
+    "id": "tedavi",
+    "h": "Treatment options",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Approach</th><th scope=\"col\">What it does</th></tr></thead><tbody><tr><td>Custom night guard</td><td>Protects teeth from wear and fracture; spreads the load on the jaw muscles</td></tr><tr><td>Habit awareness</td><td>Remembering \"lips together, teeth apart\" during the day</td></tr><tr><td>Heat and jaw exercises</td><td>Eases muscle pain</td></tr><tr><td>Stress and sleep</td><td>Reduces triggers; snoring or suspected sleep apnoea should be checked by a doctor</td></tr><tr><td>Repairing worn teeth</td><td>With bonding, crowns or veneers, once grinding is under control</td></tr></tbody></table></div><p>Over-the-counter soft guards can give short-term protection, but if they fit poorly they can increase clenching in some people. We cover guard types in <a class=\"text-link\" href=\"/en/blog/teeth-grinding-night-guard/\">teeth grinding and night guards</a>.</p><aside class=\"note\"><strong>In short</strong><p>Grinding may not be something that's \"cured\" for good; the aim is to protect your teeth and jaw joint and reduce pain.</p></aside>"
+   },
+   {
+    "id": "ne-zaman",
+    "h": "When to come in without waiting",
+    "html": "<ul>\n<li>Your mouth opening has suddenly reduced or your jaw has locked.</li>\n<li>Jaw pain hasn't gone for a few weeks.</li>\n<li>A tooth feels cracked or gives a sharp pain on biting; see <a class=\"text-link\" href=\"/en/blog/broken-or-cracked-tooth/\">broken or cracked tooth</a>.</li>\n</ul>"
+   },
+   {
+    "id": "dent32",
+    "h": "Assessment at Dent32 in Beylikdüzü",
+    "html": "<p>At Dent32 we examine tooth wear, the jaw joints and muscles, and take impressions for a custom night guard if needed. Where necessary we refer you to the relevant specialist.</p>\n<p><a class=\"text-link\" href=\"/en/\">Dental clinic in Beylikdüzü</a> Dent32: <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. To book: +90 555 011 33 68 or the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How long does a night guard take to make?",
+    "a": "It's made in a lab after the impression and is usually fitted within a few days to a week."
+   },
+   {
+    "q": "Does a night guard stop grinding?",
+    "a": "It may not stop it completely, but it protects your teeth and reduces jaw pain for many patients."
+   },
+   {
+    "q": "Is clicking in the jaw joint dangerous?",
+    "a": "Painless clicking is usually harmless. Pain, locking or reduced opening need an examination."
+   }
+  ]
+ },
+ {
+  "key": "beykirik",
+  "date": "2026-10-30",
+  "cat": "Treatment",
+  "cover": "blog-bey-kirik",
+  "slug": "chipped-front-tooth-beylikduzu",
+  "title": "Chipped or broken front tooth in Beylikdüzü: keep the fragment — same-day cosmetic repair is possible",
+  "desc": "Broken a front tooth or chipped a corner? How to store the fragment, when it's urgent, and options from bonding and reattaching the fragment to veneers and root canal treatment. Dent32 in Beylikdüzü, open at weekends too.",
+  "lead": "If you break a front tooth and can find the broken piece, keep it in milk or saline and see a dentist as soon as possible. Small fractures are often repaired with bonding the same day; where suitable, the fragment itself can be bonded back. If the break reaches the nerve or the tooth has moved, waiting puts the tooth at risk.",
+  "sections": [
+   {
+    "id": "ilk",
+    "h": "What to do straight away",
+    "html": "<ol>\n<li>Rinse your mouth with lukewarm water; if it's bleeding, press with clean gauze.</li>\n<li>Find the broken piece and keep it in milk, saline or saliva so it doesn't dry out.</li>\n<li>If there's swelling, apply something cold to the outside of the cheek.</li>\n<li>If a sharp edge cuts your tongue or lip, cover it with sugar-free gum or dental wax.</li>\n<li>If the whole tooth has come out, hold it by the crown, not the root, and come to the clinic immediately.</li>\n</ol><p>We cover what to do for children after an injury in <a class=\"text-link\" href=\"/en/blog/knocked-out-or-broken-tooth/\">knocked-out or broken tooth</a> and general fractures and cracks in <a class=\"text-link\" href=\"/en/blog/broken-or-cracked-tooth/\">broken or cracked tooth</a>.</p>"
+   },
+   {
+    "id": "tur",
+    "h": "Treatment by type of fracture",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Fracture type</th><th scope=\"col\">Signs</th><th scope=\"col\">Possible treatment</th></tr></thead><tbody><tr><td>Small chip in enamel</td><td>Rough edge, no pain</td><td>Polishing or a small bonding</td></tr><tr><td>Corner fracture (enamel-dentine)</td><td>Sensitivity to cold</td><td>Same-day bonding or reattaching the fragment</td></tr><tr><td>Fracture reaching the nerve</td><td>Pink/red dot on the broken surface, pain</td><td>Nerve protection or root canal treatment, then repair</td></tr><tr><td>Large fracture</td><td>A large part of the tooth is lost</td><td>Crown or veneer after root canal treatment</td></tr><tr><td>Root fracture</td><td>The tooth is loose, the gum is painful</td><td>X-ray assessment; splinting or extraction</td></tr></tbody></table></div><aside class=\"note\"><strong>In short</strong><p>Even without pain, a broken tooth should be checked with an X-ray; the blow may have affected the root or nerve, and symptoms can appear weeks later.</p></aside>"
+   },
+   {
+    "id": "estetik",
+    "h": "A long-term cosmetic solution",
+    "html": "<p>A front tooth repaired with bonding can look good for years. If the fracture is large or the tooth has discoloured, a <a class=\"text-link\" href=\"/en/blog/laminate-veneers-beylikduzu/\">veneer</a> or <a class=\"text-link\" href=\"/en/blog/emax-crowns-beylikduzu/\">e.max crown</a> may give a longer-lasting result later. Darkening of an injured tooth over time can mean the nerve has been affected, so follow-up matters.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Emergency front tooth repair in Beylikdüzü",
+    "html": "<p>Dent32 in Beylikdüzü is open every day, including weekends. We try to see patients with a broken front tooth as soon as possible; calling +90 555 011 33 68 before you come shortens the wait. For what to do at night, see our <a class=\"text-link\" href=\"/en/blog/emergency-dentist-on-call-beylikduzu/\">on-call dentist</a> post.</p>\n<p>Our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>: <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. <a class=\"text-link\" href=\"/en/contact/\">Contact and directions</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can a broken piece of tooth be stuck back on?",
+    "a": "Often yes, if the piece is intact and has been stored properly. Keeping it in milk or saline and bringing it the same day improves the chances."
+   },
+   {
+    "q": "If a broken front tooth doesn't hurt, can it wait?",
+    "a": "It can wait a short time but shouldn't be put off. Exposed dentine is sensitive and prone to decay, and the blow may have damaged the nerve."
+   },
+   {
+    "q": "How long does a front tooth repaired with bonding last?",
+    "a": "It can last for years depending on care and biting habits. It can be renewed, or replaced with a veneer, when needed."
+   }
+  ]
+ },
+ {
+  "key": "beyerkenorto",
+  "date": "2026-10-30",
+  "cat": "Orthodontics",
+  "cover": "blog-bey-erken-ortodonti",
+  "slug": "early-orthodontics-children-beylikduzu",
+  "title": "Early orthodontics for children in Beylikdüzü: the age-7 check and removable appliances",
+  "desc": "When should your child have their first orthodontic check? Crossbites, open bites, thumb sucking, space maintainers and appliances that guide jaw growth. Dent32 in Beylikdüzü.",
+  "lead": "Around the age of 7 is recommended for a child's first orthodontic check. By then the first permanent molars and front teeth have started to come through, and problems with jaw growth can be spotted early. Not every child needs early treatment, but for some problems using growth can prevent longer and more complex treatment later.",
+  "sections": [
+   {
+    "id": "neden-7",
+    "h": "Why age 7?",
+    "html": "<p>Around seven, baby and permanent teeth are in the mouth together (mixed dentition). The dentist assesses how the jaws fit together, whether there's room for the permanent teeth and the effect of any habits. Most of the time, only monitoring is recommended; if treatment is needed, the best timing is decided.</p>"
+   },
+   {
+    "id": "sorunlar",
+    "h": "Situations that may need early treatment",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Situation</th><th scope=\"col\">Why it matters</th><th scope=\"col\">Possible approach</th></tr></thead><tbody><tr><td>Crossbite</td><td>Can make jaw growth asymmetric</td><td>An appliance to widen the upper jaw</td></tr><tr><td>Open bite at the front</td><td>Often linked to thumb sucking, dummies or tongue thrusting</td><td>Stopping the habit, an appliance if needed</td></tr><tr><td>Lower jaw in front</td><td>Easier to guide during growth</td><td>Functional appliance or face mask</td></tr><tr><td>Early loss of a baby tooth</td><td>Neighbouring teeth drift into the gap, leaving no room for the permanent tooth</td><td>Space maintainer</td></tr><tr><td>Severe crowding</td><td>Permanent teeth may become impacted</td><td>Monitoring, creating space if needed</td></tr><tr><td>Protruding upper teeth</td><td>Higher risk of breaking in a fall</td><td>Functional appliance</td></tr></tbody></table></div><p>For baby tooth care and the first visit, see the <a class=\"text-link\" href=\"/en/blog/childrens-dentist-beylikduzu/\">children's dentist in Beylikdüzü</a>.</p>"
+   },
+   {
+    "id": "aliskanlik",
+    "h": "Signs parents can notice",
+    "html": "<ul>\n<li>Thumb sucking or dummy use continuing beyond age 4–5.</li>\n<li>Constant mouth breathing or snoring.</li>\n<li>Front teeth not meeting when biting, or lower teeth biting in front of the upper ones.</li>\n<li>Baby teeth falling out very early or very late.</li>\n<li>The jaw shifting sideways when chewing.</li>\n<li>A noticeable lisp.</li>\n</ul><aside class=\"note\"><strong>In short</strong><p>Early orthodontics is often done in two phases: the jaw is guided during growth, then, once the permanent teeth are in, a second shorter treatment if needed.</p></aside>"
+   },
+   {
+    "id": "ergen",
+    "h": "Orthodontics in the teenage years",
+    "html": "<p>Most permanent teeth are in by around age 12–13. Treatment can then be done with braces or, in suitable cases, clear aligners. We compare the options in <a class=\"text-link\" href=\"/en/blog/orthodontics-clear-aligners-beylikduzu/\">orthodontics in Beylikdüzü</a>.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Children's orthodontic checks at Dent32",
+    "html": "<p>At Dent32 we do children's orthodontic checks in a playful, unfrightening way and explain the findings clearly to parents. Our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a> is at <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. To book, call +90 555 011 33 68 or use the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>; weekend appointments avoid clashing with school.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Are braces fitted on a 7-year-old?",
+    "a": "Usually not fixed braces; removable or fixed appliances are used if needed. For most children, monitoring is enough."
+   },
+   {
+    "q": "Does thumb sucking permanently damage the teeth?",
+    "a": "If it stops before the permanent teeth come through, the problem often corrects itself. If it goes on for a long time, an open bite and a narrow jaw can develop."
+   },
+   {
+    "q": "Does early treatment remove the need for braces later?",
+    "a": "For some children it can; for others it shortens the second phase. It depends on the problem and on growth."
+   }
+  ]
+ },
+ {
+  "key": "beykronik",
+  "date": "2026-10-30",
+  "cat": "Guide",
+  "cover": "blog-bey-kronik",
+  "slug": "dental-care-diabetes-blood-thinners-beylikduzu",
+  "title": "Diabetes, blood pressure, blood thinners: safe dental treatment in Beylikdüzü for people with long-term conditions",
+  "desc": "Dental treatment with diabetes, high blood pressure, heart disease, blood thinners or osteoporosis medication: what to tell your dentist, whether medication should be stopped, and precautions before extractions and implants. Dent32 in Beylikdüzü.",
+  "lead": "Someone with a long-term condition can have dental treatment; what matters is that the condition is under control and the dentist knows what medication you take. Don't stop blood thinners or other medication on your own. When needed, the dentist plans treatment together with the doctor who looks after you.",
+  "sections": [
+   {
+    "id": "soyle",
+    "h": "Always tell your dentist",
+    "html": "<ul>\n<li>All the medication you take and the doses (a photo of the boxes works too).</li>\n<li>Blood thinners: warfarin, newer anticoagulants, aspirin and similar.</li>\n<li>Medication for osteoporosis or cancer treatment (bisphosphonates, denosumab).</li>\n<li>Heart valve disease, a prosthetic heart valve or a history of endocarditis.</li>\n<li>Diabetes and your latest HbA1c result.</li>\n<li>Allergies, especially to medicines and latex.</li>\n</ul><aside class=\"note\"><strong>In short</strong><p>If medication needs stopping or changing, the doctor who prescribed it decides. Most simple procedures can be done with suitable precautions without stopping medication.</p></aside>"
+   },
+   {
+    "id": "hastalik",
+    "h": "What to watch for, by condition",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Condition</th><th scope=\"col\">In dental treatment</th></tr></thead><tbody><tr><td>Diabetes</td><td>If well controlled, treatment and implants are possible; with poor control, gum disease and healing problems increase. Eat your usual meal before the appointment.</td></tr><tr><td>High blood pressure</td><td>Take your medication as usual; if blood pressure is very high, planned procedures may be postponed.</td></tr><tr><td>Blood thinners</td><td>For simple extractions and gum procedures, local bleeding control is usually enough without stopping the medication; with warfarin, a recent INR is checked.</td></tr><tr><td>Osteoporosis medication</td><td>Especially with intravenous drugs, extractions and implants need careful planning because of jawbone complications.</td></tr><tr><td>Heart disease</td><td>Some heart valve conditions need preventive antibiotics before procedures; this is decided on a cardiologist's advice.</td></tr><tr><td>Pregnancy</td><td>Covered in a separate guide: <a class=\"text-link\" href=\"/en/blog/dental-treatment-during-pregnancy/\">dental treatment during pregnancy</a>.</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "diyabet",
+    "h": "The two-way link between diabetes and gum disease",
+    "html": "<p>Poorly controlled diabetes speeds up gum disease, and untreated gum inflammation can make blood sugar harder to control. That's why regular <a class=\"text-link\" href=\"/en/blog/teeth-cleaning-beylikduzu/\">professional cleaning</a> and <a class=\"text-link\" href=\"/en/blog/gum-treatment-beylikduzu/\">gum treatment</a> are especially important for people with diabetes. If you have diabetes and are considering implants, see <a class=\"text-link\" href=\"/en/blog/who-can-get-dental-implants/\">who can get dental implants</a>.</p>"
+   },
+   {
+    "id": "agiz-kurulugu",
+    "h": "Dry mouth caused by medication",
+    "html": "<p>Many blood pressure, antidepressant, allergy and diuretic medicines reduce saliva. Dry mouth raises the risk of decay and of sore spots under dentures. Drinking water often, sugar-free gum, fluoride toothpaste and regular check-ups help. We also cover this in <a class=\"text-link\" href=\"/en/blog/dental-care-older-adults-beylikduzu/\">dental care for older adults</a>.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Patients with long-term conditions at Dent32",
+    "html": "<p>At Dent32 we take a detailed medical history and medication list before treatment and, where needed, contact your doctor to plan together. Our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a> is at <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>; to book, call +90 555 011 33 68 or use the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "I take blood thinners. Should I stop before an extraction?",
+    "a": "Don't stop on your own. Most simple extractions can be done without stopping; if needed, the dentist talks to the doctor who prescribed the medication."
+   },
+   {
+    "q": "Can people with diabetes have implants?",
+    "a": "Implants can be successful when blood sugar is well controlled. With poor control, getting blood sugar in order first is recommended."
+   },
+   {
+    "q": "Should I take my blood pressure medication on the day of my appointment?",
+    "a": "Yes, unless told otherwise, take your medication as usual. Your blood pressure may be measured at the appointment."
+   }
+  ]
+ },
+ {
+  "key": "beydugun",
+  "date": "2026-10-30",
+  "cat": "Aesthetics",
+  "cover": "blog-bey-dugun",
+  "slug": "wedding-smile-beylikduzu",
+  "title": "Getting your smile ready for the wedding: how many months ahead should you start in Beylikdüzü?",
+  "desc": "A timeline for getting your smile ready before a wedding, engagement or big day: how far ahead to start orthodontics, veneers, zirconia, whitening and cleaning. Dent32 in Beylikdüzü.",
+  "lead": "If you want to refresh your smile before a wedding or engagement, the earlier you start the more options you have. Straightening teeth takes months; for veneers or zirconia, starting at least 1–2 months ahead and for whitening 2–4 weeks ahead gives a comfortable plan. It's safest not to leave any major treatment for the last two weeks.",
+  "sections": [
+   {
+    "id": "takvim",
+    "h": "What's possible depending on how long you have",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Time left</th><th scope=\"col\">What's possible</th></tr></thead><tbody><tr><td>12 months or more</td><td>Straightening with clear aligners or braces, then cosmetic touches</td></tr><tr><td>6–12 months</td><td>Clear aligners for mild crowding; implant planning for a missing tooth</td></tr><tr><td>2–6 months</td><td>Veneers, e.max or zirconia crowns, bonding, gum contouring</td></tr><tr><td>1–2 months</td><td>Bonding, whitening, replacing old fillings</td></tr><tr><td>2–4 weeks</td><td>In-clinic or at-home whitening</td></tr><tr><td>1–2 weeks</td><td>Scale and polish</td></tr></tbody></table></div><p>If time is short, focus first on the most visible problem; squeezing everything into a few weeks is risky.</p>"
+   },
+   {
+    "id": "dikkat",
+    "h": "Things to bear in mind",
+    "html": "<ul>\n<li>If crowns or veneers are planned, whitening comes first; the restorations are matched to the whitened teeth.</li>\n<li>There may be 1–2 days of sensitivity after whitening; don't schedule it for the wedding day.</li>\n<li>Don't leave extractions, implants or gum procedures, which can cause swelling, for the final weeks.</li>\n<li>Don't skip the trial stage for veneers and crowns; a smile design plan helps them look natural in photos.</li>\n</ul><aside class=\"note\"><strong>In short</strong><p>What shows most in photos is often colour and alignment. Sometimes whitening and a few bondings are enough; extensive treatment isn't always needed.</p></aside>"
+   },
+   {
+    "id": "secenek",
+    "h": "Which treatment should you choose?",
+    "html": "<p>See <a class=\"text-link\" href=\"/en/blog/orthodontics-clear-aligners-beylikduzu/\">clear aligners or braces</a> for alignment, <a class=\"text-link\" href=\"/en/blog/teeth-whitening-beylikduzu/\">teeth whitening</a> for colour, <a class=\"text-link\" href=\"/en/blog/bonding-gap-teeth-beylikduzu/\">bonding</a> for shape and small gaps, and <a class=\"text-link\" href=\"/en/blog/smile-design-beylikduzu/\">smile design</a> for bigger changes. Couples can come together too; we can book consecutive appointments.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Smile preparation at Dent32 in Beylikdüzü",
+    "html": "<p>At Dent32 we first assess your smile with photos and draw up a realistic timeline around your wedding date. You can see examples in our <a class=\"text-link\" href=\"/en/gallery/\">gallery</a>. Our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>: <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. To book: +90 555 011 33 68 or the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can veneers be done a month before the wedding?",
+    "a": "In some cases, but time is tight; starting at least 1–2 months ahead leaves room for the trial and any adjustments."
+   },
+   {
+    "q": "How long before the wedding should whitening be done?",
+    "a": "Usually 2–4 weeks before, so sensitivity has passed and the shade has settled, with time for an extra session if needed."
+   },
+   {
+    "q": "Can I have wedding photos taken while wearing clear aligners?",
+    "a": "Aligners can be taken out for the day, but talk to your dentist about short breaks so the treatment plan isn't affected."
+   }
+  ]
+ },
+ {
+  "key": "beykanalyenileme",
+  "date": "2026-10-30",
+  "cat": "Treatment",
+  "cover": "blog-bey-kanal-yenileme",
+  "slug": "root-canal-retreatment-beylikduzu",
+  "title": "Root canal retreatment in Beylikdüzü: if a root-filled tooth hurts again, does it have to come out?",
+  "desc": "Why does a tooth that's had root canal treatment hurt, swell or develop a gum boil? Root canal retreatment, root-tip surgery (apicoectomy) and when extraction is needed. Dent32 in Beylikdüzü.",
+  "lead": "A tooth that's had root canal treatment can hurt again years later, swell, or develop a pimple-like bump on the gum (a sinus tract). That doesn't always mean it has to be extracted. In suitable cases the old root filling can be removed and the treatment redone, or minor surgery can be done at the root tip. The decision is made with an X-ray and, if needed, a CT scan.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Why does a root-filled tooth cause problems again?",
+    "html": "<ul>\n<li>An extra canal that wasn't found or fully cleaned the first time.</li>\n<li>Bacteria leaking into the canal around the edge of a filling or crown.</li>\n<li>The permanent crown not being made for a long time.</li>\n<li>A crack or fracture in the root.</li>\n<li>New decay reaching the root canal.</li>\n</ul><p>We explain root canal treatment in general in <a class=\"text-link\" href=\"/en/blog/root-canal-treatment-beylikduzu/\">root canal treatment in Beylikdüzü</a>.</p>"
+   },
+   {
+    "id": "secenek",
+    "h": "Treatment options",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Option</th><th scope=\"col\">What's done</th><th scope=\"col\">When it's suitable</th></tr></thead><tbody><tr><td>Root canal retreatment</td><td>The old root filling is removed and the canals are cleaned and filled again</td><td>If the canals can be reached and the root is sound</td></tr><tr><td>Root-tip surgery (apicoectomy)</td><td>Through the gum, the root tip and surrounding infection are removed</td><td>If reaching the canal from above is difficult or risky (e.g. a new, good crown or post is in place)</td></tr><tr><td>Extraction and implant or bridge</td><td>The tooth is removed and the gap filled</td><td>With a vertical root fracture, or too little sound tooth left</td></tr></tbody></table></div><aside class=\"note\"><strong>In short</strong><p>Keeping your own tooth is usually the first choice. But trying to save a tooth with a cracked root can waste time and money, so an accurate diagnosis matters.</p></aside>"
+   },
+   {
+    "id": "belirti",
+    "h": "Symptoms that mean you should come in",
+    "html": "<ul>\n<li>Pain when pressing or biting on a root-filled tooth.</li>\n<li>Recurring swelling or a pimple-like bump on the gum.</li>\n<li>A bad taste or discharge.</li>\n<li>Facial swelling: don't wait — see <a class=\"text-link\" href=\"/en/blog/dental-abscess/\">dental abscess</a>.</li>\n</ul><p>Sometimes a problem in a root-filled tooth gives no symptoms and shows up as a shadow at the root tip on a routine X-ray. Whether to monitor or treat then depends on the size of the lesion and whether it's changing.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Assessment at Dent32 in Beylikdüzü",
+    "html": "<p>At Dent32 we look at the X-ray of the root-filled tooth with you and explain the pros and cons of retreatment, surgery or extraction clearly. Our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a> is at <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. To book: +90 555 011 33 68 or the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can root canal treatment be done a second time?",
+    "a": "Yes, retreatment is a common procedure. Success depends on the root being sound and the canals being reachable."
+   },
+   {
+    "q": "Is retreatment painful?",
+    "a": "It's done under local anaesthetic. The tooth may be tender to bite on for a few days afterwards."
+   },
+   {
+    "q": "Retreatment or an implant?",
+    "a": "If the root is sound and there's enough healthy tooth left, saving your own tooth is usually tried first. With a root fracture, an implant may be more predictable."
+   }
+  ]
+ },
+ {
+  "key": "beytekdis",
+  "date": "2026-10-30",
+  "cat": "Implants",
+  "cover": "blog-bey-tek-dis",
+  "slug": "single-missing-tooth-beylikduzu",
+  "title": "One missing tooth in Beylikdüzü: implant, bridge or adhesive bridge?",
+  "desc": "Which option is right for a single missing tooth? Implant, conventional bridge, adhesive (Maryland) bridge and partial denture compared, and the risks of leaving the gap. Dent32 in Beylikdüzü.",
+  "lead": "The most common options for a single missing tooth are an implant, a conventional bridge and, especially at the front, an adhesive (Maryland) bridge. If the neighbouring teeth are healthy and the bone is suitable, an implant replaces the tooth without touching them. Leaving the gap for years can make neighbouring teeth tilt and the opposing tooth over-erupt.",
+  "sections": [
+   {
+    "id": "bos",
+    "h": "What happens if you leave the gap?",
+    "html": "<ul>\n<li>Neighbouring teeth tilt into the gap and food collects between them.</li>\n<li>The opposing tooth grows into the space; the bite can change.</li>\n<li>Bone in the gap shrinks over time; a bone graft may be needed for an implant later.</li>\n<li>At the front, appearance and speech are affected; at the back, chewing.</li>\n</ul><p>A single missing back tooth may seem unimportant at first, but these changes develop slowly over the years.</p>"
+   },
+   {
+    "id": "karsilastirma",
+    "h": "Comparing the options",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Option</th><th scope=\"col\">Effect on neighbouring teeth</th><th scope=\"col\">Time</th><th scope=\"col\">Note</th></tr></thead><tbody><tr><td>Implant</td><td>Untouched</td><td>Usually 2–6 months</td><td>Needs enough bone; long-lasting</td></tr><tr><td>Conventional bridge</td><td>Two neighbouring teeth are cut down</td><td>1–2 weeks</td><td>Sensible if the neighbours need crowns anyway</td></tr><tr><td>Adhesive (Maryland) bridge</td><td>Minimal work on the back of a neighbouring tooth</td><td>1–2 weeks</td><td>Mostly front teeth and younger patients</td></tr><tr><td>Removable partial denture</td><td>Clasps grip neighbouring teeth</td><td>Short</td><td>Economical but less comfortable</td></tr></tbody></table></div><p>We compare two of these in detail in <a class=\"text-link\" href=\"/en/blog/implant-or-bridge/\">implant or bridge</a>. What happens when bone is lacking is in <a class=\"text-link\" href=\"/en/blog/bone-graft-sinus-lift-beylikduzu/\">bone grafts and sinus lifts</a>.</p>"
+   },
+   {
+    "id": "kim",
+    "h": "Which option for which situation?",
+    "html": "<ul>\n<li><strong>Healthy neighbours, enough bone:</strong> An implant is usually the first choice.</li>\n<li><strong>Neighbours need large fillings or crowns:</strong> A conventional bridge protects these teeth too.</li>\n<li><strong>Young patient, missing front tooth, still growing:</strong> An adhesive bridge or temporary solution until growth ends; an implant later.</li>\n<li><strong>Surgery not wanted for health or budget reasons:</strong> A bridge or partial denture.</li>\n</ul><aside class=\"note\"><strong>In short</strong><p>The best option isn't simply the \"most expensive\" or \"fastest\"; it's the one that suits your neighbouring teeth and long-term plan.</p></aside>"
+   },
+   {
+    "id": "dent32",
+    "h": "Planning for a missing tooth at Dent32 in Beylikdüzü",
+    "html": "<p>At Dent32 we compare the options in writing after an examination and X-ray. For the whole implant process, see <a class=\"text-link\" href=\"/en/blog/dental-implants-beylikduzu-istanbul/\">dental implants in Beylikdüzü</a>. Our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>: <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. To book: +90 555 011 33 68 or the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is an implant or a bridge better for one tooth?",
+    "a": "If the neighbouring teeth are healthy, an implant is usually preferred because it doesn't touch them. If they need crowns anyway, a bridge can make sense."
+   },
+   {
+    "q": "How long does a Maryland bridge last?",
+    "a": "It depends on the bonding surface and biting forces. It can occasionally come off and be re-bonded; at the front it can be a good interim or long-term solution."
+   },
+   {
+    "q": "How long can I wait before getting an implant for a missing tooth?",
+    "a": "Waiting too long increases bone loss. An implant is usually planned within 2–3 months of extraction, and in suitable cases on the same day."
+   }
+  ]
+ },
+ {
+  "key": "beysporcu",
+  "date": "2026-10-30",
+  "cat": "Treatment",
+  "cover": "blog-bey-sporcu",
+  "slug": "sports-mouthguard-beylikduzu",
+  "title": "Mouthguards for sport in Beylikdüzü: off-the-shelf or custom-made?",
+  "desc": "Dental injury risk in football, basketball, combat sports and cycling; the difference between stock, boil-and-bite and custom mouthguards, and advice for people with braces. Dent32 in Beylikdüzü.",
+  "lead": "In contact sports and sports with a risk of falling, a mouthguard greatly reduces the chance of teeth breaking or being knocked out. Stock and boil-and-bite guards are cheap and quick; a custom guard is made from an impression, so it fits better and gets in the way of speaking and breathing less.",
+  "sections": [
+   {
+    "id": "kimler",
+    "h": "Who should wear a mouthguard?",
+    "html": "<ul>\n<li>Combat sports such as boxing, kickboxing, judo, karate and taekwondo.</li>\n<li>Basketball, football, handball, hockey and rugby.</li>\n<li>Sports with a risk of falling, such as cycling, skateboarding, skating and skiing.</li>\n<li>Children and teenagers with braces who play contact sports.</li>\n<li>People with protruding upper front teeth, which break more easily in a knock.</li>\n</ul>"
+   },
+   {
+    "id": "tur",
+    "h": "Types of mouthguard",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Type</th><th scope=\"col\">Pros</th><th scope=\"col\">Cons</th></tr></thead><tbody><tr><td>Stock</td><td>Cheap, ready to use</td><td>Poor fit, hampers speaking and breathing</td></tr><tr><td>Boil-and-bite</td><td>Partly adapts to the mouth</td><td>Can end up thin, loses shape over time</td></tr><tr><td>Custom-made</td><td>Fits exactly, thickness tailored to the sport, more comfortable</td><td>Needs an impression, takes a few days</td></tr></tbody></table></div><p>A custom guard is made in a lab from an impression of your teeth. In growing children, it needs replacing as the teeth change.</p><aside class=\"note\"><strong>In short</strong><p>A night guard for grinding and a sports guard are different; one shouldn't be used instead of the other. We cover night guards in <a class=\"text-link\" href=\"/en/blog/teeth-grinding-jaw-pain-beylikduzu/\">teeth grinding and jaw pain</a>.</p></aside>"
+   },
+   {
+    "id": "travma",
+    "h": "If a tooth breaks or comes out on the pitch",
+    "html": "<ol>\n<li>Hold a knocked-out tooth by the crown, not the root.</li>\n<li>If it's dirty, rinse briefly with milk or saline; don't scrub it.</li>\n<li>If possible, put it back in its socket and bite on a clean cloth to hold it; otherwise keep it in milk.</li>\n<li>Get to a dentist as soon as possible; the first 30–60 minutes are critical.</li>\n</ol><p>We cover what to do in <a class=\"text-link\" href=\"/en/blog/chipped-front-tooth-beylikduzu/\">chipped or broken front tooth</a> and, for children, <a class=\"text-link\" href=\"/en/blog/knocked-out-or-broken-tooth/\">knocked-out or broken tooth</a>.</p>"
+   },
+   {
+    "id": "bakim",
+    "h": "Looking after your mouthguard",
+    "html": "<ul>\n<li>Rinse with cold water after each use and occasionally clean with a soft brush and soap.</li>\n<li>Don't wash it in hot water or leave it in the sun or a car; it will lose its shape.</li>\n<li>Keep it in a ventilated case.</li>\n<li>Replace it if it tears, gets thin or no longer fits.</li>\n</ul>"
+   },
+   {
+    "id": "dent32",
+    "h": "Sports mouthguards at Dent32 in Beylikdüzü",
+    "html": "<p>At Dent32 we take impressions for custom mouthguards based on your sport and your teeth. We also help the families of children and teenagers who train at sports clubs in Beylikdüzü. Our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>: <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. To book: +90 555 011 33 68 or the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can you wear a mouthguard with braces?",
+    "a": "Yes, and you should. Braces increase lip and cheek injuries in a knock; there are guards designed for orthodontic patients."
+   },
+   {
+    "q": "How long does a custom mouthguard take?",
+    "a": "It's usually ready within a few days to a week after the impression."
+   },
+   {
+    "q": "How often should my child's mouthguard be replaced?",
+    "a": "Because they're still growing and teeth are changing, often every season or whenever it stops fitting."
+   }
+  ]
+ },
+ {
+  "key": "beyrehab",
+  "date": "2026-10-30",
+  "cat": "Guide",
+  "cover": "blog-bey-rehabilitasyon",
+  "slug": "full-mouth-rehabilitation-beylikduzu",
+  "title": "Haven't seen a dentist for years? Step-by-step full mouth rehabilitation in Beylikdüzü",
+  "desc": "A comprehensive treatment plan for patients with multiple cavities, missing teeth and gum problems: emergencies, disease control, re-evaluation, permanent treatment and maintenance. Dent32 in Beylikdüzü.",
+  "lead": "Someone who hasn't seen a dentist for a long time may have cavities, broken teeth, gaps and gum problems all at once. Rather than doing everything at the same time, a step-by-step plan is the healthiest approach: first pain and infection, then getting the disease under control, and finally permanent and cosmetic treatment. That keeps both the budget and the timeline manageable.",
+  "sections": [
+   {
+    "id": "asamalar",
+    "h": "The stages of full mouth rehabilitation",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Stage</th><th scope=\"col\">Aim</th><th scope=\"col\">Examples</th></tr></thead><tbody><tr><td>1. Urgent</td><td>Relieve pain and infection</td><td>Draining an abscess, starting a root canal on a painful tooth, removing a tooth that can't be saved</td></tr><tr><td>2. Disease control</td><td>Stop decay and gum disease</td><td>Scale and polish, deep cleaning, fillings, temporary fillings</td></tr><tr><td>3. Re-evaluation</td><td>See how things have healed and finalise the long-term plan</td><td>Gum measurements, check-up X-rays</td></tr><tr><td>4. Permanent treatment</td><td>Rebuild chewing and appearance</td><td>Implants, crowns, bridges, dentures, orthodontics</td></tr><tr><td>5. Maintenance</td><td>Protect the results</td><td>Check-ups and cleaning every 3–6 months</td></tr></tbody></table></div><aside class=\"note\"><strong>In short</strong><p>Crowns and implants placed without treating gum disease don't last as long. That's why stage 2 shouldn't be skipped.</p></aside>"
+   },
+   {
+    "id": "oncelik",
+    "h": "How we set priorities",
+    "html": "<ul>\n<li>Pain and swelling always come first.</li>\n<li>Fast-progressing cavities are filled before they need root canal treatment.</li>\n<li>Decisions on teeth of uncertain prognosis can be made after gum treatment.</li>\n<li>Cosmetic wishes are planned at the final stage, on a healthy foundation.</li>\n</ul><p>The plan can be split into stages to fit your budget; at the end of each stage your oral health is better than before. We explain what affects cost in <a class=\"text-link\" href=\"/en/blog/dental-treatment-prices-beylikduzu/\">dental treatment prices in Beylikdüzü</a>.</p>"
+   },
+   {
+    "id": "cekinme",
+    "h": "Don't be embarrassed — you won't be judged",
+    "html": "<p>There's usually a reason for not seeing a dentist for a long time: fear, being busy, money worries or a bad past experience. What matters to us is what happens from today. We describe how we help with fear in <a class=\"text-link\" href=\"/en/blog/dental-anxiety-beylikduzu/\">dental anxiety</a>.</p><p>It's also fine for the first appointment to be just an examination and X-ray, with treatment starting at the next one.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Comprehensive planning at Dent32 in Beylikdüzü",
+    "html": "<p>At Dent32, implants, crowns, orthodontics, gum and root canal treatment are planned by the same team, so our dentists decide together on complex cases. We give you the plan, the stages and an estimated cost in writing. Our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>: <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. To book: +90 555 011 33 68 or the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "How long does full mouth rehabilitation take?",
+    "a": "Anywhere from a few weeks to a year, depending on what's involved. Implants and orthodontics make it longer."
+   },
+   {
+    "q": "Do I have to pay for all of the treatment at once?",
+    "a": "Because the plan is staged, payment is usually staged too. We can discuss payment options at your appointment."
+   },
+   {
+    "q": "Will many of my teeth need to come out?",
+    "a": "That can only be said after an examination and X-ray. We try to save every tooth we can and explain the reasoning behind any extraction."
+   }
+  ]
+ },
+ {
+  "key": "beyleke",
+  "date": "2026-10-30",
+  "cat": "Aesthetics",
+  "cover": "blog-bey-leke",
+  "slug": "white-spots-on-teeth-beylikduzu",
+  "title": "White spots on teeth: causes and treatment in Beylikdüzü (fluorosis, MIH, after braces)",
+  "desc": "Why do white spots form on teeth? Early decay, fluorosis, MIH and post-braces marks; remineralisation, resin infiltration, microabrasion, whitening and bonding. Dent32 in Beylikdüzü.",
+  "lead": "White spots on teeth aren't always the same thing. Some are the start of decay and can be stopped with the right care; others formed while the tooth was developing (fluorosis, MIH) and are permanent. Treatment depends on the cause and depth of the spot, and good results are often possible without drilling.",
+  "sections": [
+   {
+    "id": "nedenler",
+    "h": "Causes of white spots",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Cause</th><th scope=\"col\">Appearance</th><th scope=\"col\">Note</th></tr></thead><tbody><tr><td>Early decay (demineralisation)</td><td>Near the gum line, matt, chalky</td><td>Can be stopped; if it progresses, a cavity forms</td></tr><tr><td>Marks after braces</td><td>Rings around where brackets were</td><td>Linked to poor cleaning during braces</td></tr><tr><td>Fluorosis</td><td>Symmetrical lines or flecks</td><td>Too much fluoride in childhood</td></tr><tr><td>MIH (molar-incisor hypomineralisation)</td><td>White, yellow or brown patches on first molars and front teeth</td><td>Can cause sensitivity and a tendency to decay quickly</td></tr><tr><td>After an injury</td><td>A spot on a single tooth</td><td>A knock to a baby tooth can affect the permanent tooth beneath</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "tedavi",
+    "h": "Treatment options",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Approach</th><th scope=\"col\">When?</th><th scope=\"col\">Tooth reduction</th></tr></thead><tbody><tr><td>Remineralisation (fluoride, calcium-phosphate products)</td><td>New, shallow spots and early decay</td><td>None</td></tr><tr><td>Resin infiltration</td><td>Post-braces and shallow spots</td><td>None</td></tr><tr><td>Microabrasion</td><td>Shallow fluorosis spots</td><td>Very little (surface only)</td></tr><tr><td>Whitening</td><td>To blend spots with the surrounding tooth</td><td>None</td></tr><tr><td>Bonding</td><td>Deep spots</td><td>Little</td></tr><tr><td>Veneers</td><td>Widespread, deep spots, or when colour and shape change together</td><td>Little</td></tr></tbody></table></div><p>Whitening can make some white spots look more noticeable at first, so the order of treatment matters. We cover whitening in <a class=\"text-link\" href=\"/en/blog/teeth-whitening-beylikduzu/\">teeth whitening in Beylikdüzü</a> and bonding in <a class=\"text-link\" href=\"/en/blog/bonding-gap-teeth-beylikduzu/\">bonding and gap teeth</a>.</p>"
+   },
+   {
+    "id": "cocuk",
+    "h": "If you see white spots on a child's teeth",
+    "html": "<p>The first permanent molar comes through around age 6. White-yellow patches, sensitivity or pain when brushing on this tooth may be MIH. Because MIH teeth decay and break more easily, early protection (fissure sealants, fluoride, fillings when needed) is important. See the <a class=\"text-link\" href=\"/en/blog/childrens-dentist-beylikduzu/\">children's dentist in Beylikdüzü</a> for more.</p><aside class=\"note\"><strong>In short</strong><p>New matt white spots at the gum line are a warning: time to review brushing technique and sugary snacks.</p></aside>"
+   },
+   {
+    "id": "dent32",
+    "h": "Assessment at Dent32 in Beylikdüzü",
+    "html": "<p>At Dent32 we find the cause of the spots with an examination and photos and start with the least invasive option. Our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>: <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. To book: +90 555 011 33 68 or the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Do white spots on teeth go away on their own?",
+    "a": "Early decay spots can stop with good care and fluoride, and some become less visible over time. Developmental spots don't go away on their own."
+   },
+   {
+    "q": "Can white spots left after braces be treated?",
+    "a": "Yes. Remineralisation is tried first; for permanent spots, resin infiltration or bonding can work well."
+   },
+   {
+    "q": "Does whitening get rid of white spots?",
+    "a": "On its own, usually not; but by lightening the overall shade it can make them less noticeable."
+   }
+  ]
+ },
+ {
+  "key": "beycapraz",
+  "date": "2026-10-30",
+  "cat": "Orthodontics",
+  "cover": "blog-bey-capraz",
+  "slug": "crooked-teeth-without-braces-beylikduzu",
+  "title": "Crooked and crowded teeth in Beylikdüzü: can they be fixed without braces?",
+  "desc": "Options for crooked and crowded teeth: clear aligners, braces, \"instant orthodontics\" with veneers, bonding and reshaping. Which suits which case, and what are the risks? Dent32 in Beylikdüzü.",
+  "lead": "The most tooth-friendly way to straighten crooked and crowded teeth is orthodontics, and nearly invisible clear aligners can now be used for it. For very mild irregularities, bonding or small reshaping may be enough. \"Straightening without braces\" using veneers only suits selected cases; if it needs heavy tooth reduction, it can harm the teeth in the long run.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Why do teeth become crowded?",
+    "html": "<ul>\n<li>A mismatch between jaw size and tooth size.</li>\n<li>Early loss of baby teeth leaving no room for permanent teeth.</li>\n<li>Lower front teeth gradually crowding in adulthood.</li>\n<li>Not wearing a retainer after orthodontics.</li>\n<li>Teeth drifting because of gum disease.</li>\n</ul><p>To stop teeth moving after orthodontics, see <a class=\"text-link\" href=\"/en/blog/retainers-after-orthodontics/\">retainers</a>.</p>"
+   },
+   {
+    "id": "secenekler",
+    "h": "The options and when they suit",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Approach</th><th scope=\"col\">Suitable for</th><th scope=\"col\">Time</th><th scope=\"col\">Tooth reduction</th></tr></thead><tbody><tr><td>Clear aligners</td><td>Mild to moderate crowding, many adult cases</td><td>A few months – 1.5 years</td><td>None</td></tr><tr><td>Braces</td><td>Any degree of crowding and bite problems</td><td>Usually 1–2 years</td><td>None</td></tr><tr><td>Bonding and reshaping</td><td>Very mild irregularities, uneven edges</td><td>One visit</td><td>None or very little</td></tr><tr><td>Veneers to improve appearance</td><td>Mild irregularity + wish to change colour/shape</td><td>2–3 appointments</td><td>Little; depends on case selection</td></tr></tbody></table></div><aside class=\"note\"><strong>In short</strong><p>If teeth are noticeably out of line, correcting them with veneers needs a lot of reduction. A short course of orthodontics followed by more conservative veneers usually gives a healthier result.</p></aside>"
+   },
+   {
+    "id": "yetiskin",
+    "h": "For adults",
+    "html": "<p>There's no upper age limit for orthodontics; with healthy gums and bone, treatment is possible in your 40s and 50s. We cover adult treatment in <a class=\"text-link\" href=\"/en/blog/adult-orthodontics/\">adult orthodontics</a> and compare aligners and braces in <a class=\"text-link\" href=\"/en/blog/clear-aligners-vs-braces/\">clear aligners vs braces</a>. For local options, see <a class=\"text-link\" href=\"/en/blog/orthodontics-clear-aligners-beylikduzu/\">orthodontics in Beylikdüzü</a>.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Assessment at Dent32 in Beylikdüzü",
+    "html": "<p>At Dent32 we look at orthodontic and cosmetic options for crowded teeth together and explain clearly how they differ in tooth reduction, time and result. Our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>: <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong>. To book: +90 555 011 33 68 or the <a class=\"text-link\" href=\"/en/contact/\">contact page</a>.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can crowded teeth be fixed with veneers?",
+    "a": "For very mild irregularities, possibly. With noticeable crowding, too much reduction would be needed, so orthodontics is recommended first."
+   },
+   {
+    "q": "Do clear aligners work for all crowding?",
+    "a": "For most mild and moderate crowding, yes. In severe cases and some bite problems, braces may be more predictable."
+   },
+   {
+    "q": "My lower front teeth have become crowded with age. Why?",
+    "a": "Teeth can slowly move forward and inward in adulthood. A short course of clear aligners followed by a retainer is often enough."
+   }
+  ]
+ },
+ {
   "key": "beypoli",
   "date": "2026-10-26",
   "cat": "Guide",
