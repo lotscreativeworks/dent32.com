@@ -6,6 +6,10 @@ import { Icon } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { dateBadge, type Lang, type Post, route, translator, WA } from "@/lib/site";
 
+/** Görselin ekrandaki genişliği: yatay şerit kartı (.hx-rail) ve 3 sütunlu ızgara (.blog-grid, .gallery, .team) */
+export const SIZES_RAIL = "(max-width: 640px) 78vw, 268px";
+export const SIZES_GRID3 = "(max-width: 600px) 92vw, (max-width: 960px) 46vw, 380px";
+
 /** Gecikmeli giriş animasyonu için stil: --d */
 export const delay = (d: number) => ({ ["--d" as string]: d });
 
@@ -16,7 +20,7 @@ export function LangRail({ lang, ...rest }: { lang: Lang; label: string; classNa
 
 const CAT: Record<string, [string, string]> = { implant: ["İmplant", "Implant"], zirkonyum: ["Zirkonyum", "Zirconia"] };
 
-export function BaCard({ lang, kind, n, d = 0 }: { lang: Lang; kind: string; n: number; d?: number }) {
+export function BaCard({ lang, kind, n, d = 0, sizes = SIZES_RAIL }: { lang: Lang; kind: string; n: number; d?: number; sizes?: string }) {
   const t = translator(lang);
   const name = t(...CAT[kind]);
   return (
@@ -25,7 +29,7 @@ export function BaCard({ lang, kind, n, d = 0 }: { lang: Lang; kind: string; n: 
         altBefore={t(`${name} vakası ${n}: tedavi öncesi`, `${name} case ${n}: before treatment`)}
         altAfter={t(`${name} vakası ${n}: tedavi sonrası`, `${name} case ${n}: after treatment`)}
         label={t(`${name} vakası ${n}: öncesi ve sonrası karşılaştırma`, `${name} case ${n}: before and after comparison`)}
-        tagBefore={t("Öncesi", "Before")} tagAfter={t("Sonrası", "After")} />
+        tagBefore={t("Öncesi", "Before")} tagAfter={t("Sonrası", "After")} sizes={sizes} />
       <figcaption>{name}</figcaption>
     </figure>
   );
@@ -36,7 +40,7 @@ export function BlogCard({ lang, post, d = 0, as: H = "h3" }: { lang: Lang; post
   return (
     <Link className="b-card lift rv" style={delay(d)} href={route(`post-${post.key}`, lang)}>
       <div className="b-card__media">
-        <div className="b-card__img zoom"><Img name={post.cover} w={900} h={675} alt="" /></div>
+        <div className="b-card__img zoom"><Img name={post.cover} w={900} h={675} alt="" sizes={SIZES_GRID3} /></div>
         <time className="date-badge" dateTime={post.date}><b>{day}</b><small>{month}</small></time>
       </div>
       <p className="b-card__cat">{post.cat}</p>

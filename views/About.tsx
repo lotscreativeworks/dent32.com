@@ -1,4 +1,4 @@
-import { delay, LangRail, NextStep, PageHead, SecHead } from "@/components/blocks";
+import { delay, LangRail, NextStep, PageHead, SecHead, SIZES_GRID3 } from "@/components/blocks";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
 import { CLINIC, type Lang, TEAM, translator } from "@/lib/site";
@@ -32,7 +32,8 @@ export function About({ lang }: { lang: Lang }) {
       <section className="section">
         <div className="wrap bio">
           <div className="bio__portrait zoom rv">
-            <Img name="hakkimizda-huseyin-asci" w={900} h={1200} alt={t("Dr. Hüseyin Aşçı portresi", "Portrait of Dr. Hüseyin Aşçı")} />
+            <Img name="hakkimizda-huseyin-asci" w={900} h={1200} alt={t("Dr. Hüseyin Aşçı portresi", "Portrait of Dr. Hüseyin Aşçı")}
+              sizes="(max-width: 860px) 92vw, 450px" />
           </div>
           <div className="rv" style={delay(1)}>
             <p className="eyebrow">{t("Kurucu hekim", "Founder")}</p>
@@ -65,7 +66,7 @@ export function About({ lang }: { lang: Lang }) {
           <div className="team">
             {TEAM.map((m, i) => (
               <figure key={m.name} className="doc lift rv" style={delay(i)}>
-                <div className="doc__img zoom"><Img name={m.img} w={880} h={1100} alt={m.name} /></div>
+                <div className="doc__img zoom"><Img name={m.img} w={880} h={1100} alt={m.name} sizes={SIZES_GRID3} /></div>
                 <figcaption><h3>{m.name}</h3><p>{m.role[lang]}</p></figcaption>
               </figure>
             ))}
@@ -95,7 +96,7 @@ export function About({ lang }: { lang: Lang }) {
           <LangRail lang={lang} label={t("Klinik fotoğrafları", "Clinic photos")} className="hx-rail--clinic">
             {CLINIC.map((c) => (
               <figure key={c.img} className="clinic-shot zoom">
-                <Img name={c.img} w={1250} h={750} alt={c.caption[lang]} />
+                <Img name={c.img} w={1250} h={750} alt={c.caption[lang]} sizes="(max-width: 640px) 80vw, 500px" />
                 <figcaption>{c.caption[lang]}</figcaption>
               </figure>
             ))}

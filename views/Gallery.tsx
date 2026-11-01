@@ -1,5 +1,5 @@
 import { GalleryGrid } from "@/components/client/GalleryGrid";
-import { BaCard, NextStep, PageHead } from "@/components/blocks";
+import { BaCard, NextStep, PageHead, SIZES_GRID3 } from "@/components/blocks";
 import { Shell } from "@/components/Shell";
 import { type Lang, translator } from "@/lib/site";
 
@@ -21,7 +21,7 @@ export function Gallery({ lang }: { lang: Lang }) {
               { key: "implant", label: t("İmplant", "Implant"), status: status(3) },
               { key: "zirkonyum", label: t("Zirkonyum", "Zirconia"), status: status(3) },
             ]}
-            cards={CASES.map(([k, n], i) => ({ cat: k, node: <BaCard lang={lang} kind={k} n={n} d={i % 3} /> }))} />
+            cards={CASES.map(([k, n], i) => ({ cat: k, node: <BaCard lang={lang} kind={k} n={n} d={i % 3} sizes={SIZES_GRID3} /> }))} />
         </div>
       </section>
       <NextStep lang={lang} />

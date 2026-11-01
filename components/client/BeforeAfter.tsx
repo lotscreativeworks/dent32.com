@@ -12,10 +12,12 @@ type Props = {
   label: string;
   tagBefore: string;
   tagAfter: string;
+  /** Kartın ekrandaki genişliği (srcset seçimi için) */
+  sizes: string;
 };
 
 /** Öncesi/sonrası karşılaştırma: sürükleme, tıklama ve klavye (role="slider") */
-export function BeforeAfter({ before, after, altBefore, altAfter, label, tagBefore, tagAfter }: Props) {
+export function BeforeAfter({ before, after, altBefore, altAfter, label, tagBefore, tagAfter, sizes }: Props) {
   const box = useRef<HTMLDivElement>(null);
   const [pos, setPos] = useState(50);
   const [active, setActive] = useState(false);
@@ -78,8 +80,8 @@ export function BeforeAfter({ before, after, altBefore, altAfter, label, tagBefo
       onPointerMove={(e) => active && fromX(e.clientX)}
       onPointerUp={() => setActive(false)}
       onPointerCancel={() => setActive(false)}>
-      <Img name={after} w={1000} h={750} alt={altAfter} />
-      <Img name={before} w={1000} h={750} alt={altBefore} className="ba__before" />
+      <Img name={after} w={1000} h={750} alt={altAfter} sizes={sizes} />
+      <Img name={before} w={1000} h={750} alt={altBefore} className="ba__before" sizes={sizes} />
       <span className="ba__tag ba__tag--l" aria-hidden="true">{tagBefore}</span>
       <span className="ba__tag ba__tag--r" aria-hidden="true">{tagAfter}</span>
       <div className="ba__handle" role="slider" tabIndex={0} aria-label={label}

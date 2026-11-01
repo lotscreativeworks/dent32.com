@@ -50,7 +50,7 @@ export function Treatments({ lang }: { lang: Lang }) {
                     {tr.post && <Link className="text-link" href={route(`post-${tr.post}`, lang)}>{t("Rehberi okuyun", "Read the guide")}</Link>}
                   </div>
                 </div>
-                <div className="detail__media zoom rv" style={delay(1)}><Img name={tr.img} w={720} h={900} alt="" /></div>
+                <div className="detail__media zoom rv" style={delay(1)}><Img name={tr.img} w={720} h={900} alt="" sizes="(max-width: 860px) 92vw, 480px" /></div>
               </section>
             );
           })}

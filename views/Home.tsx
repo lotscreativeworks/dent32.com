@@ -4,16 +4,18 @@ import { Faq } from "@/components/client/Faq";
 import { HeroVideo } from "@/components/client/HeroVideo";
 import { IgEmbed } from "@/components/client/IgEmbed";
 import { WaForm } from "@/components/client/WaForm";
-import { BaCard, BlogCard, delay, LangRail, NextStep, SecHead } from "@/components/blocks";
+import { BaCard, BlogCard, delay, LangRail, NextStep, SecHead, SIZES_RAIL } from "@/components/blocks";
 import { Icon, Star } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
 import { dentistLd, jsonLd, websiteLd } from "@/lib/seo";
-import { ADDRESS, GMB, IG, type Lang, PHONE, PHONE_E164, POSTS, REELS, REVIEWS, route, STRIP, translator } from "@/lib/site";
+import { ADDRESS, GMB, IG, type Lang, MAP_EMBED, PHONE, PHONE_E164, POSTS, REELS, REVIEWS, route, STRIP, translator } from "@/lib/site";
 
 /** Anasayfadaki "Beylikdüzü diş rehberleri" listesi: [yazı anahtarı, TR, EN] */
 const LOCAL_GUIDES: [string, string, string][] = [
   ["beydis", "Beylikdüzü diş hekimi", "Dentist in Beylikdüzü"],
+  ["huseyinasci", "Dr. Hüseyin Aşçı kimdir?", "Who is Dr. Hüseyin Aşçı?"],
+  ["kadro", "Dent32 hekim kadrosu", "Dent32's dentists"],
   ["beyimplant", "İmplant tedavisi", "Dental implants"],
   ["beyzirk", "Zirkonyum kaplama", "Zirconia crowns"],
   ["beylamine", "Lamine kaplama", "Laminate veneers"],
@@ -104,7 +106,7 @@ export function Home({ lang }: { lang: Lang }) {
               ["kolaj-tedavi-odasi", t("Tedavi odası", "Treatment room")],
               ["kolaj-resepsiyon", t("Resepsiyon ve bekleme alanı", "Reception and waiting area")],
             ] as const).map(([name, alt], i) => (
-              <figure key={name} className="zoom rv" style={delay(i)}><Img name={name} w={800} h={800} alt={alt} /></figure>
+              <figure key={name} className="zoom rv" style={delay(i)}><Img name={name} w={800} h={800} alt={alt} sizes="(max-width: 860px) 46vw, 280px" /></figure>
             ))}
           </div>
           <div className="rv">
@@ -130,7 +132,7 @@ export function Home({ lang }: { lang: Lang }) {
           <LangRail lang={lang} label={t("Tedaviler", "Treatments")} className="hx-rail--treat">
             {STRIP.map((s, i) => (
               <Link key={s.img} className="t-card lift rv" style={delay(i)} href={route("treat", lang, s.anchor)}>
-                <div className="zoom" style={{ height: "100%" }}><Img name={s.img} w={720} h={960} alt="" /></div>
+                <div className="zoom" style={{ height: "100%" }}><Img name={s.img} w={720} h={960} alt="" sizes={SIZES_RAIL} /></div>
                 <h3>{s.title[lang]}</h3>
               </Link>
             ))}
@@ -214,6 +216,10 @@ export function Home({ lang }: { lang: Lang }) {
               <li><span className="info__ico"><Icon name="pin" /></span><div><strong>{t("Adres", "Address")}</strong><address style={{ fontStyle: "normal" }}>{ADDRESS}</address></div></li>
               <li><span className="info__ico"><Icon name="clock" /></span><div><strong>{t("Çalışma günleri", "Opening days")}</strong>{t("Haftanın yedi günü, hafta sonu dahil", "Seven days a week, including weekends")}</div></li>
               <li><span className="info__ico"><Icon name="phone" /></span><div><strong>{t("Telefon ve WhatsApp", "Phone and WhatsApp")}</strong><a href={`tel:${PHONE_E164}`}>{PHONE}</a></div></li>
+              <li><span className="info__ico"><Icon name="pin" /></span><div><strong>{t("Ulaşım", "Getting here")}</strong>
+                {t("Metrobüs hattının geçtiği E-5 yanyolu üzerinde; Beylikdüzü ve Beylikdüzü Belediye durakları yaklaşık 300 m. ",
+                  "On the E-5 service road along the metrobus line; the Beylikdüzü and Beylikdüzü Belediye stops are about 300 m away. ")}
+                <a className="text-link" href={GMB} target="_blank" rel="noopener">{t("Yol tarifi al", "Get directions")}</a></div></li>
             </ul>
           </div>
           <div className="rv" style={delay(1)}>
@@ -223,6 +229,13 @@ export function Home({ lang }: { lang: Lang }) {
                 <li key={key}><Link href={route(`post-${key}`, lang)}>{t(tr, en)} <Icon name="arrow" /></Link></li>
               ))}
             </ul>
+          </div>
+        </div>
+        <div className="wrap map rv">
+          <div className="map__frame">
+            {/* Ekranın altında: lazy, açılışta yüklenmez */}
+            <iframe src={MAP_EMBED(lang)} title={t("Dent32 konumu, Google Haritalar", "Dent32 location on Google Maps")}
+              loading="lazy" referrerPolicy="no-referrer-when-downgrade" allowFullScreen />
           </div>
         </div>
       </section>

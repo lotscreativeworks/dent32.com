@@ -13,6 +13,10 @@ const nextConfig: NextConfig = {
     deviceSizes: [480, 800, 1600],
     imageSizes: [256],
   },
+  // Lighthouse "geçerli kaynak eşlemeleri": tarayıcı JS'i için .map dosyaları da yayınlanır
+  productionBrowserSourceMaps: true,
+  // experimental.inlineCss denendi: CSS her HTML'e iki kez gömülüyor (sıkıştırılmış anasayfa 23 → 47 KB),
+  // sayfalar arası önbellek de kayboluyor; ~50 ms'lik render-blocking kazancına değmiyor.
 };
 
 export default nextConfig;

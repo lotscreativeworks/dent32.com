@@ -47,7 +47,7 @@ export const DENTIST_ID = `${SITE}/#dentist`;
 const AREA_SERVED = ["Beylikdüzü", "Esenyurt", "Büyükçekmece", "Avcılar", "İstanbul"];
 
 /** Kliniğin aranırken kullanılan diğer adları */
-const ALTERNATE_NAMES = ["Dent32 Beylikdüzü Diş Kliniği", "Dent32 Diş Kliniği", "Dent 32"];
+const ALTERNATE_NAMES = ["Dent32 Beylikdüzü", "Dent32 Beylikdüzü Diş Kliniği", "Dent32 Ağız ve Diş Sağlığı Polikliniği", "Dent32 Diş Kliniği", "Dent 32"];
 
 export function dentistLd(lang: Lang) {
   const t = translator(lang);
@@ -56,6 +56,9 @@ export function dentistLd(lang: Lang) {
     alternateName: ALTERNATE_NAMES,
     description: t("Beylikdüzü, İstanbul'da diş kliniği: implant, zirkonyum kaplama, gülüş tasarımı, şeffaf plak, kanal tedavisi, diş eti ve çocuk diş hekimliği.",
       "Dental clinic in Beylikdüzü, Istanbul: implants, zirconia crowns, smile design, clear aligners, root canal treatment, gum care and children's dentistry."),
+    // Aynı adı taşıyan başka şehirlerdeki kliniklerle karıştırılmasın
+    disambiguatingDescription: t("İstanbul Beylikdüzü, Barış Mahallesi'ndeki (Ginza Lavinya, E-5 yanyolu) Dent32 diş kliniği; kurucusu Dr. Hüseyin Aşçı.",
+      "Dent32 dental clinic in Barış, Beylikdüzü, Istanbul (Ginza Lavinya, E-5 service road), founded by Dr. Hüseyin Aşçı."),
     url: absUrl("home", lang), logo: `${SITE}/logo.svg`, image: `${SITE}/img/klinik-01-bina.webp`,
     telephone: PHONE_E164, email: EMAIL,
     address: { "@type": "PostalAddress", streetAddress: STREET, addressLocality: "Beylikdüzü", addressRegion: "İstanbul", postalCode: "34520", addressCountry: "TR" },
