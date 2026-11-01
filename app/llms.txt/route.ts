@@ -21,6 +21,7 @@ export function GET() {
     "- Çalışma günleri / Open: Haftanın yedi günü / seven days a week",
     "- Hizmet bölgesi / Area served: Beylikdüzü, Esenyurt, Büyükçekmece, Avcılar ve İstanbul geneli; yurt dışından gelen hastalar",
     `- Hekimler / Dentists: ${TEAM.map((m) => `${m.name} (${m.role.tr})`).join("; ")}`,
+    "- Kurucu hekim / Founder: Dr. Hüseyin Aşçı (Hüseyin Aşcı olarak da yazılır), İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunu; ortodonti ve diş estetiği. Instagram: https://www.instagram.com/dr.huseyinasci/",
     `- Randevu / Appointments: ${absUrl("contact", "tr")}`,
     "",
     "## Tedaviler / Treatments",

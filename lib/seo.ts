@@ -66,7 +66,14 @@ export function dentistLd(lang: Lang) {
     availableService: TREATMENTS.map((tr) => ({
       "@type": "MedicalProcedure", name: tr.title[lang], description: tr.short[lang], url: SITE + route("treat", lang, tr.id),
     })),
-    founder: { "@type": "Person", name: "Dr. Hüseyin Aşçı" },
+    founder: {
+      "@type": "Person", "@id": `${SITE}/#huseyin-asci`, name: "Dr. Hüseyin Aşçı", alternateName: ["Hüseyin Aşçı", "Hüseyin Aşcı"],
+      jobTitle: t("Diş hekimi, Dent32 kurucusu", "Dentist, founder of Dent32"), url: absUrl("about", lang),
+      image: `${SITE}/img/hekim-huseyin-asci.webp`,
+      alumniOf: { "@type": "CollegeOrUniversity", name: "İstanbul Üniversitesi Diş Hekimliği Fakültesi" },
+      knowsAbout: t("Ortodonti, şeffaf plak, gülüş tasarımı, diş estetiği", "Orthodontics, clear aligners, smile design, aesthetic dentistry"),
+      sameAs: ["https://www.instagram.com/dr.huseyinasci/"],
+    },
     employee: TEAM.map((m) => ({ "@type": "Person", name: m.name, jobTitle: m.role[lang] })),
     availableLanguage: ["tr", "en"],
     ...(CLINIC_HOURS && {
