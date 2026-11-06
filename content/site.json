@@ -509,7 +509,7 @@
    "source": "google",
    "text": {
     "tr": "çok yakın arkadaşımla gelme imkanım oldu tüm doktorları Hüseyin hoca Anıl hoca ve Berk hoca alanında uzman hekimler çok ilgiliydiler bankodaki hanımefendi ve tüm asistanlar işinin gerçekten ehli insanlar sonuna kadar öneririm",
-    "en": "I had the chance to come with a very close friend. All the doctors — Dr. Hüseyin, Dr. Anıl and Dr. Berk — are experts in their field and were very attentive. The lady at the front desk and all the assistants really know their job. I recommend them wholeheartedly."
+    "en": "I had the chance to come with a very close friend. All the doctors — Dr. Hüseyin, Dt. Anıl and Dr. Berk — are experts in their field and were very attentive. The lady at the front desk and all the assistants really know their job. I recommend them wholeheartedly."
    }
   },
   {
@@ -548,7 +548,7 @@
   },
   {
    "img": "hekim-anil-isikli",
-   "name": "Dr. Anıl Işıklı",
+   "name": "Dt. Anıl Işıklı",
    "role": {
     "tr": "Diş hekimi",
     "en": "Dentist"
@@ -556,7 +556,7 @@
   },
   {
    "img": "hekim-fulya-toraman",
-   "name": "Dr. Fulya Toraman",
+   "name": "Dt. Fulya Toraman",
    "role": {
     "tr": "Diş hekimi",
     "en": "Dentist"

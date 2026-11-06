@@ -340,3 +340,27 @@
 /kategori/dis-tedavisi/*                           /tedaviler/  301
 /kategori/tedaviler                                /tedaviler/  301
 /kategori/tedaviler/*                              /tedaviler/  301
+
+# 2026-11-07 sağlık tanıtım mevzuatı: "en iyi" yazılarının adresleri değişti, hasta yorumları yazısı kaldırıldı.
+/blog/beylikduzu-en-iyi-implant-tedavisi             /blog/beylikduzu-implant-tedavisi-olcutleri/  301
+/blog/beylikduzu-en-iyi-zirkonyum-kaplama            /blog/beylikduzu-zirkonyum-kaplama-olcutleri/  301
+/blog/beylikduzu-en-iyi-lamine-kaplama               /blog/beylikduzu-lamine-kaplama-olcutleri/  301
+/blog/beylikduzu-en-iyi-kanal-tedavisi               /blog/beylikduzu-kanal-tedavisi-olcutleri/  301
+/blog/beylikduzu-en-iyi-ortodonti-seffaf-plak        /blog/beylikduzu-ortodonti-seffaf-plak-olcutleri/  301
+/blog/beylikduzu-en-iyi-gulus-tasarimi               /blog/beylikduzu-gulus-tasarimi-olcutleri/  301
+/blog/beylikduzu-en-iyi-dis-beyazlatma               /blog/beylikduzu-dis-beyazlatma-olcutleri/  301
+/blog/beylikduzu-en-iyi-dis-eti-tedavisi             /blog/beylikduzu-dis-eti-tedavisi-olcutleri/  301
+/blog/beylikduzu-en-iyi-cocuk-dis-hekimi             /blog/beylikduzu-cocuk-dis-hekimi-secimi/  301
+/blog/beylikduzu-en-iyi-all-on-four                  /blog/beylikduzu-all-on-four-olcutleri/  301
+/en/blog/best-dental-implants-beylikduzu             /en/blog/dental-implants-beylikduzu-what-to-look-for/  301
+/en/blog/best-zirconia-crowns-beylikduzu             /en/blog/zirconia-crowns-beylikduzu-what-to-look-for/  301
+/en/blog/best-laminate-veneers-beylikduzu            /en/blog/laminate-veneers-beylikduzu-what-to-look-for/  301
+/en/blog/best-root-canal-treatment-beylikduzu        /en/blog/root-canal-treatment-beylikduzu-what-to-look-for/  301
+/en/blog/best-orthodontics-clear-aligners-beylikduzu /en/blog/orthodontics-clear-aligners-beylikduzu-what-to-look-for/  301
+/en/blog/best-smile-design-beylikduzu                /en/blog/smile-design-beylikduzu-what-to-look-for/  301
+/en/blog/best-teeth-whitening-beylikduzu             /en/blog/teeth-whitening-beylikduzu-what-to-look-for/  301
+/en/blog/best-gum-treatment-beylikduzu               /en/blog/gum-treatment-beylikduzu-what-to-look-for/  301
+/en/blog/best-childrens-dentist-beylikduzu           /en/blog/childrens-dentist-beylikduzu-what-to-look-for/  301
+/en/blog/best-all-on-four-beylikduzu                 /en/blog/all-on-four-beylikduzu-what-to-look-for/  301
+/blog/dent32-hasta-yorumlari                         /blog/beylikduzu-dis-klinigi-yorumlari/  301
+/en/blog/dent32-patient-reviews                      /en/blog/dental-clinic-reviews-beylikduzu/  301
