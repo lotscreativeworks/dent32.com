@@ -30,6 +30,18 @@ export const SOCIAL = [
   { key: "youtube", name: "YouTube", url: "https://www.youtube.com/channel/UCFzDdXSD2lG0HSAKhkEds5Q", icon: "sosyal-youtube.png" },
   { key: "tiktok", name: "TikTok", url: "https://www.tiktok.com/@dent.32", icon: "sosyal-tiktok.svg" },
 ] as const;
+/** Basında Dent32: Hakkımızda sayfası ve llms.txt buradan beslenir. Yeni haber çıkınca outlets'e ekleyin. */
+export const PRESS = {
+  date: "2026-10-23",
+  title: "Dr. Hüseyin Aşçı: Ağız ve diş sağlığı genel sağlığın aynasıdır",
+  postKey: "genelsaglik",
+  outlets: [
+    { name: "DHA", url: "https://www.dha.com.tr/saglik-yasam/dr-huseyin-asci-agiz-ve-dis-sagligi-genel-sagligin-aynasidir-2968378" },
+    { name: "Haberton", url: "https://haberton.com/dis-sagligini-ihmal-edenler-dikkat-dr-huseyin-ascidan-genel-saglik-icin-kritik-uyari/" },
+    { name: "Çukurova Gazetesi", url: "https://cukurovagazetesi.com/dis-eti-hastaliklari-genel-sagligi-tkileyebilir" },
+    { name: "Avrupa Gazete", url: "https://www.avrupagazete.co.uk/dr-huseyin-asci-agiz-ve-dis-sagligi-genel-sagligin-aynasidir" },
+  ],
+} as const;
 /** Kliniğin günlük saatleri netleşince doldurun, ör. ["09:00", "19:00"]. Boşken JSON-LD'de saat yazılmaz. */
 export const CLINIC_HOURS: [string, string] | null = null;
 

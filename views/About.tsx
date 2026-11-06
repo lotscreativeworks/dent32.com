@@ -1,7 +1,9 @@
 import { delay, LangRail, NextStep, PageHead, SecHead, SIZES_GRID3 } from "@/components/blocks";
+import Link from "next/link";
+import { Icon } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
-import { CLINIC, type Lang, TEAM, translator } from "@/lib/site";
+import { CLINIC, dateLong, type Lang, PRESS, route, TEAM, translator } from "@/lib/site";
 
 export function About({ lang }: { lang: Lang }) {
   const t = translator(lang);
@@ -56,6 +58,20 @@ export function About({ lang }: { lang: Lang }) {
               </tbody>
             </table>
             <p className="hours-note">{t("Klinik haftanın yedi günü açıktır. Randevu için WhatsApp'tan yazabilirsiniz.", "The clinic is open seven days a week. Message us on WhatsApp to book.")}</p>
+
+            <aside className="press" aria-labelledby="h-press">
+              <h3 id="h-press" className="press__title">{t("Basında", "In the press")}</h3>
+              <p className="press__headline">
+                <span lang="tr">“{PRESS.title}”</span>
+                <span className="press__date">{t(`DHA röportajı, ${dateLong(PRESS.date, lang)}`, `Interview with the DHA news agency (in Turkish), ${dateLong(PRESS.date, lang)}`)}</span>
+              </p>
+              <ul className="press__list">
+                {PRESS.outlets.map((o) => (
+                  <li key={o.name}><a href={o.url} target="_blank" rel="noopener">{o.name} <Icon name="arrow" /></a></li>
+                ))}
+              </ul>
+              <Link className="text-link" href={route(`post-${PRESS.postKey}`, lang)}>{t("Röportajın özetini okuyun", "Read our summary of the interview")}</Link>
+            </aside>
           </div>
         </div>
       </section>

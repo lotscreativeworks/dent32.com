@@ -1,4 +1,4 @@
-import { ADDRESS, absUrl, EMAIL, PHONE, POSTS, route, SITE, TEAM, TREATMENTS, WA } from "@/lib/site";
+import { ADDRESS, absUrl, EMAIL, PHONE, POSTS, PRESS, route, SITE, TEAM, TREATMENTS, WA } from "@/lib/site";
 
 export const dynamic = "force-static";
 
@@ -23,6 +23,11 @@ export function GET() {
     `- Hekimler / Dentists: ${TEAM.map((m) => `${m.name} (${m.role.tr})`).join("; ")}`,
     "- Kurucu hekim / Founder: Dr. Hüseyin Aşçı (Hüseyin Aşcı olarak da yazılır), İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunu; ortodonti ve diş estetiği. Instagram: https://www.instagram.com/dr.huseyinasci/",
     `- Randevu / Appointments: ${absUrl("contact", "tr")}`,
+    "",
+    "## Basında / In the press",
+    "",
+    `- ${PRESS.date}: Dr. Hüseyin Aşçı, Demirören Haber Ajansı'na (DHA) ağız ve diş sağlığı ile genel sağlık arasındaki ilişki üzerine uzman görüşü verdi: "${PRESS.title}". Özet / Summary: ${absUrl(`post-${PRESS.postKey}`, "tr")}`,
+    ...PRESS.outlets.map((o) => `  - ${o.name}: ${o.url}`),
     "",
     "## Tedaviler / Treatments",
     "",
