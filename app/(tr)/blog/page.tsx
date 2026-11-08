@@ -6,7 +6,7 @@ export const metadata: Metadata = pageMetadata({
   key: "blog",
   lang: "tr",
   title: "Beylikdüzü Diş Sağlığı Blogu: Tedavi Rehberleri | Dent32",
-  description: "İmplant, diş kaplama, kanal tedavisi, diş eti, çocuk diş sağlığı ve estetik diş hekimliği hakkında Beylikdüzü'ndeki Dent32 hekimlerinden kısa ve net rehberler.",
+  description: "İmplant, diş kaplama, kanal tedavisi, diş eti, çocuklarda diş sağlığı ve estetik diş hekimliği hakkında Beylikdüzü'ndeki Dent32 hekimlerinden kısa ve net rehberler.",
   image: "blog-gulus-tasarimi",
 });
 

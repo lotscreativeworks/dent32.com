@@ -3,7 +3,7 @@ import { delay, NextStep, PageHead } from "@/components/blocks";
 import { Icon, TreatIcon } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
-import { type Lang, route, translator, TREATMENTS, waLink } from "@/lib/site";
+import { type Lang, route, translator, TREATMENTS, VISUAL_WARNING, waLink } from "@/lib/site";
 
 export function Treatments({ lang }: { lang: Lang }) {
   const t = translator(lang);
@@ -54,6 +54,7 @@ export function Treatments({ lang }: { lang: Lang }) {
               </section>
             );
           })}
+          <p className="legal-note">{VISUAL_WARNING[lang]}</p>
         </div>
       </div>
 

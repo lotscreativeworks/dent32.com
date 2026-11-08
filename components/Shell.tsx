@@ -4,7 +4,7 @@ import type { ReactNode } from "react";
 import { HeaderControls } from "@/components/client/HeaderControls";
 import { WaGlyph } from "@/components/Icon";
 import {
-  ADDRESS, EMAIL, type Lang, type PageKey, PHONE, PHONE_E164, route, SOCIAL, translator, TREATMENTS, WA,
+  ADDRESS, dateLong, EMAIL, type Lang, OFFICIAL_NAME, type PageKey, PHONE, PHONE_E164, route, SITE_UPDATED, SOCIAL, translator, TREATMENTS, WA,
 } from "@/lib/site";
 
 const NAV = [
@@ -66,8 +66,8 @@ function Footer({ lang }: { lang: Lang }) {
       <div className="wrap footer-grid">
         <div className="f-brand">
           <Image unoptimized className="f-logo" src="/logo.svg" width={116} height={55} alt="Dent32" />
-          <p>{t("Beylikdüzü'nde, haftanın yedi günü açık diş kliniği. Her tedaviyi açıkça anlatılan bir planla yürütüyoruz.",
-            "A dental clinic in Beylikdüzü, Istanbul, open seven days a week. Every treatment follows a clearly explained plan.")}</p>
+          <p>{t(`${OFFICIAL_NAME}. Beylikdüzü'nde, haftanın yedi günü açık diş kliniği; her tedaviyi açıkça anlatılan bir planla yürütüyoruz.`,
+            `${OFFICIAL_NAME} (Dent32 Dental Polyclinic). A dental clinic in Beylikdüzü, Istanbul, open seven days a week; every treatment follows a clearly explained plan.`)}</p>
           <ul className="social" aria-label={t("Sosyal medya", "Social media")}>
             {SOCIAL.map((s) => (
               <li key={s.key}>
@@ -117,7 +117,14 @@ function Footer({ lang }: { lang: Lang }) {
             <span className="credit__tag">Digital marketing partner for clinics</span>
           </p>
         </div>
-        <p>{t("Bu sitedeki bilgiler tanı ve tedavi yerine geçmez.", "The information on this site does not replace diagnosis or treatment.")}</p>
+        <div className="footer-bottom__end">
+          <p>{t("Bu sitedeki bilgiler tanı ve tedavi yerine geçmez.", "The information on this site does not replace diagnosis or treatment.")}</p>
+          {/* Tanıtım yönetmeliği md. 5/1-ı: son güncelleme tarihi ve site editörü iletişimi */}
+          <p>
+            {t("Son güncelleme", "Last updated")}: <time dateTime={SITE_UPDATED}>{dateLong(SITE_UPDATED, lang)}</time>
+            {" · "}{t("Site editörü", "Site editor")}: <a href={`mailto:${EMAIL}`}>{EMAIL}</a>
+          </p>
+        </div>
       </div>
     </footer>
   );

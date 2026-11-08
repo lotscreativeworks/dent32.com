@@ -31,7 +31,7 @@ export function WaForm({ lang, variant }: { lang: Lang; variant: "apply" | "cont
 
     const lines = [t(`Merhaba, ben ${v("name")}.`, `Hello, my name is ${v("name")}.`), `${t("Telefon", "Phone")}: ${v("phone")}`];
     if (v("email")) lines.push(`${t("E-posta", "Email")}: ${v("email")}`);
-    lines.push("", v("message") || t("Uzman görüşü almak istiyorum.", "I'd like to get a specialist's opinion."));
+    lines.push("", v("message") || t("Diş hekimi görüşü almak istiyorum.", "I'd like a dentist's opinion."));
     const url = waLink(lines.join("\n"));
 
     setInvalid(null);
@@ -47,7 +47,7 @@ export function WaForm({ lang, variant }: { lang: Lang; variant: "apply" | "cont
       <>
         <form className="apply__form" noValidate onSubmit={onSubmit}>
           <p className="apply__title">
-            <strong>{t("Ücretsiz ön görüşme", "Free initial chat")}</strong>
+            <strong>{t("Ön görüşme talebi", "Request a call back")}</strong>
             <span>{t("Sizi arayalım ya da WhatsApp'tan yazalım.", "We'll call or message you on WhatsApp.")}</span>
           </p>
           <div className="field">
@@ -58,7 +58,7 @@ export function WaForm({ lang, variant }: { lang: Lang; variant: "apply" | "cont
             <label htmlFor="ap-phone">{t("Telefon", "Phone")}</label>
             <input id="ap-phone" name="phone" type="tel" autoComplete="tel" inputMode="tel" required placeholder="+90 5__ ___ __ __" {...inv("phone")} />
           </div>
-          <button className="btn btn-primary" type="submit">{t("Uzmana danışın", "Ask a specialist")}</button>
+          <button className="btn btn-primary" type="submit">{t("Hekime danışın", "Ask a dentist")}</button>
         </form>
         <p className="apply__note">{t("Gönder dediğinizde bilgileriniz bir WhatsApp mesajına dönüştürülür; sitemiz hiçbir veriyi kaydetmez.", "When you submit, your details are turned into a WhatsApp message; this site doesn't store any data.")}</p>
         {status}

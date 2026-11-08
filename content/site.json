@@ -172,11 +172,11 @@
    "paras": {
     "tr": [
      "Şeffaf plak tedavisinde dişler, kişiye özel üretilen ve belirli aralıklarla yenisiyle değiştirilen ince plaklarla adım adım hareket ettirilir. Plaklar yemek ve fırçalama sırasında çıkarılır; günün büyük bölümünde takılı kalmaları gerekir.",
-     "Her vaka plağa uygun değildir. Bazı iskeletsel sorunlarda ya da karmaşık diş hareketlerinde sabit teller daha öngörülebilir sonuç verir. Dr. Hüseyin Aşçı'nın çalışma alanı ortodonti olduğundan, iki yöntemi muayene sonrası karşılaştırarak öneriyoruz."
+     "Her vaka plağa uygun değildir. Bazı iskeletsel sorunlarda ya da karmaşık diş hareketlerinde sabit teller daha öngörülebilir sonuç verir. Bu yüzden iki yöntemi muayene, röntgen ve ağız içi tarama sonrasında artı ve eksileriyle karşılaştırıyor, kararı sizinle birlikte veriyoruz."
     ],
     "en": [
      "With clear aligners, teeth are moved step by step using thin, custom-made aligners that are replaced with new ones at set intervals. They are removed for eating and brushing and need to be worn for most of the day.",
-     "Not every case suits aligners. For some skeletal problems or complex tooth movements, fixed braces give more predictable results. As orthodontics is Dr. Hüseyin Aşçı's field, we compare both methods after the examination before recommending one."
+     "Not every case suits aligners. For some skeletal problems or complex tooth movements, fixed braces give more predictable results. So after the examination, X-rays and an intraoral scan we compare both methods with their pros and cons, and decide together with you."
     ]
    },
    "who": {
@@ -218,8 +218,8 @@
     "en": "Teeth whitening"
    },
    "short": {
-    "tr": "Hekim kontrolünde, diş minesine zarar vermeden yapılan renk açma işlemi.",
-    "en": "Dentist-supervised lightening that doesn't harm the enamel."
+    "tr": "Hekim kontrolünde, dişlere ve diş etlerine uygun yoğunlukta jellerle yapılan renk açma işlemi.",
+    "en": "Dentist-supervised lightening with gels at a strength suited to your teeth and gums."
    },
    "paras": {
     "tr": [
@@ -316,8 +316,8 @@
    "img": "detay-cocuk",
    "post": "cocuk",
    "title": {
-    "tr": "Çocuk diş hekimliği",
-    "en": "Children's dentistry"
+    "tr": "Çocuklarda diş tedavisi",
+    "en": "Dental care for children"
    },
    "short": {
     "tr": "Süt dişlerinden itibaren koruyucu bakım, sakin bir ortam ve çocuğa uygun anlatım.",
@@ -471,79 +471,13 @@
    "anchor": "beyaz"
   }
  ],
- "reviews": [
-  {
-   "name": "Hafzullah K.",
-   "source": "google",
-   "text": {
-    "tr": "Uzun süren implant ve zirkonyum tedavi sürecimi büyük bir titizlikle tamamlayan Hüseyin Aşçı hocama ve tüm ekibine teşekkür ederim.",
-    "en": "Thank you to Dr. Hüseyin Aşçı and his whole team for completing my long implant and zirconia treatment with great care."
-   }
-  },
-  {
-   "name": "Tülay Ç.",
-   "source": "google",
-   "text": {
-    "tr": "Hüseyin bey, Berk bey ve Anıl beye emekleri ve yardımları için teşekkür ederim. Ben gibi dişçi fobisi olanlar bile rahatlıkla gidebilir. Ayrıca bütün kadro güler yüzlü ve her durumda yardımcı oluyor.",
-    "en": "Thank you to Hüseyin, Berk and Anıl for their effort and help. Even people with a fear of dentists like me can go there comfortably. The whole team is friendly and helpful in every situation."
-   }
-  },
-  {
-   "name": "Haluk M.",
-   "source": "google",
-   "text": {
-    "tr": "2 diş çektirdim gram acı hissetmedim. Elleri hafif hasta hassasiyetine özen gösteren bir poliklinik. Hüseyin hocaya teşekkür ederim.",
-    "en": "I had 2 teeth extracted and didn't feel the slightest pain. A clinic with a gentle touch that pays attention to patients' sensitivities. Thank you, Dr. Hüseyin."
-   }
-  },
-  {
-   "name": "Ömür V.",
-   "source": "google",
-   "text": {
-    "tr": "Hüseyin Hocam ellerine emeğine yüreğine sağlık olsun… Okadar memnun oldum ki kelimeler yetmez… Almanya dan Sevgiler ile…",
-    "en": "Dr. Hüseyin, bless your hands, your work and your heart… I'm so pleased that words aren't enough… With love from Germany…"
-   }
-  },
-  {
-   "name": "Sude B.",
-   "source": "google",
-   "text": {
-    "tr": "çok yakın arkadaşımla gelme imkanım oldu tüm doktorları Hüseyin hoca Anıl hoca ve Berk hoca alanında uzman hekimler çok ilgiliydiler bankodaki hanımefendi ve tüm asistanlar işinin gerçekten ehli insanlar sonuna kadar öneririm",
-    "en": "I had the chance to come with a very close friend. All the doctors — Dr. Hüseyin, Dt. Anıl and Dr. Berk — are experts in their field and were very attentive. The lady at the front desk and all the assistants really know their job. I recommend them wholeheartedly."
-   }
-  },
-  {
-   "name": "Efsun K.",
-   "source": "google",
-   "text": {
-    "tr": "Hüseyin Bey'in işindeki başarısı, özeni ve titizliğine söz söyleyebilmek mümkün değil elbette. Bir o kadar da harika bir ekibi mevcut.",
-    "en": "There is of course nothing anyone could say against Mr Hüseyin's success, care and meticulousness in his work. And his team is just as wonderful."
-   }
-  },
-  {
-   "name": "İ. Ö.",
-   "source": "google",
-   "text": {
-    "tr": "Yirmilik diş de çektirdim. Dolgu da yaptırdım. Dt. Hüseyin Aşçı çok güler yüzlü ve iyi bir hekim.",
-    "en": "I had a wisdom tooth extracted and a filling done. Dt. Hüseyin Aşçı is a very friendly and good dentist."
-   }
-  },
-  {
-   "name": "Yandex kullanıcısı",
-   "source": "yandex",
-   "text": {
-    "tr": "Hüseyin hocam ve ekibine sanırım hayatım boyunca minnettar kalıcam. Ablamın tüm ağız implant ve zirkonyum diş yaptırdık.",
-    "en": "I think I'll be grateful to Dr. Hüseyin and his team for the rest of my life. We had full-mouth implants and zirconia teeth done for my sister."
-   }
-  }
- ],
  "team": [
   {
    "img": "hekim-huseyin-asci",
    "name": "Dr. Hüseyin Aşçı",
    "role": {
-    "tr": "Ortodonti ve diş estetiği · Kurucu hekim",
-    "en": "Orthodontics and aesthetic dentistry · Founder"
+    "tr": "Kurucu diş hekimi",
+    "en": "Founding dentist"
    }
   },
   {

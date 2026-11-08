@@ -6,7 +6,7 @@ export const metadata: Metadata = pageMetadata({
   key: "treat",
   lang: "en",
   title: "Dental Treatments in Beylikdüzü, Istanbul: Implants, Crowns | Dent32",
-  description: "Implants, zirconia and porcelain crowns, smile design, clear aligners, whitening, root canal treatment, children's dentistry and gum treatment.",
+  description: "Implants, zirconia and porcelain crowns, smile design, clear aligners, whitening, root canal treatment, dental care for children and gum treatment.",
   image: "tedavi-implant",
 });
 

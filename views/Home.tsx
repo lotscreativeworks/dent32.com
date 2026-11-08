@@ -1,19 +1,20 @@
-import Image from "next/image";
 import Link from "next/link";
 import { Faq } from "@/components/client/Faq";
 import { HeroVideo } from "@/components/client/HeroVideo";
 import { IgEmbed } from "@/components/client/IgEmbed";
 import { WaForm } from "@/components/client/WaForm";
 import { BaCard, BlogCard, delay, LangRail, NextStep, SecHead, SIZES_RAIL } from "@/components/blocks";
-import { Icon, Star } from "@/components/Icon";
+import { Icon } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
 import { dentistLd, jsonLd, websiteLd } from "@/lib/seo";
-import { ADDRESS, GMB, IG, type Lang, MAP_EMBED, PHONE, PHONE_E164, POSTS, REELS, REVIEWS, route, STRIP, translator } from "@/lib/site";
+import { ADDRESS, GMB, IG, type Lang, MAP_EMBED, OFFICIAL_NAME, PHONE, PHONE_E164, POSTS, REELS, route, STRIP, translator, VISUAL_WARNING } from "@/lib/site";
 
 /** Anasayfadaki "Beylikdüzü diş rehberleri" listesi: [yazı anahtarı, TR, EN] */
 const LOCAL_GUIDES: [string, string, string][] = [
   ["beydis", "Beylikdüzü diş hekimi", "Dentist in Beylikdüzü"],
+  ["beypoli", "Diş polikliniği mi, diş kliniği mi?", "Dental polyclinic or clinic?"],
+  ["ruhsat", "Ruhsatlı diş polikliniği nasıl anlaşılır?", "Is the dental practice licensed?"],
   ["huseyinasci", "Dr. Hüseyin Aşçı kimdir?", "Who is Dr. Hüseyin Aşçı?"],
   ["kadro", "Dent32 hekim kadrosu", "Dent32's dentists"],
   ["beyimplant", "İmplant tedavisi", "Dental implants"],
@@ -24,7 +25,7 @@ const LOCAL_GUIDES: [string, string, string][] = [
   ["beybeyaz", "Diş beyazlatma", "Teeth whitening"],
   ["beykanal", "Kanal tedavisi", "Root canal treatment"],
   ["beydiseti", "Diş eti tedavisi", "Gum treatment"],
-  ["beycocuk", "Çocuk diş hekimi", "Children's dentist"],
+  ["beycocuk", "Çocuklarda diş tedavisi", "Dental care for children"],
   ["beyprotez", "Protez diş", "Dentures"],
   ["beyhaftasonu", "Hafta sonu açık diş kliniği", "Weekend dentist"],
   ["beyfiyat", "Diş tedavisi fiyatları", "Treatment prices"],
@@ -50,12 +51,6 @@ export function Home({ lang }: { lang: Lang }) {
     { q: "Will I feel pain during treatment?", a: "Most procedures are done under local anaesthetic, and no significant pain is expected during treatment. We explain any sensitivity you might have afterwards and what to do. If you feel anxious about the dentist, let us know when booking." },
   ];
 
-  const badges: [string, string, number][] = [
-    ["iso-13485", t("ISO 13485:2016 tıbbi cihaz kalite yönetimi", "ISO 13485:2016 medical devices quality management"), 124],
-    ["saglik-bakanligi", t("T.C. Sağlık Bakanlığı", "Republic of Türkiye Ministry of Health"), 124],
-    ["health-turkiye", "Health Türkiye", 195],
-  ];
-
   const faqLd = {
     "@context": "https://schema.org", "@type": "FAQPage",
     mainEntity: faq.map(({ q, a }) => ({ "@type": "Question", name: q, acceptedAnswer: { "@type": "Answer", text: a.replace(/<[^>]+>/g, "") } })),
@@ -73,7 +68,7 @@ export function Home({ lang }: { lang: Lang }) {
           <div>
             {/* Üst satır da başlığın parçası: arama motoru H1'i "Beylikdüzü diş kliniği" ile başlar, görünüm aynı kalır */}
             <h1 className="hero__title">
-              <span className="eyebrow hero__fade">{t("Beylikdüzü diş kliniği · Dent32, İstanbul", "Dental clinic in Beylikdüzü, Istanbul · Dent32")}</span>
+              <span className="eyebrow hero__fade">{t("Beylikdüzü diş kliniği · Dent32 Ağız ve Diş Sağlığı Polikliniği", "Dental clinic in Beylikdüzü, Istanbul · Dent32")}</span>
               <span className="line"><span style={{ ["--i" as string]: 0 }}>{t("Sağlıklı bir gülüş", "A healthy smile starts")}</span></span>
               <span className="line"><span style={{ ["--i" as string]: 1 }}>{t("doğru planla başlar.", "with the right plan.")}</span></span>
             </h1>
@@ -111,14 +106,11 @@ export function Home({ lang }: { lang: Lang }) {
           </div>
           <div className="rv">
             <p className="eyebrow">{t("Dent32 hakkında", "About Dent32")}</p>
-            <h2>{t("Kişisel bir tedavi, milimetrik bir plan.", "Personal treatment, a precise plan.")}</h2>
-            <p>{t("Dent32, Dr. Hüseyin Aşçı'nın Beylikdüzü'nde kurduğu bir diş kliniğidir. Her tedaviye ayrıntılı bir muayene ve gerekirse dijital görüntülemeyle başlıyoruz. Ne yapacağımızı, neden yapacağımızı ve alternatiflerin neler olduğunu tedaviye başlamadan önce anlatıyoruz.",
-              "Dent32 is a dental clinic founded by Dr. Hüseyin Aşçı in Beylikdüzü, Istanbul. Every treatment begins with a thorough examination and, where needed, digital imaging. Before we start, we explain what we'll do, why, and what the alternatives are.")}</p>
+            <h2>{t("Kişisel bir tedavi, açık bir plan.", "Personal treatment, a clear plan.")}</h2>
+            <p>{t("Dent32, Dr. Hüseyin Aşçı'nın Beylikdüzü'nde kurduğu bir ağız ve diş sağlığı polikliniğidir. Her tedaviye ayrıntılı bir muayene ve gerekirse dijital görüntülemeyle başlıyoruz. Ne yapacağımızı, neden yapacağımızı ve alternatiflerin neler olduğunu tedaviye başlamadan önce anlatıyoruz.",
+              "Dent32 is a dental polyclinic (dental practice) founded by Dr. Hüseyin Aşçı in Beylikdüzü, Istanbul. Every treatment begins with a thorough examination and, where needed, digital imaging. Before we start, we explain what we'll do, why, and what the alternatives are.")}</p>
             <p>{t("Klinik haftanın yedi günü açıktır. Ortodonti, implant ve estetik diş hekimliğinde aynı çatı altında, birlikte plan yapan bir ekiple çalışıyoruz.",
               "The clinic is open seven days a week. Orthodontics, implants and aesthetic dentistry are under one roof, with a team that plans together.")}</p>
-            <ul className="badges" aria-label={t("Belgeler", "Certifications")}>
-              {badges.map(([n, alt, w]) => <li key={n}><Image unoptimized src={`/img/rozet-${n}.webp`} width={w} height={124} alt={alt} /></li>)}
-            </ul>
             <Link className="btn btn-line" href={route("about", lang, "kadro")}>{t("Hekim kadrosu", "Meet our dentists")} <Icon name="arrow" /></Link>
           </div>
         </div>
@@ -158,7 +150,7 @@ export function Home({ lang }: { lang: Lang }) {
 
       <section className="section section--mist" aria-labelledby="h-ba">
         <div className="wrap">
-          <SecHead eyebrow={t("Öncesi ve sonrası", "Before and after")} title={t("Rötuşsuz sonuçlar", "Unretouched results")} id="h-ba">
+          <SecHead eyebrow={t("Öncesi ve sonrası", "Before and after")} title={t("Tedavi öncesi ve sonrası örnekler", "Before and after examples")} id="h-ba">
             <Link className="btn btn-line" href={route("gallery", lang)}>{t("Galeriye git", "View gallery")}</Link>
           </SecHead>
           <LangRail lang={lang} label={t("Öncesi ve sonrası vakalar", "Before and after cases")} className="hx-rail--ba">
@@ -166,34 +158,11 @@ export function Home({ lang }: { lang: Lang }) {
               <BaCard key={`${k}${n}`} lang={lang} kind={k} n={n} d={i} />
             ))}
           </LangRail>
+          <p className="legal-note">{t("Fotoğraflar kliniğimizde tedavi edilen hastalara aittir ve rötuşsuzdur.", "Photos are of patients treated at our clinic and are unretouched.")} {VISUAL_WARNING[lang]}</p>
         </div>
       </section>
 
-      <section className="section" aria-labelledby="h-rev">
-        <div className="wrap">
-          <SecHead eyebrow={t("Hasta yorumları", "Patient reviews")} title={t("Bizi hastalarımız anlatsın", "In our patients' words")} id="h-rev" />
-          <LangRail lang={lang} label={t("Hasta yorumları", "Patient reviews")} className="hx-rail--reviews">
-            {REVIEWS.map((r, i) => (
-              <figure key={r.name} className="review rv" style={delay(Math.min(i, 4))}>
-                <div className="stars" role="img" aria-label={t("5 üzerinden 5 yıldız", "5 out of 5 stars")}>
-                  {[0, 1, 2, 3, 4].map((s) => <Star key={s} />)}
-                </div>
-                <blockquote><p style={{ margin: 0 }}>{r.text[lang]}</p></blockquote>
-                <figcaption>
-                  <strong>{r.name}</strong>
-                  <span>{r.source === "google" ? t("Google yorumu", "Google review") : t("Yandex yorumu", "Yandex review")}</span>
-                  {lang === "en" && <em className="tr-note">translated from Turkish</em>}
-                </figcaption>
-              </figure>
-            ))}
-          </LangRail>
-          <div className="sec-foot">
-            <a className="btn btn-line" href={GMB} target="_blank" rel="noopener">{t("Google'daki tüm yorumlar", "All reviews on Google")} <Icon name="ext" /></a>
-          </div>
-        </div>
-      </section>
-
-      <section className="section section--mist" aria-labelledby="h-blog">
+      <section className="section" aria-labelledby="h-blog">
         <div className="wrap">
           <SecHead eyebrow="Blog" title={t("Kısa ve net rehberler", "Short, clear guides")} id="h-blog" />
           <div className="blog-grid">
@@ -203,13 +172,13 @@ export function Home({ lang }: { lang: Lang }) {
         </div>
       </section>
 
-      <section className="section" aria-labelledby="h-local">
+      <section className="section section--mist" aria-labelledby="h-local">
         <div className="wrap local">
           <div className="rv">
             <p className="eyebrow">Beylikdüzü</p>
             <h2 id="h-local">{t("Beylikdüzü'nde diş kliniği", "A dental clinic in Beylikdüzü")}</h2>
-            <p>{t("Dent32, Beylikdüzü Barış Mahallesi'nde, E-5 yanyolu üzerindeki Ginza Lavinya'da hizmet veren bir diş kliniğidir. İmplant, zirkonyum ve lamine kaplama, gülüş tasarımı, şeffaf plak ortodonti, diş beyazlatma, kanal tedavisi, diş eti tedavisi ve çocuk diş hekimliği aynı çatı altında, birlikte plan yapan bir hekim ekibiyle yürütülür.",
-              "Dent32 is a dental clinic at Ginza Lavinya on the E-5 service road in Barış, Beylikdüzü. Implants, zirconia crowns and veneers, smile design, clear aligner orthodontics, teeth whitening, root canal treatment, gum care and children's dentistry are all under one roof, with a team that plans together.")}</p>
+            <p>{t(`${OFFICIAL_NAME}, Beylikdüzü Barış Mahallesi'nde, E-5 yanyolu üzerindeki Ginza Lavinya'da hizmet veren bir diş polikliniğidir; kısaca Beylikdüzü diş kliniği olarak da aranır. İmplant, zirkonyum ve lamine kaplama, gülüş tasarımı, şeffaf plak ortodonti, diş beyazlatma, kanal tedavisi, diş eti tedavisi ve çocuklarda diş tedavisi aynı çatı altında, birlikte plan yapan bir hekim ekibiyle yürütülür.`,
+              `${OFFICIAL_NAME} (Dent32 Dental Polyclinic) is a dental practice at Ginza Lavinya on the E-5 service road in Barış, Beylikdüzü. Implants, zirconia crowns and veneers, smile design, clear aligner orthodontics, teeth whitening, root canal treatment, gum care and dental care for children are all under one roof, with a team that plans together.`)}</p>
             <p>{t("Klinik hafta sonu dahil her gün açıktır. Beylikdüzü'nün tüm mahallelerinden ve Esenyurt, Avcılar, Büyükçekmece gibi komşu ilçelerden gelen hastalarımız için randevuları ziyaret sayısını azaltacak şekilde planlıyoruz. Türkçe ve İngilizce hizmet veriyoruz.",
               "The clinic is open every day, including weekends. For patients from every part of Beylikdüzü and neighbouring districts such as Esenyurt, Avcılar and Büyükçekmece, we plan appointments to keep the number of visits down. We work in Turkish and English.")}</p>
             <ul className="info">
@@ -240,7 +209,7 @@ export function Home({ lang }: { lang: Lang }) {
         </div>
       </section>
 
-      <section className="section section--mist" aria-labelledby="h-faq">
+      <section className="section" aria-labelledby="h-faq">
         <div className="wrap faq-layout">
           <div className="rv">
             <p className="eyebrow">{t("Sık sorulan sorular", "FAQ")}</p>

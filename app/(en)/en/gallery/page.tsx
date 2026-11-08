@@ -6,7 +6,7 @@ export const metadata: Metadata = pageMetadata({
   key: "gallery",
   lang: "en",
   title: "Before and After Gallery | Dent32 Dental Clinic, Beylikdüzü",
-  description: "Unretouched before and after photos of implant and zirconia treatments at Dent32 dental clinic in Beylikdüzü, Istanbul.",
+  description: "Unretouched before and after photos of patients treated with implants and zirconia at Dent32 in Beylikdüzü, Istanbul. Results vary from person to person.",
   image: "vaka-zirkonyum1-sonrasi",
 });
 

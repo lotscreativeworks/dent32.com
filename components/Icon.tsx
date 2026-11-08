@@ -25,14 +25,6 @@ export function Icon({ name, className }: { name: IconName; className?: string }
   );
 }
 
-export function Star() {
-  return (
-    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-      <path d="m12 2.8 2.8 5.8 6.3.9-4.6 4.4 1.1 6.3L12 17.2l-5.6 3 1.1-6.3-4.6-4.4 6.3-.9Z" />
-    </svg>
-  );
-}
-
 export function WaGlyph() {
   return (
     <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">

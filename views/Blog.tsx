@@ -7,7 +7,7 @@ import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
 import { breadcrumbLd, DENTIST_ID, jsonLd } from "@/lib/seo";
 import {
-  absUrl, ADDRESS, dateLong, type Lang, PHONE, PHONE_E164, type Post, POSTS, readMinutes, route, SITE, translator, WA,
+  absUrl, ADDRESS, dateLong, type Lang, OFFICIAL_NAME, PHONE, PHONE_E164, type Post, POSTS, readMinutes, route, SITE, translator, WA,
 } from "@/lib/site";
 
 export function BlogList({ lang }: { lang: Lang }) {
@@ -41,7 +41,7 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
 
   const posting = {
     "@context": "https://schema.org", "@type": "BlogPosting", headline: post.title, description: post.desc,
-    image: `${SITE}/img/${post.cover}.webp`, datePublished: post.date, dateModified: post.date, inLanguage: lang,
+    image: `${SITE}/img/${post.cover}.webp`, datePublished: post.date, dateModified: post.updated ?? post.date, inLanguage: lang,
     mainEntityOfPage: absUrl(`post-${post.key}`, lang), articleSection: post.cat,
     author: { "@type": "Organization", name: author, url: SITE },
     publisher: { "@type": "Organization", "@id": DENTIST_ID, name: "Dent32", url: SITE, logo: { "@type": "ImageObject", url: `${SITE}/logo.svg` } },
@@ -76,6 +76,9 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
               <p className="post__meta">
                 <span><Icon name="user" />{author}</span>
                 <span><Icon name="cal" /><time dateTime={post.date}>{dateLong(post.date, lang)}</time></span>
+                {post.updated && post.updated !== post.date && (
+                  <span>{t("Son güncelleme", "Last updated")}: <time dateTime={post.updated}>{dateLong(post.updated, lang)}</time></span>
+                )}
                 <span><Icon name="clock" />{t(`${mins} dk okuma`, `${mins} min read`)}</span>
               </p>
             </header>
@@ -102,6 +105,7 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
               {/* Her yazıda klinik adı, adresi ve anasayfa bağlantısı (yerel aramada tutarlı NAP) */}
               <p>
                 <Link className="text-link" href={route("home", lang)}>{t("Dent32 Beylikdüzü diş kliniği", "Dent32 dental clinic in Beylikdüzü")}</Link>
+                {" "}({t(OFFICIAL_NAME, `${OFFICIAL_NAME}, Dent32 Dental Polyclinic`)})
                 {" · "}{ADDRESS}{" · "}{t("Haftanın yedi günü açık", "Open seven days a week")}{" · "}
                 <a className="text-link" href={`tel:${PHONE_E164}`}>{PHONE}</a>
               </p>

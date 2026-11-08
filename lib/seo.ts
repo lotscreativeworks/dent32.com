@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import {
-  absUrl, CLINIC_HOURS, EMAIL, GEO, GMB, type Lang, type PageKey, PHONE_E164, route, SITE, SOCIAL, STREET, TEAM, translator,
+  absUrl, CLINIC_HOURS, EMAIL, GEO, GMB, type Lang, OFFICIAL_NAME, type PageKey, PHONE_E164, route, SITE, SOCIAL, STREET, TEAM, translator,
   TREATMENTS,
 } from "@/lib/site";
 
@@ -47,17 +47,17 @@ export const DENTIST_ID = `${SITE}/#dentist`;
 const AREA_SERVED = ["Beylikdüzü", "Esenyurt", "Büyükçekmece", "Avcılar", "İstanbul"];
 
 /** Kliniğin aranırken kullanılan diğer adları */
-const ALTERNATE_NAMES = ["Dent32 Beylikdüzü", "Dent32 Beylikdüzü Diş Kliniği", "Dent32 Ağız ve Diş Sağlığı Polikliniği", "Dent32 Diş Kliniği", "Dent 32"];
+const ALTERNATE_NAMES = [OFFICIAL_NAME, "Dent32 Beylikdüzü", "Dent32 Beylikdüzü Diş Kliniği", "Dent32 Beylikdüzü Diş Polikliniği", "Dent32 Diş Kliniği", "Dent 32"];
 
 export function dentistLd(lang: Lang) {
   const t = translator(lang);
   return {
     "@context": "https://schema.org", "@type": "Dentist", "@id": DENTIST_ID, name: "Dent32",
     alternateName: ALTERNATE_NAMES,
-    description: t("Beylikdüzü, İstanbul'da diş kliniği: implant, zirkonyum kaplama, gülüş tasarımı, şeffaf plak, kanal tedavisi, diş eti ve çocuk diş hekimliği.",
-      "Dental clinic in Beylikdüzü, Istanbul: implants, zirconia crowns, smile design, clear aligners, root canal treatment, gum care and children's dentistry."),
+    description: t("Beylikdüzü, İstanbul'da ağız ve diş sağlığı polikliniği (diş kliniği): implant, zirkonyum kaplama, gülüş tasarımı, şeffaf plak, kanal tedavisi, diş eti tedavisi ve çocuklarda diş tedavisi.",
+      "Dental polyclinic (dental clinic) in Beylikdüzü, Istanbul: implants, zirconia crowns, smile design, clear aligners, root canal treatment, gum care and dental care for children."),
     // Aynı adı taşıyan başka şehirlerdeki kliniklerle karıştırılmasın
-    disambiguatingDescription: t("İstanbul Beylikdüzü, Barış Mahallesi'ndeki (Ginza Lavinya, E-5 yanyolu) Dent32 diş kliniği; kurucusu Dr. Hüseyin Aşçı.",
+    disambiguatingDescription: t("İstanbul Beylikdüzü, Barış Mahallesi'ndeki (Ginza Lavinya, E-5 yanyolu) Dent32 Ağız ve Diş Sağlığı Polikliniği; kurucusu Dr. Hüseyin Aşçı.",
       "Dent32 dental clinic in Barış, Beylikdüzü, Istanbul (Ginza Lavinya, E-5 service road), founded by Dr. Hüseyin Aşçı."),
     url: absUrl("home", lang), logo: `${SITE}/logo.svg`, image: `${SITE}/img/klinik-01-bina.webp`,
     telephone: PHONE_E164, email: EMAIL,
@@ -74,7 +74,7 @@ export function dentistLd(lang: Lang) {
       jobTitle: t("Diş hekimi, Dent32 kurucusu", "Dentist, founder of Dent32"), url: absUrl("about", lang),
       image: `${SITE}/img/hekim-huseyin-asci.webp`,
       alumniOf: { "@type": "CollegeOrUniversity", name: "İstanbul Üniversitesi Diş Hekimliği Fakültesi" },
-      knowsAbout: t("Ortodonti, şeffaf plak, gülüş tasarımı, diş estetiği", "Orthodontics, clear aligners, smile design, aesthetic dentistry"),
+      knowsAbout: t("Şeffaf plak, çapraşık dişlerin düzeltilmesi, gülüş tasarımı, diş estetiği", "Clear aligners, straightening crowded teeth, smile design, aesthetic dentistry"),
       sameAs: ["https://www.instagram.com/dr.huseyinasci/"],
     },
     employee: TEAM.map((m) => ({ "@type": "Person", name: m.name, jobTitle: m.role[lang] })),

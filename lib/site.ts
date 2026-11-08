@@ -10,6 +10,8 @@ export const translator = (lang: Lang) => (tr: string, en: string) => (lang === 
 
 // --- Klinik bilgileri --------------------------------------------------------
 export const SITE = "https://dent32.com";
+/** Kurumun ruhsat türüne uygun tam adı (poliklinik). Altlıkta, Hakkımızda'da ve kurumsal kayıtta kullanılır. */
+export const OFFICIAL_NAME = "Dent32 Ağız ve Diş Sağlığı Polikliniği";
 export const PHONE = "+90 555 011 33 68";
 export const PHONE_E164 = "+905550113368";
 export const WA = "https://wa.me/905550113368";
@@ -42,6 +44,18 @@ export const PRESS = {
     { name: "Avrupa Gazete", url: "https://www.avrupagazete.co.uk/dr-huseyin-asci-agiz-ve-dis-sagligi-genel-sagligin-aynasidir" },
   ],
 } as const;
+/**
+ * Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Hakkında Yönetmelik (RG 12.11.2025, 33075):
+ * - md. 5/1-ı: sitede son güncelleme tarihi ve site editörüne ulaşılacak iletişim bilgisi açıkça yazılır (altlık).
+ * - md. 7/k: yurt içi tanıtımdaki görsel içeriklerde aşağıdaki uyarı kolay okunur biçimde yer alır.
+ * Site her derlemede yeniden üretildiği için derleme tarihi sitenin son güncelleme tarihidir.
+ */
+export const SITE_UPDATED = new Date().toISOString().slice(0, 10);
+export const VISUAL_WARNING = {
+  tr: "Her cerrahi veya girişimsel işlemde sonuçlar kişiden kişiye değişiklik gösterebilir. İşlem öncesinde hekiminizden detaylı görüş almanız önerilir.",
+  en: "Results of any surgical or interventional procedure may vary from person to person. You are advised to obtain a detailed opinion from your dentist before any procedure.",
+} as const;
+
 /** Kliniğin günlük saatleri netleşince doldurun, ör. ["09:00", "19:00"]. Boşken JSON-LD'de saat yazılmaz. */
 export const CLINIC_HOURS: [string, string] | null = null;
 
@@ -51,6 +65,8 @@ export const waLink = (text: string) => `${WA}?text=${encodeURIComponent(text)}`
 export type Post = {
   key: string; date: string; cat: string; cover: string; slug: string;
   title: string; desc: string; lead: string;
+  /** İçerik sonradan düzeltildiyse son güncelleme tarihi (yazıda ve JSON-LD dateModified'da gösterilir) */
+  updated?: string;
   sections: { id: string; h: string; html: string }[];
   faq: { q: string; a: string }[];
 };
@@ -62,7 +78,7 @@ export const POSTS: Record<Lang, Post[]> = {
 export const getPost = (lang: Lang, slug: string) => POSTS[lang].find((p) => p.slug === slug);
 export const postByKey = (lang: Lang, key: string) => POSTS[lang].find((p) => p.key === key)!;
 
-export const { treatments: TREATMENTS, strip: STRIP, reviews: REVIEWS, team: TEAM, clinic: CLINIC, reels: REELS } = siteData;
+export const { treatments: TREATMENTS, strip: STRIP, team: TEAM, clinic: CLINIC, reels: REELS } = siteData;
 export type Treatment = (typeof TREATMENTS)[number];
 
 // --- Rotalar -----------------------------------------------------------------
