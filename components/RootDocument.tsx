@@ -22,11 +22,18 @@ export const rootViewport: Viewport = { themeColor: "#0A1C2E" };
 /**
  * Hidrasyondan önce çalışan küçük betik:
  * - "js" sınıfı: giriş animasyonları yalnızca JS varken gizli başlar.
+ *   · Botlar, yapay zekâ ajanları ve otomatik/headless tarayıcılar (navigator.webdriver) bu sınıfı
+ *     almaz: sayfayı kaydırmadan tam sayfa görüntü aldıklarında bölümler opacity 0 kalıp sayfa
+ *     "bembeyaz" görünüyordu. Onlara içerik animasyonsuz, baştan görünür sunulur.
+ *   · Güvenlik ağı: JS paketleri 3 sn içinde yüklenip RevealObserver çalışmazsa ("rv-ok" yoksa)
+ *     sınıf geri alınır; ağ hatasında ya da engellenen betikte içerik gizli kalmaz.
  * - Yenilemede/ilk açılışta sayfa her zaman en üstten başlasın: tarayıcı eski kaydırma konumunu
  *   geri yüklemesin (yoksa altta yenilenen sayfa yine altta açılır). Sayfa içi gezinmede geri/ileri
  *   tuşu ve #bağlantılar tarayıcının normal davranışıyla çalışır.
  */
-const BOOT = `document.documentElement.classList.add("js");
+const BOOT = `(function(){var de=document.documentElement,nv=navigator;
+if(nv.webdriver||/bot|crawl|spider|slurp|headless|lighthouse|preview|inspect|gpt|claude|perplexity|facebookexternalhit/i.test(nv.userAgent))return;
+de.classList.add("js");setTimeout(function(){if(!de.classList.contains("rv-ok"))de.classList.remove("js")},3000)})();
 try{if("scrollRestoration" in history){var h=history,n=performance.getEntriesByType("navigation")[0];
 if(n&&n.type!=="back_forward"&&!location.hash){h.scrollRestoration="manual";scrollTo(0,0);
 addEventListener("load",function(){setTimeout(function(){h.scrollRestoration="auto"},0)},{once:true})}

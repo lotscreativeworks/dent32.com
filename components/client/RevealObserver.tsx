@@ -11,7 +11,9 @@ export function RevealObserver() {
   const pathname = usePathname();
 
   useEffect(() => {
-    const els = Array.from(document.querySelectorAll<HTMLElement>(".rv:not(.in), .ways:not(.in)"));
+    // Açılış betiğindeki güvenlik ağına "JS çalıştı" sinyali (bkz. RootDocument BOOT)
+    document.documentElement.classList.add("rv-ok");
+    const els =Array.from(document.querySelectorAll<HTMLElement>(".rv:not(.in), .ways:not(.in)"));
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches || !("IntersectionObserver" in window)) {
       els.forEach((el) => el.classList.add("in"));
       return;
