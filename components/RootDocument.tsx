@@ -15,6 +15,8 @@ export const rootMetadata: Metadata = {
     ],
     apple: "/apple-touch-icon.png",
   },
+  // Pinterest işletme hesabının ("dent32 | Beylikdüzü Diş Kliniği") site sahiplenme etiketi; silinirse sahiplik düşer
+  other: { "p:domain_verify": "c31f2fbe10616d1987eb6f24d37d9027" },
 };
 
 export const rootViewport: Viewport = { themeColor: "#0A1C2E" };
