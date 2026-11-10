@@ -5,9 +5,29 @@
    "icon": "implant",
    "img": "detay-implant",
    "post": "implant",
+   "slug": {
+    "tr": "implant-tedavisi",
+    "en": "dental-implants"
+   },
    "title": {
     "tr": "İmplant tedavisi",
     "en": "Dental implants"
+   },
+   "h1": {
+    "tr": "Beylikdüzü'nde implant tedavisi",
+    "en": "Dental implants in Beylikdüzü"
+   },
+   "seoTitle": {
+    "tr": "Beylikdüzü İmplant Tedavisi | Dent32 Diş Kliniği",
+    "en": "Dental Implants in Beylikdüzü, Istanbul | Dent32"
+   },
+   "seoDesc": {
+    "tr": "Beylikdüzü'ndeki Dent32'de implant tedavisi: tomografiyle planlama, kemik tozu ve sinüs kaldırma, süreç adımları ve sık sorulan sorular.",
+    "en": "Dental implants at Dent32 in Beylikdüzü, Istanbul: CT-based planning, bone grafting and sinus lift, the treatment steps and common questions."
+   },
+   "alt": {
+    "tr": "İmplant tedavisi: gülümseyen bir hasta",
+    "en": "Dental implants: a smiling patient"
    },
    "short": {
     "tr": "Eksik dişin yerine çene kemiğine yerleştirilen titanyum vida ve üzerindeki kalıcı diş.",
@@ -50,16 +70,121 @@
      "Impressions and fitting the final tooth",
      "Regular check-ups and maintenance"
     ]
-   }
+   },
+   "after": {
+    "tr": [
+     "İlk gün soğuk uygulama yapılır; sıcak, sert ve baharatlı yiyeceklerden birkaç gün kaçınılır.",
+     "İyileşme döneminde sigara kullanılmaması, implantın kemikle kaynaşması için önemlidir.",
+     "Diş fırçası ve diş ipinin yanında ara yüz fırçası ya da ağız duşuyla implant çevresi temiz tutulur.",
+     "Yılda en az bir kez kontrol ve profesyonel temizlik, implant çevresindeki iltihabı (peri-implantitis) erken fark etmeyi sağlar."
+    ],
+    "en": [
+     "Use a cold compress on the first day and avoid hot, hard and spicy food for a few days.",
+     "Not smoking during healing is important for the implant to fuse with the bone.",
+     "Keep the area around the implant clean with interdental brushes or a water flosser as well as a toothbrush and floss.",
+     "A check-up and professional clean at least once a year helps catch inflammation around the implant (peri-implantitis) early."
+    ]
+   },
+   "faq": {
+    "tr": [
+     {
+      "q": "İmplant tedavisi toplam ne kadar sürer?",
+      "a": "Kemik yeterliyse implantın kemikle kaynaşması genellikle alt çenede 2–3, üst çenede 3–4 ay sürer; ardından kalıcı diş takılır. Kemik tozu ya da sinüs kaldırma gerekiyorsa süre uzar. Size özel süreyi muayene ve tomografiden sonra yazılı planla birlikte veriyoruz."
+     },
+     {
+      "q": "İmplant yerleştirilirken ağrı olur mu?",
+      "a": "İşlem lokal anestezi altında yapılır; işlem sırasında ağrı değil, baskı hissedilir. Sonraki birkaç gün hafif ağrı ve şişlik olabilir; hekimin önerdiği ağrı kesici ve soğuk uygulamayla genellikle kontrol altına alınır."
+     },
+     {
+      "q": "Kemiğim yetersizse implant yapılabilir mi?",
+      "a": "Çoğu durumda evet. Kemik tozu (greft) ya da sinüs kaldırma işlemiyle implant için yeterli hacim oluşturulabilir; bazen daha kısa implantlar ya da farklı bir planlama da seçenek olur. Bunu tomografi görüntüsü üzerinden değerlendiriyoruz."
+     },
+     {
+      "q": "Şeker hastaları ve sigara içenler implant yaptırabilir mi?",
+      "a": "Kontrol altındaki diyabette implant yapılabilir; kan şekeri değerleri planlamada dikkate alınır. Sigara iyileşmeyi yavaşlatır ve implant kaybı riskini artırır; tedavi döneminde bırakılması ya da en azından azaltılması önerilir."
+     },
+     {
+      "q": "İmplant tedavisinin maliyeti neye göre değişir?",
+      "a": "İmplant sayısı, kemik tozu ya da sinüs kaldırma gibi ek işlemlerin gerekip gerekmediği, üzerine yapılacak dişin türü ve kullanılan implant sistemi maliyeti belirler. Muayeneden sonra kalem kalem yazılı plan ve maliyet veriyoruz."
+     }
+    ],
+    "en": [
+     {
+      "q": "How long does implant treatment take in total?",
+      "a": "If there is enough bone, the implant usually takes 2–3 months to fuse in the lower jaw and 3–4 months in the upper jaw; the final tooth is fitted after that. Bone grafting or a sinus lift adds time. We give you your own timeline in writing after the examination and CT scan."
+     },
+     {
+      "q": "Does it hurt to have an implant placed?",
+      "a": "The procedure is done under local anaesthetic, so you feel pressure rather than pain. There may be mild pain and swelling for a few days afterwards, which is usually controlled with the painkillers your dentist recommends and a cold compress."
+     },
+     {
+      "q": "Can I have an implant if I don't have enough bone?",
+      "a": "In most cases, yes. Bone grafting or a sinus lift can create enough volume for an implant; sometimes shorter implants or a different plan are also options. We assess this on your CT scan."
+     },
+     {
+      "q": "Can people with diabetes or who smoke have implants?",
+      "a": "Implants can be placed when diabetes is well controlled; blood sugar levels are taken into account in planning. Smoking slows healing and increases the risk of implant failure, so we recommend stopping, or at least cutting down, during treatment."
+     },
+     {
+      "q": "What affects the cost of implant treatment?",
+      "a": "The number of implants, whether extra procedures such as bone grafting or a sinus lift are needed, the type of tooth placed on top and the implant system used. After the examination we give you an itemised written plan and cost."
+     }
+    ]
+   },
+   "posts": [
+    "implant",
+    "beyimplant",
+    "eniyiimplant",
+    "implantkimlere",
+    "greft",
+    "beygreft",
+    "kopru",
+    "beytekdis",
+    "implantbakim",
+    "sigaraimplant",
+    "implantomur",
+    "implantred",
+    "beyhemen",
+    "allon4",
+    "beyallon4",
+    "eniyiallon4",
+    "allon8",
+    "tumagiz",
+    "tibar",
+    "protez",
+    "protezsorun",
+    "implantfiyat",
+    "bisfosfonat"
+   ]
   },
   {
    "id": "kaplama",
    "icon": "kaplama",
    "img": "detay-kaplama",
    "post": "zirkonyum",
+   "slug": {
+    "tr": "zirkonyum-kaplama",
+    "en": "zirconia-crowns"
+   },
    "title": {
     "tr": "Zirkonyum ve porselen kaplama",
     "en": "Zirconia and porcelain crowns"
+   },
+   "h1": {
+    "tr": "Beylikdüzü'nde zirkonyum ve porselen kaplama",
+    "en": "Zirconia and porcelain crowns in Beylikdüzü"
+   },
+   "seoTitle": {
+    "tr": "Beylikdüzü Zirkonyum ve Porselen Kaplama | Dent32",
+    "en": "Zirconia & Porcelain Crowns in Beylikdüzü | Dent32"
+   },
+   "seoDesc": {
+    "tr": "Beylikdüzü'ndeki Dent32'de zirkonyum ve porselen kaplama: kimlere uygun, kaç seansta biter, dişler ne kadar aşındırılır ve kaplama bakımı.",
+    "en": "Zirconia and porcelain crowns at Dent32 in Beylikdüzü, Istanbul: who they suit, how many visits they take, tooth preparation and aftercare."
+   },
+   "alt": {
+    "tr": "Zirkonyum ve porselen kaplama: gülümseyen bir hasta",
+    "en": "Zirconia and porcelain crowns: a smiling patient"
    },
    "short": {
     "tr": "Aşınmış, kırık ya da renk değiştirmiş dişleri koruyan ve görünümünü düzelten kaplamalar.",
@@ -102,16 +227,114 @@
      "Cementing the final crowns",
      "Review"
     ]
-   }
+   },
+   "after": {
+    "tr": [
+     "İlk günlerde sıcak ve soğuğa hassasiyet olabilir; genellikle kendiliğinden azalır.",
+     "Kaplamalı dişin kenarı da çürüyebilir: bu bölge diş ipi ve ara yüz fırçasıyla her gün temizlenmelidir.",
+     "Diş sıkma ya da gıcırdatma varsa gece plağı kaplamaları korur.",
+     "Fındık kabuğu gibi sert şeyleri ön dişlerle kırmaktan kaçının."
+    ],
+    "en": [
+     "Some sensitivity to hot and cold is possible in the first days and usually settles on its own.",
+     "The edge of a crowned tooth can still decay: clean it every day with floss and interdental brushes.",
+     "If you clench or grind your teeth, a night guard protects the crowns.",
+     "Avoid cracking hard things such as nutshells with your front teeth."
+    ]
+   },
+   "faq": {
+    "tr": [
+     {
+      "q": "Zirkonyum kaplama kaç seansta tamamlanır?",
+      "a": "Genellikle 2–3 seansta ve yaklaşık 1–2 haftada tamamlanır: dişlerin hazırlanması ve ölçü, prova, yapıştırma. Diş eti ya da kanal tedavisi gerekiyorsa önce bunlar tamamlanır."
+     },
+     {
+      "q": "Kaplama için dişler kesilir mi?",
+      "a": "Zirkonyum ve porselen kaplamada dişin yüzeylerinden ince bir tabaka aşındırılır; miktar malzemeye ve dişin durumuna göre değişir. Daha az aşındırma gerektiren lamine ya da bonding gibi seçenekler uygunsa bunları da anlatıyoruz."
+     },
+     {
+      "q": "Zirkonyum mu, metal destekli porselen mi, e.max mı?",
+      "a": "Zirkonyum metal içermez, güçlüdür ve ışığı doğal dişe yakın geçirir; arka dişlerde ve köprülerde sık tercih edilir. E.max bir cam seramiktir ve ön dişlerde estetik avantaj sağlar. Seçimi dişin konumu, kapanış ve beklentinize göre birlikte yapıyoruz."
+     },
+     {
+      "q": "Kaplamanın ömrü ne kadardır?",
+      "a": "Ömür ağız bakımına, diş sıkma alışkanlığına ve düzenli kontrollere bağlıdır; iyi bakımla uzun yıllar kullanılabilir. Kesin bir süre vermek doğru olmaz. Ömrü kısaltan başlıca etkenler kaplama kenarında başlayan çürük ve diş eti sorunlarıdır."
+     },
+     {
+      "q": "Kaplamadan sonra diş eti kararır mı?",
+      "a": "Metal destekli kaplamalarda zamanla diş eti kenarında gri bir çizgi görülebilir. Zirkonyum ve tam seramik kaplamalarda metal olmadığı için bu görünüm beklenmez; yine de diş eti çekilirse kaplama kenarı görünür hale gelebilir."
+     }
+    ],
+    "en": [
+     {
+      "q": "How many visits does a zirconia crown take?",
+      "a": "Usually 2–3 visits over about 1–2 weeks: preparing the teeth and taking impressions, a try-in, and bonding. If gum or root canal treatment is needed, it is completed first."
+     },
+     {
+      "q": "Do the teeth have to be filed down for a crown?",
+      "a": "For zirconia and porcelain crowns a thin layer is removed from the tooth surfaces; how much depends on the material and the tooth. If options that need less preparation, such as veneers or bonding, are suitable, we explain those too."
+     },
+     {
+      "q": "Zirconia, porcelain fused to metal or e.max?",
+      "a": "Zirconia contains no metal, is strong and lets light through much like a natural tooth; it is often chosen for back teeth and bridges. E.max is a glass ceramic with an aesthetic advantage on front teeth. We choose together based on the tooth's position, your bite and your expectations."
+     },
+     {
+      "q": "How long do crowns last?",
+      "a": "It depends on oral hygiene, clenching or grinding and regular check-ups; with good care they can be used for many years. It wouldn't be right to promise a fixed number. The main things that shorten their life are decay starting at the crown edge and gum problems."
+     },
+     {
+      "q": "Will my gums turn dark after a crown?",
+      "a": "With metal-backed crowns a grey line can appear at the gum edge over time. Zirconia and all-ceramic crowns contain no metal, so this isn't expected, although the crown edge can become visible if the gum recedes."
+     }
+    ]
+   },
+   "posts": [
+    "zirkonyum",
+    "beyzirk",
+    "eniyizirk",
+    "kaplama",
+    "emax",
+    "beyemax",
+    "emaxzirk",
+    "zirkonsure",
+    "zirkonomur",
+    "kaplamasonrasi",
+    "kaplamaagri",
+    "kararma",
+    "lamine",
+    "beylamine",
+    "eniyilamine",
+    "ortokaplama"
+   ]
   },
   {
    "id": "gulus",
    "icon": "gulus",
    "img": "detay-gulus",
    "post": "gulus",
+   "slug": {
+    "tr": "gulus-tasarimi",
+    "en": "smile-design"
+   },
    "title": {
     "tr": "Gülüş tasarımı",
     "en": "Smile design"
+   },
+   "h1": {
+    "tr": "Beylikdüzü'nde gülüş tasarımı",
+    "en": "Smile design in Beylikdüzü"
+   },
+   "seoTitle": {
+    "tr": "Beylikdüzü Gülüş Tasarımı | Dent32 Diş Kliniği",
+    "en": "Smile Design in Beylikdüzü, Istanbul | Dent32"
+   },
+   "seoDesc": {
+    "tr": "Beylikdüzü'ndeki Dent32'de gülüş tasarımı: yüz analizi, dijital plan, ağız içi prova ve uygulanabilecek tedaviler adım adım.",
+    "en": "Smile design at Dent32 in Beylikdüzü, Istanbul: facial analysis, a digital plan, an in-mouth trial and the treatments that can be used."
+   },
+   "alt": {
+    "tr": "Gülüş tasarımı: gülümseyen bir hasta",
+    "en": "Smile design: a smiling patient"
    },
    "short": {
     "tr": "Yüz oranlarınıza göre dişlerin boyu, şekli ve rengi için önceden görülebilen bir plan.",
@@ -154,16 +377,111 @@
      "Treatment according to the approved plan",
      "Review and maintenance advice"
     ]
-   }
+   },
+   "after": {
+    "tr": [
+     "Gülüş tasarımında uygulanan kaplama, lamine ya da bonding'in kendi bakım önerileri geçerlidir.",
+     "Çay, kahve ve sigara, bonding (kompozit) yüzeylerde zamanla renklenme yapabilir.",
+     "Diş sıkma varsa gece plağı kullanılması önerilir.",
+     "Altı ayda bir kontrol, küçük sorunların erken düzeltilmesini sağlar."
+    ],
+    "en": [
+     "The care advice for whichever crowns, veneers or bonding were used in your smile design applies.",
+     "Tea, coffee and smoking can stain bonded (composite) surfaces over time.",
+     "If you clench your teeth, a night guard is recommended.",
+     "A check-up every six months means small problems can be fixed early."
+    ]
+   },
+   "faq": {
+    "tr": [
+     {
+      "q": "Gülüş tasarımı bir tedavi mi, bir plan mı?",
+      "a": "Gülüş tasarımı tek bir işlem değil, bir planlama yöntemidir. Yüz oranları, dudak çizgisi ve diş eti seviyesi incelenir; sonuca beyazlatma, bonding, lamine, kaplama, diş eti düzenlemesi ya da ortodonti gibi işlemlerden biri veya birkaçıyla ulaşılır."
+     },
+     {
+      "q": "Sonucu tedaviden önce görebilir miyim?",
+      "a": "Fotoğraf ve dijital ölçü üzerinden hazırlanan planı çoğu durumda ağız içinde geçici bir provayla (mock-up) deneyebilirsiniz. Böylece şekil ve boy, dişlere kalıcı bir işlem yapılmadan önce birlikte değerlendirilir."
+     },
+     {
+      "q": "Gülüş tasarımı ne kadar sürer?",
+      "a": "Seçilen işlemlere bağlıdır: yalnızca beyazlatma ve bonding birkaç seansta biterken lamine veya kaplama genellikle 2–3 hafta, ortodonti gerektiren planlar ise aylar sürer."
+     },
+     {
+      "q": "Gülüş tasarımında dişler mutlaka kesilir mi?",
+      "a": "Hayır. Uygun durumlarda beyazlatma, bonding ya da şeffaf plak gibi kesim gerektirmeyen veya çok az aşındırma gerektiren seçenekler önce değerlendirilir. Kesim gerekiyorsa nedenini ve miktarını önceden anlatıyoruz."
+     },
+     {
+      "q": "Hollywood smile ile gülüş tasarımı aynı şey mi?",
+      "a": "Hollywood smile genellikle tüm ön dişlerin çok beyaz kaplamalarla kaplanması anlamında kullanılır. Gülüş tasarımında amaç yüze uyumlu, doğal görünen bir sonuçtur; renk ve şekil kişiye göre seçilir."
+     }
+    ],
+    "en": [
+     {
+      "q": "Is smile design a treatment or a plan?",
+      "a": "Smile design isn't a single procedure but a way of planning. Facial proportions, the lip line and gum level are assessed, and the result is reached with one or more treatments such as whitening, bonding, veneers, crowns, gum contouring or orthodontics."
+     },
+     {
+      "q": "Can I see the result before treatment?",
+      "a": "In most cases you can try the plan, prepared from photos and a digital scan, as a temporary mock-up in your mouth. That way shape and length are assessed together before anything permanent is done to the teeth."
+     },
+     {
+      "q": "How long does smile design take?",
+      "a": "It depends on the treatments chosen: whitening and bonding alone take a few visits, veneers or crowns usually 2–3 weeks, and plans that need orthodontics take months."
+     },
+     {
+      "q": "Do the teeth always have to be filed down?",
+      "a": "No. Where suitable, options that need no or very little preparation, such as whitening, bonding or clear aligners, are considered first. If preparation is needed, we explain why and how much beforehand."
+     },
+     {
+      "q": "Is a Hollywood smile the same as smile design?",
+      "a": "A Hollywood smile usually means covering all the front teeth with very white crowns or veneers. In smile design the aim is a natural-looking result that suits your face; colour and shape are chosen for each person."
+     }
+    ]
+   },
+   "posts": [
+    "gulus",
+    "beygulus",
+    "eniyigulus",
+    "beyhollywood",
+    "beydugun",
+    "bonding",
+    "beybonding",
+    "lamine",
+    "beylamine",
+    "gummysmile",
+    "disetigreft",
+    "ortokaplama",
+    "beyleke"
+   ]
   },
   {
    "id": "orto",
    "icon": "ortodonti",
    "img": "detay-orto",
    "post": "seffaf",
+   "slug": {
+    "tr": "seffaf-plak",
+    "en": "clear-aligners"
+   },
    "title": {
     "tr": "Şeffaf plak ortodonti",
     "en": "Clear aligner orthodontics"
+   },
+   "h1": {
+    "tr": "Beylikdüzü'nde şeffaf plak tedavisi",
+    "en": "Clear aligners in Beylikdüzü"
+   },
+   "seoTitle": {
+    "tr": "Beylikdüzü Şeffaf Plak Tedavisi | Dent32 Diş Kliniği",
+    "en": "Clear Aligners in Beylikdüzü, Istanbul | Dent32"
+   },
+   "seoDesc": {
+    "tr": "Beylikdüzü'ndeki Dent32'de şeffaf plakla çapraşık dişlerin düzeltilmesi: kimlere uygun, süre, plak kullanımı ve tedavi sonrası pekiştirme.",
+    "en": "Clear aligner treatment at Dent32 in Beylikdüzü, Istanbul: who it suits, how long it takes, how to wear aligners and retention afterwards."
+   },
+   "alt": {
+    "tr": "Şeffaf plak tedavisi: dişlerin tedavi öncesi ve sonrası görünümü",
+    "en": "Clear aligner treatment: the teeth before and after"
    },
    "short": {
     "tr": "Çapraşık ve aralıklı dişler için takılıp çıkarılabilen şeffaf plaklarla düzeltme.",
@@ -206,16 +524,109 @@
      "Regular check-ups",
      "Retention phase"
     ]
-   }
+   },
+   "after": {
+    "tr": [
+     "Plaklar günde 20–22 saat takılır; yalnızca yemek ve fırçalama için çıkarılır.",
+     "Yemekten sonra dişler fırçalanmadan plak takılmamalıdır.",
+     "Plaklar ılık (sıcak değil) su ve yumuşak bir fırçayla temizlenir.",
+     "Tedavi bitince dişlerin yerinde kalması için pekiştirme plağı (retainer) kullanılır."
+    ],
+    "en": [
+     "Aligners are worn 20–22 hours a day and only taken out to eat and brush.",
+     "Don't put the aligners back in after eating without brushing first.",
+     "Clean the aligners with lukewarm (not hot) water and a soft brush.",
+     "When treatment ends, a retainer keeps the teeth in their new position."
+    ]
+   },
+   "faq": {
+    "tr": [
+     {
+      "q": "Şeffaf plak tedavisi ne kadar sürer?",
+      "a": "Çapraşıklığın derecesine göre değişir; hafif durumlarda birkaç ay, daha kapsamlı düzeltmelerde 1–2 yıla kadar sürebilir. Tahmini süreyi dijital tarama ve planlamadan sonra paylaşıyoruz."
+     },
+     {
+      "q": "Şeffaf plak mı, diş teli mi?",
+      "a": "Şeffaf plak dışarıdan pek fark edilmez ve çıkarılabilir; ancak günde 20–22 saat takılması gerektiği için düzen ister. Bazı karmaşık diş hareketlerinde tel daha uygun olabilir. Muayenede iki seçeneği durumunuza göre karşılaştırıyoruz."
+     },
+     {
+      "q": "Plaklar acıtır mı?",
+      "a": "Her yeni plağa geçişte bir iki gün baskı ve hafif hassasiyet hissedilebilir; bu, dişlerin hareket ettiğini gösterir ve genellikle kısa sürede geçer."
+     },
+     {
+      "q": "Yetişkinler şeffaf plak kullanabilir mi?",
+      "a": "Evet. Diş eti ve kemik sağlıklı olduğu sürece yetişkinlerde de ortodontik tedavi yapılabilir. Diş eti hastalığı varsa önce o tedavi edilir."
+     },
+     {
+      "q": "Tedavi bitince dişler eski haline döner mi?",
+      "a": "Pekiştirme plağı kullanılmazsa dişler zamanla eski konumlarına doğru hareket edebilir. Bu yüzden tedavi sonunda kişiye özel bir pekiştirme plağı hazırlıyor ve nasıl kullanılacağını anlatıyoruz."
+     }
+    ],
+    "en": [
+     {
+      "q": "How long does clear aligner treatment take?",
+      "a": "It depends on how crowded the teeth are: a few months for mild cases and up to 1–2 years for more extensive corrections. We share an estimated timeline after the digital scan and planning."
+     },
+     {
+      "q": "Clear aligners or braces?",
+      "a": "Clear aligners are hard to notice and removable, but they need to be worn 20–22 hours a day, so they take discipline. For some complex tooth movements braces may be more suitable. At the examination we compare both options for your situation."
+     },
+     {
+      "q": "Do aligners hurt?",
+      "a": "With each new aligner you may feel pressure and mild tenderness for a day or two; this shows the teeth are moving and usually passes quickly."
+     },
+     {
+      "q": "Can adults have clear aligners?",
+      "a": "Yes. As long as the gums and bone are healthy, orthodontic treatment is possible for adults too. If there is gum disease, it is treated first."
+     },
+     {
+      "q": "Will my teeth move back after treatment?",
+      "a": "Without a retainer, teeth can drift back towards their old position over time. So at the end of treatment we make a custom retainer and explain how to wear it."
+     }
+    ]
+   },
+   "posts": [
+    "seffaf",
+    "beyorto",
+    "eniyiorto",
+    "yetiskinorto",
+    "beycapraz",
+    "pekistirme",
+    "telbakim",
+    "acikkapanis",
+    "kanin",
+    "eksikdis",
+    "beyerkenorto"
+   ]
   },
   {
    "id": "beyaz",
    "icon": "beyazlatma",
    "img": "detay-beyaz",
    "post": "beyaz",
+   "slug": {
+    "tr": "dis-beyazlatma",
+    "en": "teeth-whitening"
+   },
    "title": {
     "tr": "Diş beyazlatma",
     "en": "Teeth whitening"
+   },
+   "h1": {
+    "tr": "Beylikdüzü'nde diş beyazlatma",
+    "en": "Teeth whitening in Beylikdüzü"
+   },
+   "seoTitle": {
+    "tr": "Beylikdüzü Diş Beyazlatma | Dent32 Diş Kliniği",
+    "en": "Teeth Whitening in Beylikdüzü, Istanbul | Dent32"
+   },
+   "seoDesc": {
+    "tr": "Beylikdüzü'ndeki Dent32'de diş beyazlatma: klinikte ve evde beyazlatma, hassasiyet, etkinin ne kadar sürdüğü ve kimlere uygun olduğu.",
+    "en": "Teeth whitening at Dent32 in Beylikdüzü, Istanbul: in-clinic and at-home whitening, sensitivity, how long results last and who it suits."
+   },
+   "alt": {
+    "tr": "Diş beyazlatma: beyaz dişlerin yakından görünümü",
+    "en": "Teeth whitening: a close-up of white teeth"
    },
    "short": {
     "tr": "Hekim kontrolünde, dişlere ve diş etlerine uygun yoğunlukta jellerle yapılan renk açma işlemi.",
@@ -256,16 +667,104 @@
      "In-clinic or at-home application",
      "Shade check and maintenance advice"
     ]
-   }
+   },
+   "after": {
+    "tr": [
+     "İlk 48 saat çay, kahve, kola, kırmızı şarap ve sigara gibi renk bırakan şeylerden uzak durulması önerilir.",
+     "Geçici hassasiyet için hassas dişlere yönelik bir diş macunu kullanılabilir.",
+     "Sonucu korumak için düzenli diş taşı temizliği ve iyi bir evde bakım önemlidir."
+    ],
+    "en": [
+     "Avoid staining things such as tea, coffee, cola, red wine and cigarettes for the first 48 hours.",
+     "A toothpaste for sensitive teeth can help with temporary sensitivity.",
+     "Regular scaling and good home care help keep the result."
+    ]
+   },
+   "faq": {
+    "tr": [
+     {
+      "q": "Diş beyazlatma dişlere zarar verir mi?",
+      "a": "Hekim kontrolünde, uygun yoğunlukta jelle yapılan beyazlatma mineye kalıcı zarar vermez; geçici hassasiyet olabilir. Kontrolsüz kullanılan ürünler ise diş eti tahrişine ve hassasiyete yol açabilir."
+     },
+     {
+      "q": "Klinikte beyazlatma mı, evde plakla beyazlatma mı?",
+      "a": "Klinikte beyazlatma tek seansta yapılır; evde beyazlatmada size özel hazırlanan plaklarla jel birkaç hafta kullanılır. İkisi birlikte de uygulanabilir. Hangisinin uygun olduğu dişlerin rengine, hassasiyete ve beklentinize göre belirlenir."
+     },
+     {
+      "q": "Beyazlatmanın etkisi ne kadar sürer?",
+      "a": "Beslenmeye ve alışkanlıklara göre değişir; genellikle bir ile birkaç yıl arasıdır. Çay, kahve ve sigara renk dönüşünü hızlandırır. Gerekirse kısa bir evde uygulamayla tazelenebilir."
+     },
+     {
+      "q": "Kaplama ve dolgular da beyazlar mı?",
+      "a": "Hayır, beyazlatma yalnızca doğal diş dokusunda etkilidir. Ön dişlerde dolgu ya da kaplama varsa renk uyumu için beyazlatmadan sonra yenilenmeleri gerekebilir; bunu plan aşamasında konuşuyoruz."
+     },
+     {
+      "q": "Herkes beyazlatma yaptırabilir mi?",
+      "a": "Tedavi edilmemiş çürük ya da diş eti hastalığı varsa önce bunlar tedavi edilir. Hamilelik ve emzirme döneminde beyazlatma genellikle ertelenir. Bazı ilaç kaynaklı renklenmelerde beyazlatmanın etkisi sınırlı kalabilir."
+     }
+    ],
+    "en": [
+     {
+      "q": "Does whitening damage the teeth?",
+      "a": "Whitening done under a dentist's supervision with a gel of the right strength does not permanently damage the enamel, though there may be temporary sensitivity. Products used without supervision can irritate the gums and cause sensitivity."
+     },
+     {
+      "q": "In-clinic whitening or at-home whitening with trays?",
+      "a": "In-clinic whitening is done in one visit; at home, a gel is used in custom-made trays for a few weeks. The two can also be combined. Which suits you depends on the colour of your teeth, sensitivity and what you expect."
+     },
+     {
+      "q": "How long does whitening last?",
+      "a": "It depends on diet and habits, usually from one to a few years. Tea, coffee and smoking bring the colour back faster. If needed, it can be refreshed with a short course at home."
+     },
+     {
+      "q": "Will crowns and fillings whiten too?",
+      "a": "No, whitening only works on natural tooth structure. If you have fillings or crowns on your front teeth, they may need replacing after whitening to match; we discuss this when planning."
+     },
+     {
+      "q": "Can anyone have their teeth whitened?",
+      "a": "Untreated decay or gum disease is treated first. Whitening is usually postponed during pregnancy and breastfeeding. For some medication-related staining, whitening may have a limited effect."
+     }
+    ]
+   },
+   "posts": [
+    "beyaz",
+    "beybeyaz",
+    "eniyibeyaz",
+    "sararma",
+    "macun",
+    "siyahleke",
+    "hassasiyet",
+    "erozyon"
+   ]
   },
   {
    "id": "kanal",
    "icon": "kanal",
    "img": "detay-kanal",
    "post": "kanal",
+   "slug": {
+    "tr": "kanal-tedavisi",
+    "en": "root-canal-treatment"
+   },
    "title": {
     "tr": "Kanal tedavisi",
     "en": "Root canal treatment"
+   },
+   "h1": {
+    "tr": "Beylikdüzü'nde kanal tedavisi",
+    "en": "Root canal treatment in Beylikdüzü"
+   },
+   "seoTitle": {
+    "tr": "Beylikdüzü Kanal Tedavisi | Dent32 Diş Kliniği",
+    "en": "Root Canal Treatment in Beylikdüzü | Dent32"
+   },
+   "seoDesc": {
+    "tr": "Beylikdüzü'ndeki Dent32'de kanal tedavisi: hangi belirtilerde gerekir, kaç seans sürer, tedavi sonrası ve dişi korumak için yapılanlar.",
+    "en": "Root canal treatment at Dent32 in Beylikdüzü, Istanbul: the warning signs, number of visits, aftercare and how we aim to save the tooth."
+   },
+   "alt": {
+    "tr": "Kanal tedavisi: diş hekimi tedavi sırasında",
+    "en": "Root canal treatment: a dentist at work"
    },
    "short": {
     "tr": "İltihaplanmış ya da enfekte diş sinirinin temizlenerek dişin ağızda tutulması.",
@@ -308,16 +807,110 @@
      "Restoring the tooth with a filling or crown",
      "Follow-up X-ray"
     ]
-   }
+   },
+   "after": {
+    "tr": [
+     "Uyuşukluk geçene kadar yemek yenmemelidir.",
+     "Birkaç gün hafif hassasiyet olabilir; şişlik ya da artan ağrı olursa kliniği arayın.",
+     "Kalıcı dolgu ya da kaplama yapılana kadar o dişle sert şeyler ısırılmamalıdır.",
+     "Arka dişlerde kanal tedavisinden sonra kırılmayı önlemek için çoğu zaman kaplama önerilir."
+    ],
+    "en": [
+     "Don't eat until the numbness has worn off.",
+     "Mild tenderness for a few days is possible; call the clinic if there is swelling or the pain gets worse.",
+     "Don't bite on anything hard with the tooth until the permanent filling or crown is in place.",
+     "For back teeth, a crown is often recommended after root canal treatment to prevent fracture."
+    ]
+   },
+   "faq": {
+    "tr": [
+     {
+      "q": "Kanal tedavisi acıtır mı?",
+      "a": "İşlem lokal anestezi altında yapılır; çoğu hasta tedavi sırasında dolgu yaptırırken hissettiğine benzer bir his tarif eder. Tedaviden sonra birkaç gün hassasiyet olabilir; ağrı kesiciyle genellikle kontrol altına alınır."
+     },
+     {
+      "q": "Kanal tedavisi kaç seans sürer?",
+      "a": "Birçok diş tek seansta tamamlanabilir. Yoğun iltihap, apse ya da kanal yenilemesi gereken durumlarda iki veya daha fazla seans gerekebilir."
+     },
+     {
+      "q": "Kanal tedavisi yerine diş çekilse olmaz mı?",
+      "a": "Çekim her zaman bir seçenektir; ancak çekilen dişin yerine implant ya da köprü gerekir ve komşu dişler zamanla kayabilir. Kurtarılabilecek bir dişte genellikle kanal tedavisi önerilir. Kararı artıları ve eksileriyle birlikte veriyoruz."
+     },
+     {
+      "q": "Kanal tedavisi yapılmış diş tekrar ağrır mı?",
+      "a": "Çoğu diş yıllarca sorunsuz kalır. Kanalda kalan enfeksiyon, sızdıran bir dolgu ya da çatlak varsa yeniden ağrı olabilir; bu durumda kanal yenileme ya da kök ucu ameliyatı değerlendirilir."
+     },
+     {
+      "q": "Kanal tedavisi gerektiğini gösteren belirtiler nelerdir?",
+      "a": "Sıcak ya da soğuktan sonra uzun süren sızı, gece uyandıran zonklama, ısırınca ağrı, diş etinde şişlik ya da fistül ve dişte renk koyulaşması. Bazen hiçbir belirti olmadan röntgende fark edilir."
+     }
+    ],
+    "en": [
+     {
+      "q": "Does root canal treatment hurt?",
+      "a": "It is done under local anaesthetic, and most patients describe a feeling similar to having a filling. There may be some tenderness for a few days afterwards, which is usually controlled with painkillers."
+     },
+     {
+      "q": "How many visits does a root canal take?",
+      "a": "Many teeth can be finished in a single visit. Severe inflammation, an abscess or a tooth that needs retreatment may take two or more visits."
+     },
+     {
+      "q": "Couldn't the tooth just be taken out instead?",
+      "a": "Extraction is always an option, but the tooth then needs replacing with an implant or bridge, and the neighbouring teeth can drift over time. If a tooth can be saved, root canal treatment is usually recommended. We decide together, weighing the pros and cons."
+     },
+     {
+      "q": "Can a root-filled tooth hurt again?",
+      "a": "Most stay trouble-free for years. If infection remains in the canal, a filling leaks or there is a crack, pain can return; retreatment or root-end surgery is then considered."
+     },
+     {
+      "q": "What are the signs that a root canal is needed?",
+      "a": "Lingering pain after hot or cold, throbbing that wakes you at night, pain on biting, swelling or a fistula on the gum, and darkening of the tooth. Sometimes it is found on an X-ray without any symptoms."
+     }
+    ]
+   },
+   "posts": [
+    "kanal",
+    "beykanal",
+    "eniyikanal",
+    "kanalsonrasi",
+    "cekimkanal",
+    "beykanalyenileme",
+    "kist",
+    "fistul",
+    "apse",
+    "catlak",
+    "disagrisi",
+    "curuk"
+   ]
   },
   {
    "id": "cocuk",
    "icon": "cocuk",
    "img": "detay-cocuk",
    "post": "cocuk",
+   "slug": {
+    "tr": "cocuk-dis-tedavisi",
+    "en": "childrens-dentistry"
+   },
    "title": {
     "tr": "Çocuklarda diş tedavisi",
     "en": "Dental care for children"
+   },
+   "h1": {
+    "tr": "Beylikdüzü'nde çocuklarda diş tedavisi",
+    "en": "Children's dentistry in Beylikdüzü"
+   },
+   "seoTitle": {
+    "tr": "Beylikdüzü Çocuk Diş Tedavisi | Dent32 Diş Kliniği",
+    "en": "Children's Dentistry in Beylikdüzü | Dent32"
+   },
+   "seoDesc": {
+    "tr": "Beylikdüzü'ndeki Dent32'de çocuklarda diş tedavisi: ilk muayene, flor ve fissür örtücü, süt dişi tedavisi ve korkuyu azaltan yaklaşım.",
+    "en": "Dental care for children at Dent32 in Beylikdüzü, Istanbul: the first visit, fluoride and sealants, baby tooth treatment and easing fear."
+   },
+   "alt": {
+    "tr": "Dent32'de çocuklar için düzenlenmiş renkli tedavi odası",
+    "en": "The colourful treatment room for children at Dent32"
    },
    "short": {
     "tr": "Süt dişlerinden itibaren koruyucu bakım, sakin bir ortam ve çocuğa uygun anlatım.",
@@ -358,16 +951,109 @@
      "Preventive care or treatment",
      "Regular check-up appointments"
     ]
-   }
+   },
+   "after": {
+    "tr": [
+     "İlk diş çıktığı andan itibaren dişler pirinç tanesi kadar florürlü macunla, 3 yaşından sonra bezelye tanesi kadar macunla fırçalanır.",
+     "Gece biberonla süt ya da meyve suyu verilmemesi biberon çürüğünü önlemeye yardımcı olur.",
+     "Çocuğun fırçalaması yaklaşık 7–8 yaşına kadar bir yetişkin tarafından kontrol edilmelidir.",
+     "Altı ayda bir kontrol, çürükleri küçükken yakalamayı sağlar."
+    ],
+    "en": [
+     "From the first tooth, brush with a rice-grain smear of fluoride toothpaste, and a pea-sized amount after age 3.",
+     "Not giving milk or juice in a bottle at night helps prevent bottle caries.",
+     "An adult should check the child's brushing until about age 7–8.",
+     "A check-up every six months catches cavities while they are small."
+    ]
+   },
+   "faq": {
+    "tr": [
+     {
+      "q": "Çocuğumu ilk kez diş hekimine ne zaman götürmeliyim?",
+      "a": "İlk diş çıktığında ya da en geç bir yaş civarında. İlk ziyaret kısa bir tanışma ve kontrol niteliğindedir; aileye beslenme ve fırçalama konusunda bilgi verilir."
+     },
+     {
+      "q": "Süt dişleri nasılsa düşecek; tedavi etmek gerekir mi?",
+      "a": "Evet. Çürük süt dişi ağrıya ve enfeksiyona yol açabilir, altındaki kalıcı dişi etkileyebilir. Erken kaybedilen süt dişi, kalıcı dişler için yer kaybına ve çapraşıklığa neden olabilir."
+     },
+     {
+      "q": "Flor uygulaması ve fissür örtücü ne işe yarar?",
+      "a": "Flor uygulaması mineyi güçlendirir ve çürük riskini azaltır. Fissür örtücü, azı dişlerinin derin oluklarını ince bir malzemeyle kapatarak yiyecek birikmesini engeller. İkisi de uyuşturma gerektirmeyen kısa uygulamalardır."
+     },
+     {
+      "q": "Çocuğum diş hekiminden korkuyor; ne yapabiliriz?",
+      "a": "Evde \"acımayacak\" gibi ifadeler yerine sakin ve olumlu bir dil kullanmak ve kliniği önce yalnızca tanışmak için ziyaret etmek işe yarar. Klinikte işlemleri çocuğun anlayacağı bir dille anlatıyor, acele etmeden ilerliyoruz."
+     },
+     {
+      "q": "Çocuklarda ortodonti kontrolü ne zaman yapılmalı?",
+      "a": "Yaklaşık 7 yaşında bir ortodontik kontrol önerilir. Çene gelişimiyle ilgili bazı sorunlar bu dönemde hareketli apareylerle daha kolay yönlendirilebilir."
+     }
+    ],
+    "en": [
+     {
+      "q": "When should my child first see a dentist?",
+      "a": "When the first tooth appears, or by around their first birthday at the latest. The first visit is a short introduction and check-up, and parents get advice on diet and brushing."
+     },
+     {
+      "q": "Baby teeth fall out anyway; do they need treating?",
+      "a": "Yes. A decayed baby tooth can cause pain and infection and can affect the permanent tooth underneath. Losing a baby tooth early can cause loss of space and crowding for the permanent teeth."
+     },
+     {
+      "q": "What do fluoride varnish and fissure sealants do?",
+      "a": "Fluoride strengthens the enamel and lowers the risk of decay. A fissure sealant covers the deep grooves of the back teeth with a thin material so food can't collect there. Both are short procedures that need no anaesthetic."
+     },
+     {
+      "q": "My child is afraid of the dentist; what can we do?",
+      "a": "At home, use calm, positive language instead of phrases like \"it won't hurt\", and visit the clinic first just to say hello. In the clinic we explain each step in words the child understands and don't rush."
+     },
+     {
+      "q": "When should children have an orthodontic check?",
+      "a": "An orthodontic check at around age 7 is recommended. Some problems with jaw growth are easier to guide at this age with removable appliances."
+     }
+    ]
+   },
+   "posts": [
+    "cocuk",
+    "beycocuk",
+    "eniyicocuk",
+    "sutdisi",
+    "bebekdis",
+    "biberon",
+    "flor",
+    "travma",
+    "emzik",
+    "dilbagi",
+    "beyaile"
+   ]
   },
   {
    "id": "diseti",
    "icon": "dis-eti",
    "img": "detay-diseti",
    "post": "diseti",
+   "slug": {
+    "tr": "dis-eti-tedavisi",
+    "en": "gum-treatment"
+   },
    "title": {
     "tr": "Diş eti tedavisi",
     "en": "Gum treatment"
+   },
+   "h1": {
+    "tr": "Beylikdüzü'nde diş eti tedavisi",
+    "en": "Gum treatment in Beylikdüzü"
+   },
+   "seoTitle": {
+    "tr": "Beylikdüzü Diş Eti Tedavisi | Dent32 Diş Kliniği",
+    "en": "Gum Treatment in Beylikdüzü, Istanbul | Dent32"
+   },
+   "seoDesc": {
+    "tr": "Beylikdüzü'ndeki Dent32'de diş eti tedavisi: kanama, çekilme ve diş eti cebi; diş taşı temizliği, derin temizlik ve kontroller.",
+    "en": "Gum treatment at Dent32 in Beylikdüzü, Istanbul: bleeding, receding gums and gum pockets; scaling, deep cleaning and follow-up care."
+   },
+   "alt": {
+    "tr": "Dent32'de tedavi odası ve diş ünitesi",
+    "en": "A treatment room and dental chair at Dent32"
    },
    "short": {
     "tr": "Kanayan, çekilen ya da iltihaplı diş etleri için temizlik ve periodontal tedavi.",
@@ -410,7 +1096,80 @@
      "Re-assessment and further treatment if needed",
      "Regular maintenance visits"
     ]
-   }
+   },
+   "after": {
+    "tr": [
+     "Derin temizlikten sonra birkaç gün diş etlerinde hassasiyet ve hafif kanama olabilir.",
+     "Günde iki kez fırçalama ve ara yüz temizliği (diş ipi ya da ara yüz fırçası) sonucun korunması için şarttır.",
+     "Sigara diş eti hastalığının başlıca risk etkenlerindendir; bırakmak iyileşmeyi destekler.",
+     "Diş eti tedavisi görenlerde kontrol aralığı genellikle 3–6 aydır."
+    ],
+    "en": [
+     "The gums may be tender and bleed a little for a few days after deep cleaning.",
+     "Brushing twice a day and cleaning between the teeth (floss or interdental brushes) are essential to keep the result.",
+     "Smoking is one of the main risk factors for gum disease; stopping supports healing.",
+     "After gum treatment, check-ups are usually every 3–6 months."
+    ]
+   },
+   "faq": {
+    "tr": [
+     {
+      "q": "Diş etim fırçalarken kanıyor; normal mi?",
+      "a": "Hayır, sağlıklı diş eti fırçalarken kanamaz. Kanama çoğunlukla diş eti iltihabının (gingivit) ilk belirtisidir. Bu evrede diş taşı temizliği ve doğru evde bakımla genellikle tamamen geri döner."
+     },
+     {
+      "q": "Diş taşı temizliği mineye zarar verir mi?",
+      "a": "Hayır. Doğru yapılan temizlik mineyi aşındırmaz; yalnızca diş yüzeyindeki sertleşmiş plak ve taşları uzaklaştırır. Temizlikten sonra geçici hassasiyet olabilir."
+     },
+     {
+      "q": "Diş eti çekilmesi geri döner mi?",
+      "a": "Çekilen diş eti kendiliğinden yerine gelmez; ancak ilerlemesi durdurulabilir. Uygun durumlarda yumuşak doku greftiyle açıkta kalan kök yüzeyi örtülebilir."
+     },
+     {
+      "q": "Derin temizlik (kök yüzeyi düzleştirme) nedir?",
+      "a": "Diş eti cebinin içinde, diş eti çizgisinin altında kalan taş ve bakterilerin lokal anestezi altında temizlenmesidir. Diş etinin yeniden dişe tutunmasına yardımcı olur; ilerlemiş durumlarda cerrahi tedavi gerekebilir."
+     },
+     {
+      "q": "Diş eti hastalığı diş kaybına yol açar mı?",
+      "a": "Tedavi edilmeyen periodontitis dişi tutan kemiği yıkarak dişlerin sallanmasına ve kaybına yol açabilir; diyabet ve kalp-damar hastalıklarıyla da ilişkilidir. Erken teşhis ve tedavi dişleri korumaya yardımcı olur."
+     }
+    ],
+    "en": [
+     {
+      "q": "My gums bleed when I brush; is that normal?",
+      "a": "No, healthy gums don't bleed when brushed. Bleeding is usually the first sign of gum inflammation (gingivitis). At this stage it usually reverses completely with scaling and good home care."
+     },
+     {
+      "q": "Does scaling damage the enamel?",
+      "a": "No. Properly done cleaning doesn't wear the enamel; it only removes hardened plaque and tartar from the tooth surface. There may be temporary sensitivity afterwards."
+     },
+     {
+      "q": "Do receding gums grow back?",
+      "a": "Receded gums don't grow back on their own, but the recession can be stopped. In suitable cases a soft tissue graft can cover the exposed root surface."
+     },
+     {
+      "q": "What is deep cleaning (root planing)?",
+      "a": "Cleaning tartar and bacteria from inside the gum pockets, below the gum line, under local anaesthetic. It helps the gum reattach to the tooth; advanced cases may need surgical treatment."
+     },
+     {
+      "q": "Can gum disease cause tooth loss?",
+      "a": "Untreated periodontitis destroys the bone that holds the teeth, which can make them loose and lead to their loss; it is also linked with diabetes and heart disease. Early diagnosis and treatment help protect the teeth."
+     }
+    ]
+   },
+   "posts": [
+    "diseti",
+    "beydiseti",
+    "eniyidiseti",
+    "disetiiltihap",
+    "disetcebi",
+    "sallanma",
+    "beydistasi",
+    "distasi",
+    "agizkokusu",
+    "perikoronit",
+    "sigara"
+   ]
   }
  ],
  "strip": [

@@ -4,7 +4,8 @@ import { BeforeAfter } from "@/components/client/BeforeAfter";
 import { Rail } from "@/components/client/Rail";
 import { Icon } from "@/components/Icon";
 import { Img } from "@/components/Img";
-import { dateBadge, type Lang, type Post, route, translator, WA } from "@/lib/site";
+import { breadcrumbLd, jsonLd } from "@/lib/seo";
+import { dateBadge, type Lang, type PageKey, type Post, route, translator, WA } from "@/lib/site";
 
 /** Görselin ekrandaki genişliği: yatay şerit kartı (.hx-rail) ve 3 sütunlu ızgara (.blog-grid, .gallery, .team) */
 export const SIZES_RAIL = "(max-width: 640px) 78vw, 268px";
@@ -50,14 +51,28 @@ export function BlogCard({ lang, post, d = 0, as: H = "h3" }: { lang: Lang; post
   );
 }
 
-export function PageHead({ lang, title, lead, crumb, eyebrow }: { lang: Lang; title: string; lead: string; crumb: string; eyebrow?: string }) {
+type PageHeadProps = {
+  lang: Lang; title: string; lead: string; crumb: string; eyebrow?: string;
+  /** Sayfanın kendi anahtarı: sayfa yolu Google'a da (BreadcrumbList JSON-LD) bildirilir */
+  pageKey: PageKey;
+  /** Anasayfa ile bu sayfa arasındaki üst sayfa, ör. tedavi sayfasında "Tedaviler" */
+  parent?: { label: string; key: PageKey };
+};
+
+export function PageHead({ lang, title, lead, crumb, eyebrow, pageKey, parent }: PageHeadProps) {
   const t = translator(lang);
+  const home = t("Anasayfa", "Home");
+  const trail: [string, string][] = [
+    [home, route("home", lang)], ...(parent ? [[parent.label, route(parent.key, lang)] as [string, string]] : []), [crumb, route(pageKey, lang)],
+  ];
   return (
     <section className="page-head">
+      <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(breadcrumbLd(trail))} />
       <div className="wrap">
         <nav className="crumbs" aria-label={t("Sayfa yolu", "Breadcrumb")}>
           <ol>
-            <li><Link href={route("home", lang)}>{t("Anasayfa", "Home")}</Link></li>
+            <li><Link href={route("home", lang)}>{home}</Link></li>
+            {parent && <li><Link href={route(parent.key, lang)}>{parent.label}</Link></li>}
             <li><span aria-current="page">{crumb}</span></li>
           </ol>
         </nav>

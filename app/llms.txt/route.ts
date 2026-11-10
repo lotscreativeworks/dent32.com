@@ -1,4 +1,4 @@
-import { ADDRESS, absUrl, EMAIL, OFFICIAL_NAME, PHONE, POSTS, PRESS, route, SITE, SITE_UPDATED, TEAM, TREATMENTS, WA } from "@/lib/site";
+import { ADDRESS, absUrl, EMAIL, OFFICIAL_NAME, PHONE, POSTS, PRESS, SITE_UPDATED, TEAM, TREATMENTS, WA } from "@/lib/site";
 
 export const dynamic = "force-static";
 
@@ -32,7 +32,7 @@ export function GET() {
     "",
     "## Tedaviler / Treatments",
     "",
-    ...TREATMENTS.map((t) => `- [${t.title.tr}](${SITE}${route("treat", "tr", t.id)}): ${t.short.tr}`),
+    ...TREATMENTS.map((t) => `- [${t.title.tr}](${absUrl(`treat-${t.id}`, "tr")}): ${t.short.tr} English: ${absUrl(`treat-${t.id}`, "en")}`),
     "",
     "## Blog (Türkçe)",
     "",

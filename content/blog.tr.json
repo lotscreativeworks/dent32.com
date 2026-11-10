@@ -4308,7 +4308,7 @@
    {
     "id": "tedaviler",
     "h": "Hangi tedaviler yapılıyor?",
-    "html": "<ul>\n<li><a class=\"text-link\" href=\"/tedaviler/#implant\">İmplant</a>, All-on-Four ve implant üstü protezler</li>\n<li><a class=\"text-link\" href=\"/tedaviler/#kaplama\">Zirkonyum, e.max ve porselen kaplama</a>, lamine veneer</li>\n<li><a class=\"text-link\" href=\"/tedaviler/#gulus\">Gülüş tasarımı</a> ve <a class=\"text-link\" href=\"/tedaviler/#beyaz\">diş beyazlatma</a></li>\n<li><a class=\"text-link\" href=\"/tedaviler/#orto\">Şeffaf plak ortodonti</a> ve tel tedavisi</li>\n<li><a class=\"text-link\" href=\"/tedaviler/#kanal\">Kanal tedavisi</a>, dolgu ve diş çekimi</li>\n<li><a class=\"text-link\" href=\"/tedaviler/#diseti\">Diş eti tedavisi</a> ve <a class=\"text-link\" href=\"/tedaviler/#cocuk\">çocuk diş hekimliği</a></li>\n</ul>"
+    "html": "<ul>\n<li><a class=\"text-link\" href=\"/tedaviler/implant-tedavisi/\">İmplant</a>, All-on-Four ve implant üstü protezler</li>\n<li><a class=\"text-link\" href=\"/tedaviler/zirkonyum-kaplama/\">Zirkonyum, e.max ve porselen kaplama</a>, lamine veneer</li>\n<li><a class=\"text-link\" href=\"/tedaviler/gulus-tasarimi/\">Gülüş tasarımı</a> ve <a class=\"text-link\" href=\"/tedaviler/dis-beyazlatma/\">diş beyazlatma</a></li>\n<li><a class=\"text-link\" href=\"/tedaviler/seffaf-plak/\">Şeffaf plak ortodonti</a> ve tel tedavisi</li>\n<li><a class=\"text-link\" href=\"/tedaviler/kanal-tedavisi/\">Kanal tedavisi</a>, dolgu ve diş çekimi</li>\n<li><a class=\"text-link\" href=\"/tedaviler/dis-eti-tedavisi/\">Diş eti tedavisi</a> ve <a class=\"text-link\" href=\"/tedaviler/cocuk-dis-tedavisi/\">çocuk diş hekimliği</a></li>\n</ul>"
    },
    {
     "id": "randevu",
@@ -7896,7 +7896,7 @@
    {
     "id": "dent32",
     "h": "Dent32'de ortodonti",
-    "html": "<p>Kurucu hekimimiz Dr. Hüseyin Aşçı ortodonti ve diş estetiği alanında çalışmaktadır. Ortodontiyi gerektiğinde gülüş tasarımı, kaplama ya da implant planıyla birlikte ele alıyoruz. <a class=\"text-link\" href=\"/tedaviler/#orto\">Şeffaf plak ortodonti</a> sayfamızdan genel bilgiye ulaşabilir, <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniğimizde</a> muayene için <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+    "html": "<p>Kurucu hekimimiz Dr. Hüseyin Aşçı ortodonti ve diş estetiği alanında çalışmaktadır. Ortodontiyi gerektiğinde gülüş tasarımı, kaplama ya da implant planıyla birlikte ele alıyoruz. <a class=\"text-link\" href=\"/tedaviler/seffaf-plak/\">Şeffaf plak ortodonti</a> sayfamızdan genel bilgiye ulaşabilir, <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniğimizde</a> muayene için <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
    }
   ],
   "faq": [
@@ -7956,7 +7956,7 @@
    {
     "id": "acil",
     "h": "Çocuklarda diş acilleri",
-    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">Ne yapılmalı?</th></tr></thead><tbody><tr><td>Kalıcı diş tamamen yerinden çıktı</td><td>Dişi kökünden değil tacından tutun, kirliyse kısaca suyla çalkalayın, süt içinde saklayıp hemen kliniğe gelin. İlk bir saat çok önemlidir.</td></tr><tr><td>Diş kırıldı</td><td>Kırık parçayı saklayın, ağzı ılık suyla çalkalayın ve aynı gün muayeneye gelin.</td></tr><tr><td>Yüzde şişlik ve ateş</td><td>Enfeksiyon belirtisi olabilir; ertelemeden hekime başvurun.</td></tr><tr><td>Süt dişi yerinden çıktı</td><td>Süt dişi yerine geri takılmaz; yine de çevre dokuların kontrolü için muayene gerekir.</td></tr></tbody></table></div><p>Ayrıntılı bilgi için <a class=\"text-link\" href=\"/tedaviler/#cocuk\">çocuk diş hekimliği</a> sayfamıza bakabilir, <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniği</a> Dent32'den <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">Ne yapılmalı?</th></tr></thead><tbody><tr><td>Kalıcı diş tamamen yerinden çıktı</td><td>Dişi kökünden değil tacından tutun, kirliyse kısaca suyla çalkalayın, süt içinde saklayıp hemen kliniğe gelin. İlk bir saat çok önemlidir.</td></tr><tr><td>Diş kırıldı</td><td>Kırık parçayı saklayın, ağzı ılık suyla çalkalayın ve aynı gün muayeneye gelin.</td></tr><tr><td>Yüzde şişlik ve ateş</td><td>Enfeksiyon belirtisi olabilir; ertelemeden hekime başvurun.</td></tr><tr><td>Süt dişi yerinden çıktı</td><td>Süt dişi yerine geri takılmaz; yine de çevre dokuların kontrolü için muayene gerekir.</td></tr></tbody></table></div><p>Ayrıntılı bilgi için <a class=\"text-link\" href=\"/tedaviler/cocuk-dis-tedavisi/\">çocuk diş hekimliği</a> sayfamıza bakabilir, <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniği</a> Dent32'den <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
    }
   ],
   "faq": [
@@ -8582,7 +8582,7 @@
    {
     "id": "dikkat",
     "h": "Implant yaptırmadan önce sormanız gereken sorular",
-    "html": "<ul>\n<li>Hangi implant markası kullanılacak ve bu markanın yedek parçaları yıllar sonra da bulunabilir mi?</li>\n<li>Kemik yeterli mi; greft ya da sinüs lifting gerekecek mi?</li>\n<li>İmplantın üzerine hangi malzemeden diş yapılacak?</li>\n<li>Kaynaşma süresince geçici diş kullanacak mıyım?</li>\n<li>Tedavi sonrası kontrol programı nasıl olacak?</li>\n</ul>\n<p>Dent32'de implant tedavisini muayene ve tomografiyle planlıyor, planı yazılı olarak paylaşıyoruz. Ayrıntılar için <a class=\"text-link\" href=\"/tedaviler/#implant\">implant tedavisi sayfamıza</a> bakabilir ya da <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+    "html": "<ul>\n<li>Hangi implant markası kullanılacak ve bu markanın yedek parçaları yıllar sonra da bulunabilir mi?</li>\n<li>Kemik yeterli mi; greft ya da sinüs lifting gerekecek mi?</li>\n<li>İmplantın üzerine hangi malzemeden diş yapılacak?</li>\n<li>Kaynaşma süresince geçici diş kullanacak mıyım?</li>\n<li>Tedavi sonrası kontrol programı nasıl olacak?</li>\n</ul>\n<p>Dent32'de implant tedavisini muayene ve tomografiyle planlıyor, planı yazılı olarak paylaşıyoruz. Ayrıntılar için <a class=\"text-link\" href=\"/tedaviler/implant-tedavisi/\">implant tedavisi sayfamıza</a> bakabilir ya da <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
    }
   ],
   "faq": [
@@ -8697,7 +8697,7 @@
    {
     "id": "omur",
     "h": "Diş kaplama kaç yıl dayanır?",
-    "html": "<p>İyi planlanmış ve bakımı yapılan kaplamalar çoğu hastada on yıl ve üzeri kullanılır. Kaplamanın ömrünü en çok kısaltan etkenler; kenarlarda oluşan çürük, diş eti hastalığı ve diş sıkmadır. Kaplama sonrası hassasiyet ve bakım için <a class=\"text-link\" href=\"/blog/dis-kaplama-sonrasi-hassasiyet/\">kaplama sonrası rehberimize</a> bakabilirsiniz. Beylikdüzü'ndeki kliniğimizde kaplama seçeneklerini <a class=\"text-link\" href=\"/tedaviler/#kaplama\">tedaviler sayfamızda</a> tanıtıyoruz.</p>"
+    "html": "<p>İyi planlanmış ve bakımı yapılan kaplamalar çoğu hastada on yıl ve üzeri kullanılır. Kaplamanın ömrünü en çok kısaltan etkenler; kenarlarda oluşan çürük, diş eti hastalığı ve diş sıkmadır. Kaplama sonrası hassasiyet ve bakım için <a class=\"text-link\" href=\"/blog/dis-kaplama-sonrasi-hassasiyet/\">kaplama sonrası rehberimize</a> bakabilirsiniz. Beylikdüzü'ndeki kliniğimizde kaplama seçeneklerini <a class=\"text-link\" href=\"/tedaviler/zirkonyum-kaplama/\">tedaviler sayfamızda</a> tanıtıyoruz.</p>"
    }
   ],
   "faq": [
@@ -8757,7 +8757,7 @@
    {
     "id": "cekim",
     "h": "Çekmek daha kolay değil mi?",
-    "html": "<p>Kısa vadede çekim daha hızlı görünebilir; ancak çekilen dişin yerine implant ya da köprü yapılması gerekir ve bu hem daha uzun hem daha maliyetli bir süreçtir. Doğal dişin korunması mümkünse genellikle ilk tercih budur. Diş çekildiyse seçenekler için <a class=\"text-link\" href=\"/blog/implant-mi-kopru-mu/\">implant mı köprü mü</a> yazımızı okuyabilirsiniz. Kanal tedavisi hakkında daha fazla bilgi için <a class=\"text-link\" href=\"/tedaviler/#kanal\">tedaviler sayfamıza</a> göz atın.</p>"
+    "html": "<p>Kısa vadede çekim daha hızlı görünebilir; ancak çekilen dişin yerine implant ya da köprü yapılması gerekir ve bu hem daha uzun hem daha maliyetli bir süreçtir. Doğal dişin korunması mümkünse genellikle ilk tercih budur. Diş çekildiyse seçenekler için <a class=\"text-link\" href=\"/blog/implant-mi-kopru-mu/\">implant mı köprü mü</a> yazımızı okuyabilirsiniz. Kanal tedavisi hakkında daha fazla bilgi için <a class=\"text-link\" href=\"/tedaviler/kanal-tedavisi/\">tedaviler sayfamıza</a> göz atın.</p>"
    }
   ],
   "faq": [
@@ -9037,7 +9037,7 @@
    {
     "id": "onem",
     "h": "Diş eti sağlığı neden diğer tedavileri de etkiler?",
-    "html": "<p>İmplant, kaplama ve ortodonti gibi tedavilerin uzun dönem başarısı sağlıklı diş etine bağlıdır. İmplant çevresinde de benzer bir iltihap (peri-implantitis) gelişebilir. Bu nedenle diş eti hastalığı varsa önce o tedavi edilir. Diş eti tedavisi hakkında daha fazla bilgi için <a class=\"text-link\" href=\"/tedaviler/#diseti\">tedaviler sayfamıza</a> bakabilir, Beylikdüzü'ndeki kliniğimizden <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+    "html": "<p>İmplant, kaplama ve ortodonti gibi tedavilerin uzun dönem başarısı sağlıklı diş etine bağlıdır. İmplant çevresinde de benzer bir iltihap (peri-implantitis) gelişebilir. Bu nedenle diş eti hastalığı varsa önce o tedavi edilir. Diş eti tedavisi hakkında daha fazla bilgi için <a class=\"text-link\" href=\"/tedaviler/dis-eti-tedavisi/\">tedaviler sayfamıza</a> bakabilir, Beylikdüzü'ndeki kliniğimizden <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
    }
   ],
   "faq": [
@@ -9152,7 +9152,7 @@
    {
     "id": "evde",
     "h": "Evde diş bakımı: yaşa göre öneriler",
-    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Yaş</th><th scope=\"col\">Öneri</th></tr></thead><tbody><tr><td>İlk diş – 3 yaş</td><td>Günde 2 kez, pirinç tanesi kadar florürlü diş macunuyla ebeveyn fırçalaması</td></tr><tr><td>3 – 6 yaş</td><td>Bezelye tanesi kadar florürlü macun; fırçalama ebeveyn gözetiminde</td></tr><tr><td>6 yaş ve üzeri</td><td>Çocuk kendi fırçalar, ebeveyn akşamları kontrol eder; diş ipi alışkanlığı kazandırılır</td></tr></tbody></table></div>\n<p>Şekerli atıştırmalıkların sıklığını azaltmak, miktarını azaltmaktan daha etkilidir. Çocuk diş hekimliği hizmetlerimiz için <a class=\"text-link\" href=\"/tedaviler/#cocuk\">tedaviler sayfamıza</a> bakabilirsiniz; ilerleyen yaşlarda dişlerde çapraşıklık fark edilirse <a class=\"text-link\" href=\"/blog/seffaf-plak-mi-tel-mi/\">şeffaf plak ve tel karşılaştırmamız</a> yol gösterebilir.</p>"
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Yaş</th><th scope=\"col\">Öneri</th></tr></thead><tbody><tr><td>İlk diş – 3 yaş</td><td>Günde 2 kez, pirinç tanesi kadar florürlü diş macunuyla ebeveyn fırçalaması</td></tr><tr><td>3 – 6 yaş</td><td>Bezelye tanesi kadar florürlü macun; fırçalama ebeveyn gözetiminde</td></tr><tr><td>6 yaş ve üzeri</td><td>Çocuk kendi fırçalar, ebeveyn akşamları kontrol eder; diş ipi alışkanlığı kazandırılır</td></tr></tbody></table></div>\n<p>Şekerli atıştırmalıkların sıklığını azaltmak, miktarını azaltmaktan daha etkilidir. Çocuk diş hekimliği hizmetlerimiz için <a class=\"text-link\" href=\"/tedaviler/cocuk-dis-tedavisi/\">tedaviler sayfamıza</a> bakabilirsiniz; ilerleyen yaşlarda dişlerde çapraşıklık fark edilirse <a class=\"text-link\" href=\"/blog/seffaf-plak-mi-tel-mi/\">şeffaf plak ve tel karşılaştırmamız</a> yol gösterebilir.</p>"
    }
   ],
   "faq": [

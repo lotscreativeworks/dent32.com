@@ -123,7 +123,7 @@ export function Home({ lang }: { lang: Lang }) {
           </SecHead>
           <LangRail lang={lang} label={t("Tedaviler", "Treatments")} className="hx-rail--treat">
             {STRIP.map((s, i) => (
-              <Link key={s.img} className="t-card lift rv" style={delay(i)} href={route("treat", lang, s.anchor)}>
+              <Link key={s.img} className="t-card lift rv" style={delay(i)} href={route(`treat-${s.anchor}`, lang)}>
                 <div className="zoom" style={{ height: "100%" }}><Img name={s.img} w={720} h={960} alt="" sizes={SIZES_RAIL} /></div>
                 <h3>{s.title[lang]}</h3>
               </Link>

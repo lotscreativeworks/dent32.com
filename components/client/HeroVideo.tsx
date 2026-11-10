@@ -7,7 +7,8 @@ import { useEffect, useRef, useState } from "react";
  * - Önce hafif kapak görseli gelir; video sayfa yüklendikten sonra indirilir, açılışı yavaşlatmaz.
  * - Telefonlarda daha küçük (540p) dosya yüklenir.
  * - iOS düşük güç modu gibi otomatik oynatmanın engellendiği durumlarda ilk dokunuşta yeniden denenir.
- * - Hareket azaltma tercihinde ya da veri tasarrufu modunda video oynatılmaz, kapak görseli kalır.
+ * - Hareket azaltma tercihinde, veri tasarrufu modunda ya da yavaş bağlantıda (3G ve altı) video oynatılmaz, kapak görseli kalır.
+ * - Telefonda video sayfa yüklendikten 2,5 sn sonra iner: ilk ekrandaki görseller ve betikler bant genişliğini paylaşmasın (LCP).
  */
 export function HeroVideo() {
   const ref = useRef<HTMLVideoElement>(null);
@@ -17,14 +18,16 @@ export function HeroVideo() {
     const v = ref.current;
     if (!v) return;
     const reduce = window.matchMedia("(prefers-reduced-motion: reduce)");
-    const saveData = (navigator as Navigator & { connection?: { saveData?: boolean } }).connection?.saveData;
+    const conn = (navigator as Navigator & { connection?: { saveData?: boolean; effectiveType?: string } }).connection;
+    const saveData = conn?.saveData || ["slow-2g", "2g", "3g"].includes(conn?.effectiveType ?? "");
+    const mobile = window.matchMedia("(max-width: 768px)").matches;
     const gestures = ["touchend", "click", "keydown"] as const;
     let timer = 0;
 
     const tryPlay = () => {
       if (reduce.matches || saveData) return;
       if (!v.src) {
-        v.src = window.matchMedia("(max-width: 768px)").matches ? "/video/hero-540.mp4" : "/video/hero-720.mp4";
+        v.src = mobile ? "/video/hero-540.mp4" : "/video/hero-720.mp4";
       }
       // iOS otomatik oynatma için `muted` DOM özelliği burada kesinleştirilir
       v.muted = true;
@@ -43,7 +46,7 @@ export function HeroVideo() {
     };
 
     // Kapak görseli ve sayfanın kendisi önce yüklensin, video ardından gelsin
-    const start = () => { timer = window.setTimeout(tryPlay, 150); };
+    const start = () => { timer = window.setTimeout(tryPlay, mobile ? 2500 : 300); };
     if (document.readyState === "complete") start();
     else window.addEventListener("load", start, { once: true });
 

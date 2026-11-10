@@ -67,7 +67,7 @@ export function dentistLd(lang: Lang) {
     areaServed: AREA_SERVED.map((name) => ({ "@type": "AdministrativeArea", name })),
     medicalSpecialty: "Dentistry",
     availableService: TREATMENTS.map((tr) => ({
-      "@type": "MedicalProcedure", name: tr.title[lang], description: tr.short[lang], url: SITE + route("treat", lang, tr.id),
+      "@type": "MedicalProcedure", name: tr.title[lang], description: tr.short[lang], url: SITE + route(`treat-${tr.id}`, lang),
     })),
     founder: {
       "@type": "Person", "@id": `${SITE}/#huseyin-asci`, name: "Dr. Hüseyin Aşçı", alternateName: ["Hüseyin Aşçı", "Hüseyin Aşcı"],
@@ -77,7 +77,11 @@ export function dentistLd(lang: Lang) {
       knowsAbout: t("Şeffaf plak, çapraşık dişlerin düzeltilmesi, gülüş tasarımı, diş estetiği", "Clear aligners, straightening crowded teeth, smile design, aesthetic dentistry"),
       sameAs: ["https://www.instagram.com/dr.huseyinasci/"],
     },
-    employee: TEAM.map((m) => ({ "@type": "Person", name: m.name, jobTitle: m.role[lang] })),
+    // Kurucu hekim aynı @id ile anılır; Google iki kaydı tek kişi olarak birleştirir
+    employee: TEAM.map((m) => ({
+      "@type": "Person", ...(m.img === "hekim-huseyin-asci" && { "@id": `${SITE}/#huseyin-asci` }),
+      name: m.name, jobTitle: m.role[lang], image: `${SITE}/img/${m.img}.webp`, url: absUrl("about", lang),
+    })),
     availableLanguage: ["tr", "en"],
     ...(CLINIC_HOURS && {
       openingHoursSpecification: [{

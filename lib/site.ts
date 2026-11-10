@@ -1,20 +1,14 @@
 import blogEn from "@/content/blog.en.json";
 import blogTr from "@/content/blog.tr.json";
 import siteData from "@/content/site.json";
+import { type Lang, type Localized, WA } from "@/lib/core";
 
-export type Lang = "tr" | "en";
-export type Localized<T = string> = Record<Lang, T>;
-
-/** İki dilli metin seçici: t("Merhaba", "Hello") */
-export const translator = (lang: Lang) => (tr: string, en: string) => (lang === "tr" ? tr : en);
+export { type Lang, type Localized, PHONE, PHONE_E164, translator, WA, waLink } from "@/lib/core";
 
 // --- Klinik bilgileri --------------------------------------------------------
 export const SITE = "https://dent32.com";
 /** Kurumun ruhsat türüne uygun tam adı (poliklinik). Altlıkta, Hakkımızda'da ve kurumsal kayıtta kullanılır. */
 export const OFFICIAL_NAME = "Dent32 Ağız ve Diş Sağlığı Polikliniği";
-export const PHONE = "+90 555 011 33 68";
-export const PHONE_E164 = "+905550113368";
-export const WA = "https://wa.me/905550113368";
 export const EMAIL = "info@dent32.com";
 export const STREET = "Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179";
 export const ADDRESS = `${STREET}, 34520 Beylikdüzü / İstanbul`;
@@ -59,8 +53,6 @@ export const VISUAL_WARNING = {
 /** Kliniğin günlük saatleri netleşince doldurun, ör. ["09:00", "19:00"]. Boşken JSON-LD'de saat yazılmaz. */
 export const CLINIC_HOURS: [string, string] | null = null;
 
-export const waLink = (text: string) => `${WA}?text=${encodeURIComponent(text)}`;
-
 // --- İçerik ------------------------------------------------------------------
 export type Post = {
   key: string; date: string; cat: string; cover: string; slug: string;
@@ -80,6 +72,10 @@ export const postByKey = (lang: Lang, key: string) => POSTS[lang].find((p) => p.
 
 export const { treatments: TREATMENTS, strip: STRIP, team: TEAM, clinic: CLINIC, reels: REELS } = siteData;
 export type Treatment = (typeof TREATMENTS)[number];
+export const treatmentById = (id: string) => TREATMENTS.find((t) => t.id === id)!;
+export const treatmentBySlug = (lang: Lang, slug: string) => TREATMENTS.find((t) => t.slug[lang] === slug);
+/** Yazının bağlandığı tedavi sayfası: yazının `posts` listesinde ilk geçtiği tedavi */
+export const treatmentForPost = (key: string) => TREATMENTS.find((t) => t.posts.includes(key));
 
 // --- Rotalar -----------------------------------------------------------------
 const STATIC_ROUTES = {
@@ -91,13 +87,16 @@ const STATIC_ROUTES = {
   contact: { tr: "/iletisim/", en: "/en/contact/" },
 } satisfies Record<string, Localized>;
 
-export type PageKey = keyof typeof STATIC_ROUTES | `post-${string}`;
+export type PageKey = keyof typeof STATIC_ROUTES | `post-${string}` | `treat-${string}`;
 
 export function route(key: PageKey, lang: Lang, hash?: string): string {
   let path: string;
   if (key.startsWith("post-")) {
     const post = postByKey(lang, key.slice(5));
     path = lang === "tr" ? `/blog/${post.slug}/` : `/en/blog/${post.slug}/`;
+  } else if (key.startsWith("treat-")) {
+    // Tedavi sayfası: /tedaviler/implant-tedavisi/ · /en/treatments/dental-implants/
+    path = `${STATIC_ROUTES.treat[lang]}${treatmentById(key.slice(6)).slug[lang]}/`;
   } else {
     path = STATIC_ROUTES[key as keyof typeof STATIC_ROUTES][lang];
   }
@@ -107,6 +106,7 @@ export function route(key: PageKey, lang: Lang, hash?: string): string {
 export const absUrl = (key: PageKey, lang: Lang) => SITE + route(key, lang);
 export const ALL_PAGE_KEYS: PageKey[] = [
   ...(Object.keys(STATIC_ROUTES) as PageKey[]),
+  ...TREATMENTS.map((t) => `treat-${t.id}` as PageKey),
   ...POSTS.tr.map((p) => `post-${p.key}` as PageKey),
 ];
 

@@ -538,6 +538,13 @@ ul, ol { margin: 0; padding: 0; }
   width: 26px; height: 26px; border-radius: 50%; background: var(--ink); color: #fff; font-size: .78rem; font-weight: 700;
 }
 .detail .btn-row { margin-top: 28px; }
+.detail__head h2 a { color: inherit; text-decoration: none; }
+.detail__head h2 a:hover { text-decoration: underline; text-decoration-color: var(--blue); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+/* Tedavi sayfasında kart ızgarasının altındaki diğer yazılar */
+.link-list { list-style: none; margin: 36px 0 0; padding: 0; columns: 2 320px; column-gap: 48px; }
+.link-list li { break-inside: avoid; border-bottom: 1px solid var(--line); }
+.link-list a { display: block; padding: 12px 0; color: var(--ink); text-decoration: none; line-height: 1.45; }
+.link-list a:hover { text-decoration: underline; text-decoration-color: var(--blue); text-underline-offset: 3px; }
 @media (max-width: 860px) {
   .detail { grid-template-columns: 1fr; }
   .detail__media { max-width: 460px; }

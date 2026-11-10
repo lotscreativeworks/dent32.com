@@ -3,7 +3,8 @@ import Link from "next/link";
 import { Icon } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
-import { CLINIC, dateLong, type Lang, OFFICIAL_NAME, PRESS, route, TEAM, translator } from "@/lib/site";
+import { DENTIST_ID, dentistLd, jsonLd } from "@/lib/seo";
+import { absUrl, CLINIC, dateLong, type Lang, OFFICIAL_NAME, PRESS, route, SITE, TEAM, translator } from "@/lib/site";
 
 export function About({ lang }: { lang: Lang }) {
   const t = translator(lang);
@@ -24,9 +25,18 @@ export function About({ lang }: { lang: Lang }) {
     ["Follow-up and care", "Treatment doesn't end at the last session: check-ups and home-care advice help us protect the result together."],
   ];
 
+  // Hakkımızda sayfası kliniği (ve kurucu hekim ile kadroyu) anlatır: Google'a aynı @id ile bağlanır
+  const aboutLd = {
+    "@context": "https://schema.org", "@type": "AboutPage", "@id": `${absUrl("about", lang)}#webpage`, url: absUrl("about", lang),
+    name: t("Dent32 hakkında", "About Dent32"), inLanguage: lang, isPartOf: { "@id": `${SITE}/#website` },
+    about: { "@id": DENTIST_ID }, mainEntity: { "@id": DENTIST_ID },
+  };
+
   return (
     <Shell lang={lang} pageKey="about">
-      <PageHead lang={lang} title={t("Dent32'yi tanıyın", "Get to know Dent32")} crumb={t("Hakkımızda", "About")}
+      <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(aboutLd)} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(dentistLd(lang))} />
+      <PageHead lang={lang} pageKey="about" title={t("Dent32'yi tanıyın", "Get to know Dent32")} crumb={t("Hakkımızda", "About")}
         eyebrow={t("Beylikdüzü diş kliniği", "Dental clinic in Beylikdüzü")}
         lead={t(`${OFFICIAL_NAME}: Beylikdüzü'nde, haftanın yedi günü açık bir diş polikliniği. Her tedaviyi açıkça anlatılan, yazılı bir planla yürütüyoruz.`,
           `${OFFICIAL_NAME} (Dent32 Dental Polyclinic): a dental practice in Beylikdüzü, Istanbul, open seven days a week. Every treatment follows a clearly explained, written plan.`)} />

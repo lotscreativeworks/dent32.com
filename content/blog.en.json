@@ -4308,7 +4308,7 @@
    {
     "id": "tedaviler",
     "h": "Which treatments are offered?",
-    "html": "<ul>\n<li><a class=\"text-link\" href=\"/en/treatments/#implant\">Implants</a>, All-on-Four and implant-supported dentures</li>\n<li><a class=\"text-link\" href=\"/en/treatments/#kaplama\">Zirconia, e.max and porcelain crowns</a>, laminate veneers</li>\n<li><a class=\"text-link\" href=\"/en/treatments/#gulus\">Smile design</a> and <a class=\"text-link\" href=\"/en/treatments/#beyaz\">teeth whitening</a></li>\n<li><a class=\"text-link\" href=\"/en/treatments/#orto\">Clear aligner orthodontics</a> and braces</li>\n<li><a class=\"text-link\" href=\"/en/treatments/#kanal\">Root canal treatment</a>, fillings and extractions</li>\n<li><a class=\"text-link\" href=\"/en/treatments/#diseti\">Gum treatment</a> and <a class=\"text-link\" href=\"/en/treatments/#cocuk\">children's dentistry</a></li>\n</ul>"
+    "html": "<ul>\n<li><a class=\"text-link\" href=\"/en/treatments/dental-implants/\">Implants</a>, All-on-Four and implant-supported dentures</li>\n<li><a class=\"text-link\" href=\"/en/treatments/zirconia-crowns/\">Zirconia, e.max and porcelain crowns</a>, laminate veneers</li>\n<li><a class=\"text-link\" href=\"/en/treatments/smile-design/\">Smile design</a> and <a class=\"text-link\" href=\"/en/treatments/teeth-whitening/\">teeth whitening</a></li>\n<li><a class=\"text-link\" href=\"/en/treatments/clear-aligners/\">Clear aligner orthodontics</a> and braces</li>\n<li><a class=\"text-link\" href=\"/en/treatments/root-canal-treatment/\">Root canal treatment</a>, fillings and extractions</li>\n<li><a class=\"text-link\" href=\"/en/treatments/gum-treatment/\">Gum treatment</a> and <a class=\"text-link\" href=\"/en/treatments/childrens-dentistry/\">children's dentistry</a></li>\n</ul>"
    },
    {
     "id": "randevu",
@@ -7894,7 +7894,7 @@
    {
     "id": "dent32",
     "h": "Orthodontics at Dent32",
-    "html": "<p>Our founder, Dr. Hüseyin Aşçı, works in orthodontics and aesthetic dentistry. Where needed, we plan orthodontics together with smile design, crowns or implants. General information is on our <a class=\"text-link\" href=\"/en/treatments/#orto\">clear aligner orthodontics</a> page, and you can <a class=\"text-link\" href=\"/en/contact/\">book an examination</a> at our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>.</p>"
+    "html": "<p>Our founder, Dr. Hüseyin Aşçı, works in orthodontics and aesthetic dentistry. Where needed, we plan orthodontics together with smile design, crowns or implants. General information is on our <a class=\"text-link\" href=\"/en/treatments/clear-aligners/\">clear aligner orthodontics</a> page, and you can <a class=\"text-link\" href=\"/en/contact/\">book an examination</a> at our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>.</p>"
    }
   ],
   "faq": [
@@ -7954,7 +7954,7 @@
    {
     "id": "acil",
     "h": "Dental emergencies in children",
-    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Situation</th><th scope=\"col\">What to do</th></tr></thead><tbody><tr><td>An adult tooth is knocked out</td><td>Hold the tooth by the crown, not the root; rinse briefly with water if dirty, keep it in milk and come in immediately. The first hour is critical.</td></tr><tr><td>A tooth is broken</td><td>Keep the broken piece, rinse the mouth with warm water and come in the same day.</td></tr><tr><td>Facial swelling and fever</td><td>This may be infection; see a dentist without delay.</td></tr><tr><td>A baby tooth is knocked out</td><td>Baby teeth aren't put back, but the surrounding tissues still need checking.</td></tr></tbody></table></div><p>See our <a class=\"text-link\" href=\"/en/treatments/#cocuk\">children's dentistry</a> page for more, and <a class=\"text-link\" href=\"/en/contact/\">book an appointment</a> at Dent32, our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>.</p>"
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Situation</th><th scope=\"col\">What to do</th></tr></thead><tbody><tr><td>An adult tooth is knocked out</td><td>Hold the tooth by the crown, not the root; rinse briefly with water if dirty, keep it in milk and come in immediately. The first hour is critical.</td></tr><tr><td>A tooth is broken</td><td>Keep the broken piece, rinse the mouth with warm water and come in the same day.</td></tr><tr><td>Facial swelling and fever</td><td>This may be infection; see a dentist without delay.</td></tr><tr><td>A baby tooth is knocked out</td><td>Baby teeth aren't put back, but the surrounding tissues still need checking.</td></tr></tbody></table></div><p>See our <a class=\"text-link\" href=\"/en/treatments/childrens-dentistry/\">children's dentistry</a> page for more, and <a class=\"text-link\" href=\"/en/contact/\">book an appointment</a> at Dent32, our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>.</p>"
    }
   ],
   "faq": [
@@ -8580,7 +8580,7 @@
    {
     "id": "dikkat",
     "h": "Questions to ask before getting an implant",
-    "html": "<ul>\n<li>Which implant brand will be used, and will spare parts still be available years from now?</li>\n<li>Is there enough bone, or will a graft or sinus lift be needed?</li>\n<li>What material will the tooth on top be made of?</li>\n<li>Will I have a temporary tooth while the implant heals?</li>\n<li>What will the follow-up schedule be?</li>\n</ul>\n<p>At Dent32 we plan implant treatment with an examination and CT scan and give you the plan in writing. See our <a class=\"text-link\" href=\"/en/treatments/#implant\">implant treatment section</a> or <a class=\"text-link\" href=\"/en/contact/\">book an appointment</a>. If you're travelling from abroad, our <a class=\"text-link\" href=\"/en/blog/dental-treatment-in-istanbul/\">planning guide</a> explains how to organise visits.</p>"
+    "html": "<ul>\n<li>Which implant brand will be used, and will spare parts still be available years from now?</li>\n<li>Is there enough bone, or will a graft or sinus lift be needed?</li>\n<li>What material will the tooth on top be made of?</li>\n<li>Will I have a temporary tooth while the implant heals?</li>\n<li>What will the follow-up schedule be?</li>\n</ul>\n<p>At Dent32 we plan implant treatment with an examination and CT scan and give you the plan in writing. See our <a class=\"text-link\" href=\"/en/treatments/dental-implants/\">implant treatment section</a> or <a class=\"text-link\" href=\"/en/contact/\">book an appointment</a>. If you're travelling from abroad, our <a class=\"text-link\" href=\"/en/blog/dental-treatment-in-istanbul/\">planning guide</a> explains how to organise visits.</p>"
    }
   ],
   "faq": [
@@ -8695,7 +8695,7 @@
    {
     "id": "omur",
     "h": "How long do crowns last?",
-    "html": "<p>Well-planned, well-maintained crowns last ten years or more for most patients. The biggest threats are decay at the margins, gum disease and grinding. For sensitivity and care after crowns, see our <a class=\"text-link\" href=\"/en/blog/sensitivity-after-dental-crowns/\">aftercare guide</a>. You can read about crown options at our Beylikdüzü clinic in the <a class=\"text-link\" href=\"/en/treatments/#kaplama\">treatments section</a>.</p>"
+    "html": "<p>Well-planned, well-maintained crowns last ten years or more for most patients. The biggest threats are decay at the margins, gum disease and grinding. For sensitivity and care after crowns, see our <a class=\"text-link\" href=\"/en/blog/sensitivity-after-dental-crowns/\">aftercare guide</a>. You can read about crown options at our Beylikdüzü clinic in the <a class=\"text-link\" href=\"/en/treatments/zirconia-crowns/\">treatments section</a>.</p>"
    }
   ],
   "faq": [
@@ -8755,7 +8755,7 @@
    {
     "id": "cekim",
     "h": "Isn't extraction simpler?",
-    "html": "<p>Extraction can look quicker in the short term, but the missing tooth then needs replacing with an implant or bridge, which takes longer and costs more. Keeping the natural tooth is usually the first choice when possible. If a tooth has been lost, see <a class=\"text-link\" href=\"/en/blog/implant-or-bridge/\">implant or bridge</a>. You can also read more in our <a class=\"text-link\" href=\"/en/treatments/#kanal\">treatments section</a>.</p>"
+    "html": "<p>Extraction can look quicker in the short term, but the missing tooth then needs replacing with an implant or bridge, which takes longer and costs more. Keeping the natural tooth is usually the first choice when possible. If a tooth has been lost, see <a class=\"text-link\" href=\"/en/blog/implant-or-bridge/\">implant or bridge</a>. You can also read more in our <a class=\"text-link\" href=\"/en/treatments/root-canal-treatment/\">treatments section</a>.</p>"
    }
   ],
   "faq": [
@@ -9035,7 +9035,7 @@
    {
     "id": "onem",
     "h": "Why gum health affects other treatments",
-    "html": "<p>The long-term success of implants, crowns and orthodontics depends on healthy gums. A similar inflammation (peri-implantitis) can develop around implants. That's why gum disease is treated first. Read more in our <a class=\"text-link\" href=\"/en/treatments/#diseti\">treatments section</a> or <a class=\"text-link\" href=\"/en/contact/\">book an appointment</a> at our Beylikdüzü clinic.</p>"
+    "html": "<p>The long-term success of implants, crowns and orthodontics depends on healthy gums. A similar inflammation (peri-implantitis) can develop around implants. That's why gum disease is treated first. Read more in our <a class=\"text-link\" href=\"/en/treatments/gum-treatment/\">treatments section</a> or <a class=\"text-link\" href=\"/en/contact/\">book an appointment</a> at our Beylikdüzü clinic.</p>"
    }
   ],
   "faq": [
@@ -9150,7 +9150,7 @@
    {
     "id": "evde",
     "h": "Home care by age",
-    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Age</th><th scope=\"col\">Advice</th></tr></thead><tbody><tr><td>First tooth – 3 years</td><td>Parent brushes twice a day with a rice-grain smear of fluoride toothpaste</td></tr><tr><td>3 – 6 years</td><td>A pea-sized amount of fluoride toothpaste; brushing supervised by a parent</td></tr><tr><td>6 years and over</td><td>Child brushes, parent checks in the evening; start the flossing habit</td></tr></tbody></table></div>\n<p>Cutting down how often sugary snacks are eaten is more effective than cutting the amount. See our <a class=\"text-link\" href=\"/en/treatments/#cocuk\">children’s dentistry section</a>; if crowding appears as they grow, our <a class=\"text-link\" href=\"/en/blog/clear-aligners-vs-braces/\">clear aligners vs braces comparison</a> can help.</p>"
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Age</th><th scope=\"col\">Advice</th></tr></thead><tbody><tr><td>First tooth – 3 years</td><td>Parent brushes twice a day with a rice-grain smear of fluoride toothpaste</td></tr><tr><td>3 – 6 years</td><td>A pea-sized amount of fluoride toothpaste; brushing supervised by a parent</td></tr><tr><td>6 years and over</td><td>Child brushes, parent checks in the evening; start the flossing habit</td></tr></tbody></table></div>\n<p>Cutting down how often sugary snacks are eaten is more effective than cutting the amount. See our <a class=\"text-link\" href=\"/en/treatments/childrens-dentistry/\">children’s dentistry section</a>; if crowding appears as they grow, our <a class=\"text-link\" href=\"/en/blog/clear-aligners-vs-braces/\">clear aligners vs braces comparison</a> can help.</p>"
    }
   ],
   "faq": [

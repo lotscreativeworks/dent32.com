@@ -2,7 +2,7 @@
 
 import { type FormEvent, useState } from "react";
 import { Icon } from "@/components/Icon";
-import { type Lang, PHONE, translator, waLink } from "@/lib/site";
+import { type Lang, PHONE, translator, waLink } from "@/lib/core";
 
 type Field = "name" | "phone" | "email" | "message";
 

@@ -18,7 +18,7 @@ const NAV = [
 
 function Header({ lang, pageKey }: { lang: Lang; pageKey: PageKey }) {
   const t = translator(lang);
-  const active = pageKey.startsWith("post-") ? "blog" : pageKey;
+  const active = pageKey.startsWith("post-") ? "blog" : pageKey.startsWith("treat-") ? "treat" : pageKey;
   const nav = (
     <>
       <ul>
@@ -82,7 +82,7 @@ function Footer({ lang }: { lang: Lang }) {
           <h2>{t("Tedaviler", "Treatments")}</h2>
           <ul>
             {TREATMENTS.map((tr) => (
-              <li key={tr.id}><Link href={route("treat", lang, tr.id)}>{tr.title[lang]}</Link></li>
+              <li key={tr.id}><Link href={route(`treat-${tr.id}`, lang)}>{tr.title[lang]}</Link></li>
             ))}
           </ul>
         </div>

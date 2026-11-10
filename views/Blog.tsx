@@ -7,14 +7,15 @@ import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
 import { breadcrumbLd, DENTIST_ID, jsonLd } from "@/lib/seo";
 import {
-  absUrl, ADDRESS, dateLong, type Lang, OFFICIAL_NAME, PHONE, PHONE_E164, type Post, POSTS, readMinutes, route, SITE, translator, WA,
+  absUrl, ADDRESS, dateLong, type Lang, OFFICIAL_NAME, PHONE, PHONE_E164, type Post, POSTS, readMinutes, route, SITE, translator,
+  treatmentForPost, WA,
 } from "@/lib/site";
 
 export function BlogList({ lang }: { lang: Lang }) {
   const t = translator(lang);
   return (
     <Shell lang={lang} pageKey="blog">
-      <PageHead lang={lang} title={t("Kısa ve net rehberler", "Short, clear guides")} crumb="Blog" eyebrow="Blog"
+      <PageHead lang={lang} pageKey="blog" title={t("Kısa ve net rehberler", "Short, clear guides")} crumb="Blog" eyebrow="Blog"
         lead={t("Tedaviler hakkında merak edilenleri; süreleri, riskleri ve maliyeti belirleyen etkenlerle birlikte sade bir dille anlatıyoruz.",
           "Plain-language answers to common questions about treatment, including timelines, risks and what affects the cost.")} />
       <section className="section" style={{ paddingTop: "clamp(40px,5vw,64px)" }}>
@@ -33,6 +34,7 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
   const t = translator(lang);
   const author = t("Dent32 hekim ekibi", "Dent32 dental team");
   const mins = readMinutes(post);
+  const treat = treatmentForPost(post.key);
   const toc = post.sections.map(({ id, h }) => ({ id, h }));
   const related = POSTS[lang]
     .filter((p) => p.key !== post.key)
@@ -82,7 +84,7 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
                 <span><Icon name="clock" />{t(`${mins} dk okuma`, `${mins} min read`)}</span>
               </p>
             </header>
-            <figure className="post__cover"><Img name={post.cover} w={900} h={675} alt="" preload sizes="(max-width: 960px) 100vw, 780px" /></figure>
+            <figure className="post__cover"><Img name={post.cover} w={900} h={675} alt={post.title} preload sizes="(max-width: 960px) 100vw, 780px" /></figure>
             <Toc items={toc} label={t("İçindekiler", "Contents")} className="toc--mobile" />
             <div className="prose">
               {post.sections.map((s) => (
@@ -92,6 +94,13 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
                 </section>
               ))}
             </div>
+            {/* Yazıdan ilgili tedavi sayfasına bağlantı (iç bağlantı: tedavi sayfaları yerel aramada güçlensin) */}
+            {treat && (
+              <aside className="note">
+                <strong>{t("İlgili tedavi", "Related treatment")}</strong>
+                <p><Link className="text-link" href={route(`treat-${treat.id}`, lang)}>{treat.h1[lang]}</Link>: {treat.short[lang]}</p>
+              </aside>
+            )}
             <section className="post__faq" aria-labelledby="h-faq">
               <h2 id="h-faq">{t("Sık sorulan sorular", "Frequently asked questions")}</h2>
               <Faq items={post.faq} />

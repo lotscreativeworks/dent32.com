@@ -10,7 +10,7 @@ export function Gallery({ lang }: { lang: Lang }) {
   const status = (n: number) => t(`${n} vaka gösteriliyor`, `Showing ${n} cases`);
   return (
     <Shell lang={lang} pageKey="gallery">
-      <PageHead lang={lang} title={t("Öncesi ve sonrası", "Before and after")} crumb={t("Galeri", "Gallery")}
+      <PageHead lang={lang} pageKey="gallery" title={t("Öncesi ve sonrası", "Before and after")} crumb={t("Galeri", "Gallery")}
         lead={t("Kliniğimizde tedavi edilen hastaların rötuşsuz fotoğrafları. Tutamağı sürükleyerek ya da ok tuşlarıyla karşılaştırabilirsiniz.",
           "Unretouched photos of patients treated at our clinic. Drag the handle, or use the arrow keys, to compare.")} />
       <section className="section" style={{ paddingTop: "clamp(40px,5vw,64px)" }}>
