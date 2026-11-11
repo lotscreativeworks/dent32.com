@@ -1,5 +1,653 @@
 [
  {
+  "key": "agrikesici",
+  "date": "2026-11-11",
+  "cat": "Rehber",
+  "cover": "blog-agri-kesici",
+  "slug": "dis-agrisina-hangi-agri-kesici-iyi-gelir",
+  "title": "Diş ağrısına hangi ağrı kesici iyi gelir? Parasetamol, ibuprofen ve dikkat edilecekler",
+  "desc": "Diş ağrısında ibuprofen mi parasetamol mü? Hangi ağrı kesici kime uygun, aspirin dişe konur mu, antibiyotik ağrıyı geçirir mi ve ağrı kesiciyle beklemek ne zaman tehlikelidir?",
+  "lead": "Diş ağrısında en sık kullanılan ve araştırmalarda etkili bulunan ağrı kesiciler ibuprofen ve naproksen gibi iltihap giderici ilaçlarla parasetamoldür. Mide, böbrek sorunu olanlar, kan sulandırıcı kullananlar ve hamileler için parasetamol genellikle daha güvenli bir seçenektir. Ancak ağrı kesici yalnızca zaman kazandırır: ağrının nedeni olan çürük, iltihap ya da apse tedavi edilmeden geçmez. Bu yazıda hangi ilacın kime uygun olduğunu ve beklemenin ne zaman riskli olduğunu anlatıyoruz.",
+  "sections": [
+   {
+    "id": "hangisi",
+    "h": "Diş ağrısında hangi ağrı kesici kullanılır?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Etken madde</th><th scope=\"col\">Nasıl etki eder?</th><th scope=\"col\">Dikkat</th></tr></thead><tbody><tr><td>İbuprofen</td><td>Ağrıyı ve iltihabı birlikte azaltır</td><td>Mide, böbrek hastalığı, kan sulandırıcı kullanımı ve hamilelikte uygun olmayabilir</td></tr><tr><td>Naproksen</td><td>İbuprofene benzer, etkisi daha uzun sürer</td><td>İbuprofenle aynı uyarılar geçerlidir</td></tr><tr><td>Parasetamol</td><td>Ağrıyı ve ateşi azaltır, iltihap gidermez</td><td>Karaciğer hastalığında ve düzenli alkol kullanımında dikkat; günlük üst doz aşılmamalı</td></tr><tr><td>Aspirin</td><td>Ağrı kesicidir ama kanamayı artırır</td><td>Diş çekimi öncesinde ve çocuklarda kullanılmamalı; dişe ya da diş etine konmamalı</td></tr></tbody></table></div><p>Diş ağrısının çoğu, dişin içindeki ya da çevresindeki iltihaptan kaynaklanır. Bu yüzden iltihap giderici ilaçlar (ibuprofen, naproksen) çoğu kişide parasetamolden daha belirgin rahatlama sağlar. Araştırmalarda ibuprofen ile parasetamolün birlikte kullanımının diş ağrısında etkili olduğu gösterilmiştir; bu kombinasyonu eczacınıza ya da hekiminize danışarak kullanın.</p><aside class=\"note\"><strong>Kısaca</strong><p>Diş ağrısında genellikle ibuprofen gibi iltihap giderici bir ilaç ya da parasetamol kullanılır. Hangisinin size uygun olduğu mide, böbrek, karaciğer durumunuza ve kullandığınız diğer ilaçlara bağlıdır; prospektüsteki dozu aşmayın.</p></aside>"
+   },
+   {
+    "id": "kimler",
+    "h": "Kimler hangi ilaca dikkat etmeli?",
+    "html": "<ul>\n<li><strong>Mide ülseri, gastrit ya da mide kanaması geçirenler:</strong> İbuprofen ve naproksen mideyi tahriş edebilir; parasetamol genellikle daha uygundur.</li>\n<li><strong>Kan sulandırıcı kullananlar:</strong> İltihap giderici ilaçlar ve aspirin kanama riskini artırır. Kalp hastalarında diş tedavisini <a class=\"text-link\" href=\"/blog/kalp-hastalarinda-dis-tedavisi/\">kalp hastalarında diş tedavisi</a> yazısında anlattık.</li>\n<li><strong>Böbrek hastalığı, kalp yetmezliği ya da yüksek tansiyonu olanlar:</strong> İltihap giderici ilaçları hekime danışmadan kullanmamalı.</li>\n<li><strong>Hamileler:</strong> Gebelikte ağrı kesici seçimi hekime danışılarak yapılmalıdır; iltihap giderici ilaçlar özellikle gebeliğin ikinci yarısında önerilmez. Bkz. <a class=\"text-link\" href=\"/blog/hamilelikte-dis-tedavisi/\">hamilelikte diş tedavisi</a>.</li>\n<li><strong>Emzirenler:</strong> Çoğu ağrı kesici emzirmeyle uyumludur ama doz ve süre için <a class=\"text-link\" href=\"/blog/emzirirken-dis-tedavisi/\">emzirirken diş tedavisi</a> yazımıza ve hekiminize başvurun.</li>\n<li><strong>Çocuklar:</strong> Aspirin çocuklarda kullanılmaz; doz kiloya göre hesaplanır, mutlaka çocuk hekimine ya da eczacıya danışın.</li>\n</ul><p>Soğuk algınlığı ve grip ilaçlarının birçoğunda da parasetamol bulunur. Bunları ağrı kesiciyle birlikte almak farkında olmadan günlük üst dozu aşmanıza yol açabilir.</p>"
+   },
+   {
+    "id": "yanlislar",
+    "h": "Yaygın yanlışlar: aspirin dişe konur mu, antibiyotik ağrıyı keser mi?",
+    "html": "<ul>\n<li><strong>Aspirini dişin üzerine koymak:</strong> Ağrıyı geçirmez, diş etinde kimyasal yanığa ve yaraya yol açar.</li>\n<li><strong>Antibiyotikle ağrıyı geçirmeye çalışmak:</strong> Antibiyotik ağrı kesici değildir ve dişin içindeki iltihabı tek başına tedavi etmez. Ne zaman gerektiğini <a class=\"text-link\" href=\"/blog/antibiyotik-dis-agrisi/\">diş ağrısında antibiyotik</a> yazısında anlattık.</li>\n<li><strong>Dozu artırmak ya da ilaçları sık sık değiştirmek:</strong> Ağrı geçmiyorsa çözüm daha fazla ilaç değil, nedenin tedavisidir.</li>\n<li><strong>Ağrı geçti diye tedaviyi ertelemek:</strong> Şiddetli bir ağrının birden kesilmesi, diş sinirinin ölmeye başladığını gösterebilir; enfeksiyon sessizce ilerleyebilir. Bkz. <a class=\"text-link\" href=\"/blog/olu-dis-renk-degisimi-dis-siniri/\">ölü diş nedir?</a></li>\n</ul>"
+   },
+   {
+    "id": "evde",
+    "h": "İlaçla birlikte evde yapılabilecekler",
+    "html": "<ul>\n<li>Yanağın dışından 10–15 dakika soğuk kompres uygulayın; sıcak uygulama şişliği artırabilir.</li>\n<li>Ağrıyan tarafla çiğnemeyin; çok sıcak, çok soğuk ve şekerli yiyeceklerden uzak durun.</li>\n<li>Yatarken başınızı biraz yükseltin; gece artan ağrıda işe yarayabilir.</li>\n<li>Ağrının dişte mi, sinüste mi, kulakta mı olduğunu ayırt etmek için <a class=\"text-link\" href=\"/blog/dis-agrisi-kulaga-vurur-mu/\">diş ağrısı kulağa vurur mu</a> ve <a class=\"text-link\" href=\"/blog/sinuzit-dis-agrisi/\">sinüzit diş ağrısı yapar mı</a> yazılarına bakabilirsiniz.</li>\n</ul><p>Diş ağrısını geçirmek için genel adımları <a class=\"text-link\" href=\"/blog/dis-agrisi-nasil-gecer/\">diş ağrısı nasıl geçer</a> yazısında topladık.</p>"
+   },
+   {
+    "id": "acil",
+    "h": "Ağrı kesiciyle beklemek ne zaman tehlikelidir?",
+    "html": "<p>Aşağıdaki durumlarda ağrı kesiciyle idare etmeye çalışmayın, aynı gün bir diş hekimine başvurun:</p><ul>\n<li>Yüzde, çene altında ya da göz çevresinde şişlik</li>\n<li>Ateş, halsizlik, yutkunma ya da ağız açmada zorluk</li>\n<li>Ağrı kesiciye rağmen 2–3 günden uzun süren ya da uykudan uyandıran ağrı</li>\n<li>Diş etinde sivilce benzeri kabarcık ya da ağızda kötü tat</li>\n</ul><p>Yüz ve boyunda hızla yayılan şişlik ya da nefes almada güçlük acil servise başvurmayı gerektirir. Şişliğin nedenini <a class=\"text-link\" href=\"/blog/dis-apsesi/\">diş apsesi</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde diş ağrısı için muayene",
+    "html": "<p>Dent32'de ağrının kaynağını muayene ve röntgenle belirleyip, gerekiyorsa aynı gün ağrıyı gideren ilk tedaviyi yapıyoruz; kalıcı çözüm için seçenekleri yazılı olarak paylaşıyoruz. Gece ve hafta sonu seçenekleri için <a class=\"text-link\" href=\"/blog/acil-dis-agrisi-beylikduzu/\">acil diş ağrısı</a> yazımıza bakabilirsiniz.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş ağrısına en etkili ağrı kesici hangisi?",
+    "a": "Diş ağrısı çoğunlukla iltihapla ilişkili olduğundan ibuprofen gibi iltihap giderici ilaçlar birçok kişide daha etkilidir. Mide, böbrek sorunu olanlar, kan sulandırıcı kullananlar ve hamileler için parasetamol genellikle daha uygundur. Seçimi eczacınıza ya da hekiminize danışarak yapın."
+   },
+   {
+    "q": "Parasetamol ve ibuprofen birlikte kullanılır mı?",
+    "a": "Araştırmalarda iki ilacın birlikte kullanımının diş ağrısında etkili olduğu gösterilmiştir. Ancak doz ve uygunluk kişiye göre değişir; birlikte kullanmadan önce eczacınıza ya da hekiminize danışın."
+   },
+   {
+    "q": "Aspirin dişin üzerine konursa ağrı geçer mi?",
+    "a": "Hayır. Aspirin dişin üzerine ya da diş etine konduğunda ağrıyı geçirmez, dokuda kimyasal yanık ve yara oluşturur."
+   },
+   {
+    "q": "Antibiyotik diş ağrısını geçirir mi?",
+    "a": "Antibiyotik ağrı kesici değildir. Yayılan enfeksiyon ve şişlik gibi belirli durumlarda hekim tarafından önerilir; dişin içindeki iltihabın tedavisi ise kanal tedavisi ya da çekim gibi bir diş tedavisidir."
+   },
+   {
+    "q": "Ağrı kesici kaç gün kullanılabilir?",
+    "a": "Diş ağrısında ağrı kesici, tedaviye kadar geçen kısa süre için kullanılır. 2–3 günden uzun süre ağrı kesici ihtiyacı varsa nedenin tedavi edilmesi gerekir; ilacı uzun süre kullanmak hem yan etki riskini artırır hem de sorunu gizler."
+   }
+  ]
+ },
+ {
+  "key": "kurusoket",
+  "date": "2026-11-11",
+  "cat": "Rehber",
+  "cover": "blog-kuru-soket",
+  "slug": "kuru-soket-alveolit-belirtileri",
+  "title": "Kuru soket (alveolit) nedir? Diş çekimi sonrası şiddetli ağrı, belirtiler ve tedavi",
+  "desc": "Diş çekiminden 2–4 gün sonra artan zonklayıcı ağrı kuru soket belirtisi olabilir. Kuru soket nasıl anlaşılır, kaç gün sürer, nasıl tedavi edilir ve çekimden sonra sıcak çay ne zaman içilir?",
+  "lead": "Kuru soket (alveolit), diş çekildikten sonra boşlukta oluşması gereken kan pıhtısının dağılması ya da hiç oluşmaması sonucu kemiğin açıkta kalmasıdır. En tipik belirtisi, çekimden 2–4 gün sonra azalacağına artan, kulağa ve şakağa vuran zonklayıcı ağrıdır. Bir enfeksiyon değildir; diş hekiminin boşluğu temizleyip yatıştırıcı bir pansuman koymasıyla ağrı çoğu zaman kısa sürede azalır. Bu yazıda kuru soketi normal çekim ağrısından nasıl ayıracağınızı ve önlemek için neler yapabileceğinizi anlatıyoruz.",
+  "sections": [
+   {
+    "id": "belirti",
+    "h": "Kuru soket nasıl anlaşılır?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\"></th><th scope=\"col\">Normal çekim sonrası</th><th scope=\"col\">Kuru soket</th></tr></thead><tbody><tr><td>Ağrının seyri</td><td>İlk 1–2 gün en fazla, sonra azalır</td><td>2–4. günde başlar ya da belirgin artar</td></tr><tr><td>Ağrının karakteri</td><td>Hafif–orta, ağrı kesiciyle geçer</td><td>Şiddetli, zonklayıcı, kulağa ve şakağa yayılır; ağrı kesiciyle tam geçmez</td></tr><tr><td>Boşluğun görünümü</td><td>Koyu kırmızı pıhtı, sonra beyazımsı iyileşme dokusu</td><td>Boş görünen ya da grimsi beyaz kemik</td></tr><tr><td>Diğer</td><td>Hafif şişlik</td><td>Ağızda kötü tat ve koku</td></tr></tbody></table></div><aside class=\"note\"><strong>Kısaca</strong><p>Çekimden 2–4 gün sonra azalmak yerine artan, kulağa vuran ve ağrı kesiciyle geçmeyen ağrı kuru soketin en tipik belirtisidir. Bu durumda diş hekiminizi arayın; tedavi kısa ve rahatlatıcıdır.</p></aside>"
+   },
+   {
+    "id": "neden",
+    "h": "Neden olur, kimlerde daha sık görülür?",
+    "html": "<p>Rutin çekimlerin küçük bir bölümünde görülür; alt yirmilik dişlerin cerrahi çekiminden sonra daha sıktır. Riski artıran başlıca etkenler:</p><ul>\n<li>Sigara ve nargile: hem emme hareketi pıhtıyı yerinden oynatır hem de kan akışı azalır. Bkz. <a class=\"text-link\" href=\"/blog/sigaranin-dislere-ve-dis-etine-etkisi/\">sigaranın dişlere etkisi</a>.</li>\n<li>Zor ya da uzun süren çekim, özellikle alt yirmilik dişler. Bkz. <a class=\"text-link\" href=\"/blog/yirmilik-dis-cekimi/\">yirmilik diş çekimi</a>.</li>\n<li>İlk 24 saatte sık ağız çalkalama, tükürme, pipetle içme.</li>\n<li>Doğum kontrol hapı kullanımı ve daha önce kuru soket geçirmiş olmak.</li>\n<li>Çekim bölgesinde önceden var olan enfeksiyon ve yetersiz ağız temizliği.</li>\n</ul>"
+   },
+   {
+    "id": "tedavi",
+    "h": "Kuru soket nasıl tedavi edilir?",
+    "html": "<ol>\n<li>Diş hekimi boşluğu nazikçe yıkar ve içindeki yiyecek artıklarını temizler.</li>\n<li>Boşluğa ağrıyı yatıştıran bir pansuman yerleştirilir; ağrı çoğu zaman saatler içinde belirgin azalır.</li>\n<li>Gerekirse pansuman 1–3 gün arayla yenilenir ve uygun bir ağrı kesici önerilir.</li>\n<li>Kuru soket enfeksiyon olmadığı için antibiyotik çoğu zaman gerekmez; ateş, artan şişlik ya da irin varsa hekim ayrıca değerlendirir.</li>\n</ol><p>Tedaviyle ağrı birkaç günde geçer, boşluğun tamamen kapanması ise 7–10 gün sürebilir. Ağrı kesici seçimi için <a class=\"text-link\" href=\"/blog/dis-agrisina-hangi-agri-kesici-iyi-gelir/\">diş ağrısına hangi ağrı kesici iyi gelir</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "onlem",
+    "h": "Kuru soketi önlemek için ilk günlerde dikkat edilecekler",
+    "html": "<ul>\n<li>İlk 24 saat ağzınızı çalkalamayın, tükürmeyin, pipet kullanmayın.</li>\n<li>En az 48–72 saat sigara ve nargile içmeyin; mümkünse ilk hafta ara verin.</li>\n<li>İlk gün sıcak içecekleri ılık tüketin; çay ve kahveyi ikinci günden itibaren normal sıcaklıkta içebilirsiniz.</li>\n<li>İlk günlerde yumuşak ve ılık yiyecekler tercih edin, çekim tarafıyla çiğnemeyin.</li>\n<li>24 saat sonra yemeklerden sonra ılık tuzlu suyla çok hafif çalkalayın; dişlerinizi fırçalamaya devam edin ama çekim bölgesine dokunmayın.</li>\n<li>Ağır egzersizi 1–2 gün erteleyin.</li>\n</ul><p>Çekim sonrası genel bakım ve beslenme için <a class=\"text-link\" href=\"/blog/dis-cekimi-sonrasi/\">diş çekimi sonrası</a> yazımızı okuyabilirsiniz.</p>"
+   },
+   {
+    "id": "ayrim",
+    "h": "Kuru soket mi, enfeksiyon mu?",
+    "html": "<p>Kuru sokette yüzde belirgin şişlik ve ateş genellikle olmaz; ağrı boşluktaki açık kemikten kaynaklanır. Çekimden günler sonra artan şişlik, ateş, irin ya da yutkunma güçlüğü ise enfeksiyonu düşündürür ve aynı gün değerlendirilmelidir. Yirmilik bölgesindeki diş eti iltihabı için <a class=\"text-link\" href=\"/blog/perikoronit-yirmilik-dis-eti-iltihabi/\">perikoronit</a> yazısına bakabilirsiniz.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde çekim sonrası kontrol",
+    "html": "<p>Dent32'de çekim yaptığımız hastalara ilk günler için yazılı bakım talimatı veriyoruz; ağrı beklenenden farklı seyrederse kontrol için aynı gün görüyoruz. Başka bir yerde çekim yaptırdıysanız da kuru soket şüphesinde muayene ve pansuman için başvurabilirsiniz. Çekim süreci için <a class=\"text-link\" href=\"/blog/beylikduzu-dis-cekimi/\">Beylikdüzü'nde diş çekimi</a> yazımıza bakabilirsiniz.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Kuru soket kaç gün sürer?",
+    "a": "Tedavi edilmezse ağrı 7–10 gün, bazen daha uzun sürebilir. Diş hekiminin boşluğu temizleyip pansuman koymasıyla ağrı çoğu zaman saatler ya da birkaç gün içinde belirgin azalır."
+   },
+   {
+    "q": "Kuru soket kendiliğinden geçer mi?",
+    "a": "Boşluk zamanla kendi kendine de iyileşir, ancak bu süreçte ağrı şiddetli olabilir. Pansuman iyileşmeyi hızlandırır ve ağrıyı kısa sürede azaltır; bu nedenle diş hekimine başvurmak önerilir."
+   },
+   {
+    "q": "Diş çekiminden sonra sıcak çay ne zaman içilir?",
+    "a": "İlk gün sıcak içecekleri ılık tüketmek, pıhtının korunmasına yardımcı olur. İkinci günden itibaren çay ve kahve normal sıcaklıkta içilebilir; ilk günlerde pipet kullanmayın."
+   },
+   {
+    "q": "Kuru soketten korunmak için ne yapmalıyım?",
+    "a": "İlk 24 saat çalkalama, tükürme ve pipetten kaçının; en az 48–72 saat sigara içmeyin; yumuşak ve ılık yiyecekler tüketin ve çekim tarafıyla çiğnemeyin."
+   },
+   {
+    "q": "Kuru soket için antibiyotik gerekir mi?",
+    "a": "Kuru soket bir enfeksiyon değildir; tedavisi boşluğun temizlenmesi ve pansumandır. Ateş, artan şişlik ya da irin gibi enfeksiyon belirtileri varsa antibiyotik ihtiyacını hekim değerlendirir."
+   }
+  ]
+ },
+ {
+  "key": "cocukgicirdatma",
+  "date": "2026-11-11",
+  "cat": "Rehber",
+  "cover": "blog-cocuk-gicirdatma",
+  "slug": "cocuklarda-dis-gicirdatma",
+  "title": "Çocuklarda diş gıcırdatma neden olur? Uykuda diş sıkma ne zaman tedavi edilir?",
+  "desc": "Çocuğunuz uykuda dişlerini gıcırdatıyor mu? Çocuklarda diş gıcırdatmanın nedenleri, horlama ve uyku apnesiyle ilişkisi, dişlere zararı ve diş hekimine ya da KBB'ye ne zaman gidilmesi gerektiği.",
+  "lead": "Çocuklarda uykuda diş gıcırdatma (bruksizm) sık görülür ve çoğu zaman büyümeyle kendiliğinden azalır. Uyku sırasındaki kısa uyanmalar, stres, kalıcı dişlerin çıkış dönemi ve özellikle horlama ya da geniz eti büyümesi gibi solunum sorunları başlıca nedenlerdir. Dişlerde belirgin aşınma, sabah çene ya da baş ağrısı, horlama ve ağız açık uyuma eşlik ediyorsa değerlendirme gerekir. Bu yazıda anne babaların en çok sorduğu soruları yanıtlıyoruz.",
+  "sections": [
+   {
+    "id": "yaygin",
+    "h": "Çocuklarda diş gıcırdatma normal mi?",
+    "html": "<p>Diş gıcırdatma okul öncesi ve okul çağındaki çocuklarda oldukça yaygındır; çalışmalarda çocukların yaklaşık %15–40'ında bildirilir. Süt dişleri yumuşak olduğu için hafif aşınma bu dönemde sık görülür ve çoğu zaman sorun yaratmaz. Gıcırdatma genellikle süt dişlerinin kalıcı dişlerle değiştiği dönemde ve ergenlikte azalır.</p><aside class=\"note\"><strong>Kısaca</strong><p>Çocuklarda uykuda diş gıcırdatma çoğu zaman geçicidir ve büyümeyle azalır. Horlama, ağız açık uyuma, sabah baş ya da çene ağrısı ve dişlerde belirgin aşınma varsa diş hekimine ve gerekirse kulak burun boğaz hekimine başvurun.</p></aside>"
+   },
+   {
+    "id": "neden",
+    "h": "Çocuklarda diş gıcırdatmanın nedenleri",
+    "html": "<ul>\n<li><strong>Uyku sırasında kısa uyanmalar:</strong> Gıcırdatma çoğu zaman uykunun yüzeyelleştiği anlarda ortaya çıkar.</li>\n<li><strong>Solunum sorunları:</strong> Geniz eti ya da bademcik büyümesi, alerjik burun tıkanıklığı, horlama ve uyku apnesi gıcırdatmayla sık birlikte görülür.</li>\n<li><strong>Stres ve kaygı:</strong> Okula başlama, taşınma, kardeş doğumu gibi değişiklikler dönemine denk gelebilir.</li>\n<li><strong>Diş değişim dönemi:</strong> Yeni çıkan dişlerle kapanış değişirken çocuk dişlerini yerleştirmeye çalışır gibi gıcırdatabilir. Bkz. <a class=\"text-link\" href=\"/blog/sut-disleri-ne-zaman-duser/\">süt dişleri ne zaman düşer</a>.</li>\n<li><strong>Dikkat eksikliği ve hiperaktivite, bazı ilaçlar:</strong> Gıcırdatma bu durumlarda daha sık bildirilmiştir.</li>\n<li><strong>Akşam kafein ve ekran:</strong> Kola, çay ve geç saate kadar ekran uyku kalitesini bozar.</li>\n</ul><p>Halk arasında diş gıcırdatma bağırsak kurtlarıyla ilişkilendirilir; bu bağlantıyı destekleyen bilimsel kanıt zayıftır. Kurttan şüpheleniyorsanız (makatta kaşıntı gibi) çocuk hekimine başvurun; diş gıcırdatma tek başına bu tanı için yeterli değildir.</p>"
+   },
+   {
+    "id": "ne-zaman",
+    "h": "Ne zaman diş hekimine ya da KBB'ye gidilmeli?",
+    "html": "<ul>\n<li>Dişlerde belirgin düzleşme, kırılma ya da hassasiyet varsa</li>\n<li>Çocuk sabahları çene, yüz ya da baş ağrısından yakınıyorsa</li>\n<li>Horlama, uykuda nefes durması, ağız açık uyuma, gece terleme ya da sabah yorgun uyanma varsa (KBB değerlendirmesi önerilir)</li>\n<li>Gıcırdatma gündüz de devam ediyorsa ya da kalıcı dişlerde aşınma başladıysa</li>\n<li>Çene açılırken ses, kilitlenme ya da ağrı varsa. Bkz. <a class=\"text-link\" href=\"/blog/cene-eklemi-agrisi-cene-sesi/\">çene eklemi ağrısı</a></li>\n</ul>"
+   },
+   {
+    "id": "tedavi",
+    "h": "Çocuklarda diş gıcırdatma nasıl tedavi edilir?",
+    "html": "<p>Çoğu çocukta tedavi, nedenin bulunması ve izlemdir:</p><ul>\n<li>Düzenli uyku saati, yatmadan önce sakin bir rutin ve ekranı en az bir saat önce kapatmak</li>\n<li>Akşam saatlerinde kola, çay, enerji içeceği ve çikolatayı azaltmak</li>\n<li>Horlama ve ağızdan solunum varsa kulak burun boğaz muayenesi; geniz eti tedavi edildiğinde gıcırdatma da azalabilir</li>\n<li>Stres kaynağını konuşmak; gerekirse çocuk ruh sağlığı desteği</li>\n<li>Diş hekimi kontrolünde aşınmanın 6 ayda bir izlenmesi</li>\n</ul><p>Süt dişlerinde gece plağı çene gelişimi devam ettiği için genellikle ilk seçenek değildir. Kalıcı dişlerde belirgin aşınma varsa hekim, büyümeyi engellemeyen yumuşak bir plak önerebilir. Yetişkinlerde diş sıkma ve gece plağını <a class=\"text-link\" href=\"/blog/dis-sikma-gece-plagi/\">diş sıkma ve gece plağı</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "zarar",
+    "h": "Diş gıcırdatma dişlere zarar verir mi?",
+    "html": "<p>Hafif gıcırdatma süt dişlerinde genellikle kalıcı zarar bırakmaz, çünkü bu dişler zaten değişecektir. Uzun süren ve şiddetli gıcırdatma ise mineyi aşındırabilir, dişlerde hassasiyet ve kırılmalara yol açabilir; kalıcı dişlerde aşınma geri dönmez. Aşınmayı asitli içeceklerden kaynaklanan erozyonla karıştırmamak gerekir; ikisi birlikte olduğunda aşınma hızlanır. Bkz. <a class=\"text-link\" href=\"/blog/dis-erozyonu-mine-asinmasi/\">diş erozyonu</a>.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde çocuk diş muayenesi",
+    "html": "<p>Dent32'de çocuk muayenesinde dişlerdeki aşınmayı fotoğrafla kaydedip kontrollerde karşılaştırıyoruz; solunum sorunu düşündüren belirtiler varsa aileyi kulak burun boğaz değerlendirmesine yönlendiriyoruz. Çocukların ilk muayenesi için <a class=\"text-link\" href=\"/blog/beylikduzu-cocuk-dis-hekimi/\">Beylikdüzü'nde çocuk diş hekimi</a> yazımıza bakabilirsiniz.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Çocuklarda diş gıcırdatma kendiliğinden geçer mi?",
+    "a": "Çoğu çocukta gıcırdatma büyümeyle, özellikle süt dişlerinin değişim döneminden sonra azalır. Horlama, ağrı ya da belirgin aşınma varsa değerlendirme gerekir."
+   },
+   {
+    "q": "Çocuklarda diş gıcırdatma kurttan mı olur?",
+    "a": "Halk arasında yaygın bir inanıştır ama bilimsel kanıt zayıftır. En sık nedenler uyku sırasında kısa uyanmalar, solunum sorunları, stres ve diş değişim dönemidir."
+   },
+   {
+    "q": "Diş gıcırdatan çocuğa gece plağı takılır mı?",
+    "a": "Süt dişleri döneminde gece plağı genellikle ilk seçenek değildir. Kalıcı dişlerde belirgin aşınma varsa diş hekimi büyümeye uygun yumuşak bir plak önerebilir."
+   },
+   {
+    "q": "Diş gıcırdatma ile horlama arasında ilişki var mı?",
+    "a": "Evet. Horlama, ağız açık uyuma ve uyku apnesi gıcırdatmayla sık birlikte görülür. Bu belirtiler varsa kulak burun boğaz muayenesi önerilir."
+   }
+  ]
+ },
+ {
+  "key": "ceneeklemi",
+  "date": "2026-11-11",
+  "cat": "Rehber",
+  "cover": "blog-cene-eklemi",
+  "slug": "cene-eklemi-agrisi-cene-sesi",
+  "title": "Çene eklemi ağrısı ve çeneden tık sesi: nedenleri, çene kilitlenmesi ve tedavisi",
+  "desc": "Ağzınızı açarken çenenizden tık sesi geliyor ya da kulağınızın önü ağrıyor mu? Çene eklemi rahatsızlığının belirtileri, nedenleri, çene kilitlenmesinde ne yapılacağı ve tedavi seçenekleri.",
+  "lead": "Çene eklemi (temporomandibular eklem) rahatsızlıkları; kulağın önünde ağrı, ağız açarken tık ya da çıtırtı sesi, çiğnerken yorulma ve bazen çene kilitlenmesiyle kendini gösterir. En sık nedenler diş sıkma ve gıcırdatma, kas gerginliği ve eklemin içindeki diskin yer değiştirmesidir. Ağrı ve ağız açma kısıtlılığı olmadan gelen tık sesi çoğu zaman tedavi gerektirmez. Belirtilerin çoğu yumuşak beslenme, alışkanlıkların düzeltilmesi ve gerekirse gece plağıyla geriler.",
+  "sections": [
+   {
+    "id": "belirti",
+    "h": "Çene eklemi rahatsızlığının belirtileri",
+    "html": "<ul>\n<li>Kulağın hemen önünde, şakakta ya da yanakta ağrı; çiğnerken artması</li>\n<li>Ağız açıp kaparken tık, çıtırtı ya da sürtünme sesi</li>\n<li>Ağzı tam açamama, çenenin bir yana kayarak açılması</li>\n<li>Çene kilitlenmesi: ağzın açılmaması ya da açık kalıp kapanmaması</li>\n<li>Sabahları çene yorgunluğu, şakak bölgesinde baş ağrısı</li>\n<li>Kulakta dolgunluk ya da çınlama hissi (kulak muayenesi normal olduğu halde)</li>\n</ul><p>Kulak önündeki ağrı diş ağrısıyla da karışabilir. Ayrım için <a class=\"text-link\" href=\"/blog/dis-agrisi-kulaga-vurur-mu/\">diş ağrısı kulağa vurur mu</a> yazımıza bakabilirsiniz.</p><aside class=\"note\"><strong>Kısaca</strong><p>Çeneden gelen tık sesi tek başına, ağrı ve ağız açma kısıtlılığı yoksa çoğu zaman tedavi gerektirmez. Ağrı, kilitlenme ya da ağzı açamama varsa diş hekimine başvurun.</p></aside>"
+   },
+   {
+    "id": "neden",
+    "h": "Çene ağrısı ve çene sesi neden olur?",
+    "html": "<ul>\n<li><strong>Diş sıkma ve gıcırdatma:</strong> Özellikle gece, farkında olmadan yapılır; çiğneme kaslarını yorar. Bkz. <a class=\"text-link\" href=\"/blog/dis-sikma-gece-plagi/\">diş sıkma ve gece plağı</a>.</li>\n<li><strong>Kas gerginliği ve stres:</strong> Gün içinde dişleri birbirine bastırma alışkanlığı sık bir nedendir.</li>\n<li><strong>Eklem diskinin yer değiştirmesi:</strong> Ağız açılırken disk yerine oturdukça tık sesi duyulur.</li>\n<li><strong>Zorlayıcı alışkanlıklar:</strong> Uzun süre sakız çiğneme, tırnak ya da kalem ısırma, çeneyi elle destekleyerek uzanma.</li>\n<li><strong>Darbe ve uzun süre ağız açık kalma:</strong> Kaza, spor yaralanması ya da uzun bir diş tedavisi sonrası geçici yorgunluk.</li>\n<li><strong>Eklem iltihabı ve kireçlenme:</strong> Romatizmal hastalıklarda ve ileri yaşta görülebilir.</li>\n</ul>"
+   },
+   {
+    "id": "kilit",
+    "h": "Çene kilitlenirse ne yapılmalı?",
+    "html": "<p>İki tür kilitlenme vardır. Ağız açılmıyorsa (kapalı kilitlenme) zorlamayın; ılık kompres, yumuşak beslenme ve ağrı kesiciyle kaslar gevşeyince açılma çoğu zaman kendiliğinden artar, yine de diş hekimine başvurun. Ağız açık kalıp kapanmıyorsa (çene çıkması) çeneyi zorla kapatmaya çalışmayın; aynı gün bir diş hekimine ya da acil servise başvurun.</p>"
+   },
+   {
+    "id": "evde",
+    "h": "Evde yapılabilecekler",
+    "html": "<ul>\n<li>Birkaç gün yumuşak yiyecekler tüketin; sert, yapışkan ve büyük lokmalardan kaçının.</li>\n<li>Sakız çiğnemeyi bırakın; esnerken çenenizi elinizle hafifçe destekleyin.</li>\n<li>Gün içinde dişlerinizin birbirine değmediğini kontrol edin: dudaklar kapalı, dişler hafif aralık, dil damakta.</li>\n<li>Yeni ağrıda soğuk, kas yorgunluğunda ılık kompres 10–15 dakika uygulayın.</li>\n<li>Kısa süreli ağrı kesici kullanabilirsiniz; seçim için <a class=\"text-link\" href=\"/blog/dis-agrisina-hangi-agri-kesici-iyi-gelir/\">hangi ağrı kesici</a> yazımıza bakın.</li>\n<li>Yüzüstü ya da çeneyi elinize dayayarak uyumamaya çalışın.</li>\n</ul>"
+   },
+   {
+    "id": "tedavi",
+    "h": "Çene eklemi rahatsızlığı nasıl tedavi edilir?",
+    "html": "<p>Çoğu hasta cerrahi olmayan tedavilerle iyileşir:</p><ul>\n<li><strong>Gece plağı (stabilizasyon plağı):</strong> Ölçüyle hazırlanan sert bir plak, sıkma kuvvetini dağıtır ve kasları rahatlatır.</li>\n<li><strong>Fizik tedavi ve egzersizler:</strong> Çene hareketlerini düzenleyen egzersizler ve kas masajı.</li>\n<li><strong>İlaç tedavisi:</strong> Kısa süreli iltihap giderici ya da kas gevşetici ilaçlar, hekim önerisiyle.</li>\n<li><strong>Kapanış ve diş tedavisi:</strong> Eksik dişler ya da hatalı kapanış katkıda bulunuyorsa planlı diş tedavisi.</li>\n<li><strong>İleri durumlar:</strong> Uzun süre geçmeyen kilitlenme ya da eklem hasarında çene cerrahisi değerlendirmesi.</li>\n</ul><p>Diş sıkma ve çene eklemi tedavisini Beylikdüzü'ndeki uygulamamız üzerinden <a class=\"text-link\" href=\"/blog/beylikduzu-dis-sikma-cene-eklemi/\">diş sıkma ve çene eklemi</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde çene eklemi muayenesi",
+    "html": "<p>Dent32'de muayenede eklem seslerini, ağız açma miktarını, çiğneme kaslarını ve dişlerdeki aşınmayı birlikte değerlendiriyoruz; gerekirse görüntüleme istiyoruz. Gece plağı gerekiyorsa ölçüyle hazırlıyor ve kontrollerde ayarlıyoruz.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Çeneden tık sesi gelmesi tehlikeli mi?",
+    "a": "Ağrı ve ağız açma kısıtlılığı yoksa çeneden gelen tık sesi çoğu zaman zararsızdır ve tedavi gerektirmez. Ağrı, kilitlenme ya da açılmada azalma eşlik ederse muayene önerilir."
+   },
+   {
+    "q": "Çene eklemi ağrısı kendiliğinden geçer mi?",
+    "a": "Birçok kişide yumuşak beslenme, sakızı bırakma ve diş sıkma alışkanlığını fark edip azaltmayla birkaç hafta içinde geriler. Geçmeyen ağrıda gece plağı ve fizik tedavi gibi seçenekler değerlendirilir."
+   },
+   {
+    "q": "Çene eklemi ağrısı kulak ağrısı yapar mı?",
+    "a": "Evet. Çene eklemi kulağın hemen önünde olduğundan ağrı kulakta hissedilebilir; kulakta dolgunluk ve çınlama da olabilir. Kulak muayenesi normal ise çene eklemi değerlendirilmelidir."
+   },
+   {
+    "q": "Çene kilitlenmesi geçer mi?",
+    "a": "Ağzın açılmadığı kilitlenmelerin çoğu kaslar gevşedikçe düzelir. Ağzın açık kalıp kapanmadığı durumda çeneyi zorlamadan aynı gün bir diş hekimine ya da acil servise başvurulmalıdır."
+   }
+  ]
+ },
+ {
+  "key": "metaltadi",
+  "date": "2026-11-11",
+  "cat": "Rehber",
+  "cover": "blog-metal-tadi",
+  "slug": "agizda-metal-tadi-aci-tat",
+  "title": "Ağızda metal tadı ve acı tat neden olur? Diş, ilaç ve sağlık kaynaklı nedenler",
+  "desc": "Ağzınızda metal ya da acı tat mı var? Diş eti iltihabı, ilaçlar, hamilelik, sinüzit, reflü ve metal dolgular gibi nedenler; ne zaman diş hekimine, ne zaman doktora gitmek gerektiği.",
+  "lead": "Ağızda metal ya da acı tat çoğu zaman geçici ve zararsız bir nedene bağlıdır: diş eti iltihabına bağlı kanama, kullanılan bir ilaç, hamileliğin ilk ayları, sinüzit ya da reflü en sık nedenlerdir. Yeni yapılan bir metal dolgu ya da ağızdaki farklı metallerin teması da kısa süreli metalik tat yapabilir. Tat değişikliği iki haftadan uzun sürüyorsa ya da başka belirtilerle birlikteyse nedeninin araştırılması gerekir. Bu yazıda olası nedenleri ve ne zaman kime başvuracağınızı anlatıyoruz.",
+  "sections": [
+   {
+    "id": "agiz",
+    "h": "Ağız ve diş kaynaklı nedenler",
+    "html": "<ul>\n<li><strong>Diş eti iltihabı ve kanama:</strong> Fırçalarken ya da kendiliğinden kanayan diş eti, ağızda kan tadına benzeyen metalik bir tat bırakır. Bkz. <a class=\"text-link\" href=\"/blog/dis-eti-iltihabi-nasil-gecer/\">diş eti iltihabı nasıl geçer</a>.</li>\n<li><strong>Diş ya da diş eti enfeksiyonu:</strong> Apse ve fistül ağızda acı, kötü bir tat yapabilir. Bkz. <a class=\"text-link\" href=\"/blog/dis-etinde-sivilce-fistul/\">diş etinde sivilce</a>.</li>\n<li><strong>Yetersiz ağız ve dil temizliği:</strong> Dil üzerinde biriken tabaka tat algısını değiştirir. Bkz. <a class=\"text-link\" href=\"/blog/dilde-beyazlik-dil-temizligi/\">dilde beyazlık</a>.</li>\n<li><strong>Ağız kuruluğu:</strong> Tükürük azaldığında tatlar daha keskin ve hoş olmayan algılanır. Bkz. <a class=\"text-link\" href=\"/blog/agiz-kurulugu-nedenleri/\">ağız kuruluğu nedenleri</a>.</li>\n<li><strong>Metal dolgu ve kaplamalar:</strong> Yeni amalgam dolgu ya da ağızdaki farklı metallerin birbirine değmesi kısa süreli metalik tat ve hafif elektrik çarpması hissi yapabilir. Bkz. <a class=\"text-link\" href=\"/blog/amalgam-dolgu-sokulmeli-mi/\">amalgam dolgu sökülmeli mi</a>.</li>\n</ul>"
+   },
+   {
+    "id": "ilac",
+    "h": "İlaçlar ve takviyeler",
+    "html": "<p>Tat değişikliğinin en sık nedenlerinden biri ilaçlardır. Bazı antibiyotikler (özellikle metronidazol ve klaritromisin), bazı tansiyon ilaçları, şeker ilaçları, lityum, kemoterapi ilaçları ile demir, çinko ve multivitamin takviyeleri metalik ya da acı tat yapabilir. Tat genellikle ilaç bitince düzelir.</p><aside class=\"note\"><strong>Kısaca</strong><p>Ağızdaki metal ya da acı tat çoğu zaman diş eti kanaması, bir ilaç, hamilelik, sinüzit ya da reflüye bağlıdır. İlacınızı kendi başınıza bırakmayın; iki haftadan uzun süren tat değişikliğinde diş hekimine ve aile hekiminize başvurun.</p></aside><p>Tat değişikliği yapan bir ilacı kendi başınıza bırakmayın; hekiminiz dozu ya da ilacı değiştirebilir. Kemoterapi dönemindeki ağız bakımını <a class=\"text-link\" href=\"/blog/kemoterapi-radyoterapi-dis-bakimi/\">kemoterapi ve radyoterapide diş bakımı</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "saglik",
+    "h": "Genel sağlıkla ilgili nedenler",
+    "html": "<ul>\n<li><strong>Hamilelik:</strong> Özellikle ilk üç ayda metalik tat sık görülür ve genellikle kendiliğinden geçer. Bkz. <a class=\"text-link\" href=\"/blog/hamilelikte-dis-tedavisi/\">hamilelikte diş tedavisi</a>.</li>\n<li><strong>Sinüzit, nezle ve grip:</strong> Burun tıkanıklığı ve geniz akıntısı tat ve koku algısını değiştirir. Bkz. <a class=\"text-link\" href=\"/blog/sinuzit-dis-agrisi/\">sinüzit diş ağrısı yapar mı</a>.</li>\n<li><strong>Reflü:</strong> Mide içeriğinin yemek borusuna kaçması ağızda acı ya da ekşi tat yapar, özellikle sabahları.</li>\n<li><strong>Viral enfeksiyonlar sonrası tat bozukluğu:</strong> Bazı enfeksiyonlardan sonra tat ve koku haftalarca değişik algılanabilir.</li>\n<li><strong>Çam fıstığı:</strong> Bazı kişilerde çam fıstığı yedikten 1–3 gün sonra başlayan ve birkaç gün ile iki hafta süren acı-metalik tat görülür; zararsızdır.</li>\n<li><strong>Daha seyrek nedenler:</strong> B12 ya da çinko eksikliği, kontrolsüz diyabet, böbrek ya da karaciğer hastalıkları ve nadiren kimyasal maruziyet.</li>\n</ul>"
+   },
+   {
+    "id": "ne-yapmali",
+    "h": "Ağızdaki metal tadı nasıl geçer?",
+    "html": "<ul>\n<li>Günde iki kez florürlü macunla fırçalayın, diş ipi kullanın ve dilinizi temizleyin.</li>\n<li>Bol su için; şekersiz sakız tükürük akışını artırarak tadı hafifletebilir.</li>\n<li>Yeni başladığınız bir ilaç ya da takviye varsa hekiminize danışın.</li>\n<li>Reflü belirtileriniz varsa geç saatte ağır yemek yemeyin ve aile hekiminize başvurun.</li>\n<li>Metal çatal-bıçak tadı artırıyorsa geçici olarak plastik ya da ahşap olanları kullanabilirsiniz.</li>\n</ul>"
+   },
+   {
+    "id": "ne-zaman",
+    "h": "Ne zaman diş hekimine, ne zaman doktora gidilmeli?",
+    "html": "<p>Diş eti kanaması, diş ağrısı, ağızda şişlik ya da kötü koku eşlik ediyorsa önce diş hekimine başvurun. Tat değişikliği iki haftadan uzun sürüyorsa; kilo kaybı, yorgunluk, sık idrara çıkma, cilt ya da göz akında sararma gibi belirtiler varsa aile hekiminize gidin. Ağızdaki kötü kokunun nedenlerini <a class=\"text-link\" href=\"/blog/agiz-kokusu-nedenleri-ve-tedavisi/\">ağız kokusu</a> yazısında ayrıca anlattık.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde ağız muayenesi",
+    "html": "<p>Dent32'de tat değişikliği şikâyetiyle gelen hastalarda diş eti sağlığını, dolgu ve kaplamaları, enfeksiyon odaklarını ve ağız kuruluğunu kontrol ediyoruz; diş kaynaklı bir neden yoksa sizi aile hekiminize yönlendiriyoruz.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Ağızda metal tadı neden olur?",
+    "a": "En sık nedenler diş eti kanaması, bazı ilaç ve takviyeler, hamileliğin ilk ayları, sinüzit ya da üst solunum yolu enfeksiyonları ve yeni yapılan metal dolgulardır. İki haftadan uzun sürerse nedeninin araştırılması gerekir."
+   },
+   {
+    "q": "Ağızda acı tat neden olur?",
+    "a": "Reflü, bazı ilaçlar, ağız kuruluğu, diş ya da diş eti enfeksiyonu ve çam fıstığı tüketimi acı tadın sık nedenleridir."
+   },
+   {
+    "q": "Ağızda metal tadı hangi hastalığın belirtisi?",
+    "a": "Çoğu zaman ciddi bir hastalığın belirtisi değildir. Ancak uzun süren tat değişikliği B12 ya da çinko eksikliği, kontrolsüz diyabet, böbrek ya da karaciğer hastalıkları gibi durumlarla ilişkili olabilir; bu nedenle iki haftadan uzun sürerse aile hekiminize başvurun."
+   },
+   {
+    "q": "Hamilelikte ağızda metal tadı normal mi?",
+    "a": "Evet, özellikle ilk üç ayda sık görülür ve genellikle kendiliğinden geçer. Diş eti kanaması da hamilelikte artabileceğinden ağız bakımına dikkat edin."
+   }
+  ]
+ },
+ {
+  "key": "disipi",
+  "date": "2026-11-11",
+  "cat": "Rehber",
+  "cover": "blog-dis-ipi",
+  "slug": "dis-ipi-nasil-kullanilir",
+  "title": "Diş ipi nasıl kullanılır? Adım adım doğru teknik, kanama ve sık yapılan hatalar",
+  "desc": "Diş ipi nasıl kullanılır, fırçalamadan önce mi sonra mı? Adım adım doğru teknik, diş ipi kullanınca diş eti kanaması, sık yapılan hatalar ve ara yüz fırçası ya da ağız duşu gibi alternatifler.",
+  "lead": "Diş ipi, diş fırçasının ulaşamadığı diş aralarındaki plağı temizler ve günde bir kez kullanılması önerilir. Doğru teknikte ip diş arasına testere hareketiyle yavaşça geçirilir, dişin yüzeyine C harfi şeklinde sarılır ve diş eti çizgisinin hemen altından yukarı doğru silinir. İlk günlerde biraz kanama olabilir; düzenli kullanımla genellikle bir iki hafta içinde azalır. Bu yazıda adım adım tekniği, sık yapılan hataları ve diş ipi yerine kullanılabilecek seçenekleri anlatıyoruz.",
+  "sections": [
+   {
+    "id": "adim",
+    "h": "Diş ipi adım adım nasıl kullanılır?",
+    "html": "<ol>\n<li>Yaklaşık 40–45 cm ip kesin; uçlarını iki elinizin orta parmaklarına sarın.</li>\n<li>İpi başparmak ve işaret parmaklarınızla tutarak aralarında 2–3 cm bırakın.</li>\n<li>İpi diş arasına ileri geri küçük testere hareketleriyle yavaşça geçirin; diş etine çarptırmayın.</li>\n<li>İpi bir dişin yüzeyine C harfi şeklinde sarın, diş eti çizgisinin hemen altına hafifçe indirin ve dişin yüzeyinden yukarı doğru birkaç kez silin.</li>\n<li>Aynı aralıkta komşu dişin yüzeyi için de aynı hareketi yapın.</li>\n<li>Her yeni aralıkta ipin temiz bir bölümünü kullanın; en arkadaki dişlerin arka yüzlerini unutmayın.</li>\n</ol><aside class=\"note\"><strong>Kısaca</strong><p>Diş ipini günde bir kez, dişin yüzeyine C şeklinde sararak ve diş eti çizgisinin hemen altından yukarı doğru silerek kullanın. İlk günlerde hafif kanama normal olabilir; iki haftadan uzun sürerse diş hekiminize başvurun.</p></aside>"
+   },
+   {
+    "id": "ne-zaman",
+    "h": "Diş ipi fırçalamadan önce mi sonra mı kullanılır?",
+    "html": "<p>Önemli olan her gün düzenli kullanmaktır. Bununla birlikte diş ipini fırçalamadan önce kullanmak, aralardaki plağın temizlenmesini ve fırçalamayla gelen florürün diş aralarına daha iyi ulaşmasını sağlayabilir. Gün içinde en uygun zaman genellikle akşam, yatmadan önceki temizliktir. Doğru fırçalama için <a class=\"text-link\" href=\"/blog/dogru-dis-fircalama/\">doğru diş fırçalama</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "kanama",
+    "h": "Diş ipi kullanınca diş eti kanaması normal mi?",
+    "html": "<p>Diş ipine yeni başlayanlarda hafif kanama sık görülür ve çoğu zaman diş etinde zaten var olan iltihabın işaretidir. İpi bırakmak yerine nazikçe kullanmaya devam ettiğinizde kanama genellikle 1–2 hafta içinde azalır. İki haftadan uzun süren, çok fazla ya da kendiliğinden olan kanama diş eti hastalığını düşündürür; muayene gerekir. Bkz. <a class=\"text-link\" href=\"/blog/dis-eti-kanamasi-ve-cekilmesi/\">diş eti kanaması ve çekilmesi</a>.</p>"
+   },
+   {
+    "id": "hatalar",
+    "h": "Sık yapılan hatalar",
+    "html": "<ul>\n<li>İpi diş arasına bastırarak çarptırmak; diş etini keser ve kanatır.</li>\n<li>Sadece iki diş arasından geçirip çıkarmak; dişin yüzeyine sarıp silmek gerekir.</li>\n<li>Tüm aralıklarda ipin aynı bölümünü kullanmak.</li>\n<li>Yalnızca ön dişleri temizlemek; çürük ve diş eti sorunları en çok arka dişlerde görülür.</li>\n<li>Geçici diş ya da kaplama varsa ipi yukarı çekerek çıkarmak; bu durumda ipi yandan kaydırarak çıkarın.</li>\n<li>Kanama oldu diye ipi tamamen bırakmak.</li>\n</ul>"
+   },
+   {
+    "id": "alternatif",
+    "h": "Diş ipi yerine neler kullanılabilir?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Araç</th><th scope=\"col\">Kimler için uygun?</th></tr></thead><tbody><tr><td>Mumlu ya da bant diş ipi</td><td>Dişleri sık ve sıkı olanlar; ip kolay kayar</td></tr><tr><td>Çatallı diş ipi (diş ipi çubuğu)</td><td>El becerisi kısıtlı olanlar, çocuklar, pratiklik isteyenler</td></tr><tr><td>Ara yüz fırçası</td><td>Diş aralıkları geniş olanlar, diş eti çekilmesi, köprü ve implant çevresi</td></tr><tr><td>İp geçirici ya da süper floss</td><td>Köprü altı ve sabit diş teli</td></tr><tr><td>Ağız duşu</td><td>Diş teli, köprü ve implantı olanlarda ek temizlik; tek başına ipin yerini tam tutmaz</td></tr></tbody></table></div><p>Elektrikli fırça ve ağız duşu seçimi için <a class=\"text-link\" href=\"/blog/elektrikli-dis-fircasi-agiz-dusu/\">elektrikli diş fırçası ve ağız duşu</a>, diş aralarına sık yemek kaçıyorsa <a class=\"text-link\" href=\"/blog/dis-arasina-yemek-kacmasi/\">diş arasına yemek kaçması</a> yazılarına bakabilirsiniz. Diş teli takanlar için ipuçlarını <a class=\"text-link\" href=\"/blog/dis-teli-ile-yasam/\">diş teli ile yaşam</a> yazısında topladık.</p>"
+   },
+   {
+    "id": "cocuk",
+    "h": "Çocuklarda diş ipi ne zaman başlar?",
+    "html": "<p>Çocuğun iki dişi birbirine değmeye başladığında diş arası temizliğine başlanabilir. Küçük çocuklarda bu işi bir yetişkin yapmalıdır; çatallı diş ipleri pratik bir başlangıçtır. Diş aralarında başlayan çürükler gözle zor görüldüğünden düzenli kontroller önemlidir. Bkz. <a class=\"text-link\" href=\"/blog/dis-arasi-curuk/\">diş arası çürük</a>.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde diş eti ve ağız bakımı",
+    "html": "<p>Dent32'de diş taşı temizliği sonrasında, diş aralıklarınıza uygun ip ya da ara yüz fırçası boyutunu ayna karşısında birlikte deniyoruz. Diş taşı temizliği hakkında bilgi için <a class=\"text-link\" href=\"/blog/dis-tasi-temizligi/\">diş taşı temizliği</a> yazımıza bakabilirsiniz.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş ipi günde kaç kez kullanılmalı?",
+    "a": "Günde bir kez, özellikle akşam yatmadan önce kullanmak yeterlidir. Önemli olan her gün düzenli ve doğru teknikle kullanmaktır."
+   },
+   {
+    "q": "Diş ipi fırçalamadan önce mi kullanılır?",
+    "a": "Her iki sıra da kabul edilir; ancak fırçalamadan önce kullanmak, florürün diş aralarına daha iyi ulaşmasına yardımcı olabilir."
+   },
+   {
+    "q": "Diş ipi kullanınca diş eti neden kanar?",
+    "a": "Kanama çoğu zaman diş etinde var olan iltihabın işaretidir. Nazikçe kullanmaya devam edildiğinde genellikle 1–2 hafta içinde azalır; iki haftadan uzun sürerse muayene gerekir."
+   },
+   {
+    "q": "Diş ipi diş aralarını açar mı?",
+    "a": "Doğru teknikle kullanılan diş ipi diş aralarını açmaz. Aralarda açıklık hissi, iltihabın azalmasıyla şişliğin inmesinden ya da var olan diş eti çekilmesinden kaynaklanabilir."
+   },
+   {
+    "q": "Ağız duşu diş ipinin yerine geçer mi?",
+    "a": "Ağız duşu özellikle diş teli, köprü ve implantı olanlarda faydalı bir ek temizliktir, ancak diş yüzeyine yapışan plağı silerek temizlemede diş ipinin yerini tam olarak tutmaz."
+   }
+  ]
+ },
+ {
+  "key": "florur",
+  "date": "2026-11-11",
+  "cat": "Rehber",
+  "cover": "blog-florur",
+  "slug": "florur-zararli-mi-florursuz-dis-macunu",
+  "title": "Florür zararlı mı? Florürlü ve florürsüz diş macunu, doğru miktar ve florozis",
+  "desc": "Diş macunundaki florür zararlı mı, florürsüz macun kullanmak doğru mu? Florürün dişe etkisi, yaşa göre doğru miktar, florozis, tiroid ve içme suyu tartışmaları ve hidroksiapatitli macunlar.",
+  "lead": "Diş macunundaki florür, önerilen miktarda kullanıldığında güvenlidir ve çürüğe karşı en güçlü kanıta sahip korumadır. Florür mineyi güçlendirir, başlangıç halindeki çürüğün geri dönmesine yardımcı olur ve bakterilerin asit üretimini azaltır. Zarar tartışmaları çoğunlukla içme suyundaki yüksek florür düzeyleri ya da çocuklukta uzun süre fazla florür alınmasıyla ilgilidir. Bu yazıda florürlü ve florürsüz macun arasındaki farkı ve yaşa göre doğru miktarı anlatıyoruz.",
+  "sections": [
+   {
+    "id": "nasil",
+    "h": "Florür dişi nasıl korur?",
+    "html": "<ul>\n<li>Mineyi asitlere karşı daha dayanıklı hale getirir.</li>\n<li>Minenin yüzeyinde başlayan erken çürüğün (beyaz tebeşirimsi leke) yeniden sertleşmesine yardımcı olur.</li>\n<li>Plaktaki bakterilerin asit üretimini azaltır.</li>\n</ul><p>Bu nedenle Dünya Sağlık Örgütü ve diş hekimliği kuruluşları, çocuklar ve yetişkinler için florürlü diş macununu önerir. Çürüğün nasıl başladığını <a class=\"text-link\" href=\"/blog/dis-curugu-belirtileri-ve-evreleri/\">diş çürüğü belirtileri ve evreleri</a> yazısında anlattık.</p><aside class=\"note\"><strong>Kısaca</strong><p>Diş macunundaki florür önerilen miktarda kullanıldığında güvenlidir ve çürüğe karşı en güçlü kanıta sahip korumadır. Yetişkinler bezelye tanesi kadar, 1350–1500 ppm florürlü macun kullanmalı; fırçaladıktan sonra tükürmeli ama suyla çalkalamamalıdır.</p></aside>"
+   },
+   {
+    "id": "miktar",
+    "h": "Yaşa göre doğru miktar",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Yaş</th><th scope=\"col\">Macun miktarı</th><th scope=\"col\">Florür oranı</th></tr></thead><tbody><tr><td>İlk dişten 3 yaşa</td><td>Pirinç tanesi kadar ince bir sürme</td><td>En az 1000 ppm</td></tr><tr><td>3–6 yaş</td><td>Bezelye tanesi kadar</td><td>1000–1500 ppm</td></tr><tr><td>6 yaş ve üzeri, yetişkinler</td><td>Bezelye tanesi kadar</td><td>1350–1500 ppm</td></tr></tbody></table></div><p>Fırçaladıktan sonra macunu tükürün ama ağzınızı suyla çalkalamayın; böylece florür dişin üzerinde daha uzun kalır. Çocukların fırçalamasına yaklaşık 7–8 yaşına kadar bir yetişkin eşlik etmeli ve macunu yutmamaları sağlanmalıdır. Çocuklarda diş hekiminin uyguladığı florür vernik ve fissür örtücüyü <a class=\"text-link\" href=\"/blog/cocuklarda-flor-ve-fissur-ortucu/\">çocuklarda flor ve fissür örtücü</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "zarar",
+    "h": "Florür ne zaman zararlı olabilir?",
+    "html": "<ul>\n<li><strong>Florozis:</strong> Dişler oluşurken, yani yaklaşık 8 yaşından önce, uzun süre fazla florür alınırsa dişlerde beyaz çizgi ve lekeler oluşabilir. Çoğu hafif ve yalnızca estetik bir sorundur. En sık nedeni küçük çocukların macunu yutmasıdır. Beyaz lekelerin tedavisini <a class=\"text-link\" href=\"/blog/beylikduzu-dislerde-beyaz-leke/\">dişlerde beyaz leke</a> yazısında anlattık.</li>\n<li><strong>Tek seferde çok miktarda yutmak:</strong> Küçük bir çocuğun tüpün büyük kısmını yutması mide bulantısı ve kusmaya yol açabilir. Macunları çocukların ulaşamayacağı yerde saklayın; böyle bir durumda zehir danışma hattından (114) ya da bir sağlık kuruluşundan bilgi alın.</li>\n<li><strong>İçme suyundaki yüksek florür:</strong> Türkiye'de şebeke suyuna florür eklenmez, ancak bazı bölgelerde doğal olarak yüksek florürlü sular bulunur. Bu bölgelerde çocuklarda florozis daha sık görülür.</li>\n</ul><p>Florürün tiroid, zekâ gelişimi ve kemikler üzerindeki etkisiyle ilgili tartışmalar çoğunlukla içme suyundaki yüksek florür düzeylerini inceleyen çalışmalara dayanır. Diş macununun önerilen şekilde kullanımı bu düzeylerle karşılaştırılabilecek bir maruziyet yaratmaz.</p>"
+   },
+   {
+    "id": "florursuz",
+    "h": "Florürsüz diş macunu kimler için?",
+    "html": "<p>Florürsüz macunlar ağzı temizler ve ferahlatır, ancak çürüğe karşı florürün sağladığı korumayı sağlamaz. Florüre gerçek alerji ya da hassasiyet son derece nadirdir. Florürsüz macun kullanmak istiyorsanız çürük riskinizi diş hekiminizle değerlendirin.</p><ul>\n<li><strong>Hidroksiapatitli macunlar:</strong> Bazı çalışmalarda erken çürükleri sertleştirmede umut verici sonuçlar göstermiştir; ancak kanıtlar florür kadar güçlü değildir.</li>\n<li><strong>Kömürlü ve doğal içerikli macunlar:</strong> Çoğu florür içermez; aşındırıcılıkları yüksek olabilir. Bkz. <a class=\"text-link\" href=\"/blog/beyazlatici-dis-macunu-komurlu-macun/\">beyazlatıcı ve kömürlü diş macunu</a>.</li>\n<li><strong>Hassasiyet ve erozyon:</strong> Florürlü macunlar ve hassasiyet macunları mineyi korumaya yardımcı olur. Bkz. <a class=\"text-link\" href=\"/blog/dis-hassasiyeti/\">diş hassasiyeti</a> ve <a class=\"text-link\" href=\"/blog/dis-erozyonu-mine-asinmasi/\">diş erozyonu</a>.</li>\n</ul>"
+   },
+   {
+    "id": "yuksek",
+    "h": "Kimlere daha fazla florür önerilir?",
+    "html": "<p>Çürük riski yüksek olanlarda, diş teli takanlarda, ağız kuruluğu yaşayanlarda ve diş eti çekilmesi nedeniyle kök yüzeyi açıkta olanlarda diş hekimi; yüksek florürlü reçeteli macun, florürlü gargara ya da klinikte florür vernik önerebilir. Gargaraların doğru kullanımını <a class=\"text-link\" href=\"/blog/agiz-gargarasi-her-gun-kullanilir-mi/\">ağız gargarası her gün kullanılır mı</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde çürük riski değerlendirmesi",
+    "html": "<p>Dent32'de muayenede çürük geçmişinizi, beslenme alışkanlıklarınızı ve tükürük durumunuzu birlikte değerlendirip size uygun macun ve florür desteğini öneriyoruz. Çocuklar için ilk muayeneyi <a class=\"text-link\" href=\"/blog/cocuk-dis-hekimi-ilk-muayene/\">çocuk diş hekiminde ilk muayene</a> yazısında anlattık.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş macunundaki florür zararlı mı?",
+    "a": "Hayır, önerilen miktarda kullanıldığında güvenlidir. Yetişkinler için bezelye tanesi kadar, 1350–1500 ppm florürlü macun önerilir; küçük çocuklarda miktar daha azdır ve macunun yutulmaması gerekir."
+   },
+   {
+    "q": "Florürsüz diş macunu kullanmak doğru mu?",
+    "a": "Florürsüz macunlar çürüğe karşı florürün sağladığı korumayı sağlamaz. Florürsüz macun kullanmak istiyorsanız çürük riskinizi diş hekiminizle değerlendirin."
+   },
+   {
+    "q": "Çocuklar florürlü macun kullanabilir mi?",
+    "a": "Evet. İlk dişten itibaren pirinç tanesi kadar, 3 yaşından sonra bezelye tanesi kadar florürlü macun önerilir. Fırçalamaya bir yetişkin eşlik etmeli ve macunun yutulmaması sağlanmalıdır."
+   },
+   {
+    "q": "Florozis nedir?",
+    "a": "Dişler oluşurken uzun süre fazla florür alınmasıyla dişlerde oluşan beyaz çizgi ve lekelerdir. Çoğu hafiftir ve yalnızca estetik bir sorundur; en sık nedeni küçük çocukların macunu yutmasıdır."
+   },
+   {
+    "q": "Fırçaladıktan sonra ağız çalkalanmalı mı?",
+    "a": "Macunu tükürmeniz yeterlidir; suyla çalkalamamak florürün dişin üzerinde daha uzun kalmasını sağlar."
+   }
+  ]
+ },
+ {
+  "key": "oludis",
+  "date": "2026-11-11",
+  "cat": "Tedavi",
+  "cover": "blog-olu-dis",
+  "slug": "olu-dis-renk-degisimi-dis-siniri",
+  "title": "Ölü diş nedir? Dişin rengi neden kararır, diş siniri ölünce ne olur?",
+  "desc": "Dişin rengi grileşti ya da karardı mı? Ölü dişin belirtileri, diş sinirinin ölme nedenleri, tedavi edilmezse ne olur, kanal tedavisi ve dişin rengini geri getirmek için seçenekler.",
+  "lead": "Ölü diş, dişin içindeki sinir ve damarları barındıran dokunun (pulpa) canlılığını yitirmesidir. En sık nedenleri derin çürük ve dişe alınan darbedir; darbeden aylar, hatta yıllar sonra bile görülebilir. Dişin grileşmesi ya da kararması, şiddetli ağrının birden kesilmesi ve diş etinde sivilce benzeri kabarcık tipik belirtilerdir. Ölü diş çoğu zaman çekilmeden kanal tedavisiyle korunabilir ve rengi iç beyazlatma ya da kaplamayla düzeltilebilir.",
+  "sections": [
+   {
+    "id": "belirti",
+    "h": "Ölü dişin belirtileri",
+    "html": "<ul>\n<li><strong>Renk değişikliği:</strong> Diş gri, kahverengi ya da siyahımsı bir renk alır; pulpadaki kan ürünleri dişin iç dokusuna geçer.</li>\n<li><strong>Ağrının seyri:</strong> Önce şiddetli, zonklayıcı ağrı olur, ardından ağrı birden kesilebilir. Bu iyileşme değil, sinirin ölmesi olabilir.</li>\n<li><strong>Isırırken hassasiyet:</strong> Enfeksiyon kök ucuna ulaştığında dişe basınca ağrı hissedilir.</li>\n<li><strong>Diş etinde kabarcık:</strong> Kök ucundaki enfeksiyon diş etinde akıntılı bir sivilce yapabilir. Bkz. <a class=\"text-link\" href=\"/blog/dis-etinde-sivilce-fistul/\">diş etinde sivilce</a>.</li>\n<li><strong>Kötü tat ve şişlik:</strong> Enfeksiyon yayıldığında ağızda kötü tat, diş etinde ya da yüzde şişlik olabilir. Bkz. <a class=\"text-link\" href=\"/blog/dis-apsesi/\">diş apsesi</a>.</li>\n</ul><p>Bazen ölü diş hiçbir belirti vermez ve rutin bir röntgende kök ucundaki iltihapla fark edilir.</p><aside class=\"note\"><strong>Kısaca</strong><p>Grileşen ya da kararan, soğuğa artık tepki vermeyen ya da şiddetli ağrısı birden kesilen bir diş ölmüş olabilir. Ölü diş çoğu zaman kanal tedavisiyle korunur; tedavi edilmezse apse ve kemik kaybına yol açabilir.</p></aside>"
+   },
+   {
+    "id": "neden",
+    "h": "Diş neden ölür?",
+    "html": "<ul>\n<li><strong>Derin çürük:</strong> Bakteriler pulpaya ulaştığında önce iltihap, sonra canlılık kaybı gelişir. Bkz. <a class=\"text-link\" href=\"/blog/dis-curugu-belirtileri-ve-evreleri/\">diş çürüğü evreleri</a>.</li>\n<li><strong>Darbe:</strong> Düşme, spor kazası ya da yüze alınan bir darbe, kırık olmasa bile dişin damarlarını zedeleyebilir. Bkz. <a class=\"text-link\" href=\"/blog/dis-kirilmasi-ne-yapmali/\">diş kırılması</a>.</li>\n<li><strong>Tekrarlayan büyük dolgular ve çatlaklar:</strong> Aynı dişe yapılan çok sayıda işlem ve çatlaklar pulpayı zayıflatır. Bkz. <a class=\"text-link\" href=\"/blog/catlak-dis-sendromu/\">çatlak diş sendromu</a>.</li>\n<li><strong>İleri diş eti hastalığı:</strong> Nadiren kök ucundan pulpaya ulaşan enfeksiyon.</li>\n</ul>"
+   },
+   {
+    "id": "teshis",
+    "h": "Ölü diş nasıl anlaşılır?",
+    "html": "<p>Diş hekimi soğuk testi ve gerekirse elektrikli pulpa testiyle dişin canlılığını, dişe vurma ve basma testleriyle kök ucundaki hassasiyeti kontrol eder. Röntgen, kök ucunda iltihap ya da kist olup olmadığını gösterir. Renk değişikliği her zaman ölü diş anlamına gelmez; dolgu, dış lekeler ya da eski amalgam da rengi değiştirebilir. Bkz. <a class=\"text-link\" href=\"/blog/diste-siyah-leke-nokta/\">dişte siyah leke</a>.</p>"
+   },
+   {
+    "id": "tedavi",
+    "h": "Ölü diş nasıl tedavi edilir?",
+    "html": "<ol>\n<li><strong>Kanal tedavisi:</strong> Dişin içindeki ölü doku temizlenir, kanallar şekillendirilir ve doldurulur. Diş ağızda kalmaya devam eder. Bkz. <a class=\"text-link\" href=\"/blog/kanal-tedavisi/\">kanal tedavisi</a>.</li>\n<li><strong>Rengin düzeltilmesi:</strong> Kanal tedavisinden sonra dişin içinden yapılan beyazlatma (iç beyazlatma) rengi büyük ölçüde açabilir. Renk açılmazsa ya da diş zayıfsa lamine ya da kaplama seçenekleri değerlendirilir. Bkz. <a class=\"text-link\" href=\"/blog/lamine-veneer-nedir/\">lamine veneer</a> ve <a class=\"text-link\" href=\"/blog/dis-kaplama-cesitleri/\">diş kaplama çeşitleri</a>.</li>\n<li><strong>Kurtarılamayan dişler:</strong> Kök kırığı ya da ileri kemik kaybı varsa diş çekilir; yerine implant ya da köprü planlanır. Bkz. <a class=\"text-link\" href=\"/blog/dis-cekimi-mi-kanal-tedavisi-mi/\">diş çekimi mi kanal tedavisi mi</a>.</li>\n</ol>"
+   },
+   {
+    "id": "tedavisiz",
+    "h": "Ölü diş tedavi edilmezse ne olur?",
+    "html": "<p>Ağrı geçse bile ölü dişteki enfeksiyon kök ucunda ilerleyebilir; apse, kist ve çevre kemikte erime gelişebilir. Enfeksiyon nadiren yüz ve boyun dokularına yayılabilir. Bu yüzden rengi değişen ya da daha önce darbe almış bir dişin kontrol edilmesi önemlidir. Kök ucundaki kist tedavisini <a class=\"text-link\" href=\"/blog/diste-kist-kok-ucu-ameliyati/\">dişte kist ve kök ucu ameliyatı</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "cocuk",
+    "h": "Süt dişinde renk değişikliği",
+    "html": "<p>Çocuklarda darbe alan süt dişleri geçici olarak pembe ya da gri renge dönebilir ve bazen kendiliğinden düzelebilir. Şişlik, diş etinde kabarcık ya da ağrı yoksa diş hekimi izleme önerebilir. Ayrıntılar için <a class=\"text-link\" href=\"/blog/cocukta-dis-travmasi/\">çocukta diş travması</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde rengi değişen diş için muayene",
+    "html": "<p>Dent32'de rengi değişen dişlerde canlılık testleri ve röntgenle nedeni belirleyip, dişi korumaya yönelik seçenekleri yazılı olarak sunuyoruz. Kanal tedavisinin Beylikdüzü'ndeki sürecini <a class=\"text-link\" href=\"/blog/beylikduzu-kanal-tedavisi/\">Beylikdüzü'nde kanal tedavisi</a> yazısında anlattık.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Ölü diş çekilmeli mi?",
+    "a": "Çoğu zaman hayır. Ölü diş kanal tedavisiyle temizlenip korunabilir. Kök kırığı ya da ileri kemik kaybı gibi kurtarılamayan durumlarda çekim gerekir."
+   },
+   {
+    "q": "Ölü dişin rengi geri gelir mi?",
+    "a": "Kanal tedavisinden sonra yapılan iç beyazlatma rengi büyük ölçüde açabilir. Renk yeterince açılmazsa lamine ya da kaplama seçenekleri değerlendirilir."
+   },
+   {
+    "q": "Diş siniri ölünce ağrı yapar mı?",
+    "a": "Sinir ölürken genellikle şiddetli ağrı olur, ardından ağrı kesilebilir. Enfeksiyon kök ucuna ilerlediğinde ısırırken ağrı, şişlik ve diş etinde kabarcık görülebilir."
+   },
+   {
+    "q": "Darbeden yıllar sonra diş ölür mü?",
+    "a": "Evet. Darbe dişin damarlarını zedelediğinde canlılık kaybı aylar, hatta yıllar sonra ortaya çıkabilir. Darbe alan dişlerin bir süre kontrollerle izlenmesi önerilir."
+   },
+   {
+    "q": "Ölü diş kendiliğinden iyileşir mi?",
+    "a": "Hayır. Ölmüş pulpa dokusu kendiliğinden iyileşmez; tedavi edilmezse enfeksiyon kök ucunda ilerleyebilir."
+   }
+  ]
+ },
+ {
+  "key": "evdebeyaz",
+  "date": "2026-11-11",
+  "cat": "Estetik",
+  "cover": "blog-evde-beyazlatma",
+  "slug": "evde-dis-beyazlatma-karbonat-limon",
+  "title": "Evde diş beyazlatma: karbonat, limon, sirke ve oksijenli su zararlı mı?",
+  "desc": "Karbonatla diş beyazlatma zararlı mı, limon ve sirke dişleri beyazlatır mı? Evde denenen yöntemlerin mineye etkisi, güvenli seçenekler ve diş hekimi kontrolünde ev tipi beyazlatma.",
+  "lead": "Evde denenen diş beyazlatma yöntemlerinin çoğu dişin kendi rengini açmaz; en fazla yüzeydeki çay, kahve ve sigara lekelerini azaltır. Limon, sirke ve çilek gibi asitli yöntemler mineyi aşındırarak dişi zamanla daha sarı gösterebilir. Karbonat, diş macunu içinde düşük aşındırıcılıkta ve yüzey lekelerinde işe yarar; ancak saf olarak sık ve sertçe kullanılması önerilmez. Dişin rengini güvenli şekilde açmanın yolu, diş hekimi kontrolünde yapılan ev tipi ya da klinik beyazlatmadır.",
+  "sections": [
+   {
+    "id": "tablo",
+    "h": "Evde denenen yöntemler ne kadar güvenli?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Yöntem</th><th scope=\"col\">İşe yarar mı?</th><th scope=\"col\">Risk</th></tr></thead><tbody><tr><td>Karbonat (karbonatlı macun)</td><td>Yüzey lekelerini azaltabilir</td><td>Saf ve sık kullanımda aşındırma; florür içermez</td></tr><tr><td>Limon, sirke, elma sirkesi</td><td>Hayır</td><td>Asit mineyi aşındırır, hassasiyet yapar; hasar geri dönmez</td></tr><tr><td>Limon + karbonat karışımı</td><td>Hayır</td><td>Asit ve aşındırıcı birlikte; en zararlı kombinasyonlardan</td></tr><tr><td>Oksijenli su (hidrojen peroksit)</td><td>Kontrolsüz kullanımda sınırlı</td><td>Diş eti tahrişi ve yanığı, hassasiyet</td></tr><tr><td>Aktif kömür</td><td>Yüzey lekesinde sınırlı</td><td>Aşındırıcı olabilir, florür içermez</td></tr><tr><td>Çilek, zerdeçal, hindistan cevizi yağı</td><td>Kanıt yok</td><td>Çilekteki asit mineyi yumuşatabilir</td></tr></tbody></table></div><aside class=\"note\"><strong>Kısaca</strong><p>Evde denenen yöntemler dişin kendi rengini açmaz; limon ve sirke gibi asitler mineyi kalıcı olarak aşındırır. Karbonat yalnızca macun içinde ve yüzey lekeleri için uygundur. Dişin rengini güvenle açmak için diş hekimi kontrolünde beyazlatma gerekir.</p></aside>"
+   },
+   {
+    "id": "karbonat",
+    "h": "Karbonatla diş beyazlatma zararlı mı?",
+    "html": "<p>Karbonat (sodyum bikarbonat) hafif aşındırıcı bir maddedir. Karbonat içeren diş macunlarının aşındırıcılığı düşüktür ve yüzey lekelerini azaltmada etkili oldukları gösterilmiştir. Sorun, saf karbonatın fırçaya dökülüp her gün sertçe kullanılmasıdır: bu, özellikle diş eti çekilmesi olan ve kök yüzeyi açıkta kalan kişilerde aşınmayı ve hassasiyeti artırabilir. Saf karbonat florür de içermediği için macunun yerine geçmez.</p><p>Karbonatı denemek istiyorsanız haftada bir iki kez, florürlü macununuzla birlikte ve yumuşak bir fırçayla, bastırmadan kullanın. Asitli bir şeyle (limon, sirke) asla karıştırmayın.</p>"
+   },
+   {
+    "id": "asit",
+    "h": "Limon ve sirke dişleri neden daha sarı gösterir?",
+    "html": "<p>Mine, asitle temas ettiğinde yumuşar ve fırçalamayla aşınır. Mine inceldikçe altındaki sarımsı dentin daha fazla görünür; yani asitli yöntemler zamanla dişi daha sarı gösterebilir. Bu aşınma geri dönmez ve diş hassasiyetine yol açar. Asit ve aşınmanın etkilerini <a class=\"text-link\" href=\"/blog/dis-erozyonu-mine-asinmasi/\">diş erozyonu ve mine aşınması</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "peroksit",
+    "h": "Oksijenli su ile diş beyazlatılır mı?",
+    "html": "<p>Dişin rengini gerçekten açan madde, profesyonel beyazlatma jellerinde de bulunan hidrojen peroksit ve türevleridir. Ancak etkili oran, uygulama süresi ve diş etinin korunması önemlidir. Avrupa Birliği ve Türkiye'deki kozmetik düzenlemelerine göre serbest satılan ağız ürünlerinde hidrojen peroksit oranı %0,1 ile sınırlıdır; daha yüksek oranlar diş hekimi muayenesi ve kontrolüyle kullanılır. Eczaneden alınan oksijenli suyu ağızda tutmak ya da fırçaya sürmek diş etinde tahriş ve yanığa, dişlerde hassasiyete yol açabilir.</p>"
+   },
+   {
+    "id": "guvenli",
+    "h": "Evde güvenle yapılabilecekler",
+    "html": "<ul>\n<li>Günde iki kez florürlü macunla fırçalayın; beyazlatıcı macunlar yüzey lekelerini azaltabilir. Bkz. <a class=\"text-link\" href=\"/blog/beyazlatici-dis-macunu-komurlu-macun/\">beyazlatıcı ve kömürlü diş macunu</a>.</li>\n<li>Çay, kahve ve kola gibi renkli içecekleri tükettikten sonra ağzınızı suyla çalkalayın; mümkünse pipetle için.</li>\n<li>Sigarayı bırakın ya da azaltın; sigara en inatçı lekelerin başında gelir.</li>\n<li>Altı ayda bir diş taşı temizliği ve cila yaptırın; birçok kişide dişler belirgin şekilde açılır. Bkz. <a class=\"text-link\" href=\"/blog/dis-tasi-temizligi/\">diş taşı temizliği</a>.</li>\n<li>Diş hekiminin ölçüyle hazırladığı plak ve düşük yoğunluklu jelle yapılan ev tipi beyazlatma, evde güvenle uygulanabilen gerçek beyazlatma yöntemidir.</li>\n</ul><p>Dişlerin neden sarardığını <a class=\"text-link\" href=\"/blog/disler-neden-sararir/\">dişler neden sararır</a> yazısında, klinikte ve evde yapılan profesyonel beyazlatmayı <a class=\"text-link\" href=\"/blog/dis-beyazlatma/\">diş beyazlatma</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "once",
+    "h": "Beyazlatmadan önce muayene neden gerekli?",
+    "html": "<ul>\n<li>Çürük ve açık kök yüzeyleri varsa beyazlatma ciddi hassasiyet yapabilir; önce tedavi edilir.</li>\n<li>Dolgu, kaplama ve laminelerin rengi beyazlatmayla değişmez; ön dişlerde renk farkı oluşabilir.</li>\n<li>Kanal tedavili ya da rengi kararmış dişlerde farklı bir yöntem gerekebilir. Bkz. <a class=\"text-link\" href=\"/blog/olu-dis-renk-degisimi-dis-siniri/\">ölü diş</a>.</li>\n<li>Hamilelik ve emzirme döneminde beyazlatma genellikle ertelenir.</li>\n<li>Hassasiyetiniz varsa önceden hazırlık yapılabilir. Bkz. <a class=\"text-link\" href=\"/blog/dis-hassasiyeti/\">diş hassasiyeti</a>.</li>\n</ul>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde diş beyazlatma",
+    "html": "<p>Dent32'de beyazlatmadan önce dişlerinizin ve diş etlerinizin durumunu kontrol ediyor, başlangıç renginizi kaydediyor ve size klinik ya da ev tipi seçeneklerden uygun olanı anlatıyoruz. Süreç için <a class=\"text-link\" href=\"/blog/beylikduzu-dis-beyazlatma/\">Beylikdüzü'nde diş beyazlatma</a> yazımıza bakabilirsiniz.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Karbonatla dişler beyazlar mı?",
+    "a": "Karbonat dişin kendi rengini açmaz; yüzeydeki lekeleri azaltabilir. Karbonatlı diş macunları güvenli kabul edilir, ancak saf karbonatın sık ve sertçe kullanımı aşınmaya yol açabilir."
+   },
+   {
+    "q": "Limon dişleri beyazlatır mı?",
+    "a": "Hayır. Limondaki asit mineyi yumuşatıp aşındırır; mine inceldikçe dişler daha sarı görünebilir ve hassasiyet gelişir. Bu hasar geri dönmez."
+   },
+   {
+    "q": "Oksijenli su ile ağız çalkalanır mı?",
+    "a": "Eczaneden alınan oksijenli suyu ağızda tutmak ya da fırçaya sürmek diş etinde tahriş ve yanığa yol açabilir. Hidrojen peroksitli beyazlatma, diş hekimi kontrolünde uygun oran ve süreyle yapılmalıdır."
+   },
+   {
+    "q": "Evde diş beyazlatmanın güvenli bir yolu var mı?",
+    "a": "Evet: diş hekiminin ölçüyle hazırladığı plak ve uygun jelle yapılan ev tipi beyazlatma. Bunun dışında beyazlatıcı macun, düzenli diş taşı temizliği ve lekeleyici alışkanlıkların azaltılması yüzey lekelerinde işe yarar."
+   },
+   {
+    "q": "Kömürle diş beyazlatma zararlı mı?",
+    "a": "Aktif kömür yüzey lekelerini sınırlı ölçüde azaltabilir ama aşındırıcı olabilir ve çoğu ürün florür içermez. Düzenli kullanım önerilmez."
+   }
+  ]
+ },
+ {
+  "key": "gargara",
+  "date": "2026-11-11",
+  "cat": "Rehber",
+  "cover": "blog-gargara",
+  "slug": "agiz-gargarasi-her-gun-kullanilir-mi",
+  "title": "Ağız gargarası her gün kullanılır mı? Klorheksidin, alkollü ve florürlü gargara farkı",
+  "desc": "Ağız gargarası her gün kullanılır mı, fırçaladıktan hemen sonra mı kullanılmalı? Klorheksidinli, alkollü, alkolsüz ve florürlü gargara farkı, dişleri lekeler mi, çocuklar kullanabilir mi?",
+  "lead": "Ağız gargarası, fırçalama ve diş ipinin yerine geçmez; doğru türü seçildiğinde onlara ek bir koruma sağlar. Florürlü ve alkolsüz gargaralar çoğu kişide her gün kullanılabilir. Klorheksidinli gargaralar ise güçlü antiseptiklerdir ve genellikle diş eti tedavisi ya da cerrahi sonrası, hekim önerisiyle kısa süreli kullanılır; uzun kullanımda dişlerde kahverengi leke ve tat değişikliği yapabilir. Gargarayı fırçaladıktan hemen sonra değil, gün içinde farklı bir saatte kullanmak daha faydalıdır.",
+  "sections": [
+   {
+    "id": "turler",
+    "h": "Gargara türleri ve ne işe yaradıkları",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Tür</th><th scope=\"col\">Ne işe yarar?</th><th scope=\"col\">Ne kadar süre?</th></tr></thead><tbody><tr><td>Florürlü</td><td>Çürüğe karşı ek koruma; diş teli, ağız kuruluğu, açık kök yüzeyi olanlarda faydalı</td><td>Her gün kullanılabilir</td></tr><tr><td>Klorheksidinli</td><td>Güçlü antiseptik; diş eti tedavisi ve cerrahi sonrası plak kontrolü</td><td>Hekim önerisiyle, genellikle 1–2 hafta</td></tr><tr><td>Setilpiridinyum klorürlü (CPC) ve esansiyel yağlı</td><td>Plak ve diş eti iltihabını azaltmaya yardımcı</td><td>Günlük kullanıma uygun ürünler vardır</td></tr><tr><td>Alkollü</td><td>Antiseptik etkili olabilir</td><td>Ağız kuruluğu ve yanma yapabilir; kuru ağızda tercih edilmez</td></tr><tr><td>Tuzlu su</td><td>Yatıştırıcı; çekim sonrası, aft ve diş eti tahrişinde</td><td>Kısa süreli</td></tr></tbody></table></div><aside class=\"note\"><strong>Kısaca</strong><p>Florürlü ve alkolsüz gargaralar çoğu kişide her gün kullanılabilir; klorheksidinli gargaralar ise hekim önerisiyle ve genellikle 1–2 hafta kullanılır. Gargara fırçalamanın ve diş ipinin yerine geçmez.</p></aside>"
+   },
+   {
+    "id": "zaman",
+    "h": "Gargara ne zaman kullanılmalı?",
+    "html": "<p>Fırçaladıktan hemen sonra gargara yapmak, macundaki florürü yıkayabilir. Bu yüzden gargarayı gün içinde farklı bir saatte, örneğin öğle yemeğinden sonra kullanmak daha faydalıdır. Klorheksidinli gargara kullanıyorsanız, macundaki bazı köpürtücü maddeler klorheksidinin etkisini azaltabileceğinden fırçaladıktan sonra en az 30 dakika bekleyin. Gargaradan sonra yaklaşık 30 dakika yemek yemeyin ve bir şey içmeyin.</p>"
+   },
+   {
+    "id": "klorheksidin",
+    "h": "Klorheksidinli gargara dişleri lekeler mi?",
+    "html": "<p>Evet, uzun süreli kullanımda dişlerde ve dilde kahverengi leke, tat alma değişikliği ve diş taşı artışı görülebilir. Lekeler genellikle diş taşı temizliği ve cila ile giderilir. Bu yan etkiler nedeniyle klorheksidin, hekimin önerdiği süreyle sınırlı tutulmalıdır. Dişteki koyu lekelerin diğer nedenlerini <a class=\"text-link\" href=\"/blog/diste-siyah-leke-nokta/\">dişte siyah leke</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "alkol",
+    "h": "Alkollü gargara zararlı mı?",
+    "html": "<p>Alkollü gargaralar ağızda yanma hissi ve kuruluk yapabilir; ağız kuruluğu yaşayanlar, aftı olanlar ve alkol kullanmaması gerekenler alkolsüz ürünleri tercih etmelidir. Alkollü gargaralar ile ağız kanseri arasındaki ilişki araştırılmış, ancak kesin bir sonuca ulaşılmamıştır; kuşkusu olanlar alkolsüz ürünleri seçebilir. Ağız kuruluğu için <a class=\"text-link\" href=\"/blog/agiz-kurulugu-nedenleri/\">ağız kuruluğu nedenleri</a>, ağız yaraları için <a class=\"text-link\" href=\"/blog/aft-agiz-yarasi-nasil-gecer/\">aft nasıl geçer</a> yazılarına bakabilirsiniz.</p>"
+   },
+   {
+    "id": "koku",
+    "h": "Gargara ağız kokusunu geçirir mi?",
+    "html": "<p>Gargara ağız kokusunu birkaç saatliğine maskeleyebilir, ancak nedeni ortadan kaldırmaz. Kokunun en sık kaynağı dil üzerindeki tabaka, diş aralarındaki artıklar ve diş eti hastalığıdır. Kalıcı çözüm için dil temizliği, diş ipi ve gerekirse diş eti tedavisi gerekir. Bkz. <a class=\"text-link\" href=\"/blog/agiz-kokusu-nedenleri-ve-tedavisi/\">ağız kokusu nedenleri ve tedavisi</a> ve <a class=\"text-link\" href=\"/blog/dis-ipi-nasil-kullanilir/\">diş ipi nasıl kullanılır</a>.</p>"
+   },
+   {
+    "id": "kimler",
+    "h": "Kimler gargara kullanmalı, kimler dikkat etmeli?",
+    "html": "<ul>\n<li><strong>Diş teli takanlar ve çürük riski yüksek olanlar:</strong> Florürlü gargara faydalıdır. Bkz. <a class=\"text-link\" href=\"/blog/dis-teli-ile-yasam/\">diş teli ile yaşam</a> ve <a class=\"text-link\" href=\"/blog/florur-zararli-mi-florursuz-dis-macunu/\">florür zararlı mı</a>.</li>\n<li><strong>Diş eti tedavisi ya da cerrahi geçirenler:</strong> Hekimin önerdiği klorheksidinli gargara, belirtilen süre boyunca.</li>\n<li><strong>Diş çekimi sonrası:</strong> İlk 24 saat gargara ve çalkalama yapılmaz; sonrasında ılık tuzlu suyla çok hafif çalkalanır. Bkz. <a class=\"text-link\" href=\"/blog/kuru-soket-alveolit-belirtileri/\">kuru soket</a>.</li>\n<li><strong>Çocuklar:</strong> Yutma riski nedeniyle 6 yaşından küçük çocuklara genellikle önerilmez; daha büyük çocuklarda çocuklar için üretilmiş ürünler ve yetişkin gözetimi gerekir.</li>\n<li><strong>Hamileler ve kronik hastalığı olanlar:</strong> Uzun süreli kullanım öncesinde hekime danışılmalıdır.</li>\n</ul>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde ağız bakımı danışmanlığı",
+    "html": "<p>Dent32'de diş eti durumunuza ve çürük riskinize göre gargaraya gerçekten ihtiyacınız olup olmadığını, varsa hangi türü ve ne kadar süre kullanacağınızı yazılı olarak öneriyoruz. Diş eti iltihabı için <a class=\"text-link\" href=\"/blog/dis-eti-iltihabi-nasil-gecer/\">diş eti iltihabı nasıl geçer</a> yazımıza bakabilirsiniz.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Ağız gargarası her gün kullanılır mı?",
+    "a": "Florürlü ve alkolsüz gargaralar çoğu kişide her gün kullanılabilir. Klorheksidinli gargaralar ise hekim önerisiyle ve genellikle 1–2 hafta gibi kısa süreler için kullanılır."
+   },
+   {
+    "q": "Gargara fırçalamadan önce mi sonra mı kullanılır?",
+    "a": "Fırçaladıktan hemen sonra kullanmak macundaki florürü yıkayabilir. Gargarayı gün içinde farklı bir saatte kullanmak daha faydalıdır; klorheksidinli gargarada fırçalamadan sonra en az 30 dakika beklenmelidir."
+   },
+   {
+    "q": "Gargara dişleri sarartır mı?",
+    "a": "Klorheksidinli gargaraların uzun süreli kullanımı dişlerde kahverengi leke yapabilir. Lekeler genellikle diş taşı temizliği ve cila ile giderilir."
+   },
+   {
+    "q": "Gargara diş fırçalamanın yerine geçer mi?",
+    "a": "Hayır. Gargara dişe yapışan plağı mekanik olarak temizlemez; fırçalama ve diş ipine ek bir koruma sağlar."
+   },
+   {
+    "q": "Çocuklar gargara kullanabilir mi?",
+    "a": "Yutma riski nedeniyle 6 yaşından küçük çocuklara genellikle önerilmez. Daha büyük çocuklarda çocuklara uygun ürünler yetişkin gözetiminde kullanılabilir."
+   }
+  ]
+ },
+ {
   "key": "ruhsat",
   "date": "2026-11-08",
   "cat": "Rehber",
