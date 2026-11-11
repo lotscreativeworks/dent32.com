@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { Faq } from "@/components/client/Faq";
 import { Toc } from "@/components/client/Toc";
@@ -5,30 +6,117 @@ import { BlogCard, PageHead } from "@/components/blocks";
 import { Icon } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
-import { breadcrumbLd, DENTIST_ID, jsonLd } from "@/lib/seo";
+import { breadcrumbLd, DENTIST_ID, jsonLd, pageMetadata } from "@/lib/seo";
 import {
-  absUrl, ADDRESS, dateLong, type Lang, OFFICIAL_NAME, PHONE, PHONE_E164, type Post, POSTS, readMinutes, route, SITE, translator,
-  treatmentForPost, WA,
+  absUrl, ADDRESS, BLOG_CATS, BLOG_PER_PAGE, type BlogCat, blogListKey, blogPageCount, dateLong, type Lang, OFFICIAL_NAME, PHONE, PHONE_E164,
+  type Post, POSTS, postsInCat, readMinutes, route, SITE, translator, treatmentForPost, WA,
 } from "@/lib/site";
 
-export function BlogList({ lang }: { lang: Lang }) {
+/** Sayfa bağlantıları listenin başına (kategori sekmelerine) iner */
+const listAnchor = (lang: Lang) => (lang === "tr" ? "yazilar" : "articles");
+
+/** Blog listesi sayfalarının başlık ve açıklaması: tüm yazılar / kategori, 1. sayfa / sonraki sayfalar */
+export function blogListMetadata(lang: Lang, cat: BlogCat | null, page: number): Metadata {
   const t = translator(lang);
+  const key = blogListKey(cat?.id ?? null, page);
+  const image = cat ? postsInCat(lang, cat)[0].cover : "blog-gulus-tasarimi";
+  const desc = cat ? cat.desc[lang] : t(
+    "İmplant, diş kaplama, kanal tedavisi, diş eti, çocuklarda diş sağlığı ve estetik diş hekimliği hakkında Beylikdüzü'ndeki Dent32 hekimlerinden kısa ve net rehberler.",
+    "Short, clear guides on dental implants, crowns, root canal treatment, gum health, children's teeth and cosmetic dentistry from the Dent32 team in Beylikdüzü, Istanbul.");
+  if (page === 1) {
+    const title = cat ? `${cat.title[lang]} | Dent32 Blog`
+      : t("Beylikdüzü Diş Sağlığı Blogu: Tedavi Rehberleri | Dent32", "Dental Health Blog: Implant, Crown and Treatment Guides | Dent32");
+    return pageMetadata({ key, lang, title, description: desc, image });
+  }
+  // Sonraki sayfalar: başlık ve açıklama 1. sayfadan farklı olsun (Google'da yinelenen başlık olmasın)
+  const name = cat ? cat.h1[lang] : t("Tüm yazılar", "All articles");
+  const of = blogPageCount(lang, cat);
+  return pageMetadata({
+    key, lang, image,
+    title: `${name} – ${t("Sayfa", "Page")} ${page} | Dent32 Blog`,
+    description: `${t(`Sayfa ${page}/${of}.`, `Page ${page} of ${of}.`)} ${desc}`,
+  });
+}
+
+/** Kategori sekmeleri: her biri ayrı bir sayfa (Google da tarar); etkin sekme vurgulanır */
+function BlogTabs({ lang, active, page }: { lang: Lang; active: string | null; page: number }) {
+  const t = translator(lang);
+  const tabs = [
+    { id: null, name: t("Tümü", "All"), n: POSTS[lang].length },
+    ...BLOG_CATS.map((c) => ({ id: c.id, name: c.name[lang], n: postsInCat(lang, c).length })),
+  ];
   return (
-    <Shell lang={lang} pageKey="blog">
-      <PageHead lang={lang} pageKey="blog" title={t("Kısa ve net rehberler", "Short, clear guides")} crumb="Blog" eyebrow="Blog"
-        lead={t("Tedaviler hakkında merak edilenleri; süreleri, riskleri ve maliyeti belirleyen etkenlerle birlikte sade bir dille anlatıyoruz.",
+    <nav className="filters blog-tabs" aria-label={t("Blog kategorileri", "Blog categories")}>
+      {tabs.map((tab) => (
+        <Link key={tab.id ?? "all"} className="filter" href={route(blogListKey(tab.id, 1), lang)}
+          aria-current={tab.id === active ? (page === 1 ? "page" : "true") : undefined}>
+          {tab.name}<span className="filter__n">{tab.n}</span>
+        </Link>
+      ))}
+    </nav>
+  );
+}
+
+/** Numaralı sayfa bağlantıları; en fazla ~8 sayfa olduğu için hepsi gösterilir */
+function Pager({ lang, catId, page, pages }: { lang: Lang; catId: string | null; page: number; pages: number }) {
+  const t = translator(lang);
+  const href = (n: number) => route(blogListKey(catId, n), lang, listAnchor(lang));
+  return (
+    <nav className="pager" aria-label={t("Sayfalar", "Pages")}>
+      {page > 1 && (
+        <Link className="pager__step" href={href(page - 1)} rel="prev">
+          <Icon name="arrow-l" /><span className="pager__label">{t("Önceki", "Previous")}</span>
+        </Link>
+      )}
+      <ol>
+        {Array.from({ length: pages }, (_, i) => i + 1).map((n) => (
+          <li key={n}>
+            {n === page
+              ? <span className="pager__num" aria-current="page">{n}</span>
+              : <Link className="pager__num" href={href(n)} aria-label={t(`Sayfa ${n}`, `Page ${n}`)}>{n}</Link>}
+          </li>
+        ))}
+      </ol>
+      {page < pages && (
+        <Link className="pager__step" href={href(page + 1)} rel="next">
+          <span className="pager__label">{t("Sonraki", "Next")}</span><Icon name="arrow-r" />
+        </Link>
+      )}
+    </nav>
+  );
+}
+
+export function BlogList({ lang, cat = null, page = 1 }: { lang: Lang; cat?: BlogCat | null; page?: number }) {
+  const t = translator(lang);
+  const key = blogListKey(cat?.id ?? null, page);
+  const pages = blogPageCount(lang, cat);
+  // En yeni yazı başta
+  const items = postsInCat(lang, cat).slice((page - 1) * BLOG_PER_PAGE, page * BLOG_PER_PAGE);
+  const pageLabel = `${t("Sayfa", "Page")} ${page}`;
+  const crumb = cat ? (page > 1 ? `${cat.name[lang]} · ${pageLabel}` : cat.name[lang]) : page > 1 ? pageLabel : "Blog";
+  return (
+    <Shell lang={lang} pageKey={key}>
+      <PageHead lang={lang} pageKey={key} crumb={crumb} eyebrow="Blog"
+        parent={key === "blog" ? undefined : { label: "Blog", key: "blog" }}
+        title={cat ? cat.h1[lang] : t("Kısa ve net rehberler", "Short, clear guides")}
+        lead={cat ? cat.lead[lang] : t("Tedaviler hakkında merak edilenleri; süreleri, riskleri ve maliyeti belirleyen etkenlerle birlikte sade bir dille anlatıyoruz.",
           "Plain-language answers to common questions about treatment, including timelines, risks and what affects the cost.")} />
-      <section className="section" style={{ paddingTop: "clamp(40px,5vw,64px)" }}>
+      <section className="section" id={listAnchor(lang)} style={{ paddingTop: "clamp(40px,5vw,64px)" }}>
         <div className="wrap">
-          {/* En yeni yazı başta */}
+          <BlogTabs lang={lang} active={cat?.id ?? null} page={page} />
           <div className="blog-grid">
-            {POSTS[lang].map((p, i) => <BlogCard key={p.key} lang={lang} post={p} d={i % 3} as="h2" />)}
+            {items.map((p, i) => <BlogCard key={p.key} lang={lang} post={p} d={i % 3} as="h2" />)}
           </div>
+          {pages > 1 && <Pager lang={lang} catId={cat?.id ?? null} page={page} pages={pages} />}
         </div>
       </section>
     </Shell>
   );
 }
+
+/** Statik çıktı için sayfa numaraları (2. sayfadan itibaren; 1. sayfa kendi adresinde) */
+export const blogPageParams = (lang: Lang, cat: BlogCat | null) =>
+  Array.from({ length: blogPageCount(lang, cat) - 1 }, (_, i) => ({ page: String(i + 2) }));
 
 export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
   const t = translator(lang);

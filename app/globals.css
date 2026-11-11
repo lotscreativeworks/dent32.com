@@ -434,6 +434,36 @@ ul, ol { margin: 0; padding: 0; }
 @media (max-width: 960px) { .blog-grid { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 600px) { .blog-grid { grid-template-columns: 1fr; } }
 
+/* Blog listesi: kategori sekmeleri (galeri filtreleriyle aynı görünüm, ama her biri bir sayfa bağlantısı) */
+.blog-tabs { margin-bottom: clamp(32px, 4vw, 44px); }
+a.filter { display: inline-flex; align-items: center; gap: 8px; text-decoration: none; }
+.filter[aria-current] { background: var(--ink); border-color: var(--ink); color: #fff; }
+.filter__n { font-size: .78rem; font-weight: 500; color: var(--slate); font-variant-numeric: tabular-nums; }
+.filter[aria-current] .filter__n { color: #b9d9ec; }
+@media (max-width: 600px) {
+  /* Telefonda 7 sekme 4 yerine 3 satıra sığsın */
+  .blog-tabs { gap: 8px; }
+  .blog-tabs .filter { min-height: 38px; padding: 6px 14px; gap: 6px; font-size: .9rem; }
+}
+
+/* Blog listesi: numaralı sayfa bağlantıları */
+.pager { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 10px; margin-top: clamp(48px, 6vw, 72px); }
+.pager ol { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin: 0; padding: 0; list-style: none; }
+.pager__num, .pager__step {
+  display: inline-flex; align-items: center; justify-content: center; gap: 6px; min-width: 44px; min-height: 44px;
+  border-radius: 999px; border: 1.5px solid var(--line); background: #fff; color: var(--ink);
+  font-weight: 500; text-decoration: none; font-variant-numeric: tabular-nums; transition: background-color .3s, border-color .3s, color .3s;
+}
+.pager__step { padding: 9px 18px; }
+.pager__step svg { width: 16px; height: 16px; }
+a.pager__num:hover, .pager__step:hover { border-color: var(--ink); }
+.pager__num[aria-current] { background: var(--ink); border-color: var(--ink); color: #fff; }
+@media (max-width: 600px) {
+  /* Telefonda yalnızca ok: numaralar tek satıra sığsın; metin ekran okuyucuda kalır */
+  .pager__step { padding: 0; }
+  .pager__label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+}
+
 /* --- SSS (.faq) --------------------------------------------------------- */
 /* Anasayfa: Beylikdüzü bölümü (metin + yerel rehber bağlantıları) */
 .local { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(32px, 6vw, 88px); align-items: start; }

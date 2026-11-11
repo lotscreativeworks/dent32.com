@@ -1,14 +1,7 @@
 import type { Metadata } from "next";
-import { pageMetadata } from "@/lib/seo";
-import { BlogList } from "@/views/Blog";
+import { BlogList, blogListMetadata } from "@/views/Blog";
 
-export const metadata: Metadata = pageMetadata({
-  key: "blog",
-  lang: "tr",
-  title: "Beylikdüzü Diş Sağlığı Blogu: Tedavi Rehberleri | Dent32",
-  description: "İmplant, diş kaplama, kanal tedavisi, diş eti, çocuklarda diş sağlığı ve estetik diş hekimliği hakkında Beylikdüzü'ndeki Dent32 hekimlerinden kısa ve net rehberler.",
-  image: "blog-gulus-tasarimi",
-});
+export const metadata: Metadata = blogListMetadata("tr", null, 1);
 
 export default function Page() {
   return <BlogList lang="tr" />;

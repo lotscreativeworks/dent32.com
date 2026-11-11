@@ -77,6 +77,105 @@ export const treatmentBySlug = (lang: Lang, slug: string) => TREATMENTS.find((t)
 /** Yazının bağlandığı tedavi sayfası: yazının `posts` listesinde ilk geçtiği tedavi */
 export const treatmentForPost = (key: string) => TREATMENTS.find((t) => t.posts.includes(key));
 
+// --- Blog listesi: kategoriler ve sayfalama ----------------------------------
+/** Sayfa başına yazı: ızgara masaüstünde 3, tablette 2 sütun; 24 ikisine de tam bölünür */
+export const BLOG_PER_PAGE = 24;
+/**
+ * Blog kategorileri (sekme sırası). `name` yazıların `cat` alanıyla birebir aynı olmalı.
+ * title/desc arama sonucunda, h1/lead sayfada görünür. Yeni kategori eklenirse buraya da eklenir.
+ */
+export const BLOG_CATS = [
+  {
+    id: "rehber", name: { tr: "Rehber", en: "Guide" }, slug: { tr: "rehber", en: "guide" },
+    title: { tr: "Diş Sağlığı Rehberi: Belirtiler ve Bakım", en: "Dental Health Guide: Symptoms and Care" },
+    desc: {
+      tr: "Diş ağrısı, diş eti kanaması, ağız kokusu, çekim sonrası bakım ve çocuklarda diş sağlığı hakkında sade ve kısa rehberler.",
+      en: "Plain-language guides on toothache, bleeding gums, bad breath, aftercare following an extraction and children's teeth.",
+    },
+    h1: { tr: "Diş sağlığı rehberi", en: "Dental health guide" },
+    lead: {
+      tr: "Belirtiler, günlük bakım ve tedavi öncesinde ya da sonrasında merak edilenler hakkında sade ve kısa yazılar.",
+      en: "Short, plain-language articles on symptoms, everyday care and common questions before and after treatment.",
+    },
+  },
+  {
+    id: "tedavi", name: { tr: "Tedavi", en: "Treatment" }, slug: { tr: "tedavi", en: "treatment" },
+    title: { tr: "Diş Tedavileri: Kanal, Dolgu, Çekim", en: "Dental Treatments: Root Canals, Fillings, Extractions" },
+    desc: {
+      tr: "Kanal tedavisi, dolgu, diş çekimi, diş eti ve çocuk diş tedavileri: süreç nasıl işler, ne kadar sürer, sonrasında nelere dikkat edilir.",
+      en: "Root canal treatment, fillings, extractions, gum and children's treatment: how each works, how long it takes and what to expect afterwards.",
+    },
+    h1: { tr: "Tedavi yazıları", en: "Treatment articles" },
+    lead: {
+      tr: "Kanal tedavisi, dolgu, çekim ve diş eti tedavilerinin nasıl yapıldığını, ne kadar sürdüğünü ve sonrasında nelere dikkat edileceğini anlatıyoruz.",
+      en: "How root canal treatment, fillings, extractions and gum treatment are done, how long they take and what to look out for afterwards.",
+    },
+  },
+  {
+    id: "implant", name: { tr: "İmplant", en: "Implants" }, slug: { tr: "implant", en: "implants" },
+    title: { tr: "İmplant Rehberi: Süreç, İyileşme ve Bakım", en: "Dental Implant Guide: Process, Healing and Care" },
+    desc: {
+      tr: "Diş implantı kimlere uygundur, tedavi ve iyileşme nasıl ilerler, all-on-four ve kemik tozu nedir; implant bakımı hakkında yazılar.",
+      en: "Who dental implants suit, how treatment and healing progress, what all-on-four and bone grafting involve, and how to care for implants.",
+    },
+    h1: { tr: "İmplant yazıları", en: "Implant articles" },
+    lead: {
+      tr: "Diş implantının kimlere uygun olduğunu, tedavi sürecini, iyileşmeyi ve uzun vadeli bakımı adım adım anlatıyoruz.",
+      en: "Who dental implants are suitable for, how treatment and healing work, and how to look after implants over the long term.",
+    },
+  },
+  {
+    id: "estetik", name: { tr: "Estetik", en: "Aesthetics" }, slug: { tr: "estetik", en: "aesthetics" },
+    title: { tr: "Estetik Diş Hekimliği: Gülüş Tasarımı, Lamine", en: "Cosmetic Dentistry: Smile Design, Veneers, Whitening" },
+    desc: {
+      tr: "Gülüş tasarımı, lamine kaplama, diş beyazlatma ve bonding: hangi yöntem kime uygundur, süreç nasıl işler, nelere dikkat edilir.",
+      en: "Smile design, veneers, teeth whitening and bonding: which option suits whom, how the process works and what to keep in mind.",
+    },
+    h1: { tr: "Estetik diş hekimliği yazıları", en: "Cosmetic dentistry articles" },
+    lead: {
+      tr: "Gülüş tasarımı, lamine kaplama, beyazlatma ve bonding gibi estetik uygulamaların kime uygun olduğunu ve nasıl yapıldığını anlatıyoruz.",
+      en: "Who cosmetic treatments such as smile design, veneers, whitening and bonding suit, and how they are carried out.",
+    },
+  },
+  {
+    id: "ortodonti", name: { tr: "Ortodonti", en: "Orthodontics" }, slug: { tr: "ortodonti", en: "orthodontics" },
+    title: { tr: "Ortodonti Rehberi: Şeffaf Plak ve Diş Teli", en: "Orthodontics Guide: Clear Aligners and Braces" },
+    desc: {
+      tr: "Şeffaf plak ile diş teli arasındaki farklar, tedavi süresi, yetişkin ve çocuklarda ortodonti, tedavi sırasında bakım hakkında yazılar.",
+      en: "How clear aligners and braces differ, how long treatment takes, orthodontics for adults and children, and care during treatment.",
+    },
+    h1: { tr: "Ortodonti yazıları", en: "Orthodontics articles" },
+    lead: {
+      tr: "Şeffaf plak ve diş teli seçeneklerini, tedavi süresini ve tedavi boyunca günlük bakımı anlatıyoruz.",
+      en: "Clear aligners and braces compared, how long treatment takes and how to look after your teeth along the way.",
+    },
+  },
+  {
+    id: "kaplama", name: { tr: "Kaplama", en: "Crowns" }, slug: { tr: "kaplama", en: "crowns" },
+    title: { tr: "Diş Kaplama Rehberi: Zirkonyum, E-max, Köprü", en: "Dental Crowns Guide: Zirconia, E-max and Bridges" },
+    desc: {
+      tr: "Zirkonyum ve e-max kaplama, köprü ve kaplama sonrası bakım: çeşitleri, farkları, ömrü ve kaplama altında oluşabilecek sorunlar.",
+      en: "Zirconia and e-max crowns, bridges and aftercare: the types, how they differ, how long they last and problems that can develop under a crown.",
+    },
+    h1: { tr: "Diş kaplama yazıları", en: "Dental crown articles" },
+    lead: {
+      tr: "Zirkonyum, e-max ve köprü gibi kaplama çeşitlerini, aralarındaki farkları ve kaplama sonrası bakımı anlatıyoruz.",
+      en: "Types of crowns such as zirconia, e-max and bridges, how they differ and how to care for them afterwards.",
+    },
+  },
+] as const satisfies readonly {
+  id: string; name: Localized; slug: Localized; title: Localized; desc: Localized; h1: Localized; lead: Localized;
+}[];
+export type BlogCat = (typeof BLOG_CATS)[number];
+export const blogCatById = (id: string) => BLOG_CATS.find((c) => c.id === id);
+export const blogCatBySlug = (lang: Lang, slug: string) => BLOG_CATS.find((c) => c.slug[lang] === slug);
+/** Kategorideki yazılar (en yeni başta); kategori yoksa tüm yazılar */
+export const postsInCat = (lang: Lang, cat: BlogCat | null) => (cat ? POSTS[lang].filter((p) => p.cat === cat.name[lang]) : POSTS[lang]);
+export const blogPageCount = (lang: Lang, cat: BlogCat | null) => Math.max(1, Math.ceil(postsInCat(lang, cat).length / BLOG_PER_PAGE));
+/** Blog listesi sayfasının anahtarı; tüm yazıların ilk sayfası mevcut "blog" anahtarıdır */
+export const blogListKey = (catId: string | null, page: number): PageKey =>
+  catId === null && page === 1 ? "blog" : `bloglist-${catId ?? "all"}-${page}`;
+
 // --- Rotalar -----------------------------------------------------------------
 const STATIC_ROUTES = {
   home: { tr: "/", en: "/en/" },
@@ -87,7 +186,7 @@ const STATIC_ROUTES = {
   contact: { tr: "/iletisim/", en: "/en/contact/" },
 } satisfies Record<string, Localized>;
 
-export type PageKey = keyof typeof STATIC_ROUTES | `post-${string}` | `treat-${string}`;
+export type PageKey = keyof typeof STATIC_ROUTES | `post-${string}` | `treat-${string}` | `bloglist-${string}`;
 
 export function route(key: PageKey, lang: Lang, hash?: string): string {
   let path: string;
@@ -97,6 +196,13 @@ export function route(key: PageKey, lang: Lang, hash?: string): string {
   } else if (key.startsWith("treat-")) {
     // Tedavi sayfası: /tedaviler/implant-tedavisi/ · /en/treatments/dental-implants/
     path = `${STATIC_ROUTES.treat[lang]}${treatmentById(key.slice(6)).slug[lang]}/`;
+  } else if (key.startsWith("bloglist-")) {
+    // Blog listesi: /blog/sayfa/2/ · /blog/kategori/implant/ · /blog/kategori/rehber/sayfa/2/
+    // EN: /en/blog/page/2/ · /en/blog/category/implants/ · /en/blog/category/guide/page/2/
+    const [, catId, n] = key.split("-");
+    const cat = catId === "all" ? null : blogCatById(catId)!;
+    const seg = lang === "tr" ? { cat: "kategori", page: "sayfa" } : { cat: "category", page: "page" };
+    path = STATIC_ROUTES.blog[lang] + (cat ? `${seg.cat}/${cat.slug[lang]}/` : "") + (Number(n) > 1 ? `${seg.page}/${n}/` : "");
   } else {
     path = STATIC_ROUTES[key as keyof typeof STATIC_ROUTES][lang];
   }
@@ -106,6 +212,8 @@ export function route(key: PageKey, lang: Lang, hash?: string): string {
 export const absUrl = (key: PageKey, lang: Lang) => SITE + route(key, lang);
 export const ALL_PAGE_KEYS: PageKey[] = [
   ...(Object.keys(STATIC_ROUTES) as PageKey[]),
+  // Kategori sayfalarının ilk sayfası site haritasında; sonraki sayfalar yalnızca sayfa bağlantılarıyla bulunur
+  ...BLOG_CATS.map((c) => blogListKey(c.id, 1)),
   ...TREATMENTS.map((t) => `treat-${t.id}` as PageKey),
   ...POSTS.tr.map((p) => `post-${p.key}` as PageKey),
 ];

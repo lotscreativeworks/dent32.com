@@ -18,7 +18,7 @@ const NAV = [
 
 function Header({ lang, pageKey }: { lang: Lang; pageKey: PageKey }) {
   const t = translator(lang);
-  const active = pageKey.startsWith("post-") ? "blog" : pageKey.startsWith("treat-") ? "treat" : pageKey;
+  const active = pageKey.startsWith("post-") || pageKey.startsWith("bloglist-") ? "blog" : pageKey.startsWith("treat-") ? "treat" : pageKey;
   const nav = (
     <>
       <ul>
