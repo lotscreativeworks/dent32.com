@@ -1,5 +1,562 @@
 [
  {
+  "key": "disates",
+  "date": "2026-11-13",
+  "cat": "Rehber",
+  "cover": "blog-dis-ates",
+  "slug": "dis-agrisi-ates-yapar-mi",
+  "title": "Diş ağrısı ateş yapar mı? Ateş ve yüzde şişlik olduğunda ne yapmalı",
+  "desc": "Diş ağrısıyla birlikte ateş neden çıkar, diş apsesi ateş yapar mı? Ateş ve yanakta şişlik olduğunda evde yapılabilecekler, ağrı kesici ve antibiyotiğin yeri, diş hekimine ne zaman gidilmeli.",
+  "lead": "Diş ağrısı tek başına ateş yapmaz; ateş, dişin kökünde ya da diş etinde bir enfeksiyon (apse) geliştiğini gösterebilir. Bu durumda genellikle zonklayan ağrıya yanakta ya da diş etinde şişlik, halsizlik ve çene altında hassas bir şişlik eşlik eder. Ağrı kesici ateşi ve ağrıyı geçici olarak düşürür ama enfeksiyonun kaynağını tedavi etmez. Ateşle birlikte diş ağrısı olduğunda aynı gün ya da en geç ertesi gün diş hekimine görünmek gerekir.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Diş ağrısıyla birlikte ateş neden çıkar?",
+    "html": "<p>Çürük ilerleyip dişin sinirine ulaştığında sinir zamanla canlılığını kaybeder ve kök ucunda enfeksiyon gelişebilir. Vücut bu enfeksiyona ateşle yanıt verebilir. Benzer bir tablo, yarı çıkmış yirmi yaş dişinin çevresindeki diş eti iltihabında ve ileri diş eti hastalığında da görülebilir.</p><p>Bu tür enfeksiyonların ortak noktası, kaynağı temizlenmeden tam olarak geçmemeleridir. Ağrı birkaç gün azalsa bile enfeksiyon sessizce devam edebilir. Ayrıntıları <a class=\"text-link\" href=\"/blog/dis-apsesi/\">diş apsesi ve yüz şişmesi</a> ile <a class=\"text-link\" href=\"/blog/perikoronit-yirmilik-dis-eti-iltihabi/\">yirmi yaş dişinde diş eti iltihabı</a> yazılarında anlattık.</p>"
+   },
+   {
+    "id": "tablo",
+    "h": "Belirtilere göre ne yapmalı?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Belirti</th><th scope=\"col\">Olası durum</th><th scope=\"col\">Ne yapmalı?</th></tr></thead><tbody><tr><td>Soğuk-sıcakla gelen, kısa süren sızı; ateş yok</td><td>Hassasiyet ya da başlangıç çürüğü</td><td>Birkaç gün içinde randevu</td></tr><tr><td>Zonklayan, gece artan ağrı; ateş yok</td><td>Sinirde iltihap</td><td>Bir iki gün içinde muayene</td></tr><tr><td>Ağrı + hafif ateş + diş etinde şişlik</td><td>Diş apsesi</td><td>Aynı gün ya da ertesi gün muayene</td></tr><tr><td>Yirmi yaş dişi bölgesinde şişlik, ağız açmada zorlanma</td><td>Perikoronit</td><td>Aynı gün ya da ertesi gün muayene</td></tr><tr><td>Göze ya da boyna yayılan şişlik, yutkunma veya nefes almada zorlanma, yüksek ateş</td><td>Yayılan enfeksiyon</td><td>Beklemeden acil servise başvurun</td></tr></tbody></table></div><aside class=\"note\"><strong>Kısaca</strong><p>Diş ağrısıyla birlikte ateş, genellikle dişte ya da diş etinde bir enfeksiyon olduğunu gösterir. Ağrı kesici rahatlatır ama kaynağı tedavi etmez; enfeksiyonun temizlenmesi gerekir. Bu yüzden ateşli diş ağrısında beklemeden diş hekimine görünün.</p></aside>"
+   },
+   {
+    "id": "evde",
+    "h": "Diş hekimine gidene kadar evde yapılabilecekler",
+    "html": "<ul>\n<li>Prospektüsteki doza uyarak ağrı kesici kullanabilirsiniz; parasetamol ve ibuprofen ateşi de düşürür. Hangisinin size uygun olduğunu <a class=\"text-link\" href=\"/blog/dis-agrisina-hangi-agri-kesici-iyi-gelir/\">diş ağrısına hangi ağrı kesici iyi gelir</a> yazısında anlattık.</li>\n<li>Bol sıvı alın ve dinlenin.</li>\n<li>Yanağın dışından, aralıklarla soğuk kompres uygulayın.</li>\n<li>Şişliğin üzerine sıcak uygulamayın; enfeksiyonun yayılmasını kolaylaştırabilir.</li>\n<li>Diş etine aspirin koymayın; doku yanığına yol açar.</li>\n<li>Şişliği iğneyle ya da elle patlatmaya çalışmayın.</li>\n</ul>"
+   },
+   {
+    "id": "antibiyotik",
+    "h": "Antibiyotik gerekir mi?",
+    "html": "<p>Antibiyotik, enfeksiyon yayılma belirtileri gösteriyorsa ya da ateş ve genel halsizlik varsa diş hekiminin muayene sonrası vereceği bir karardır. Asıl tedavi ise enfeksiyonun kaynağının temizlenmesidir: apsenin boşaltılması, kanal tedavisi ya da gerekirse dişin çekimi. Elde kalan eski bir antibiyotiği kendi kendinize başlamak, tabloyu geçici olarak bastırıp tedaviyi geciktirebilir. Bu konuyu <a class=\"text-link\" href=\"/blog/antibiyotik-dis-agrisi/\">antibiyotik ve ağrı kesici diş ağrısını geçirir mi</a> yazısında ayrıntılı olarak ele aldık.</p>"
+   },
+   {
+    "id": "cocuk",
+    "h": "Çocuklarda diş ve ateş",
+    "html": "<p>Bebeklerde diş çıkarma döneminde vücut ısısı hafifçe yükselebilir; ancak yüksek ateş diş çıkarmaya bağlanmamalı ve çocuk doktoruna gösterilmelidir. Bkz. <a class=\"text-link\" href=\"/blog/bebeklerde-dis-cikarma/\">bebeklerde diş çıkarma</a>. Daha büyük çocuklarda çürük bir süt dişinin yol açtığı apse de ateş ve yanakta şişlik yapabilir; süt dişi olsa da tedavi edilmesi gerekir. Bkz. <a class=\"text-link\" href=\"/blog/biberon-curugu-sut-disi-curugu/\">biberon çürüğü ve süt dişi çürükleri</a>.</p>"
+   },
+   {
+    "id": "cekim",
+    "h": "Diş çekiminden sonra ateş olur mu?",
+    "html": "<p>Çekimden sonraki ilk gün hafif bir ısı artışı görülebilir. Birkaç gün sonra artan ağrıya ateş, kötü koku ya da tat eşlik ediyorsa hekiminize haber verin. Çekim sonrası ağrının seyrini <a class=\"text-link\" href=\"/blog/dis-cekimi-sonrasi/\">diş çekimi sonrası</a> ve <a class=\"text-link\" href=\"/blog/kuru-soket-alveolit-belirtileri/\">kuru soket</a> yazılarında anlattık.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde aynı gün muayene",
+    "html": "<p>Dent32 haftanın yedi günü açıktır. Ateşli diş ağrısı ya da yüzde şişlik varsa aradığınızda mümkün olan en erken saate randevu vermeye çalışıyoruz. Gece ve bayram günleri için <a class=\"text-link\" href=\"/blog/beylikduzu-nobetci-dis-hekimi/\">nöbetçi ve acil diş hekimi</a> yazımıza bakabilirsiniz.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş ağrısı ateş yapar mı?",
+    "a": "Diş ağrısı tek başına ateş yapmaz. Ateş, dişin kökünde ya da diş etinde bir enfeksiyon (apse) geliştiğini gösterebilir; bu durumda muayene gerekir."
+   },
+   {
+    "q": "Diş apsesi ateşi kaç gün sürer?",
+    "a": "Enfeksiyonun kaynağı temizlenmeden ateş tekrarlayabilir. Apse boşaltıldıktan ya da kanal tedavisi başladıktan sonra ateş genellikle bir iki gün içinde düşer."
+   },
+   {
+    "q": "Ateşli diş ağrısında ağrı kesici yeterli mi?",
+    "a": "Ağrı kesici ateşi ve ağrıyı geçici olarak azaltır, ama enfeksiyonu tedavi etmez. Aynı gün ya da en geç ertesi gün diş hekimine görünmeniz gerekir."
+   },
+   {
+    "q": "Dişten dolayı yüzüm şişti, sıcak kompres yapabilir miyim?",
+    "a": "Şişliğin üzerine sıcak uygulanmamalıdır. Yanağın dışından aralıklarla soğuk kompres yapılabilir; şişlik göze ya da boyna yayılıyorsa beklemeden acil servise başvurun."
+   },
+   {
+    "q": "Diş çıkaran bebekte ateş olur mu?",
+    "a": "Hafif bir ısı artışı görülebilir; yüksek ateş diş çıkarmaya bağlanmamalı ve çocuk doktoruna gösterilmelidir."
+   }
+  ]
+ },
+ {
+  "key": "geceagri",
+  "date": "2026-11-13",
+  "cat": "Rehber",
+  "cover": "blog-gece-agri",
+  "slug": "dis-agrisi-gece-neden-artar",
+  "title": "Diş ağrısı gece neden artar? Gece başlayan ağrıda ne yapmalı",
+  "desc": "Diş ağrısı neden gece artar, yatınca zonklama neden başlar? Gece diş ağrısında uykuya dalmak için yapılabilecekler, ağrı kesici ve kompres, kaçınılması gerekenler ve ertesi gün muayene.",
+  "lead": "Diş ağrısının gece artmasının birkaç nedeni vardır: yattığınızda başa giden kan akışı artar ve iltihaplı dişin içindeki basınç yükselir, gün içindeki uyaranlar azaldığı için ağrı daha belirgin hissedilir ve gün içinde alınan ağrı kesicinin etkisi geçer. Bazı kişilerde uykuda diş sıkma da ağrıyı artırır. Başınızı yastıkla biraz yükseltmek, prospektüse uygun ağrı kesici kullanmak ve yanağa soğuk kompres yapmak gece rahatlamanıza yardımcı olur. Gece artan zonklayıcı ağrı genellikle dişin sinirinde iltihap olduğunu gösterir; ertesi gün muayene olmanız gerekir.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Diş ağrısı neden gece artar?",
+    "html": "<ul>\n<li><strong>Yatış pozisyonu:</strong> Uzandığınızda başa giden kan akışı artar. Dişin içi sert dokularla çevrili olduğu için iltihaplı sinirdeki basınç kolayca yükselir ve zonklama artar.</li>\n<li><strong>Dikkatin dağılmaması:</strong> Gün içinde iş, konuşma ve hareket ağrıyı geri planda tutar; gece sessizlikte ağrı daha yoğun hissedilir.</li>\n<li><strong>Ağrı kesicinin etkisinin geçmesi:</strong> Gün içinde aldığınız ilacın etkisi gece yarısına doğru azalabilir.</li>\n<li><strong>Diş sıkma:</strong> Uykuda dişleri sıkmak, zaten hassas olan dişe ek yük bindirir. Bkz. <a class=\"text-link\" href=\"/blog/dis-sikma-gece-plagi/\">diş sıkma ve gıcırdatma</a>.</li>\n<li><strong>Sinüs tıkanıklığı:</strong> Yatınca sinüslerdeki basınç üst arka dişlerde ağrı gibi hissedilebilir. Bkz. <a class=\"text-link\" href=\"/blog/sinuzit-dis-agrisi/\">sinüzit diş ağrısı yapar mı</a>.</li>\n</ul>"
+   },
+   {
+    "id": "rahatlama",
+    "h": "Gece rahatlamak için yapılabilecekler",
+    "html": "<ol>\n<li>Başınızı bir iki yastıkla biraz yüksekte tutarak yatın.</li>\n<li>Yatmadan önce, prospektüsteki doza uyarak ağrı kesici alın. Bkz. <a class=\"text-link\" href=\"/blog/dis-agrisina-hangi-agri-kesici-iyi-gelir/\">diş ağrısına hangi ağrı kesici iyi gelir</a>.</li>\n<li>Yanağın dışından 15–20 dakikalık aralarla soğuk kompres uygulayın.</li>\n<li>Ilık tuzlu suyla ağzınızı nazikçe çalkalayın; diş arasına yemek sıkıştıysa diş ipiyle dikkatlice temizleyin. Bkz. <a class=\"text-link\" href=\"/blog/dis-arasina-yemek-kacmasi/\">diş arasına yemek kaçması</a>.</li>\n<li>Yatmadan önce çok sıcak, çok soğuk ve şekerli yiyecek ve içeceklerden kaçının.</li>\n<li>Ağrıyan taraftan çiğnemeyin.</li>\n</ol><p>Evde yapılabilecek diğer şeyleri ve kaçınılması gerekenleri <a class=\"text-link\" href=\"/blog/dis-agrisi-nasil-gecer/\">diş ağrısı nasıl geçer</a> yazısında ayrıntılı olarak anlattık.</p>"
+   },
+   {
+    "id": "tablo",
+    "h": "Gece ağrısı hakkında ne söyler?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Ağrının özelliği</th><th scope=\"col\">Olası neden</th><th scope=\"col\">Ne zaman muayene?</th></tr></thead><tbody><tr><td>Soğukla gelen, birkaç saniyede geçen sızı</td><td>Hassasiyet, başlangıç çürüğü</td><td>Birkaç gün içinde</td></tr><tr><td>Kendiliğinden başlayan, gece uyandıran zonklama</td><td>Sinirde iltihap</td><td>Ertesi gün</td></tr><tr><td>Isırınca artan, dişin “uzamış” gibi hissedilmesi</td><td>Kök ucunda iltihap</td><td>Ertesi gün</td></tr><tr><td>Sabah çene ve şakak ağrısıyla birlikte</td><td>Diş sıkma</td><td>Birkaç gün içinde</td></tr><tr><td>Ağrıyla birlikte ateş ya da yüzde şişlik</td><td>Apse</td><td>Aynı gün; bkz. <a class=\"text-link\" href=\"/blog/dis-agrisi-ates-yapar-mi/\">diş ağrısı ateş yapar mı</a></td></tr></tbody></table></div><aside class=\"note\"><strong>Kısaca</strong><p>Gece artan diş ağrısı çoğu zaman dişin sinirinde iltihap olduğunu gösterir; yatınca dişteki basınç artar. Başınızı yükseltmek, uygun dozda ağrı kesici ve soğuk kompres geceyi geçirmenize yardımcı olur. Ağrı geçse bile ertesi gün muayene olun.</p></aside>"
+   },
+   {
+    "id": "kacinin",
+    "h": "Gece ağrısında kaçınılması gerekenler",
+    "html": "<ul>\n<li>Diş etine ya da dişin üzerine aspirin koymayın; doku yanığına yol açar.</li>\n<li>Önerilen dozun üzerinde ağrı kesici almayın; farklı ağrı kesicileri rastgele birleştirmeyin.</li>\n<li>Elinizdeki eski antibiyotiği kendi kendinize başlamayın. Bkz. <a class=\"text-link\" href=\"/blog/antibiyotik-dis-agrisi/\">antibiyotik diş ağrısını geçirir mi</a>.</li>\n<li>Şişlik varsa yanağa sıcak uygulamayın.</li>\n<li>Alkol ya da kolonya gibi maddeleri dişe sürmeyin.</li>\n</ul>"
+   },
+   {
+    "id": "sabah",
+    "h": "Sabah ağrı geçtiyse?",
+    "html": "<p>Gece şiddetli olan ağrının sabah hafiflemesi sık görülür, ama bu sorunun çözüldüğü anlamına gelmez. Sinirdeki iltihap ilerleyebilir ve birkaç gün sonra daha güçlü bir ağrı ya da şişlikle geri dönebilir. Erken muayenede çoğu zaman daha basit bir tedaviyle dişi korumak mümkündür. Kanal tedavisinin ne zaman gerektiğini <a class=\"text-link\" href=\"/blog/kanal-tedavisi/\">kanal tedavisi</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde ertesi gün muayene",
+    "html": "<p>Dent32 haftanın yedi günü açıktır; gece başlayan bir diş ağrısında sabah arayarak aynı gün için randevu isteyebilirsiniz. Gece ve bayram günleri için <a class=\"text-link\" href=\"/blog/beylikduzu-nobetci-dis-hekimi/\">nöbetçi ve acil diş hekimi</a>, hafta sonu için <a class=\"text-link\" href=\"/blog/beylikduzu-hafta-sonu-acik-dis-klinigi/\">hafta sonu açık diş kliniği</a> yazılarımıza bakabilirsiniz.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş ağrısı neden gece daha çok olur?",
+    "a": "Yatınca başa giden kan akışı artar ve iltihaplı dişteki basınç yükselir; ayrıca gece dikkat dağıtan bir şey olmadığı için ağrı daha yoğun hissedilir ve gündüz alınan ağrı kesicinin etkisi geçer."
+   },
+   {
+    "q": "Gece diş ağrısında nasıl uyunur?",
+    "a": "Başınızı yastıkla biraz yükseltin, yatmadan önce prospektüse uygun dozda ağrı kesici alın ve yanağa soğuk kompres yapın. Yatmadan önce çok sıcak, soğuk ve şekerli şeylerden kaçının."
+   },
+   {
+    "q": "Gece başlayan diş ağrısı için acile gitmek gerekir mi?",
+    "a": "Ateş, yüzde ya da boyunda yayılan şişlik, yutkunma veya nefes almada zorlanma yoksa genellikle ertesi gün diş hekimine görünmek yeterlidir. Bu belirtiler varsa beklemeden acil servise başvurun."
+   },
+   {
+    "q": "Sabah diş ağrım geçti, yine de gitmeli miyim?",
+    "a": "Evet. Gece artan ağrı çoğu zaman sinirde iltihabın işaretidir ve birkaç gün sonra daha şiddetli dönebilir; erken muayenede dişi korumak daha kolaydır."
+   },
+   {
+    "q": "Gece diş ağrısına sıcak mı soğuk mu iyi gelir?",
+    "a": "Yanağın dışından soğuk kompres genellikle daha iyi gelir. Şişlik varsa sıcak uygulanmamalıdır."
+   }
+  ]
+ },
+ {
+  "key": "cekimdikis",
+  "date": "2026-11-13",
+  "cat": "Tedavi",
+  "cover": "blog-cekim-dikis",
+  "slug": "dis-cekimi-sonrasi-dikis-ne-zaman-alinir",
+  "title": "Diş çekimi sonrası dikiş ne zaman alınır? Eriyen dikiş, dikişin açılması ve bakım",
+  "desc": "Diş çekiminden sonra dikiş kaç günde alınır, eriyen dikiş ne zaman düşer? Dikiş erken düşerse ne yapmalı, dikişli bölgede yemek, fırçalama ve ağız çalkalama, çekim yerindeki beyaz doku normal mi?",
+  "lead": "Diş çekiminden sonra atılan dikişler iki türlüdür: eriyen dikişler genellikle 7–14 gün içinde kendiliğinden çözülüp düşer, erimeyen dikişler ise çoğunlukla 7–10 gün sonra kontrol randevusunda alınır. Dikişin bir iki gün erken düşmesi, kanama yoksa genellikle sorun değildir. Bu süreçte dikişi dil ya da parmakla oynamamak, ilk 24 saat ağzı çalkalamamak, sonrasında ılık tuzlu suyla nazikçe çalkalamak ve çekim tarafında çiğnememek iyileşmeyi kolaylaştırır.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Çekimden sonra neden dikiş atılır?",
+    "html": "<p>Her çekimden sonra dikiş gerekmez. Gömülü yirmi yaş dişi gibi diş etinin açıldığı cerrahi çekimlerde, birden fazla dişin yan yana çekildiği durumlarda ya da kanamayı kontrol etmek ve pıhtıyı yerinde tutmak gerektiğinde dikiş atılır. Dikiş, diş eti kenarlarını bir arada tutarak yaranın daha düzenli iyileşmesine yardım eder. Çekim süreci için <a class=\"text-link\" href=\"/blog/yirmilik-dis-cekimi/\">yirmi yaş dişi</a> ve <a class=\"text-link\" href=\"/blog/beylikduzu-dis-cekimi/\">Beylikdüzü'nde diş çekimi</a> yazılarına bakabilirsiniz.</p>"
+   },
+   {
+    "id": "tablo",
+    "h": "Dikiş türüne göre ne beklemeli?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\"></th><th scope=\"col\">Eriyen dikiş</th><th scope=\"col\">Erimeyen dikiş</th></tr></thead><tbody><tr><td>Ne zaman çıkar?</td><td>Genellikle 7–14 gün içinde kendiliğinden çözülür ya da düşer</td><td>Çoğunlukla 7–10 gün sonra kontrol randevusunda alınır</td></tr><tr><td>Kontrol gerekir mi?</td><td>Hekiminiz isterse</td><td>Evet, dikiş alma randevusu</td></tr><tr><td>Alınması acıtır mı?</td><td>Alınmaz</td><td>Kısa sürer; genellikle uyuşturma gerekmez, hafif çekilme hissi olur</td></tr><tr><td>Erken düşerse</td><td>Kanama yoksa genellikle sorun değil</td><td>Kanama yoksa genellikle sorun değil; hekiminize haber verin</td></tr></tbody></table></div><aside class=\"note\"><strong>Kısaca</strong><p>Eriyen dikişler genellikle 7–14 günde kendiliğinden düşer; erimeyen dikişler 7–10 gün sonra alınır. Dikişi oynamayın, ilk gün ağzınızı çalkalamayın, sonra ılık tuzlu suyla nazikçe çalkalayın. Kanama yoksa erken düşen bir dikiş genellikle sorun yaratmaz.</p></aside>"
+   },
+   {
+    "id": "erken",
+    "h": "Dikiş erken düştü ya da açıldı, ne yapmalı?",
+    "html": "<p>Eriyen dikişlerin uçlarının birkaç gün içinde gevşemesi ve bir kısmının düşmesi normaldir. Bu sırada kanama yoksa ve yara kenarları kapanmaya başlamışsa genellikle bir şey yapmanız gerekmez.</p><ul>\n<li>Kanama olursa temiz bir gazlı bezi katlayıp yaranın üzerine koyun ve 30 dakika boyunca kesintisiz ısırın.</li>\n<li>Kanama durmazsa, belirgin bir boşluk oluştuysa ya da ağrı artıyorsa hekiminizi arayın.</li>\n<li>Düşen ya da sarkan dikişi kendiniz kesmeye veya çekmeye çalışmayın; batıyorsa hekiminiz kısaltabilir.</li>\n</ul>"
+   },
+   {
+    "id": "bakim",
+    "h": "Dikişli bölgede bakım",
+    "html": "<ol>\n<li>İlk 24 saat ağzınızı çalkalamayın, tükürmeyin ve pipetle içmeyin; pıhtının yerinden oynamaması önemlidir.</li>\n<li>Ertesi günden itibaren yemeklerden sonra ılık tuzlu suyla nazikçe çalkalayın; suyu ağızda gezdirip lavaboya bırakın.</li>\n<li>Diğer dişlerinizi normal şekilde fırçalayın; dikişli bölgeye birkaç gün yumuşak fırçayla çok dikkatli yaklaşın.</li>\n<li>Birkaç gün ılık ve yumuşak yiyecekler tüketin; çekim tarafında çiğnemeyin.</li>\n<li>Sigarayı mümkün olduğunca uzun süre bırakın; yara iyileşmesini geciktirir. Bkz. <a class=\"text-link\" href=\"/blog/sigaranin-dislere-ve-dis-etine-etkisi/\">sigara dişlere ve diş etine ne yapar</a>.</li>\n<li>Dikişi dil ya da parmakla yoklamayın.</li>\n</ol><p>İlk günlerde kanama, şişlik ve yemek konusunda bilinmesi gerekenleri <a class=\"text-link\" href=\"/blog/dis-cekimi-sonrasi/\">diş çekimi sonrası</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "normal",
+    "h": "Çekim yerindeki beyaz doku normal mi?",
+    "html": "<p>Çekimden iki üç gün sonra yaranın üzerinde beyazımsı-sarımsı, yumuşak bir tabaka görülebilir. Bu genellikle iyileşmekte olan dokudur ve normaldir; iltihap anlamına gelmez. Ağrı birkaç gün içinde azalmak yerine artıyor, ağızda kötü bir tat ya da koku oluşuyor ve boşluk açıkta görünüyorsa kuru soket olabilir. Bkz. <a class=\"text-link\" href=\"/blog/kuru-soket-alveolit-belirtileri/\">kuru soket nedir</a>.</p>"
+   },
+   {
+    "id": "hekime",
+    "h": "Hangi durumda hekiminize haber vermelisiniz?",
+    "html": "<ul>\n<li>30 dakikalık baskıya rağmen durmayan kanama</li>\n<li>Üçüncü günden sonra artan ağrı</li>\n<li>Artan şişlik, ateş ya da ağız açmada belirgin zorlanma</li>\n<li>Uyuşukluğun bir günden uzun sürmesi</li>\n</ul><p>Bu belirtiler sık görülmez; ama fark ederseniz beklemeden hekiminizi aramanız iyileşmeyi kolaylaştırır.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde çekim sonrası kontrol",
+    "html": "<p>Dent32'de çekimden sonra size dikişin türünü, ne zaman düşeceğini ya da alınacağını ve kontrol tarihini yazılı olarak bildiriyoruz. Aklınıza takılan bir şey olursa aramanız yeterlidir.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş çekimi sonrası dikiş kaç günde alınır?",
+    "a": "Erimeyen dikişler genellikle 7–10 gün sonra kontrol randevusunda alınır. Eriyen dikişler alınmaz; 7–14 gün içinde kendiliğinden çözülür ya da düşer."
+   },
+   {
+    "q": "Eriyen dikiş düşmezse ne olur?",
+    "a": "İki haftayı geçtiği halde rahatsız eden bir dikiş kalmışsa hekiminiz kontrol randevusunda kolayca alabilir; kendiniz çekmeye çalışmayın."
+   },
+   {
+    "q": "Dikiş erken düştü, sorun olur mu?",
+    "a": "Kanama yoksa ve yara kenarları kapanmaya başladıysa genellikle sorun olmaz. Kanama olursa gazlı bezle 30 dakika baskı yapın; durmazsa hekiminizi arayın."
+   },
+   {
+    "q": "Dikiş alınırken acı olur mu?",
+    "a": "Dikiş alma birkaç dakika süren basit bir işlemdir; genellikle uyuşturma gerekmez ve hafif bir çekilme hissi olur."
+   },
+   {
+    "q": "Dikişliyken diş fırçalanır mı?",
+    "a": "Evet. Diğer dişlerinizi normal fırçalayın; dikişli bölgeye ilk günlerde yumuşak fırçayla çok dikkatli yaklaşın ve ertesi günden itibaren ılık tuzlu suyla nazikçe çalkalayın."
+   }
+  ]
+ },
+ {
+  "key": "beyazdiyet",
+  "date": "2026-11-13",
+  "cat": "Estetik",
+  "cover": "blog-beyaz-diyet",
+  "slug": "dis-beyazlatma-sonrasi-ne-yenir",
+  "title": "Diş beyazlatma sonrası ne yenir, ne yenmez? “Beyaz diyet” ve hassasiyet",
+  "desc": "Diş beyazlatmadan sonra ilk 48 saat neler yenir, çay, kahve ve sigara ne zaman serbest? Beyaz diyet listesi, beyazlatma sonrası hassasiyet, sonucu uzun süre korumak için yapılabilecekler.",
+  "lead": "Diş beyazlatmadan sonraki ilk 24–48 saatte dişler renk alan yiyecek ve içeceklere karşı daha duyarlıdır; bu yüzden bu sürede “beyaz diyet” denilen, rengi açık yiyeceklerle beslenmek önerilir. Su, süt, yoğurt, beyaz peynir, tavuk, balık, pirinç ve makarna gibi yiyecekler uygundur; çay, kahve, kola, kırmızı şarap, salçalı ve soslu yemekler, koyu renkli meyveler ve sigaradan uzak durmak gerekir. Bu dönemde hafif hassasiyet de olabilir; çok sıcak ve çok soğuktan kaçınmak işi kolaylaştırır. Hassasiyet genellikle birkaç gün içinde geçer.",
+  "sections": [
+   {
+    "id": "neden",
+    "h": "Beyazlatmadan sonra dişler neden daha kolay renk alır?",
+    "html": "<p>Beyazlatma jeli dişin içindeki renk maddelerini parçalarken minenin geçici olarak biraz daha geçirgen ve kuru hale gelmesine yol açar. Tükürük birkaç gün içinde bu dengeyi geri getirir. Bu ilk günlerde koyu renkli yiyecek ve içeceklerdeki pigmentler dişe daha kolay işleyebilir; yeni elde edilen rengin bir kısmı kaybedilebilir.</p>"
+   },
+   {
+    "id": "tablo",
+    "h": "İlk 48 saatte ne yenir, ne yenmez?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Yenebilir (beyaz diyet)</th><th scope=\"col\">Kaçınılmalı</th></tr></thead><tbody><tr><td>Su, maden suyu, süt</td><td>Çay, kahve, kola, enerji içecekleri</td></tr><tr><td>Yoğurt, ayran, beyaz peynir</td><td>Kırmızı şarap, vişne ve nar suyu</td></tr><tr><td>Tavuk, hindi, beyaz etli balık</td><td>Salça, domates sosu, soya sosu, ketçap</td></tr><tr><td>Pirinç, makarna (sossuz ya da beyaz soslu), patates</td><td>Köri, zerdeçal ve koyu baharatlar</td></tr><tr><td>Haşlanmış karnabahar, kabuksuz elma ve armut, muz</td><td>Böğürtlen, yaban mersini, çilek, pancar</td></tr><tr><td>Beyaz ekmek, yulaf</td><td>Çikolata, koyu renkli tatlılar, renkli şekerlemeler</td></tr><tr><td></td><td>Sigara, nargile ve tütün ürünleri</td></tr></tbody></table></div><aside class=\"note\"><strong>Kısaca</strong><p>Beyazlatmadan sonraki ilk 24–48 saat rengi açık yiyeceklerle beslenin; çay, kahve, kola, kırmızı şarap, salçalı-soslu yemekler, koyu meyveler ve sigaradan uzak durun. Hafif hassasiyet olabilir; çok sıcak ve çok soğuktan kaçının, genellikle birkaç günde geçer.</p></aside>"
+   },
+   {
+    "id": "cay-kahve",
+    "h": "Çay ve kahve ne zaman içilebilir?",
+    "html": "<p>İlk 48 saatten sonra çay ve kahveye dönebilirsiniz. Sonucu daha uzun süre korumak için:</p><ul>\n<li>Koyu renkli içecekleri mümkünse pipetle için.</li>\n<li>İçtikten sonra ağzınızı suyla çalkalayın.</li>\n<li>Gün boyu yudum yudum içmek yerine belirli zamanlarda için.</li>\n<li>Sigarayı bırakmak ya da azaltmak en büyük farkı yaratır. Bkz. <a class=\"text-link\" href=\"/blog/sigaranin-dislere-ve-dis-etine-etkisi/\">sigara dişlere ve diş etine ne yapar</a>.</li>\n</ul><p>Dişlerin zamanla neden yeniden renk aldığını <a class=\"text-link\" href=\"/blog/disler-neden-sararir/\">dişler neden sararır</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "hassasiyet",
+    "h": "Beyazlatma sonrası hassasiyet",
+    "html": "<p>Beyazlatmadan sonra bazı kişilerde dişlerde kısa süreli, sızlama şeklinde hassasiyet olur. Bu çoğunlukla birkaç gün içinde kendiliğinden geçer.</p><ul>\n<li>Çok sıcak ve çok soğuk yiyecek ve içeceklerden birkaç gün kaçının.</li>\n<li>Hassasiyet giderici (potasyum nitratlı ya da benzeri) bir macun kullanabilirsiniz.</li>\n<li>Ev tipi beyazlatmada hassasiyet artarsa jeli bir iki gün ara vererek kullanın ve hekiminize danışın.</li>\n<li>Hassasiyet bir haftadan uzun sürerse ya da tek bir dişte belirginse kontrol olun.</li>\n</ul><p>Diş hassasiyetinin diğer nedenlerini <a class=\"text-link\" href=\"/blog/dis-hassasiyeti/\">dişlerde soğuk ve sıcak hassasiyeti</a> yazısında bulabilirsiniz.</p>"
+   },
+   {
+    "id": "ev-tipi",
+    "h": "Ev tipi beyazlatmada beyaz diyet",
+    "html": "<p>Plakla yapılan ev tipi beyazlatmada uygulama genellikle iki üç hafta sürer. Bu süre boyunca her uygulamadan sonraki birkaç saatte aynı kurallara dikkat etmek, koyu renkli içecekleri azaltmak ve sigaradan uzak durmak sonucu belirgin şekilde etkiler. Klinikte ve evde yapılan beyazlatmanın farkını <a class=\"text-link\" href=\"/blog/dis-beyazlatma/\">diş beyazlatma: klinikte mi, evde mi</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "koruma",
+    "h": "Sonucu uzun süre korumak için",
+    "html": "<ul>\n<li>Günde iki kez florürlü macunla fırçalayın; beyazlatıcı macunları ölçülü kullanın. Bkz. <a class=\"text-link\" href=\"/blog/beyazlatici-dis-macunu-komurlu-macun/\">beyazlatıcı diş macunu</a>.</li>\n<li>Altı ayda bir diş taşı temizliği ve cila yaptırın.</li>\n<li>Evde limon, karbonat gibi yöntemleri denemeyin. Bkz. <a class=\"text-link\" href=\"/blog/evde-dis-beyazlatma-karbonat-limon/\">evde diş beyazlatma</a>.</li>\n<li>Gerekirse hekiminizin önereceği aralıklarla kısa bir tazeleme uygulaması yapılabilir.</li>\n</ul>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde diş beyazlatma",
+    "html": "<p>Dent32'de beyazlatmadan sonra size ilk günlerde nelere dikkat etmeniz gerektiğini yazılı olarak veriyoruz. Süreci <a class=\"text-link\" href=\"/blog/beylikduzu-dis-beyazlatma/\">Beylikdüzü'nde diş beyazlatma</a> yazımızda bulabilirsiniz.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş beyazlatma sonrası ne kadar süre beyaz diyet yapılmalı?",
+    "a": "Genellikle ilk 24–48 saat. Bu sürede dişler renk alan yiyecek ve içeceklere karşı daha duyarlıdır."
+   },
+   {
+    "q": "Beyazlatmadan sonra kahve ne zaman içilir?",
+    "a": "İlk 48 saatten sonra içebilirsiniz. Sonucu korumak için pipet kullanmak ve sonrasında ağzı suyla çalkalamak yardımcı olur."
+   },
+   {
+    "q": "Beyazlatma sonrası sigara içilir mi?",
+    "a": "İlk 48 saat içilmemelidir; sigara beyazlatmanın sonucunu en hızlı bozan alışkanlıklardan biridir."
+   },
+   {
+    "q": "Beyazlatma sonrası dişlerim sızlıyor, normal mi?",
+    "a": "Kısa süreli hassasiyet sık görülür ve genellikle birkaç gün içinde geçer. Çok sıcak ve soğuktan kaçının; bir haftadan uzun sürerse kontrol olun."
+   },
+   {
+    "q": "Beyazlatmadan sonra süt ve yoğurt yenir mi?",
+    "a": "Evet. Süt, yoğurt ve beyaz peynir gibi rengi açık yiyecekler beyaz diyete uygundur."
+   }
+  ]
+ },
+ {
+  "key": "plaktemizlik",
+  "date": "2026-11-13",
+  "cat": "Ortodonti",
+  "cover": "blog-plak-temizlik",
+  "slug": "gece-plagi-seffaf-plak-nasil-temizlenir",
+  "title": "Gece plağı ve şeffaf plak nasıl temizlenir? Koku, sararma ve doğru saklama",
+  "desc": "Gece plağı, şeffaf plak ve pekiştirme plağı nasıl temizlenir, diş macunu ve sıcak su kullanılır mı? Plaktaki koku, sararma ve beyaz birikintiler için yapılacaklar ve plağı doğru saklama.",
+  "lead": "Gece plağı, şeffaf plak ve tedavi sonrası takılan pekiştirme plakları her çıkarıldığında soğuk ya da ılık suyla durulanmalı, günde en az bir kez ayrı ve yumuşak bir fırçayla, kokusuz sıvı sabun gibi aşındırıcı olmayan bir temizleyiciyle nazikçe fırçalanmalıdır. Diş macunu plağın yüzeyini çizip matlaştırabilir; sıcak su ise plağın şeklini bozabilir. Haftada birkaç kez plaklara uygun temizleme tabletleri kullanılabilir. Temizlenen plak kuruduktan sonra havalandırmalı kutusunda saklanmalıdır.",
+  "sections": [
+   {
+    "id": "gunluk",
+    "h": "Günlük temizlik adım adım",
+    "html": "<ol>\n<li>Plağı çıkarır çıkarmaz soğuk ya da ılık suyla durulayın; tükürük kurumadan temizlemek kolaylaştırır.</li>\n<li>Yalnızca plak için ayırdığınız yumuşak bir fırçayla, kokusuz sıvı sabun ya da hekiminizin önerdiği temizleyiciyle iç ve dış yüzeyleri nazikçe fırçalayın.</li>\n<li>Bol suyla iyice durulayın.</li>\n<li>Plağı açıkta kurumaya bırakın, sonra havalandırmalı kutusuna koyun.</li>\n<li>Plağı takmadan önce dişlerinizi fırçalayın; temiz plak kirli dişlerin üzerine takılırsa bakteriler plağın içinde saatlerce dişlerle temas eder.</li>\n</ol>"
+   },
+   {
+    "id": "tablo",
+    "h": "Yapılması ve yapılmaması gerekenler",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Yapın</th><th scope=\"col\">Yapmayın</th></tr></thead><tbody><tr><td>Soğuk ya da ılık suyla durulayın</td><td>Sıcak ya da kaynar su kullanmayın; plak şekil değiştirebilir</td></tr><tr><td>Yumuşak, ayrı bir fırça kullanın</td><td>Diş macunuyla fırçalamayın; yüzeyi çizer, matlaştırır</td></tr><tr><td>Kokusuz sıvı sabun ya da plak temizleme tableti kullanın</td><td>Çamaşır suyu, alkol ve alkollü gargarada bekletmeyin</td></tr><tr><td>Kuruduktan sonra havalandırmalı kutuda saklayın</td><td>Peçeteye sarmayın; kolayca çöpe gider</td></tr><tr><td>Kutuyu da haftada bir yıkayın</td><td>Evcil hayvanların ulaşabileceği yerde bırakmayın</td></tr></tbody></table></div><aside class=\"note\"><strong>Kısaca</strong><p>Plağı her çıkardığınızda suyla durulayın, günde bir kez ayrı ve yumuşak bir fırçayla aşındırıcı olmayan bir temizleyiciyle fırçalayın. Sıcak su, diş macunu, çamaşır suyu ve alkollü gargara kullanmayın. Kuruduktan sonra havalandırmalı kutusunda saklayın.</p></aside>"
+   },
+   {
+    "id": "koku",
+    "h": "Plakta koku ve sararma neden olur?",
+    "html": "<p>Koku ve sararmanın en sık nedeni, plağın yüzeyinde biriken bakteri tabakası ve tükürükteki minerallerdir. Plak düzenli fırçalanmadığında bu tabaka kalınlaşır; zamanla beyaz, tebeşir gibi birikintiler oluşabilir. Çay, kahve ve renkli içecekler plak takılıyken içildiğinde plak da renk alır.</p><ul>\n<li>Şeffaf plak takılıyken yalnızca su için; diğer içecekler için plağı çıkarın.</li>\n<li>Plağı takmadan önce dişlerinizi fırçalayın.</li>\n<li>Beyaz birikintiler için plaklara uygun temizleme tabletleri işe yarar; birikinti inatçıysa hekiminize danışın.</li>\n<li>Koku temizliğe rağmen geçmiyorsa ağızdaki bir kaynağı da kontrol ettirin. Bkz. <a class=\"text-link\" href=\"/blog/agiz-kokusu-nedenleri-ve-tedavisi/\">ağız kokusu</a>.</li>\n</ul>"
+   },
+   {
+    "id": "plak-turu",
+    "h": "Plak türüne göre küçük farklar",
+    "html": "<ul>\n<li><strong>Şeffaf plak (ortodontik tedavi):</strong> Günde 20–22 saat takıldığı için temizliğe en çok özen gerektiren plaktır. Yemekten sonra dişler fırçalanmadan takılmamalıdır. Bkz. <a class=\"text-link\" href=\"/blog/seffaf-plak-mi-tel-mi/\">şeffaf plak mı, tel mi</a>.</li>\n<li><strong>Pekiştirme plağı (retainer):</strong> Tedavi sonrası dişlerin yerinde kalmasını sağlar; kırılır ya da bollaşırsa beklemeden hekiminize haber verin. Bkz. <a class=\"text-link\" href=\"/blog/ortodonti-sonrasi-pekistirme/\">pekiştirme plağı ne kadar süre takılır</a>.</li>\n<li><strong>Gece plağı:</strong> Diş sıkma ve gıcırdatma için kullanılır; sabah çıkarınca temizleyip kurumaya bırakın. Bkz. <a class=\"text-link\" href=\"/blog/dis-sikma-gece-plagi/\">diş sıkma ve gece plağı</a>.</li>\n<li><strong>Spor ağız koruyucusu:</strong> Her kullanımdan sonra durulanıp kurutulmalıdır. Bkz. <a class=\"text-link\" href=\"/blog/beylikduzu-sporcu-agiz-koruyucu/\">spor yapanlar için ağız koruyucu</a>.</li>\n</ul>"
+   },
+   {
+    "id": "degisim",
+    "h": "Plak ne zaman yenilenmeli?",
+    "html": "<p>Şeffaf plaklar tedavi planına göre belirli aralıklarla zaten değiştirilir. Gece plağı ve pekiştirme plağı ise doğru bakımla uzun süre kullanılabilir; ancak çatlak, delinme, belirgin aşınma ya da oturmama fark ederseniz kontrol randevusunda değerlendirilmesi gerekir. Takarken zorlanıyor ya da plak eskisi kadar sıkı oturmuyorsa dişlerde hareket olmuş olabilir.</p>"
+   },
+   {
+    "id": "seyahat",
+    "h": "Yolculukta ve dışarıda",
+    "html": "<p>Plağı çıkardığınızda mutlaka kutusuna koyun; restoranda peçeteye sarılan plakların kaybolması çok sık yaşanır. Fırçalama imkânı yoksa plağı ve ağzınızı suyla çalkalayın, ilk fırsatta normal temizliği yapın.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde plak kontrolü",
+    "html": "<p>Dent32'de gece plağınızı ya da pekiştirme plağınızı kontrol randevularınızda inceliyor, oturmasını ve aşınmasını değerlendiriyoruz. Gece plağının kimlere gerektiğini <a class=\"text-link\" href=\"/blog/beylikduzu-dis-sikma-cene-eklemi/\">Beylikdüzü'nde diş sıkma ve gece plağı</a> yazımızda anlattık.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Gece plağı diş macunuyla temizlenir mi?",
+    "a": "Önerilmez. Diş macunundaki aşındırıcılar plağın yüzeyini çizer ve matlaştırır; çizikler de bakteri birikimini kolaylaştırır. Kokusuz sıvı sabun ya da plaklara uygun bir temizleyici kullanın."
+   },
+   {
+    "q": "Şeffaf plak sıcak suyla yıkanır mı?",
+    "a": "Hayır. Sıcak ya da kaynar su plağın şeklini bozabilir. Soğuk ya da ılık su kullanın."
+   },
+   {
+    "q": "Plaktaki beyaz lekeler nasıl çıkar?",
+    "a": "Bunlar genellikle tükürükteki minerallerden oluşan birikintilerdir. Düzenli fırçalama ve plaklara uygun temizleme tabletleri işe yarar; inatçıysa hekiminize danışın."
+   },
+   {
+    "q": "Şeffaf plak takılıyken su dışında bir şey içilir mi?",
+    "a": "Şeffaf plak takılıyken yalnızca su içilmelidir. Diğer içecekler plağı lekeleyebilir ve şekerli içecekler plak içinde dişlerle uzun süre temas ederek çürük riskini artırır."
+   },
+   {
+    "q": "Plak kokuyorsa ne yapmalıyım?",
+    "a": "Plağı daha düzenli fırçalayın, takmadan önce dişlerinizi fırçalayın ve haftada birkaç kez temizleme tableti kullanın. Koku geçmiyorsa ağızdaki olası bir kaynak için kontrol olun."
+   }
+  ]
+ },
+ {
+  "key": "minegucu",
+  "date": "2026-11-13",
+  "cat": "Rehber",
+  "cover": "blog-mine-guc",
+  "slug": "dis-minesi-guclendirilir-mi",
+  "title": "Diş minesi güçlendirilir mi? Mine kendini yeniler mi, florür ve macunların etkisi",
+  "desc": "Diş minesi kendini yeniler mi, aşınan mine geri gelir mi? Mineyi güçlendirmenin yolları: florürlü macun, flor uygulaması, beslenme, tükürük ve mine kaybında yapılabilecek tedaviler.",
+  "lead": "Diş minesi canlı hücre içermediği için kırılan ya da aşınan mine kendiliğinden yeniden oluşmaz. Ancak minenin yüzeyi her gün mineral kaybeder ve yeniden kazanır; bu dengeyi florür, tükürük ve doğru beslenme lehine çevirmek mümkündür. Başlangıç aşamasındaki, beyaz tebeşir lekesi gibi görünen mineral kayıpları bu sayede durdurulabilir ve hatta sertleşebilir. Kaybedilmiş mine ise ancak dolgu, bonding ya da kaplama gibi tedavilerle yerine konabilir.",
+  "sections": [
+   {
+    "id": "denge",
+    "h": "Mine her gün kaybeder ve kazanır",
+    "html": "<p>Şekerli ya da asitli bir şey yediğimizde ağızdaki asit mineden kalsiyum ve fosfat çözer (demineralizasyon). Tükürük birkaç dakika ile bir saat içinde asidi nötrleştirir ve bu mineralleri mineye geri kazandırır (remineralizasyon). Florür bu geri kazanımı hızlandırır ve oluşan yüzeyi asitlere karşı daha dayanıklı hale getirir.</p><p>Asit atakları çok sık olduğunda ya da tükürük azaldığında denge kayıp tarafına döner: önce beyaz lekeler, sonra çürük ya da aşınma başlar. Bu süreci <a class=\"text-link\" href=\"/blog/dis-curugu-belirtileri-ve-evreleri/\">diş çürüğü nasıl anlaşılır</a> ve <a class=\"text-link\" href=\"/blog/dis-erozyonu-mine-asinmasi/\">diş erozyonu</a> yazılarında anlattık.</p>"
+   },
+   {
+    "id": "tablo",
+    "h": "Mineyi güçlendirmek için neler işe yarar?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Yöntem</th><th scope=\"col\">Ne yapar?</th><th scope=\"col\">Not</th></tr></thead><tbody><tr><td>Florürlü diş macunu</td><td>Mineral geri kazanımını destekler, mineyi dirençli kılar</td><td>Yetişkinde 1450 ppm; fırçaladıktan sonra tükürün, çalkalamayın</td></tr><tr><td>Klinikte flor vernik</td><td>Yüksek yoğunlukta florürü yüzeye bırakır</td><td>Çürük riski yüksek çocuk ve yetişkinlerde</td></tr><tr><td>Hekimin önerdiği yüksek florürlü macun</td><td>Riskli dişlerde ek koruma</td><td>Reçeteyle, hekim önerisiyle</td></tr><tr><td>Kalsiyum-fosfat ya da hidroksiapatit içeren macunlar</td><td>Ek mineral desteği</td><td>Florürün yerine değil, yanında; kanıtlar gelişiyor</td></tr><tr><td>Şekersiz sakız (yemekten sonra)</td><td>Tükürüğü artırır</td><td>Yaklaşık 20 dakika</td></tr><tr><td>Asit ve şeker sıklığını azaltmak</td><td>Mineral kaybını azaltır</td><td>Miktardan çok sıklık önemlidir</td></tr></tbody></table></div><aside class=\"note\"><strong>Kısaca</strong><p>Kaybedilen mine geri gelmez, ama mine yüzeyi her gün mineral kaybedip yeniden kazanır. Florürlü macun, yeterli tükürük ve asitli-şekerli atıştırmaları azaltmak bu dengeyi korur ve başlangıç lekelerini durdurabilir. Kırık ya da aşınmış mine dolgu, bonding veya kaplamayla tamamlanır.</p></aside>"
+   },
+   {
+    "id": "aliskanlik",
+    "h": "Günlük alışkanlıklarla mineyi korumak",
+    "html": "<ul>\n<li>Günde iki kez florürlü macunla fırçalayın; yatmadan önceki fırçalama en önemlisidir.</li>\n<li>Fırçaladıktan sonra macunu tükürün, ağzınızı bol suyla çalkalamayın; florür yüzeyde kalsın.</li>\n<li>Asitli içecekleri (kola, meyve suyu, enerji içeceği) öğünlerle birlikte ve kısa sürede için; gün boyu yudumlamayın.</li>\n<li>Asitli bir şeyden sonra fırçalamak için yarım saat kadar bekleyin.</li>\n<li>Yumuşak fırça kullanın ve bastırmadan fırçalayın. Bkz. <a class=\"text-link\" href=\"/blog/dogru-dis-fircalama/\">doğru diş fırçalama</a>.</li>\n<li>Gün içinde su için; ağız kuruluğu varsa nedenini araştırın. Bkz. <a class=\"text-link\" href=\"/blog/agiz-kurulugu-nedenleri/\">ağız kuruluğu</a>.</li>\n</ul>"
+   },
+   {
+    "id": "lekeler",
+    "h": "Beyaz lekeler geri döner mi?",
+    "html": "<p>Dişin yüzeyinde, özellikle diş eti kenarına yakın görülen mat, tebeşir gibi beyaz lekeler çoğu zaman başlangıç aşamasındaki mineral kaybıdır. Bu aşamada florür ve iyi bir bakımla süreç durdurulabilir; leke sertleşir ve ilerlemez, bazen daha az belirgin hale gelir. Doğuştan ya da florozise bağlı beyaz lekeler ise farklı bir durumdur. Ayrımı <a class=\"text-link\" href=\"/blog/beylikduzu-dislerde-beyaz-leke/\">dişlerde beyaz lekeler</a> yazısında anlattık. Diş teli sonrası görülen lekeler için de aynı yaklaşım geçerlidir.</p>"
+   },
+   {
+    "id": "cocuk",
+    "h": "Çocuklarda mineyi korumak",
+    "html": "<p>Çocuklarda süt ve yeni çıkmış kalıcı dişlerin minesi daha kolay mineral kaybeder. Yaşa uygun miktarda florürlü macun, klinikte flor uygulaması ve azı dişlerinin çukurlarına fissür örtücü uygulanması etkili koruma sağlar. Bkz. <a class=\"text-link\" href=\"/blog/cocuklarda-flor-ve-fissur-ortucu/\">çocuklarda flor ve fissür örtücü</a>. Florürün güvenliği hakkındaki soruları <a class=\"text-link\" href=\"/blog/florur-zararli-mi-florursuz-dis-macunu/\">florür zararlı mı</a> yazısında yanıtladık.</p>"
+   },
+   {
+    "id": "kayip",
+    "h": "Mine kaybedildiyse ne yapılır?",
+    "html": "<p>Çürük, kırık ya da belirgin aşınma nedeniyle kaybedilmiş mine kendiliğinden geri gelmez. Kayıp küçükse dişe yapıştırılan bonding ya da dolgu ile tamamlanır; daha büyük kayıplarda lamine ya da kaplama düşünülebilir. Hassasiyet varsa hassasiyet giderici macunlar ve klinik uygulamalar rahatlatır. Bkz. <a class=\"text-link\" href=\"/blog/bonding-nedir/\">bonding nedir</a> ve <a class=\"text-link\" href=\"/blog/dis-hassasiyeti/\">diş hassasiyeti</a>.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde çürük riski değerlendirmesi",
+    "html": "<p>Dent32'de kontrol muayenesinde başlangıç lekelerini ve aşınma bulgularını kaydediyor, çürük riskinize göre flor uygulaması ve evde kullanabileceğiniz ürünler konusunda bilgi veriyoruz.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş minesi kendini yeniler mi?",
+    "a": "Mine canlı hücre içermediği için kırılan ya da aşınan kısım yeniden oluşmaz. Ancak yüzey her gün mineral kaybedip yeniden kazanır; florür bu kazanımı destekler."
+   },
+   {
+    "q": "Aşınan diş minesi geri gelir mi?",
+    "a": "Hayır. Aşınmanın ilerlemesi durdurulabilir; kaybedilen kısım gerekirse bonding, dolgu ya da kaplamayla tamamlanır."
+   },
+   {
+    "q": "Mineyi güçlendiren diş macunu var mı?",
+    "a": "Florürlü macunlar mineyi asitlere karşı daha dirençli kılar. Kalsiyum-fosfat ya da hidroksiapatit içeren macunlar ek destek olarak kullanılabilir; florürün yerine geçmez."
+   },
+   {
+    "q": "Dişteki beyaz lekeler geçer mi?",
+    "a": "Başlangıç aşamasındaki mineral kaybına bağlı lekeler florür ve iyi bakımla durdurulabilir ve sertleşebilir. Doğuştan ya da florozise bağlı lekeler için farklı tedaviler gerekir."
+   },
+   {
+    "q": "Asitli içecekten sonra hemen fırçalamak zararlı mı?",
+    "a": "Asitten hemen sonra mine geçici olarak yumuşaktır; fırçalamak için yarım saat kadar beklemek ve bu sürede suyla çalkalamak daha iyidir."
+   }
+  ]
+ },
+ {
+  "key": "fircadegisim",
+  "date": "2026-11-13",
+  "cat": "Rehber",
+  "cover": "blog-firca-degisim",
+  "slug": "dis-fircasi-ne-zaman-degistirilmeli",
+  "title": "Diş fırçası ne zaman değiştirilmeli? Hastalıktan sonra, saklama ve elektrikli fırça başlığı",
+  "desc": "Diş fırçası kaç ayda bir değiştirilir, elektrikli fırça başlığı ne zaman yenilenir? Fırçanın eskidiğini gösteren işaretler, hastalıktan sonra değiştirmek, doğru saklama ve dezenfekte etmek.",
+  "lead": "Diş fırçasını yaklaşık 3–4 ayda bir, kılları daha önce açılır ya da yatarsa daha erken değiştirmek önerilir. Elektrikli fırça başlıkları için de süre benzerdir. Yıpranmış kıllar dişin yüzeyine ve diş eti kenarına iyi oturmadığı için plağı daha az etkili temizler. Fırçanın ömrü yalnızca takvime değil, nasıl fırçaladığınıza ve fırçayı nasıl sakladığınıza da bağlıdır. Bu yazıda değişim zamanını gösteren işaretleri ve fırçayı temiz tutmanın pratik yollarını anlatıyoruz.",
+  "sections": [
+   {
+    "id": "ne-zaman",
+    "h": "Diş fırçası ne sıklıkla değiştirilir?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Fırça</th><th scope=\"col\">Ne zaman değiştirilir?</th><th scope=\"col\">Not</th></tr></thead><tbody><tr><td>Manuel fırça (yetişkin)</td><td>Yaklaşık 3–4 ayda bir</td><td>Kıllar daha önce açılırsa daha erken</td></tr><tr><td>Elektrikli fırça başlığı</td><td>Yaklaşık 3 ayda bir</td><td>Renkli gösterge kıllar solduğunda</td></tr><tr><td>Çocuk fırçası</td><td>Daha sık kontrol edin</td><td>Çiğneme nedeniyle daha çabuk yıpranır</td></tr><tr><td>Diş teli kullananlar</td><td>Daha sık kontrol edin</td><td>Teller ve braketler kılları hızlı aşındırır</td></tr><tr><td>Ara yüz fırçası</td><td>Tel ucu eğildiğinde ya da kıllar yattığında</td><td>Kısa ömürlüdür; birkaç yedek bulundurun</td></tr></tbody></table></div><aside class=\"note\"><strong>Kısaca</strong><p>Diş fırçasını yaklaşık 3–4 ayda bir değiştirin; kıllar daha önce açılmışsa beklemeyin. Kullandıktan sonra akan suyla durulayın, dik ve açıkta kurumaya bırakın, başkasıyla paylaşmayın. Fırça bir iki ayda açılıyorsa büyük olasılıkla fazla bastırarak fırçalıyorsunuz.</p></aside>"
+   },
+   {
+    "id": "isaretler",
+    "h": "Fırçanın değişme zamanı geldiğini gösteren işaretler",
+    "html": "<ul>\n<li>Kıllar dışa doğru açılmış, yatmış ya da kıvrılmış.</li>\n<li>Elektrikli fırça başlığındaki renkli gösterge kıllar yarıya kadar solmuş.</li>\n<li>Kılların arasında ya da dibinde temizlenmeyen birikinti, renk değişimi var.</li>\n<li>Fırça durulandıktan sonra bile kötü kokuyor.</li>\n<li>Fırça yere ya da lavaboya düştü veya yanlışlıkla başkası kullandı.</li>\n</ul><p>Takvim yerine bu işaretlere bakmak daha güvenilirdir. Hatırlamak kolay olsun diye fırçayı mevsim değişimlerinde yenilemek pratik bir yöntemdir.</p>"
+   },
+   {
+    "id": "erken",
+    "h": "Fırça bir iki ayda açılıyorsa",
+    "html": "<p>Kılları birkaç hafta içinde açılan bir fırça, genellikle fazla bastırarak fırçalandığını gösterir. Sert fırçalama plağı daha iyi temizlemez; aksine diş eti kenarını tahriş eder, zamanla diş eti çekilmesine ve diş boynunda aşınmaya yol açabilir. Fırçayı kalem tutar gibi hafifçe tutmak, küçük dairesel hareketlerle ve bastırmadan fırçalamak yeterlidir. Basınç sensörlü elektrikli fırçalar fazla bastırdığınızda uyarır. Ayrıntılar için <a class=\"text-link\" href=\"/blog/dogru-dis-fircalama/\">doğru diş fırçalama</a> ve <a class=\"text-link\" href=\"/blog/dis-eti-kanamasi-ve-cekilmesi/\">diş eti kanaması ve çekilmesi</a> yazılarına bakabilirsiniz.</p>"
+   },
+   {
+    "id": "hastalik",
+    "h": "Grip ya da boğaz enfeksiyonundan sonra fırça değiştirilmeli mi?",
+    "html": "<p>Hastalıktan sonra fırçayı değiştirmenin yeniden hastalanmayı önlediğini gösteren güçlü bir kanıt yoktur; sağlıklı bir bağışıklık sistemi, fırçada kalabilecek az sayıdaki mikroorganizmayla genellikle başa çıkar. Yine de fırça zaten eskiyse ya da evde bağışıklığı zayıf biri varsa fırçayı yenilemek makul ve ucuz bir önlemdir. Hastalık sürecinde hasta kişinin fırçasını diğer fırçalardan ayrı tutmak da iyi bir alışkanlıktır.</p><p>Hastayken diş randevusuna gidip gitmemek konusunu <a class=\"text-link\" href=\"/blog/hastayken-dis-tedavisi-yapilir-mi/\">hastayken diş tedavisi yapılır mı</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "saklama",
+    "h": "Diş fırçası nasıl saklanır?",
+    "html": "<ul>\n<li>Fırçaladıktan sonra fırçayı akan su altında iyice durulayın ve suyunu silkeleyin.</li>\n<li>Dik olarak, açıkta ve kendi kendine kuruyabileceği bir yerde saklayın.</li>\n<li>Fırça ıslakken kapalı kap ya da kapak takmayın; nemli ortam mikroorganizmaların çoğalmasını kolaylaştırır. Seyahatte delikli, havalandırmalı kapak kullanın.</li>\n<li>Aile bireylerinin fırça başlarının birbirine değmemesine dikkat edin.</li>\n<li>Diş fırçası kişiseldir; aile içinde bile paylaşmayın.</li>\n<li>Sifonu çekerken klozet kapağını kapatmak ve fırçayı klozetten olabildiğince uzak tutmak basit bir önlemdir.</li>\n</ul>"
+   },
+   {
+    "id": "dezenfekte",
+    "h": "Fırçayı dezenfekte etmek gerekir mi?",
+    "html": "<p>Sağlıklı kişilerde fırçayı düzenli olarak dezenfekte etmek gerekmez; akan suyla durulamak ve kurumaya bırakmak yeterlidir. Kaynar su, mikrodalga ve bulaşık makinesi kılları ve sapı bozabilir. Fırçayı gargaraya batırmak isterseniz her seferinde temiz bir bardak ve taze sıvı kullanın; aynı bardağı birkaç fırçanın paylaşması mikroorganizmaları taşıyabilir. Bağışıklığınızı etkileyen bir tedavi görüyorsanız fırça bakımını hekiminizle konuşun. Gargaraların günlük kullanımı hakkında <a class=\"text-link\" href=\"/blog/agiz-gargarasi-her-gun-kullanilir-mi/\">ağız gargarası her gün kullanılır mı</a> yazısına bakabilirsiniz.</p>"
+   },
+   {
+    "id": "secim",
+    "h": "Yeni fırça seçerken nelere dikkat etmeli?",
+    "html": "<p>Çoğu kişi için yumuşak kıllı, arka dişlere rahatça ulaşabilen küçük başlıklı bir fırça uygundur. Sert kıllar daha iyi temizlemez, diş etini ve mineyi yıpratabilir. Manuel ve elektrikli fırçanın ikisi de doğru kullanıldığında etkilidir; elektrikli fırça özellikle el becerisi kısıtlı olanlarda ve diş teli kullananlarda kolaylık sağlar. Karşılaştırmayı <a class=\"text-link\" href=\"/blog/elektrikli-dis-fircasi-agiz-dusu/\">elektrikli diş fırçası ve ağız duşu</a> yazısında yaptık. Fırçanın ulaşamadığı diş aralarını <a class=\"text-link\" href=\"/blog/dis-ipi-nasil-kullanilir/\">diş ipi</a> ya da ara yüz fırçasıyla temizlemeyi unutmayın.</p>"
+   },
+   {
+    "id": "dent32",
+    "h": "Beylikdüzü'nde fırçalama kontrolü",
+    "html": "<p>Dent32'de kontrol muayenesinde plağın kaldığı bölgeleri ve diş eti durumunu birlikte değerlendiriyor, fırçalama tekniğinizi ve kullandığınız fırçanın size uygun olup olmadığını konuşuyoruz.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş fırçası kaç ayda bir değiştirilmeli?",
+    "a": "Yaklaşık 3–4 ayda bir. Kılları daha önce açılmış ya da yatmışsa beklemeden değiştirin."
+   },
+   {
+    "q": "Elektrikli diş fırçası başlığı ne zaman değişir?",
+    "a": "Yaklaşık 3 ayda bir ya da renkli gösterge kıllar solduğunda. Kılları açılan başlık daha erken değiştirilmelidir."
+   },
+   {
+    "q": "Hastalıktan sonra diş fırçası değiştirilmeli mi?",
+    "a": "Bunun yeniden hastalanmayı önlediğine dair güçlü bir kanıt yoktur. Fırça zaten eskiyse ya da evde bağışıklığı zayıf biri varsa değiştirmek makul bir önlemdir."
+   },
+   {
+    "q": "Diş fırçasının kapağı kapalı mı saklanmalı?",
+    "a": "Islakken kapalı saklanmamalıdır. Fırçayı dik ve açıkta kurumaya bırakın; seyahatte havalandırmalı kapak kullanın."
+   },
+   {
+    "q": "Diş fırçası kaynar suyla dezenfekte edilir mi?",
+    "a": "Önerilmez; kaynar su kılları bozar. Kullandıktan sonra akan suyla durulayıp kurumaya bırakmak yeterlidir."
+   }
+  ]
+ },
+ {
+  "key": "hastadisci",
+  "date": "2026-11-13",
+  "cat": "Rehber",
+  "cover": "blog-hasta-randevu",
+  "slug": "hastayken-dis-tedavisi-yapilir-mi",
+  "title": "Hastayken diş tedavisi yapılır mı? Grip, soğuk algınlığı ve uçukta randevuyu ertelemek",
+  "desc": "Soğuk algınlığı, grip, ateş ya da uçuk varken dişçiye gidilir mi? Hangi durumda randevu ertelenir, hangisinde beklenmez; kullandığınız ilaçlar, uçuk ve iyileştikten sonra dikkat edilecekler.",
+  "lead": "Ateşiniz yoksa ve kendinizi iyi hissediyorsanız, hafif bir soğuk algınlığı çoğu zaman kontrol muayenesine ya da kısa bir işleme engel değildir. Ateşli grip ve benzeri bulaşıcı enfeksiyonlarda, mide-bağırsak enfeksiyonlarında ve dudakta su toplamış bir uçuk varken planlı diş tedavisini birkaç gün ertelemek hem sizin rahatınız hem de klinikteki diğer kişiler için daha doğrudur. Diş ağrısı ya da şişlik varsa ise hasta olsanız bile beklemeden kliniği arayın. Kararsız kaldığınızda randevudan önce kliniğe haber vermeniz yeterlidir.",
+  "sections": [
+   {
+    "id": "tablo",
+    "h": "Hangi durumda gidilir, hangisinde ertelenir?",
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">Randevu</th><th scope=\"col\">Not</th></tr></thead><tbody><tr><td>Hafif soğuk algınlığı, ateş yok</td><td>Kontrol ve kısa işlemler çoğunlukla yapılabilir</td><td>Burun tıkalıysa uzun işlemler zorlaşabilir; önceden haber verin</td></tr><tr><td>Mevsimsel alerji (saman nezlesi)</td><td>Gidilebilir</td><td>Bulaşıcı değildir; burun tıkanıklığı için önlem alın</td></tr><tr><td>Ateşli grip ya da benzeri bulaşıcı enfeksiyon</td><td>Planlı tedaviyi erteleyin</td><td>Ateş ilaçsız en az 24 saat düştükten ve kendinizi iyi hissettikten sonra</td></tr><tr><td>Dudakta aktif uçuk</td><td>Planlı tedaviyi erteleyin</td><td>Kabuklanıp iyileşince; genellikle 1–2 hafta</td></tr><tr><td>Mide-bağırsak enfeksiyonu, kusma</td><td>Erteleyin</td><td>Tamamen iyileşince</td></tr><tr><td>Diş ağrısı ya da şişlikle birlikte ateş</td><td>Beklemeyin, kliniği arayın</td><td>Ateşin kaynağı diş olabilir</td></tr></tbody></table></div><aside class=\"note\"><strong>Kısaca</strong><p>Ateş yoksa hafif bir soğuk algınlığıyla kontrol ve kısa işlemler çoğu zaman yapılabilir. Ateşli grip, mide-bağırsak enfeksiyonu ya da aktif uçukta planlı tedaviyi iyileşene kadar erteleyin. Diş ağrısı ya da şişlik varsa hasta olsanız bile beklemeden kliniği arayın.</p></aside>"
+   },
+   {
+    "id": "soguk",
+    "h": "Hafif soğuk algınlığında randevuya gitmek",
+    "html": "<p>Diş tedavisi sırasında ağız uzun süre açık kalır ve nefesi büyük ölçüde burundan almak gerekir. Burnunuz tamamen tıkalıysa bu rahatsız edici olabilir; sık öksürük ve hapşırık da işleme ara vermeyi gerektirir. Bu yüzden kontrol, diş taşı temizliği ya da küçük bir dolgu genellikle sorun olmazken kanal tedavisi gibi uzun işlemleri birkaç gün ertelemek daha rahat olabilir.</p><ul>\n<li>Randevudan önce kliniği arayıp durumunuzu söyleyin; birlikte karar verin.</li>\n<li>Bekleme alanında maske takmak diğer hastaları korur.</li>\n<li>Yanınızda mendil bulundurun ve gerektiğinde ara vermek istediğinizi işaretle belirtin.</li>\n<li>Eczacınıza danışarak burun açıcı bir sprey kullanacaksanız bunu da hekiminize söyleyin.</li>\n</ul>"
+   },
+   {
+    "id": "ates",
+    "h": "Ateş ve grip varken neden ertelemek gerekir?",
+    "html": "<p>Ateşli bir hastalık sırasında vücut yorgundur; uzun süre koltukta oturmak, ağzı açık tutmak ve işlem sonrası iyileşme daha zor olabilir. Ayrıca diş tedavisinde kullanılan aletler su ve hava spreyi oluşturduğu için solunum yolu enfeksiyonları klinikteki diğer hastalara ve ekibe daha kolay geçebilir. Bu nedenle planlı tedavi, ateşiniz ateş düşürücü kullanmadan en az 24 saat normal kaldıktan ve kendinizi genel olarak iyi hissettikten sonra yapılır. Randevunuzu ertelemek için kliniğe haber vermeniz yeterlidir.</p>"
+   },
+   {
+    "id": "ucuk",
+    "h": "Uçuk varken diş tedavisi yapılır mı?",
+    "html": "<p>Dudakta su toplamış ya da açık bir uçuk varken planlı diş tedavisinin ertelenmesi önerilir. Tedavi sırasında dudakların gerilmesi yarayı tahriş edebilir, iyileşmeyi geciktirebilir ve virüsün başka bölgelere taşınmasını kolaylaştırabilir. Uçuk kabuklanıp iyileştikten sonra, genellikle 1–2 hafta içinde, tedaviye güvenle devam edilir. Ağrı gibi beklemeyen bir durum varsa hekim gerekli önlemleri alarak müdahale eder.</p><p>Uçuk dudağın dış kenarında çıkar ve bulaşıcıdır. Ağzın içinde, yanak ya da dudak iç yüzünde çıkan aft ise bulaşıcı değildir ve tedaviye genellikle engel olmaz. Farkı <a class=\"text-link\" href=\"/blog/aft-agiz-yarasi-nasil-gecer/\">ağızda aft ve yara</a> yazısında anlattık.</p>"
+   },
+   {
+    "id": "ilac",
+    "h": "Kullandığınız ilaçları söyleyin",
+    "html": "<p>Hastalık için aldığınız ağrı kesici, ateş düşürücü, burun açıcı ve antibiyotikleri hekiminize söyleyin. Burun açıcı bazı soğuk algınlığı ilaçları nabzı ve tansiyonu artırabilir; uyuşturma planında bunu bilmek önemlidir. Zaten antibiyotik kullanıyorsanız diş için ayrıca bir ilaç gerekip gerekmediği de buna göre değerlendirilir. Ayrıntılar için <a class=\"text-link\" href=\"/blog/antibiyotik-dis-agrisi/\">diş ağrısında antibiyotik</a> ve <a class=\"text-link\" href=\"/blog/dis-agrisina-hangi-agri-kesici-iyi-gelir/\">diş ağrısına hangi ağrı kesici iyi gelir</a> yazılarına bakabilirsiniz.</p>"
+   },
+   {
+    "id": "agri",
+    "h": "Hastayken diş ağrınız varsa",
+    "html": "<p>Diş ağrısı ya da diş etinde, yanakta şişlik varsa hasta olmanız tedaviyi bekletmek için bir neden değildir; kliniği arayıp durumunuzu anlatın. Bazen ateşin kaynağı dişin kendisi olabilir; bunu <a class=\"text-link\" href=\"/blog/dis-agrisi-ates-yapar-mi/\">diş ağrısı ateş yapar mı</a> yazısında anlattık. Soğuk algınlığı ya da sinüzit sırasında üst arka dişlerde hissedilen sızı ise çoğu zaman sinüsten kaynaklanır ve hastalık geçince azalır; bkz. <a class=\"text-link\" href=\"/blog/sinuzit-dis-agrisi/\">sinüzit diş ağrısı yapar mı</a>.</p>"
+   },
+   {
+    "id": "sonra",
+    "h": "Hastalık sırasında ve sonrasında dişleriniz",
+    "html": "<ul>\n<li>Hasta olduğunuzda da günde iki kez fırçalamayı sürdürün.</li>\n<li>Boğaz pastili ve şurupların çoğu şeker içerir; mümkünse şekersizini tercih edin ve sonrasında ağzınızı suyla çalkalayın.</li>\n<li>Kustuktan sonra hemen fırçalamayın; mide asidi mineyi geçici olarak yumuşatır. Önce suyla çalkalayın, fırçalamak için yarım saat kadar bekleyin. Bkz. <a class=\"text-link\" href=\"/blog/dis-erozyonu-mine-asinmasi/\">diş erozyonu</a>.</li>\n<li>Ağızdan nefes almak ağzı kurutur; sık sık su için. Bkz. <a class=\"text-link\" href=\"/blog/agiz-kurulugu-nedenleri/\">ağız kuruluğu</a>.</li>\n<li>Fırçanız eskiyse iyileştikten sonra yenileyin. Bkz. <a class=\"text-link\" href=\"/blog/dis-fircasi-ne-zaman-degistirilmeli/\">diş fırçası ne zaman değiştirilmeli</a>.</li>\n</ul>"
+   },
+   {
+    "id": "dent32",
+    "h": "Dent32'de randevu değişikliği",
+    "html": "<p>Hasta olduğunuz için randevunuzu ertelemeniz gerekirse Dent32'yi telefonla ya da WhatsApp'tan aramanız yeterlidir. Ağrı ya da şişlik varsa bunu belirtin; durumunuza göre en uygun zamanı birlikte planlayalım.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Soğuk algınlığıyla dişçiye gidilir mi?",
+    "a": "Ateşiniz yoksa ve kendinizi iyi hissediyorsanız kontrol ve kısa işlemler çoğunlukla yapılabilir. Burnunuz tıkalıysa uzun işlemleri ertelemek daha rahat olabilir; randevudan önce kliniğe haber verin."
+   },
+   {
+    "q": "Ateşim varken diş tedavisi olur mu?",
+    "a": "Planlı tedavi, ateşiniz ateş düşürücü kullanmadan en az 24 saat normal kalana kadar ertelenir. Ateşle birlikte diş ağrısı ya da şişlik varsa beklemeden kliniği arayın."
+   },
+   {
+    "q": "Uçuk varken dişçiye gidilir mi?",
+    "a": "Su toplamış ya da açık bir uçuk varken planlı tedavi ertelenir. Uçuk kabuklanıp iyileştikten sonra tedaviye devam edilir."
+   },
+   {
+    "q": "Grip ilacı kullanırken diş uyuşturması yapılır mı?",
+    "a": "Çoğu durumda evet. Kullandığınız ilaçları, özellikle burun açıcıları hekiminize söyleyin; uyuşturma planı buna göre yapılır."
+   },
+   {
+    "q": "Hastalıktan sonra diş fırçası değiştirilmeli mi?",
+    "a": "Yeniden hastalanmayı önlediğine dair güçlü bir kanıt yoktur; fırça eskiyse ya da evde bağışıklığı zayıf biri varsa değiştirmek makul bir önlemdir."
+   }
+  ]
+ },
+ {
   "key": "agrikesici",
   "date": "2026-11-11",
   "cat": "Rehber",
