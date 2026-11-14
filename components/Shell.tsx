@@ -39,7 +39,7 @@ function Header({ lang, pageKey }: { lang: Lang; pageKey: PageKey }) {
         <a href={route(pageKey, "en")} hrefLang="en" lang="en" aria-current={lang === "en" ? "true" : undefined}>EN</a>
       </div>
       <a className="wa-pill" href={WA} target="_blank" rel="noopener" aria-label={`${t("WhatsApp ile yazın", "Message us on WhatsApp")}: ${PHONE}`}>
-        <span className="wa-ico"><Image unoptimized src="/img/sosyal-whatsapp.png" width={26} height={26} alt="" /></span>
+        <span className="wa-ico"><Image unoptimized src="/img/sosyal-whatsapp.png" width={26} height={26} alt="WhatsApp" /></span>
         <span className="wa-num">{PHONE}</span>
       </a>
       <Link className="btn btn-primary btn-sm header-cta" href={route("contact", lang)}>{t("Randevu al", "Book now")}</Link>
@@ -72,7 +72,7 @@ function Footer({ lang }: { lang: Lang }) {
             {SOCIAL.map((s) => (
               <li key={s.key}>
                 <a href={s.url} target="_blank" rel="noopener" aria-label={`Dent32 ${s.name}`}>
-                  <Image unoptimized src={`/img/${s.icon}`} width={28} height={28} alt="" />
+                  <Image unoptimized src={`/img/${s.icon}`} width={28} height={28} alt={s.name} />
                 </a>
               </li>
             ))}
@@ -112,7 +112,7 @@ function Footer({ lang }: { lang: Lang }) {
           <p className="credit">
             <span>{t("Tasarım ve geliştirme", "Design & development")}</span>
             <a className="credit__link" href="https://www.instagram.com/lotscreativeworks/" target="_blank" rel="noopener" aria-label={t("Lots Creative Works Instagram hesabı", "Lots Creative Works on Instagram")}>
-              <Image unoptimized className="credit__logo" src="/img/lots-logo.png" width={48} height={24} alt="" />
+              <Image unoptimized className="credit__logo" src="/img/lots-logo.png" width={48} height={24} alt="Lots Creative Works" />
             </a>
             <span className="credit__tag">Digital marketing partner for clinics</span>
           </p>
