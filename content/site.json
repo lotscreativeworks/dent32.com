@@ -1179,6 +1179,10 @@
     "tr": "İmplant",
     "en": "Implants"
    },
+   "alt": {
+    "tr": "İmplant tedavisinin 3D çizimi: çene kemiğindeki implant ve üzerindeki kron",
+    "en": "3D illustration of a dental implant and its crown in the jawbone"
+   },
    "anchor": "implant"
   },
   {
@@ -1186,6 +1190,10 @@
    "title": {
     "tr": "Zirkonyum",
     "en": "Zirconia crowns"
+   },
+   "alt": {
+    "tr": "Zirkonyum kaplamanın 3D çizimi: dişin üzerine yerleştirilen kron",
+    "en": "3D illustration of a zirconia crown being placed on a tooth"
    },
    "anchor": "kaplama"
   },
@@ -1195,6 +1203,10 @@
     "tr": "Gülüş tasarımı",
     "en": "Smile design"
    },
+   "alt": {
+    "tr": "Gülüş tasarımının 3D çizimi: üst ve alt diş dizisi",
+    "en": "3D illustration of the upper and lower teeth for smile design"
+   },
    "anchor": "gulus"
   },
   {
@@ -1202,6 +1214,10 @@
    "title": {
     "tr": "Lamine veneer",
     "en": "Laminate veneers"
+   },
+   "alt": {
+    "tr": "Lamine veneerin 3D çizimi: ön dişin yüzeyine yerleştirilen ince kaplama",
+    "en": "3D illustration of a laminate veneer placed on a front tooth"
    },
    "anchor": "kaplama"
   },
@@ -1211,6 +1227,10 @@
     "tr": "Şeffaf plak",
     "en": "Clear aligners"
    },
+   "alt": {
+    "tr": "Şeffaf plağın 3D çizimi: dişlerin üzerine takılan şeffaf plaklar",
+    "en": "3D illustration of clear aligners fitted over the teeth"
+   },
    "anchor": "orto"
   },
   {
@@ -1219,6 +1239,10 @@
     "tr": "All-on-Four",
     "en": "All-on-Four"
    },
+   "alt": {
+    "tr": "All-on-Four tedavisinin 3D çizimi: implantlara sabitlenen tam çene protezi",
+    "en": "3D illustration of an All-on-Four full-arch bridge fixed on implants"
+   },
    "anchor": "implant"
   },
   {
@@ -1226,6 +1250,10 @@
    "title": {
     "tr": "Diş beyazlatma",
     "en": "Teeth whitening"
+   },
+   "alt": {
+    "tr": "Diş beyazlatmanın 3D çizimi: beyazlatılmış dişler",
+    "en": "3D illustration of whitened teeth"
    },
    "anchor": "beyaz"
   }
