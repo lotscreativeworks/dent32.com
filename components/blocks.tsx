@@ -41,7 +41,7 @@ export function BlogCard({ lang, post, d = 0, as: H = "h3" }: { lang: Lang; post
   return (
     <Link className="b-card lift rv" style={delay(d)} href={route(`post-${post.key}`, lang)}>
       <div className="b-card__media">
-        <div className="b-card__img zoom"><Img name={post.cover} w={900} h={675} alt="" sizes={SIZES_GRID3} /></div>
+        <div className="b-card__img zoom"><Img name={post.cover} w={900} h={675} alt={post.title} sizes={SIZES_GRID3} /></div>
         <time className="date-badge" dateTime={post.date}><b>{day}</b><small>{month}</small></time>
       </div>
       <p className="b-card__cat">{post.cat}</p>
