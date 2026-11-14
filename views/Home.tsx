@@ -63,7 +63,7 @@ export function Home({ lang }: { lang: Lang }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(faqLd)} />
 
       <section className="hero">
-        <HeroVideo />
+        <HeroVideo alt={t("Dent32'nin bulunduğu Ginza Lavinya binasının havadan görünümü", "Aerial view of the Ginza Lavinya building, home to Dent32")} />
         <div className="wrap hero__grid">
           <div>
             {/* Üst satır da başlığın parçası: arama motoru H1'i "Beylikdüzü diş kliniği" ile başlar, görünüm aynı kalır */}
@@ -124,7 +124,7 @@ export function Home({ lang }: { lang: Lang }) {
           <LangRail lang={lang} label={t("Tedaviler", "Treatments")} className="hx-rail--treat">
             {STRIP.map((s, i) => (
               <Link key={s.img} className="t-card lift rv" style={delay(i)} href={route(`treat-${s.anchor}`, lang)}>
-                <div className="zoom" style={{ height: "100%" }}><Img name={s.img} w={720} h={960} alt="" sizes={SIZES_RAIL} /></div>
+                <div className="zoom" style={{ height: "100%" }}><Img name={s.img} w={720} h={960} alt={s.alt[lang]} sizes={SIZES_RAIL} /></div>
                 <h3>{s.title[lang]}</h3>
               </Link>
             ))}
