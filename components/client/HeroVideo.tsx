@@ -10,7 +10,7 @@ import { useEffect, useRef, useState } from "react";
  * - Hareket azaltma tercihinde, veri tasarrufu modunda ya da yavaş bağlantıda (3G ve altı) video oynatılmaz, kapak görseli kalır.
  * - Telefonda video sayfa yüklendikten 2,5 sn sonra iner: ilk ekrandaki görseller ve betikler bant genişliğini paylaşmasın (LCP).
  */
-export function HeroVideo() {
+export function HeroVideo({ alt }: { alt: string }) {
   const ref = useRef<HTMLVideoElement>(null);
   const [playing, setPlaying] = useState(false);
 
@@ -65,7 +65,7 @@ export function HeroVideo() {
     <div className={`hero__video${playing ? " is-playing" : ""}`} aria-hidden="true">
       {/* eslint-disable-next-line @next/next/no-img-element -- kapak: srcset elle verildi, ilk boyamada gelmeli */}
       <img src="/video/hero-poster.webp" srcSet="/video/hero-poster-640.webp 640w, /video/hero-poster-960.webp 960w, /video/hero-poster.webp 1280w"
-        sizes="100vw" width={1280} height={720} alt="" fetchPriority="high" decoding="async" />
+        sizes="100vw" width={1280} height={720} alt={alt} fetchPriority="high" decoding="async" />
       <video ref={ref} muted loop playsInline preload="none" disablePictureInPicture />
     </div>
   );
