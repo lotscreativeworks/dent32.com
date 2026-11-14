@@ -13,7 +13,7 @@ export const generateStaticParams = () => POSTS.tr.map((p) => ({ slug: p.slug })
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = getPost("tr", (await params).slug);
   if (!post) return {};
-  return pageMetadata({ key: `post-${post.key}`, lang: "tr", title: `${post.title} | Dent32`, description: post.desc, image: post.cover, type: "article" });
+  return pageMetadata({ key: `post-${post.key}`, lang: "tr", title: post.seoTitle ?? `${post.title} | Dent32`, description: post.seoDesc ?? post.desc, image: post.cover, type: "article" });
 }
 
 export default async function Page({ params }: Props) {
