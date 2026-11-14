@@ -6,7 +6,7 @@ export const metadata: Metadata = pageMetadata({
   key: "home",
   lang: "tr",
   title: "Beylikdüzü Diş Kliniği ve Diş Polikliniği | Dent32 · 7 Gün Açık",
-  description: "Beylikdüzü diş kliniği Dent32 Ağız ve Diş Sağlığı Polikliniği: implant, zirkonyum, lamine, gülüş tasarımı, şeffaf plak, kanal ve çocuklarda diş tedavisi. E-5 yanyolu Ginza Lavinya, 7 gün açık.",
+  description: "Beylikdüzü diş kliniği Dent32 Ağız ve Diş Sağlığı Polikliniği: implant, zirkonyum, lamine, gülüş tasarımı ve şeffaf plak. Ginza Lavinya, 7 gün açık.",
   image: "hekim-huseyin-asci",
 });
 
