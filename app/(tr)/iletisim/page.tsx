@@ -6,7 +6,7 @@ export const metadata: Metadata = pageMetadata({
   key: "contact",
   lang: "tr",
   title: "İletişim, Adres ve Randevu | Dent32 Beylikdüzü",
-  description: "Dent32 iletişim: +90 555 011 33 68, info@dent32.com. Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul. WhatsApp'tan randevu alın.",
+  description: "Dent32 iletişim: +90 555 011 33 68, info@dent32.com. Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul. WhatsApp'tan yazın.",
   image: "klinik-01-bina",
 });
 
