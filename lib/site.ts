@@ -59,6 +59,8 @@ export const CLINIC_HOURS: [string, string] | null = null;
 export type Post = {
   key: string; date: string; cat: string; cover: string; slug: string;
   title: string; desc: string; lead: string;
+  /** Arama sonucu başlığı/açıklaması (title ≤70, description ≤160 karakter). Yoksa title/desc kullanılır. */
+  seoTitle?: string; seoDesc?: string;
   /** İçerik sonradan düzeltildiyse son güncelleme tarihi (yazıda ve JSON-LD dateModified'da gösterilir) */
   updated?: string;
   sections: { id: string; h: string; html: string }[];
