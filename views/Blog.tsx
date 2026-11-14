@@ -21,8 +21,8 @@ export function blogListMetadata(lang: Lang, cat: BlogCat | null, page: number):
   const key = blogListKey(cat?.id ?? null, page);
   const image = cat ? postsInCat(lang, cat)[0].cover : "blog-gulus-tasarimi";
   const desc = cat ? cat.desc[lang] : t(
-    "İmplant, diş kaplama, kanal tedavisi, diş eti, çocuklarda diş sağlığı ve estetik diş hekimliği hakkında Beylikdüzü'ndeki Dent32 hekimlerinden kısa ve net rehberler.",
-    "Short, clear guides on dental implants, crowns, root canal treatment, gum health, children's teeth and cosmetic dentistry from the Dent32 team in Beylikdüzü, Istanbul.");
+    "İmplant, kaplama, kanal tedavisi, diş eti, çocuk diş sağlığı ve estetik diş hekimliği üzerine Beylikdüzü'ndeki Dent32 hekimlerinden kısa rehberler.",
+    "Short guides on implants, crowns, root canals, gum health, children's teeth and cosmetic dentistry from the Dent32 team in Beylikdüzü, Istanbul.");
   if (page === 1) {
     const title = cat ? `${cat.title[lang]} | Dent32 Blog`
       : t("Beylikdüzü Diş Sağlığı Blogu: Tedavi Rehberleri | Dent32", "Dental Health Blog: Implant, Crown and Treatment Guides | Dent32");
