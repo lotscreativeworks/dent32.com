@@ -25,6 +25,8 @@ export const SOCIAL = [
   { key: "whatsapp", name: "WhatsApp", url: WA, icon: "sosyal-whatsapp.png" },
   { key: "youtube", name: "YouTube", url: "https://www.youtube.com/channel/UCFzDdXSD2lG0HSAKhkEds5Q", icon: "sosyal-youtube.png" },
   { key: "tiktok", name: "TikTok", url: "https://www.tiktok.com/@dent.32", icon: "sosyal-tiktok.svg" },
+  { key: "pinterest", name: "Pinterest", url: "https://tr.pinterest.com/dent_32/", icon: "sosyal-pinterest.svg" },
+  { key: "linkedin", name: "LinkedIn", url: "https://www.linkedin.com/company/dent32/", icon: "sosyal-linkedin.svg" },
 ] as const;
 /** Basında Dent32: Hakkımızda sayfası ve llms.txt buradan beslenir. Yeni haber çıkınca outlets'e ekleyin. */
 export const PRESS = {

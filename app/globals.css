@@ -758,7 +758,7 @@ a.pager__num:hover, .pager__step:hover { border-color: var(--ink); }
 .footer-grid a:hover { color: #fff; }
 .f-brand img.f-logo { width: 116px; margin-bottom: 18px; }
 .f-brand p { max-width: 34ch; }
-.social { display: flex !important; align-items: center; gap: 18px !important; margin-top: 24px; }
+.social { display: flex !important; flex-wrap: wrap; align-items: center; gap: 18px !important; margin-top: 24px; }
 .social a { display: grid; place-items: center; width: 28px; height: 28px; transition: transform .35s var(--hx-ease); }
 .social a:hover { transform: translateY(-3px); }
 .social img { width: 28px; height: 28px; object-fit: contain; }
