@@ -51,12 +51,13 @@ export function About({ lang }: { lang: Lang }) {
             <p className="eyebrow">{t("Kurucu hekim", "Founder")}</p>
             <h2>Dr. Hüseyin Aşçı</h2>
             <p className="bio__role">{t("Diş hekimi · Kurucu hekim", "Dentist · Founder")}</p>
-            <p>{t("Dr. Hüseyin Aşçı, Dent32'nin kurucusu ve İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunu bir diş hekimidir. Klinikteki ilgi alanları çapraşık dişlerin düzeltilmesi, şeffaf plak tedavileri ve gülüş tasarımıdır.",
-              "Dr. Hüseyin Aşçı is the founder of Dent32 and a graduate of the Istanbul University Faculty of Dentistry. His clinical interests are straightening crowded teeth, clear aligner treatment and smile design.")}</p>
+            <p>{t("Dr. Hüseyin Aşçı, Dent32'nin kurucusu ve İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunu bir diş hekimidir. Klinik çalışmalarının merkezinde implant tedavisi, All-on-4 ve All-on-6 gibi tüm çene implant uygulamaları, zirkonyum kaplama ve lamine (porselen veneer) yer alır.",
+              "Dr. Hüseyin Aşçı is the founder of Dent32 and a graduate of the Istanbul University Faculty of Dentistry. His clinical work centres on dental implants, full-arch implants such as All-on-4 and All-on-6, zirconia crowns and porcelain veneers.")}</p>
             <p>{t("Tedaviye yaklaşımı basit bir ilkeye dayanır: hasta, ne yapılacağını ve neden yapılacağını başlamadan önce bilmeli. Bu yüzden her plan muayene bulguları, seçenekler, olası riskler ve maliyetle birlikte yazılı olarak paylaşılır.",
               "His approach rests on a simple principle: patients should know what will be done, and why, before anything starts. So every plan is shared in writing, together with the findings, options, possible risks and cost.")}</p>
-            <p>{t("Kapsamlı vakalarda implant, protez ve diş eti tedavileri ekipteki hekimlerle birlikte planlanır; böylece hasta tek bir yol haritasıyla ilerler.",
-              "In complex cases, implant, prosthetic and gum treatment is planned together with the other dentists on the team, so the patient follows a single roadmap.")}</p>
+            <p>{t("İmplantın cerrahi aşaması ile üzerine takılacak diş aynı plan içinde düşünülür; diş eti ve kanal tedavisi gibi aşamaları da içeren kapsamlı vakalar ekipteki hekimlerle birlikte planlanır, böylece hasta tek bir yol haritasıyla ilerler.",
+              "The implant surgery and the tooth that goes on it are planned as one; complex cases that also involve gum or root canal treatment are planned together with the other dentists on the team, so the patient follows a single roadmap.")}</p>
+            <p><Link className="text-link" href={route("post-huseyinasci", lang)}>{t("Dr. Hüseyin Aşçı hakkında ayrıntılı bilgi", "More about Dr. Hüseyin Aşçı")}</Link></p>
             <table className="hours">
               <caption>{t("Dr. Hüseyin Aşçı'nın klinikte olduğu günler", "Days Dr. Hüseyin Aşçı is in the clinic")}</caption>
               <tbody>
@@ -88,7 +89,7 @@ export function About({ lang }: { lang: Lang }) {
 
       <section className="section section--mist" id="kadro" aria-labelledby="h-team">
         <div className="wrap">
-          <SecHead eyebrow={t("Ekip", "Team")} title={t("Hekim kadrosu", "Our dentists")} id="h-team" />
+          <SecHead eyebrow={t("Ekip", "Team")} title={t("Beylikdüzü'ndeki diş hekimlerimiz", "Our dentists in Beylikdüzü")} id="h-team" />
           <div className="team">
             {TEAM.map((m, i) => (
               <figure key={m.name} className="doc lift rv" style={delay(i)}>
@@ -97,6 +98,7 @@ export function About({ lang }: { lang: Lang }) {
               </figure>
             ))}
           </div>
+          <div className="sec-foot"><Link className="btn btn-line" href={route("post-kadro", lang)}>{t("Hekimlerimizi yakından tanıyın", "More about our dentists")} <Icon name="arrow" /></Link></div>
         </div>
       </section>
 

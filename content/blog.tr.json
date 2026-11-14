@@ -5455,6 +5455,7 @@
  {
   "key": "eniyiimplant",
   "date": "2026-11-03",
+  "updated": "2026-11-14",
   "cat": "İmplant",
   "cover": "blog-eniyi-implant",
   "slug": "beylikduzu-implant-tedavisi-olcutleri",
@@ -5477,7 +5478,7 @@
    {
     "id": "hekim",
     "h": "Dr. Hüseyin Aşçı ve ekibin implant yaklaşımı",
-    "html": "<p>Dent32'nin kurucu hekimi <a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı</a>, İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunudur. Klinikte implantı tek başına bir cerrahi işlem olarak değil, ağzın tamamını ilgilendiren bir planın parçası olarak ele alıyoruz: eksik dişin yerine implant mı, köprü mü daha doğru, komşu dişlerin durumu ne, ısırma düzeni implantı zorlayacak mı? Bu soruların cevabı netleşmeden cerrahiye geçilmez.</p><p>İmplant ve üzerindeki zirkonyum dişin aynı ekip tarafından planlanması, tedavinin estetik ve işlevsel olarak bütün kalmasını sağlar. Ekibimizi <a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">hekim kadromuz</a> yazısında tanıttık.</p>"
+    "html": "<p>Dent32'nin kurucu hekimi <a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı</a>, İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunudur; klinik çalışmalarının merkezinde implant tedavisi ve implant üstü protezler yer alır. Klinikte implantı tek başına bir cerrahi işlem olarak değil, ağzın tamamını ilgilendiren bir planın parçası olarak ele alıyoruz: eksik dişin yerine implant mı, köprü mü daha doğru, komşu dişlerin durumu ne, ısırma düzeni implantı zorlayacak mı? Bu soruların cevabı netleşmeden cerrahiye geçilmez.</p><p>İmplant ve üzerindeki zirkonyum dişin aynı ekip tarafından planlanması, tedavinin estetik ve işlevsel olarak bütün kalmasını sağlar. Ekibimizi <a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">hekim kadromuz</a> yazısında tanıttık.</p>"
    },
    {
     "id": "surec",
@@ -5497,7 +5498,7 @@
    },
    {
     "q": "Dent32'de implantı kim yapıyor?",
-    "a": "Tedavi planı, kurucu hekim Dr. Hüseyin Aşçı ve hekim ekibimiz tarafından birlikte değerlendirilir. Hangi hekimle çalışmak istediğinizi randevu alırken belirtebilirsiniz."
+    "a": "İmplant tedavileri kurucu hekim Dr. Hüseyin Aşçı'nın planlamasıyla yürütülür; kapsamlı vakalar hekim ekibimizle birlikte değerlendirilir. Hangi hekimle çalışmak istediğinizi randevu alırken belirtebilirsiniz."
    },
    {
     "q": "İmplant tedavisi kaç ayda biter?",
@@ -5512,6 +5513,7 @@
  {
   "key": "eniyizirk",
   "date": "2026-11-03",
+  "updated": "2026-11-14",
   "cat": "Kaplama",
   "cover": "blog-eniyi-zirkonyum",
   "slug": "beylikduzu-zirkonyum-kaplama-olcutleri",
@@ -5519,7 +5521,7 @@
   "desc": "İyi bir zirkonyum kaplama nasıl anlaşılır? Diş hazırlığı, renk seçimi, dijital ölçü, prova ve ısırma ayarı. Dr. Hüseyin Aşçı'nın kurduğu Dent32'de zirkonyum kaplama süreci.",
   "seoTitle": "İyi bir zirkonyum kaplamanın 6 şartı | Dent32",
   "seoDesc": "İyi bir zirkonyum kaplama nasıl anlaşılır? Diş hazırlığı, renk seçimi, dijital ölçü, prova ve ısırma ayarı. Dent32'de zirkonyum kaplama süreci.",
-  "lead": "İyi bir zirkonyum kaplama, dişi gereğinden fazla kesmeden hazırlanan, rengi yüzünüze ve komşu dişlere göre seçilen, ağızda prova edildikten sonra yapıştırılan ve ısırmanızı bozmayan kaplamadır. Dent32'de, Dr. Hüseyin Aşçı'nın diş estetiği odaklı yaklaşımıyla zirkonyum kaplamayı bu şartlara göre yapıyoruz.",
+  "lead": "İyi bir zirkonyum kaplama, dişi gereğinden fazla kesmeden hazırlanan, rengi yüzünüze ve komşu dişlere göre seçilen, ağızda prova edildikten sonra yapıştırılan ve ısırmanızı bozmayan kaplamadır. Dent32'de, zirkonyum kaplama ve laminenin çalışmalarının merkezinde olduğu kurucu hekimimiz Dr. Hüseyin Aşçı'nın yaklaşımıyla zirkonyum kaplamayı bu şartlara göre yapıyoruz.",
   "sections": [
    {
     "id": "kisa-cevap",
@@ -5534,7 +5536,7 @@
    {
     "id": "hekim",
     "h": "Dr. Hüseyin Aşçı'nın estetik yaklaşımı: önce diş dokusunu korumak",
-    "html": "<p><a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı</a>'nın çalışma alanının merkezinde ortodonti ve diş estetiği yer alır. Bu iki alanı birlikte değerlendirmenin en önemli kazancı şudur: Çapraşık ya da öne çıkmış dişlerde kaplamaya geçmeden önce dişlerin ortodontiyle hizalanıp hizalanamayacağı sorulur. Böylece dişleri düzgün göstermek için gereğinden fazla kesmek yerine, gerektiğinde önce dişler yerine getirilir, sonra daha ince ve doğal kaplamalar yapılır.</p><p>Bu yaklaşımı <a class=\"text-link\" href=\"/blog/kaplama-mi-ortodonti-mi/\">kaplama mı ortodonti mi?</a> yazısında ayrıntılı anlattık.</p>"
+    "html": "<p><a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı</a>'nın çalışmalarının merkezinde implant, zirkonyum kaplama ve lamine gibi protetik ve estetik tedaviler yer alır. Kaplamada temel ilke diş dokusunu korumaktır: dişler yalnızca gerektiği kadar aşındırılır, renk komşu dişlere ve yüzünüze göre seçilir, kaplama yapıştırılmadan önce ağızda prova edilir ve ısırma ayarı kontrol edilir.</p><p>Çapraşık ya da öne çıkmış dişlerde kaplamadan önce dişlerin hizalanmasının daha koruyucu olup olmayacağı da değerlendirilir; bu karşılaştırmayı <a class=\"text-link\" href=\"/blog/kaplama-mi-ortodonti-mi/\">kaplama mı ortodonti mi?</a> yazısında anlattık.</p>"
    },
    {
     "id": "surec",
@@ -5569,13 +5571,14 @@
  {
   "key": "eniyilamine",
   "date": "2026-11-03",
+  "updated": "2026-11-14",
   "cat": "Estetik",
   "cover": "blog-eniyi-lamine",
   "slug": "beylikduzu-lamine-kaplama-olcutleri",
   "title": "İyi bir lamine kaplamanın şartları: Beylikdüzü'nde doğal gülüş için plan, prova ve az kesim",
   "desc": "İyi bir laminenin şartları: gülüş analizi, ağızda prova (mock-up), minimum aşındırma ve doğru yapıştırma. Dent32 ve Dr. Hüseyin Aşçı'nın yaklaşımı.",
   "seoTitle": "İyi bir lamine kaplamanın şartları | Dent32",
-  "lead": "İyi bir lamine kaplama; yüzünüze göre tasarlanan, uygulamadan önce ağızda prova edilen, dişten mümkün olduğunca az doku kaldırılarak yapılan laminedir. Dent32'de lamine planlamasını ortodonti ve diş estetiğiyle ilgilenen kurucu hekimimiz Dr. Hüseyin Aşçı'nın yaklaşımıyla, önce diş dokusunu korumayı esas alarak yapıyoruz.",
+  "lead": "İyi bir lamine kaplama; yüzünüze göre tasarlanan, uygulamadan önce ağızda prova edilen, dişten mümkün olduğunca az doku kaldırılarak yapılan laminedir. Dent32'de lamine planlamasını lamine ve zirkonyum kaplamanın çalışmalarının merkezinde olduğu kurucu hekimimiz Dr. Hüseyin Aşçı'nın yaklaşımıyla, önce diş dokusunu korumayı esas alarak yapıyoruz.",
   "sections": [
    {
     "id": "kisa-cevap",
@@ -5589,8 +5592,8 @@
    },
    {
     "id": "hekim",
-    "h": "Dr. Hüseyin Aşçı: önce hizalama, sonra lamine",
-    "html": "<p>Lamine için gelen hastaların bir kısmında asıl sorun dişlerin rengi değil konumudur. <a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı</a> ortodonti ve diş estetiğini birlikte değerlendirdiği için, çapraşık dişlerde önce kısa bir <a class=\"text-link\" href=\"/blog/beylikduzu-ortodonti-seffaf-plak/\">şeffaf plak tedavisi</a> ile hizalama yapılıp yapılamayacağını sorar. Dişler hizalandığında lamine çok daha ince yapılabilir ve sağlıklı diş dokusu korunur.</p><p>Renk, form ve boy kararını hastayla birlikte, prova üzerinden veririz. Bu yaklaşımı <a class=\"text-link\" href=\"/blog/kaplama-mi-ortodonti-mi/\">kaplama mı ortodonti mi?</a> yazısında da anlattık.</p>"
+    "h": "Dr. Hüseyin Aşçı: önce diş dokusunu korumak",
+    "html": "<p><a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı</a>'nın çalışmalarının merkezinde lamine ve zirkonyum gibi estetik restorasyonlar yer alır. Lamine planlarken amaç, hedef görünüme dişten en az doku kaldırarak ulaşmaktır. Lamine için gelen hastaların bir kısmında asıl sorun dişlerin rengi değil konumudur; belirgin çapraşıklıkta önce hizalama yapılıp yapılamayacağı da planın parçasıdır. Dişler hizalandığında lamine çok daha ince yapılabilir ve sağlıklı diş dokusu korunur.</p><p>Renk, form ve boy kararını hastayla birlikte, prova üzerinden veririz. Bu yaklaşımı <a class=\"text-link\" href=\"/blog/kaplama-mi-ortodonti-mi/\">kaplama mı ortodonti mi?</a> yazısında da anlattık.</p>"
    },
    {
     "id": "surec",
@@ -5682,19 +5685,20 @@
  {
   "key": "eniyiorto",
   "date": "2026-11-03",
+  "updated": "2026-11-14",
   "cat": "Ortodonti",
   "cover": "blog-eniyi-ortodonti",
   "slug": "beylikduzu-ortodonti-seffaf-plak-olcutleri",
-  "title": "Beylikdüzü'nde ortodonti ve şeffaf plak: iyi bir tedavinin ölçütleri ve Dr. Hüseyin Aşçı ile planlama",
-  "desc": "Beylikdüzü'nde ortodonti ve şeffaf plak tedavisi nasıl seçilir? Dijital planlama, düzenli kontrol, plak mı tel mi kararı ve pekiştirme. Ortodontiyle yoğun çalışan Dr. Hüseyin Aşçı'nın kliniği Dent32'de süreç.",
+  "title": "Beylikdüzü'nde ortodonti ve şeffaf plak: iyi bir tedavinin ölçütleri ve Dent32'de planlama",
+  "desc": "Beylikdüzü'nde ortodonti ve şeffaf plak tedavisi nasıl seçilir? Dijital planlama, düzenli kontrol, plak mı tel mi kararı ve pekiştirme. Beylikdüzü'ndeki Dent32'de süreç.",
   "seoTitle": "Beylikdüzü'nde ortodonti ve şeffaf plak | Dent32",
   "seoDesc": "Beylikdüzü'nde ortodonti ve şeffaf plak nasıl seçilir? Dijital planlama, düzenli kontrol, plak mı tel mi kararı ve pekiştirme. Dent32'de süreç.",
-  "lead": "İyi bir ortodonti tedavisi; dişlerin hareketini dijital olarak planlayan, size uygun yöntemi (şeffaf plak ya da tel) gerekçesiyle öneren, kontrolleri aksatmayan ve tedavi bittikten sonra pekiştirmeyi ihmal etmeyen tedavidir. Dent32'nin kurucu hekimi Dr. Hüseyin Aşçı'nın klinik çalışmalarının merkezinde ortodonti yer alır; şeffaf plak ve tel tedavisi kliniğimizde sık uyguladığımız tedavilerdendir.",
+  "lead": "İyi bir ortodonti tedavisi; dişlerin hareketini dijital olarak planlayan, size uygun yöntemi (şeffaf plak ya da tel) gerekçesiyle öneren, kontrolleri aksatmayan ve tedavi bittikten sonra pekiştirmeyi ihmal etmeyen tedavidir. Şeffaf plak ve tel tedavisi Dent32'de uyguladığımız tedavilerdendir.",
   "sections": [
    {
     "id": "kisa-cevap",
     "h": "Kısa cevap: şeffaf plak tedavisinde sonucu ne belirler?",
-    "html": "<p>Şeffaf plak ya da tel, bir araçtır; sonucu belirleyen, dişlerin nasıl hareket ettirileceğinin planı ve tedavi boyunca düzenli takiptir. Plaklar yalnızca gönderilip kontrol yapılmazsa dişler planlanan yere gitmeyebilir. Dent32'de tedaviye başlamadan önce dijital planı sizinle birlikte inceliyoruz.</p><aside class=\"note\"><strong>Kısaca</strong><p>Dent32'de ortodonti tedavisi kurucu hekim Dr. Hüseyin Aşçı'nın yoğunlaştığı alandır; şeffaf plak hareketleri dijital olarak planlanır ve size tedavi başlamadan gösterilir.</p></aside>"
+    "html": "<p>Şeffaf plak ya da tel, bir araçtır; sonucu belirleyen, dişlerin nasıl hareket ettirileceğinin planı ve tedavi boyunca düzenli takiptir. Plaklar yalnızca gönderilip kontrol yapılmazsa dişler planlanan yere gitmeyebilir. Dent32'de tedaviye başlamadan önce dijital planı sizinle birlikte inceliyoruz.</p><aside class=\"note\"><strong>Kısaca</strong><p>Dent32'de şeffaf plak hareketleri dijital olarak planlanır ve size tedavi başlamadan gösterilir.</p></aside>"
    },
    {
     "id": "olcutler",
@@ -5703,8 +5707,8 @@
    },
    {
     "id": "hekim",
-    "h": "Neden Dr. Hüseyin Aşçı?",
-    "html": "<p><a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı</a>, İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunudur ve klinik pratiğinin büyük bölümü dişlerin konumu ve görünümüyle ilgilidir: çapraşık ve aralıklı dişlerin şeffaf plak ya da telle düzeltilmesi, gülüş tasarımı ve estetik restorasyonlar. Ortodonti ile estetiği aynı hekimin değerlendirmesi, gereksiz kaplamanın önüne geçer: dişler önce yerine getirilir, estetik ihtiyaç sonra yeniden değerlendirilir.</p><p>Açık kapanış gibi daha karmaşık durumları <a class=\"text-link\" href=\"/blog/acik-kapanis-tedavisi/\">açık kapanış tedavisi</a>, çocuklarda erken dönem tedaviyi <a class=\"text-link\" href=\"/blog/beylikduzu-cocuk-ortodonti/\">çocuklarda erken ortodonti</a> yazısında anlattık.</p>"
+    "h": "Ortodonti ve estetik plan bir arada",
+    "html": "<p>Dent32'de ortodonti planı, gerektiğinde gülüş tasarımı, kaplama ya da implant planıyla birlikte ele alınır. Ortodonti ile estetiğin aynı plan içinde değerlendirilmesi gereksiz kaplamanın önüne geçer: dişler önce yerine getirilir, estetik ihtiyaç sonra yeniden değerlendirilir.</p><p>Açık kapanış gibi daha karmaşık durumları <a class=\"text-link\" href=\"/blog/acik-kapanis-tedavisi/\">açık kapanış tedavisi</a>, çocuklarda erken dönem tedaviyi <a class=\"text-link\" href=\"/blog/beylikduzu-cocuk-ortodonti/\">çocuklarda erken ortodonti</a> yazısında anlattık.</p>"
    },
    {
     "id": "surec",
@@ -5714,13 +5718,13 @@
    {
     "id": "randevu",
     "h": "Beylikdüzü'nde ortodonti için Dent32'den randevu",
-    "html": "<p>İlk görüşmede dişlerinizin şeffaf plakla mı telle mi daha iyi düzeleceğini, yaklaşık süreyi ve maliyeti anlatırız. Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir ya da <a class=\"text-link\" href=\"/iletisim/\">bize yazabilirsiniz</a>. Dr. Hüseyin Aşçı ile görüşmek istiyorsanız randevu alırken belirtmeniz yeterli; klinikte olduğu günleri <a class=\"text-link\" href=\"/blog/dr-huseyin-asci-randevu/\">Dr. Hüseyin Aşçı randevu</a> yazısında bulabilirsiniz.</p><p>Beylikdüzü'nde diğer tedaviler için de aynı ölçütleri anlattık: <a class=\"text-link\" href=\"/blog/beylikduzu-implant-tedavisi-olcutleri/\">implant tedavisi</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-zirkonyum-kaplama-olcutleri/\">zirkonyum kaplama</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-lamine-kaplama-olcutleri/\">lamine kaplama</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-kanal-tedavisi-olcutleri/\">kanal tedavisi</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-gulus-tasarimi-olcutleri/\">gülüş tasarımı</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-dis-beyazlatma-olcutleri/\">diş beyazlatma</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-dis-eti-tedavisi-olcutleri/\">diş eti tedavisi</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-cocuk-dis-hekimi-secimi/\">çocuk diş tedavisi</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-all-on-four-olcutleri/\">All-on-Four ve tüm çene implant</a>.</p>"
+    "html": "<p>İlk görüşmede dişlerinizin şeffaf plakla mı telle mi daha iyi düzeleceğini, yaklaşık süreyi ve maliyeti anlatırız. Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik haftanın yedi günü açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir ya da <a class=\"text-link\" href=\"/iletisim/\">bize yazabilirsiniz</a>. Belirli bir hekimle görüşmek istiyorsanız randevu alırken belirtebilirsiniz.</p><p>Beylikdüzü'nde diğer tedaviler için de aynı ölçütleri anlattık: <a class=\"text-link\" href=\"/blog/beylikduzu-implant-tedavisi-olcutleri/\">implant tedavisi</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-zirkonyum-kaplama-olcutleri/\">zirkonyum kaplama</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-lamine-kaplama-olcutleri/\">lamine kaplama</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-kanal-tedavisi-olcutleri/\">kanal tedavisi</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-gulus-tasarimi-olcutleri/\">gülüş tasarımı</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-dis-beyazlatma-olcutleri/\">diş beyazlatma</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-dis-eti-tedavisi-olcutleri/\">diş eti tedavisi</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-cocuk-dis-hekimi-secimi/\">çocuk diş tedavisi</a>, <a class=\"text-link\" href=\"/blog/beylikduzu-all-on-four-olcutleri/\">All-on-Four ve tüm çene implant</a>.</p>"
    }
   ],
   "faq": [
    {
     "q": "Şeffaf plak tedavisinde nelere dikkat etmeliyim?",
-    "a": "İyi bir şeffaf plak tedavisini dijital planlama, düzenli kontrol ve pekiştirme belirler. Dent32'nin kurucu hekimi Dr. Hüseyin Aşçı'nın klinik çalışmalarının merkezinde ortodonti yer alır; şeffaf plak tedavisi bu adımlarla yürütülür."
+    "a": "İyi bir şeffaf plak tedavisini dijital planlama, düzenli kontrol ve pekiştirme belirler. Dent32'de şeffaf plak tedavisi bu adımlarla yürütülür."
    },
    {
     "q": "Şeffaf plak tedavisi ne kadar sürer?",
@@ -5739,6 +5743,7 @@
  {
   "key": "eniyigulus",
   "date": "2026-11-03",
+  "updated": "2026-11-14",
   "cat": "Estetik",
   "cover": "blog-eniyi-gulus",
   "slug": "beylikduzu-gulus-tasarimi-olcutleri",
@@ -5746,7 +5751,7 @@
   "desc": "İyi bir gülüş tasarımı nasıl yapılır? Yüz ve gülüş analizi, en az müdahaleli plan, ağızda prova ve doğal renk seçimi. Dr. Hüseyin Aşçı'nın kurduğu Dent32'de gülüş tasarımı.",
   "seoTitle": "İyi bir gülüş tasarımı nasıl planlanır? | Dent32",
   "seoDesc": "İyi bir gülüş tasarımı nasıl yapılır? Yüz ve gülüş analizi, en az müdahaleli plan, ağızda prova ve doğal renk seçimi. Dent32'de gülüş tasarımı.",
-  "lead": "İyi bir gülüş tasarımı, herkese aynı beyaz dişleri yapmak değil; yüzünüzü, dudaklarınızı ve diş etinizi birlikte analiz edip hedef gülüşe en az müdahaleyle ulaşan planı kurmaktır. Dent32'de gülüş tasarımını, ortodonti ve diş estetiğini birlikte değerlendiren kurucu hekimimiz Dr. Hüseyin Aşçı'nın yaklaşımıyla yapıyoruz.",
+  "lead": "İyi bir gülüş tasarımı, herkese aynı beyaz dişleri yapmak değil; yüzünüzü, dudaklarınızı ve diş etinizi birlikte analiz edip hedef gülüşe en az müdahaleyle ulaşan planı kurmaktır. Dent32'de gülüş tasarımını, lamine ve zirkonyum gibi estetik restorasyonlarla çalışan kurucu hekimimiz Dr. Hüseyin Aşçı'nın yaklaşımıyla yapıyoruz.",
   "sections": [
    {
     "id": "kisa-cevap",
@@ -5761,7 +5766,7 @@
    {
     "id": "hekim",
     "h": "Dr. Hüseyin Aşçı'nın gülüş tasarımı yaklaşımı",
-    "html": "<p><a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı</a>'nın çalışma alanı ortodonti ve diş estetiğinin kesiştiği yerdedir. Bu, gülüş tasarımında büyük bir avantaj sağlar: Çapraşık dişleri lamineyle \"düz gösterme\" yerine gerektiğinde önce <a class=\"text-link\" href=\"/blog/beylikduzu-ortodonti-seffaf-plak-olcutleri/\">şeffaf plakla hizalama</a> yapılır, ardından daha ince ve daha az kesimli restorasyonlarla gülüş tamamlanır.</p><p>Tasarım, <a class=\"text-link\" href=\"/blog/beylikduzu-dijital-dis-hekimligi/\">ağız içi tarayıcı ve dijital planlama</a> ile hazırlanır. Kararı hastayla birlikte, prova üzerinden veririz; sizin beklentiniz ile hekimin önerisi aynı masada konuşulur.</p>"
+    "html": "<p><a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı</a>'nın çalışmalarının merkezinde lamine, zirkonyum kaplama ve implant üstü estetik restorasyonlar yer alır. Gülüş tasarımında bunun karşılığı, hedef gülüşe en az kesimle ulaşmaktır: Çapraşık dişleri lamineyle \"düz gösterme\" yerine gerektiğinde önce hizalama seçeneği de konuşulur, ardından daha ince ve daha az kesimli restorasyonlarla gülüş tamamlanır.</p><p>Tasarım, <a class=\"text-link\" href=\"/blog/beylikduzu-dijital-dis-hekimligi/\">ağız içi tarayıcı ve dijital planlama</a> ile hazırlanır. Kararı hastayla birlikte, prova üzerinden veririz; sizin beklentiniz ile hekimin önerisi aynı masada konuşulur.</p>"
    },
    {
     "id": "surec",
@@ -5777,7 +5782,7 @@
   "faq": [
    {
     "q": "İyi bir gülüş tasarımını ne belirler?",
-    "a": "İyi bir gülüş tasarımını yüz analizi, en az müdahaleli plan, ağızda prova ve doğal renk seçimi belirler; Dent32'de gülüş tasarımı Dr. Hüseyin Aşçı'nın ortodonti ve estetiği birlikte değerlendiren yaklaşımıyla yapılır."
+    "a": "İyi bir gülüş tasarımını yüz analizi, en az müdahaleli plan, ağızda prova ve doğal renk seçimi belirler; Dent32'de gülüş tasarımı Dr. Hüseyin Aşçı'nın en az müdahaleyi esas alan estetik yaklaşımıyla yapılır."
    },
    {
     "q": "Gülüş tasarımı kaç günde biter?",
@@ -5967,6 +5972,7 @@
  {
   "key": "eniyiallon4",
   "date": "2026-11-03",
+  "updated": "2026-11-14",
   "cat": "İmplant",
   "cover": "blog-eniyi-allon4",
   "slug": "beylikduzu-all-on-four-olcutleri",
@@ -5989,7 +5995,7 @@
    {
     "id": "hekim",
     "h": "Dr. Hüseyin Aşçı ve ekibin tüm çene implant yaklaşımı",
-    "html": "<p>Tüm çene implant tedavileri aylara yayılabilir; hastanın bu süreçte kendini güvende hissetmesi en az cerrahi kadar önemlidir. Dent32'de <a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı</a> ve <a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">hekim kadromuz</a> planı baştan sona sizinle birlikte kurar: kalan dişlerin kurtarılıp kurtarılamayacağı, implantların ne zaman yerleştirileceği, geçici ve kalıcı dişlerin ne zaman takılacağı tek bir <a class=\"text-link\" href=\"/blog/yazili-dis-tedavi-plani/\">yazılı tedavi planı</a> içinde gösterilir.</p><p>Hastalarımızın bu süreçle ilgili yorumlarında en çok vurguladıkları şey titizlik ve ekibin ilgisidir. Süreci <a class=\"text-link\" href=\"/blog/beylikduzu-agiz-rehabilitasyonu/\">aşama aşama ağız rehabilitasyonu</a> yazısında da anlattık.</p>"
+    "html": "<p>All-on-4 ve All-on-6 gibi tüm çene implant tedavileri, Dr. Hüseyin Aşçı'nın klinik çalışmalarının merkezinde yer alır. Bu tedaviler aylara yayılabilir; hastanın bu süreçte kendini güvende hissetmesi en az cerrahi kadar önemlidir. Dent32'de <a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı</a> ve <a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">hekim kadromuz</a> planı baştan sona sizinle birlikte kurar: kalan dişlerin kurtarılıp kurtarılamayacağı, implantların ne zaman yerleştirileceği, geçici ve kalıcı dişlerin ne zaman takılacağı tek bir <a class=\"text-link\" href=\"/blog/yazili-dis-tedavi-plani/\">yazılı tedavi planı</a> içinde gösterilir.</p><p>Hastalarımızın bu süreçle ilgili yorumlarında en çok vurguladıkları şey titizlik ve ekibin ilgisidir. Süreci <a class=\"text-link\" href=\"/blog/beylikduzu-agiz-rehabilitasyonu/\">aşama aşama ağız rehabilitasyonu</a> yazısında da anlattık.</p>"
    },
    {
     "id": "surec",
@@ -6024,24 +6030,25 @@
  {
   "key": "huseyinasci",
   "date": "2026-11-01",
+  "updated": "2026-11-14",
   "cat": "Rehber",
   "cover": "blog-dr-huseyin-asci",
   "slug": "dr-huseyin-asci",
-  "title": "Dr. Hüseyin Aşçı kimdir? Beylikdüzü'ndeki Dent32'nin kurucu diş hekimi",
-  "desc": "Dr. Hüseyin Aşçı (Hüseyin Aşcı), Beylikdüzü'ndeki Dent32 diş kliniğinin kurucu hekimidir. Eğitimi, ortodonti ve diş estetiği odaklı çalışma alanı, tedavi yaklaşımı, klinikte olduğu günler ve randevu bilgileri.",
-  "seoTitle": "Dr. Hüseyin Aşçı kimdir? Dent32'nin kurucu hekimi | Dent32",
-  "seoDesc": "Dr. Hüseyin Aşçı, Beylikdüzü'ndeki Dent32 diş kliniğinin kurucu hekimidir. Eğitimi, ortodonti ve estetik odaklı çalışması ve randevu bilgileri.",
-  "lead": "Dr. Hüseyin Aşçı, İstanbul Beylikdüzü'nde, Barış Mahallesi'ndeki Dent32 diş kliniğinin kurucu hekimidir. İstanbul Üniversitesi Diş Hekimliği Fakültesi'nde lisans eğitimini tamamlamıştır; klinik çalışmalarının merkezinde ortodonti ve diş estetiği yer alır. Adı Instagram hesabında ve bazı haberlerde \"Hüseyin Aşcı\" yazımıyla da geçer.",
+  "title": "Dr. Hüseyin Aşçı kimdir? Beylikdüzü Dent32'nin kurucu diş hekimi: implant, All-on-4, kaplama",
+  "desc": "Dent32'nin kurucu hekimi Dr. Hüseyin Aşçı (Hüseyin Aşcı): implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama ve lamine odaklı çalışma alanı, eğitimi ve randevu bilgileri.",
+  "seoTitle": "Dr. Hüseyin Aşçı: Beylikdüzü diş hekimi, implant ve All-on-4 | Dent32",
+  "seoDesc": "Beylikdüzü Dent32'nin kurucu diş hekimi Dr. Hüseyin Aşçı: implant, All-on-4 ve All-on-6, zirkonyum kaplama ve lamine. Eğitimi, klinik günleri, randevu.",
+  "lead": "Dr. Hüseyin Aşçı, İstanbul Beylikdüzü'nde, Barış Mahallesi'ndeki Dent32 diş kliniğinin kurucu hekimidir. İstanbul Üniversitesi Diş Hekimliği Fakültesi'nde lisans eğitimini tamamlamıştır; klinik çalışmalarının merkezinde implant tedavisi, All-on-4 ve All-on-6 gibi tüm çene implant uygulamaları, zirkonyum kaplama ve lamine (porselen veneer) yer alır. Adı Instagram hesabında ve bazı haberlerde \"Hüseyin Aşcı\" yazımıyla da geçer.",
   "sections": [
    {
     "id": "kisaca",
     "h": "Kısaca Dr. Hüseyin Aşçı",
-    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Başlık</th><th scope=\"col\">Bilgi</th></tr></thead><tbody><tr><td>Görevi</td><td>Diş hekimi, Dent32'nin kurucu hekimi</td></tr><tr><td>Eğitim</td><td>İstanbul Üniversitesi Diş Hekimliği Fakültesi (lisans)</td></tr><tr><td>Çalışma alanı</td><td>Ortodonti (şeffaf plak ve tel tedavisi) ve diş estetiği (gülüş tasarımı, lamine, zirkonyum)</td></tr><tr><td>Klinik</td><td>Dent32, Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</td></tr><tr><td>Sosyal medya</td><td><a class=\"text-link\" href=\"https://www.instagram.com/dr.huseyinasci/\" target=\"_blank\" rel=\"noopener\">@dr.huseyinasci</a> (kişisel), <a class=\"text-link\" href=\"https://www.instagram.com/dent.32/\" target=\"_blank\" rel=\"noopener\">@dent.32</a> (klinik)</td></tr><tr><td>Basında</td><td><a class=\"text-link\" href=\"https://www.dha.com.tr/yerel-haberler/istanbul/dr-huseyin-asci-agiz-ve-dis-sagligi-genel-sag-2968383\" target=\"_blank\" rel=\"noopener\">DHA röportajı, 23 Ekim 2026</a></td></tr></tbody></table></div><p>Dent32'de Dr. Hüseyin Aşçı ile birlikte Dt. Anıl Işıklı ve Dt. Fulya Toraman da hasta kabul eder. Ekibi <a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">Dent32 hekim kadrosu</a> yazısında tanıttık.</p>"
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Başlık</th><th scope=\"col\">Bilgi</th></tr></thead><tbody><tr><td>Görevi</td><td>Diş hekimi, Dent32'nin kurucu hekimi</td></tr><tr><td>Eğitim</td><td>İstanbul Üniversitesi Diş Hekimliği Fakültesi (lisans)</td></tr><tr><td>Çalışma alanı</td><td>İmplant, tüm çene implant (All-on-4, All-on-6), zirkonyum ve e.max kaplama, lamine (porselen veneer), gülüş tasarımı</td></tr><tr><td>Klinik</td><td>Dent32, Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</td></tr><tr><td>Sosyal medya</td><td><a class=\"text-link\" href=\"https://www.instagram.com/dr.huseyinasci/\" target=\"_blank\" rel=\"noopener\">@dr.huseyinasci</a> (kişisel), <a class=\"text-link\" href=\"https://www.instagram.com/dent.32/\" target=\"_blank\" rel=\"noopener\">@dent.32</a> (klinik)</td></tr><tr><td>Basında</td><td><a class=\"text-link\" href=\"https://www.dha.com.tr/yerel-haberler/istanbul/dr-huseyin-asci-agiz-ve-dis-sagligi-genel-sag-2968383\" target=\"_blank\" rel=\"noopener\">DHA röportajı, 23 Ekim 2026</a></td></tr></tbody></table></div><p>Dent32'de Dr. Hüseyin Aşçı ile birlikte Dt. Anıl Işıklı ve Dt. Fulya Toraman da hasta kabul eder. Ekibi <a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">Beylikdüzü diş hekimlerimiz</a> yazısında tanıttık.</p>"
    },
    {
     "id": "calisma-alani",
-    "h": "Çalışma alanı: ortodonti ve diş estetiği",
-    "html": "<p>Dr. Hüseyin Aşçı'nın günlük pratiğinin büyük bölümü dişlerin konumu ve görünümüyle ilgilidir: çapraşık ya da aralıklı dişlerin <a class=\"text-link\" href=\"/blog/beylikduzu-ortodonti-seffaf-plak/\">şeffaf plak veya tel</a> ile düzeltilmesi, <a class=\"text-link\" href=\"/blog/beylikduzu-gulus-tasarimi/\">gülüş tasarımı</a>, lamine ve zirkonyum gibi estetik restorasyonlar.</p>\n<p>Ortodonti ile estetiği aynı hekimin değerlendirmesi önemli bir avantaj sağlar. Çapraşık ön dişlerde kaplamaya geçmeden önce dişlerin ortodontiyle hizalanıp hizalanamayacağı sorulur; böylece gereğinden fazla diş dokusu kesilmez. Bu yaklaşımı <a class=\"text-link\" href=\"/blog/kaplama-mi-ortodonti-mi/\">kaplama mı ortodonti mi</a> yazısında ayrıntılı anlattık.</p>\n<p>İmplant, protez ve diş eti tedavilerini de içeren kapsamlı vakalar ekipteki hekimlerle birlikte planlanır; hasta tek bir yol haritasıyla ilerler. Tüm çenede implant üstü sabit diş için kullanılan seçenekleri <a class=\"text-link\" href=\"/blog/titanyum-bar-zirkonyum-implant-protez/\">titanyum bar üzerine zirkonyum</a> yazısında bulabilirsiniz.</p>"
+    "h": "Çalışma alanı: implant, tüm çene implant ve estetik kaplamalar",
+    "html": "<p>Dr. Hüseyin Aşçı'nın günlük pratiğinin büyük bölümü eksik dişlerin yerine konması ve dişlerin görünümünün yenilenmesiyle ilgilidir. Başlıca çalıştığı tedaviler:</p>\n<ul>\n<li><strong>İmplant tedavisi:</strong> tek diş eksikliğinden birden fazla eksik dişe kadar, üç boyutlu tomografiyle planlanan implant ve üzerine yapılan zirkonyum diş. Ayrıntılar: <a class=\"text-link\" href=\"/tedaviler/implant-tedavisi/\">implant tedavisi</a> ve <a class=\"text-link\" href=\"/blog/beylikduzu-implant-tedavisi-olcutleri/\">iyi bir implant tedavisinin ölçütleri</a>.</li>\n<li><strong>Tüm çene implant (All-on-4, All-on-6):</strong> dişsiz ya da dişleri kurtarılamayacak çenelerde dört ya da altı implant üzerine sabit diş. Ayrıntılar: <a class=\"text-link\" href=\"/blog/all-on-four/\">All-on-4 nedir?</a>, <a class=\"text-link\" href=\"/blog/all-on-6-all-on-8-kimlere-yapilir/\">All-on-6 ve All-on-8 kimlere yapılır?</a> ve <a class=\"text-link\" href=\"/blog/titanyum-bar-zirkonyum-implant-protez/\">titanyum bar üzerine zirkonyum</a>.</li>\n<li><strong>Zirkonyum ve e.max kaplama:</strong> kırık, renkli ya da büyük dolgulu dişlerde ve implant üstünde dişin biçimini ve rengini yeniden kazandıran kaplamalar. Ayrıntılar: <a class=\"text-link\" href=\"/tedaviler/zirkonyum-kaplama/\">zirkonyum kaplama</a> ve <a class=\"text-link\" href=\"/blog/beylikduzu-zirkonyum-kaplama-olcutleri/\">iyi bir zirkonyum kaplamanın ölçütleri</a>.</li>\n<li><strong>Lamine (porselen veneer) ve gülüş tasarımı:</strong> ön dişlerin rengini, boyunu ve biçimini en az aşındırmayla değiştiren ince porselen yapraklar. Ayrıntılar: <a class=\"text-link\" href=\"/blog/beylikduzu-lamine-kaplama-olcutleri/\">iyi bir laminenin ölçütleri</a> ve <a class=\"text-link\" href=\"/tedaviler/gulus-tasarimi/\">gülüş tasarımı</a>.</li>\n</ul>\n<p>İmplantın cerrahi aşaması ile üzerine takılacak dişin aynı plan içinde düşünülmesi, sonucun hem çiğnemede hem görünümde bütün kalmasını sağlar. Kaplama ve laminede temel ilke diş dokusunu korumaktır: dişler yalnızca gerektiği kadar aşındırılır, renk ve biçim kararı ağızda prova edildikten sonra verilir.</p>\n<p>Diş eti ve kanal tedavisi gibi aşamaları da içeren kapsamlı vakalar ekipteki hekimlerle birlikte planlanır; hasta tek bir yol haritasıyla ilerler.</p>"
    },
    {
     "id": "yaklasim",
@@ -6070,17 +6077,26 @@
    },
    {
     "q": "Dr. Hüseyin Aşçı hangi tedavilerle ilgileniyor?",
-    "a": "Klinik çalışmalarının merkezinde ortodonti (şeffaf plak ve tel) ve diş estetiği (gülüş tasarımı, lamine, zirkonyum) vardır. Kapsamlı implant ve protez vakaları ekip olarak planlanır."
+    "a": "Klinik çalışmalarının merkezinde implant tedavisi, All-on-4 ve All-on-6 gibi tüm çene implant uygulamaları, zirkonyum kaplama ve lamine (porselen veneer) yer alır."
+   },
+   {
+    "q": "Dr. Hüseyin Aşçı All-on-4 ve All-on-6 tedavisi yapıyor mu?",
+    "a": "Evet. Dent32'de tüm çene implant tedavileri (All-on-4, All-on-6) Dr. Hüseyin Aşçı'nın planlamasıyla yürütülür. Kaç implant gerektiği kemik miktarına göre üç boyutlu tomografiyle belirlenir; seçenekler ilk muayenede yazılı olarak anlatılır."
    },
    {
     "q": "Dr. Hüseyin Aşçı'dan nasıl randevu alırım?",
     "a": "+90 555 011 33 68 numarasını arayabilir ya da WhatsApp'tan yazabilirsiniz. Pazartesi, salı, çarşamba, cuma ve cumartesi günleri kliniktedir."
+   },
+   {
+    "q": "Rehber sitelerinde Dr. Hüseyin Aşçı için Bahçeşehir adresi görüyorum; Dent32 nerede?",
+    "a": "Dr. Hüseyin Aşçı, Beylikdüzü'ndeki Dent32'nin kurucu hekimidir ve pazartesi, salı, çarşamba, cuma ve cumartesi günleri Dent32'de hasta kabul eder. Dent32'nin adresi Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul'dur; bazı rehber sitelerinde görülen Bahçeşehir (Avni Akyol Bulvarı) adresi Dent32'ye ait değildir."
    }
   ]
  },
  {
   "key": "onecikan",
   "date": "2026-11-01",
+  "updated": "2026-11-14",
   "cat": "Rehber",
   "cover": "blog-one-cikan-hekimler",
   "slug": "beylikduzu-one-cikan-dis-hekimleri",
@@ -6103,7 +6119,7 @@
    {
     "id": "dent32",
     "h": "Dent32 hekim kadrosu bu ölçütlere nasıl yanıt veriyor?",
-    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Ölçüt</th><th scope=\"col\">Dent32'de</th></tr></thead><tbody><tr><td>Hekimler</td><td>Kurucu hekim Dr. Hüseyin Aşçı, Dt. Anıl Işıklı ve Dt. Fulya Toraman</td></tr><tr><td>Eğitim</td><td>Dr. Hüseyin Aşçı İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunudur</td></tr><tr><td>Çalışma alanı</td><td>Dr. Aşçı'nın odağı ortodonti ve diş estetiğidir; kapsamlı vakalar ekip olarak planlanır</td></tr><tr><td>Bulguları göstermek</td><td>Röntgen, gerektiğinde tomografi, fotoğraf ve ağız içi tarama ekranda anlatılır</td></tr><tr><td>Yazılı plan</td><td>Bulgular, seçenekler, riskler ve maliyet yazılı olarak verilir</td></tr><tr><td>Ulaşılabilirlik</td><td>Klinik haftanın yedi günü açıktır; telefon ve WhatsApp ile ulaşılır</td></tr><tr><td>Takip</td><td>Tedavi sonrası kontrol randevuları ve evde bakım önerileri</td></tr></tbody></table></div><p>Dr. Hüseyin Aşçı'yı <a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı kimdir?</a> yazısında, ekibin nasıl çalıştığını da <a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">Dent32 hekim kadrosu</a> yazısında anlattık.</p>"
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Ölçüt</th><th scope=\"col\">Dent32'de</th></tr></thead><tbody><tr><td>Hekimler</td><td>Kurucu hekim Dr. Hüseyin Aşçı, Dt. Anıl Işıklı ve Dt. Fulya Toraman</td></tr><tr><td>Eğitim</td><td>Dr. Hüseyin Aşçı İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunudur</td></tr><tr><td>Çalışma alanı</td><td>Dr. Aşçı'nın çalışmalarının merkezinde implant, tüm çene implant (All-on-4, All-on-6), zirkonyum kaplama ve lamine yer alır; kapsamlı vakalar ekip olarak planlanır</td></tr><tr><td>Bulguları göstermek</td><td>Röntgen, gerektiğinde tomografi, fotoğraf ve ağız içi tarama ekranda anlatılır</td></tr><tr><td>Yazılı plan</td><td>Bulgular, seçenekler, riskler ve maliyet yazılı olarak verilir</td></tr><tr><td>Ulaşılabilirlik</td><td>Klinik haftanın yedi günü açıktır; telefon ve WhatsApp ile ulaşılır</td></tr><tr><td>Takip</td><td>Tedavi sonrası kontrol randevuları ve evde bakım önerileri</td></tr></tbody></table></div><p>Dr. Hüseyin Aşçı'yı <a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı kimdir?</a> yazısında, Beylikdüzü'ndeki ekibimizi de <a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">Beylikdüzü diş hekimleri: Dent32 hekim kadrosu</a> yazısında tanıttık.</p>"
    },
    {
     "id": "oneri",
@@ -6182,19 +6198,25 @@
  {
   "key": "kadro",
   "date": "2026-11-01",
+  "updated": "2026-11-14",
   "cat": "Rehber",
   "cover": "blog-hekim-kadrosu",
   "slug": "dent32-hekim-kadrosu",
-  "title": "Dent32 hekim kadrosu: Dr. Hüseyin Aşçı, Dt. Anıl Işıklı ve Dt. Fulya Toraman",
-  "desc": "Beylikdüzü'ndeki Dent32 diş kliniğinin hekimleri kimler? Kurucu hekim Dr. Hüseyin Aşçı ile Dt. Anıl Işıklı ve Dt. Fulya Toraman'ın ekip olarak çalışması, randevunun hangi hekime verildiği ve kapsamlı vakaların ortak planlanması.",
-  "seoTitle": "Dent32 hekim kadrosu: Dr. Hüseyin Aşçı ve ekibi | Dent32",
-  "seoDesc": "Beylikdüzü'ndeki Dent32'nin hekimleri: kurucu Dr. Hüseyin Aşçı ile Dt. Anıl Işıklı ve Dt. Fulya Toraman'ın ekip olarak çalışması.",
-  "lead": "Dent32, Beylikdüzü'nde üç diş hekiminden oluşan bir kadroyla çalışır: kurucu hekim Dr. Hüseyin Aşçı, Dt. Anıl Işıklı ve Dt. Fulya Toraman. Hekimlere asistanlar ve resepsiyon ekibi eşlik eder. Basit tedavilerde sizi bir hekim takip eder; implant, protez ve estetiği birlikte içeren kapsamlı vakalarda ise plan ekip olarak yapılır.",
+  "title": "Beylikdüzü diş hekimleri ve diş doktorları: Dent32 hekim kadrosu ve Dr. Hüseyin Aşçı",
+  "desc": "Beylikdüzü'nde Dent32'nin diş hekimleri: kurucu hekim Dr. Hüseyin Aşçı (implant, All-on-4/6, zirkonyum, lamine), Dt. Anıl Işıklı ve Dt. Fulya Toraman. Kim hangi gün klinikte, randevu nasıl alınır?",
+  "seoTitle": "Beylikdüzü diş hekimleri ve diş doktorları | Dent32 hekim kadrosu",
+  "seoDesc": "Beylikdüzü'nde Dent32'nin diş hekimleri: kurucu Dr. Hüseyin Aşçı (implant, All-on-4/6, zirkonyum, lamine), Dt. Anıl Işıklı ve Dt. Fulya Toraman.",
+  "lead": "Dent32, Beylikdüzü Barış Mahallesi'nde, E-5 yanyolu üzerindeki Ginza Lavinya'da üç diş hekimiyle çalışan bir ağız ve diş sağlığı polikliniğidir: kurucu hekim Dr. Hüseyin Aşçı, Dt. Anıl Işıklı ve Dt. Fulya Toraman. Dr. Aşçı'nın klinik çalışmalarının merkezinde implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama ve lamine yer alır. Basit tedavilerde sizi bir hekim takip eder; kapsamlı vakalarda plan ekip olarak yapılır.",
   "sections": [
    {
     "id": "hekimler",
-    "h": "Hekimlerimiz",
-    "html": "<ul>\n<li><strong>Dr. Hüseyin Aşçı</strong> – Kurucu hekim. İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunu; çalışmalarının merkezinde ortodonti ve diş estetiği yer alır. Ayrıntılar: <a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı kimdir?</a></li>\n<li><strong>Dt. Anıl Işıklı</strong> – Diş hekimi.</li>\n<li><strong>Dt. Fulya Toraman</strong> – Diş hekimi.</li>\n</ul><p>Hekimlerimizin fotoğraflarını <a class=\"text-link\" href=\"/hakkimizda/#kadro\">hakkımızda sayfasındaki hekim kadrosu</a> bölümünde görebilirsiniz.</p>"
+    "h": "Beylikdüzü'ndeki diş hekimlerimiz",
+    "html": "<figure class=\"doc-figure\"><img src=\"/img/hekim-huseyin-asci-480.webp\" srcset=\"/img/hekim-huseyin-asci-480.webp 480w, /img/hekim-huseyin-asci-800.webp 800w\" sizes=\"(max-width: 560px) 60vw, 260px\" width=\"480\" height=\"600\" loading=\"lazy\" decoding=\"async\" alt=\"Dr. Hüseyin Aşçı, Beylikdüzü Dent32 kurucu diş hekimi\"><figcaption><strong>Dr. Hüseyin Aşçı</strong><span>Kurucu diş hekimi, Dent32 Beylikdüzü</span></figcaption></figure>\n<ul>\n<li><strong>Dr. Hüseyin Aşçı</strong> – Kurucu diş hekimi. İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunu; klinik çalışmalarının merkezinde implant, tüm çene implant (All-on-4, All-on-6), zirkonyum ve e.max kaplama ile lamine (porselen veneer) yer alır. Pazartesi, salı, çarşamba, cuma ve cumartesi günleri kliniktedir. Ayrıntılar: <a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı kimdir?</a></li>\n<li><strong>Dt. Anıl Işıklı</strong> – Diş hekimi.</li>\n<li><strong>Dt. Fulya Toraman</strong> – Diş hekimi.</li>\n</ul><p>Klinik haftanın yedi günü açıktır; Dr. Aşçı'nın klinikte olmadığı perşembe ve pazar günleri ekibimizdeki diğer hekimlerden randevu alabilirsiniz.</p>"
+   },
+   {
+    "id": "tedaviler",
+    "h": "İmplant, All-on-4, zirkonyum ve lamine tedavilerini kim planlar?",
+    "html": "<p>Dent32'de implant, tüm çene implant (All-on-4, All-on-6), zirkonyum kaplama ve lamine tedavileri kurucu hekim Dr. Hüseyin Aşçı'nın planlamasıyla yürütülür. Plan üç boyutlu tomografi ve dijital ölçüyle hazırlanır, estetik işlemlerde ağızda prova yapılır; seçenekler, süre ve maliyet tedaviye başlamadan önce yazılı olarak verilir.</p>\n<ul>\n<li><strong>İmplant:</strong> <a class=\"text-link\" href=\"/tedaviler/implant-tedavisi/\">Beylikdüzü'nde implant tedavisi</a> · <a class=\"text-link\" href=\"/blog/beylikduzu-implant-tedavisi-olcutleri/\">iyi bir implant tedavisinin ölçütleri</a></li>\n<li><strong>Tüm çene implant:</strong> <a class=\"text-link\" href=\"/blog/beylikduzu-all-on-four/\">Beylikdüzü'nde All-on-4</a> · <a class=\"text-link\" href=\"/blog/all-on-6-all-on-8-kimlere-yapilir/\">All-on-6 ve All-on-8 kimlere yapılır?</a></li>\n<li><strong>Zirkonyum ve e.max kaplama:</strong> <a class=\"text-link\" href=\"/tedaviler/zirkonyum-kaplama/\">zirkonyum kaplama</a> · <a class=\"text-link\" href=\"/blog/beylikduzu-zirkonyum-kaplama-olcutleri/\">iyi bir zirkonyum kaplamanın ölçütleri</a></li>\n<li><strong>Lamine ve gülüş tasarımı:</strong> <a class=\"text-link\" href=\"/blog/beylikduzu-lamine-kaplama/\">Beylikdüzü'nde lamine kaplama</a> · <a class=\"text-link\" href=\"/tedaviler/gulus-tasarimi/\">gülüş tasarımı</a></li>\n</ul><p>Kanal tedavisi, dolgu, diş eti tedavisi ve çocuklarda diş tedavisi gibi diğer tedaviler için de hekim ekibimizden randevu alabilirsiniz; kapsamlı vakalarda plan ekip olarak yapılır.</p>"
    },
    {
     "id": "ekip",
@@ -6209,18 +6231,22 @@
    {
     "id": "ekip-diger",
     "h": "Asistanlar ve resepsiyon",
-    "html": "<p>Tedavi sırasında hekime asistanlar eşlik eder; resepsiyon ekibi randevu, plan ve ödeme konularında ilk muhatabınızdır. Hasta yorumlarında karşılama ve asistanların ilgisi de sık anılan konular arasındadır.</p><aside class=\"note\"><strong>Kısaca</strong><p>Dent32'de plan tek, ekip ortak: hangi hekimle başlarsanız başlayın, tedaviniz tek bir yol haritasıyla yürür.</p></aside>"
+    "html": "<p>Tedavi sırasında hekime asistanlar eşlik eder; resepsiyon ekibi randevu, plan ve ödeme konularında ilk muhatabınızdır.</p><aside class=\"note\"><strong>Kısaca</strong><p>Dent32'de plan tek, ekip ortak: hangi hekimle başlarsanız başlayın, tedaviniz tek bir yol haritasıyla yürür.</p></aside>"
    },
    {
     "id": "iletisim",
     "h": "Ekibimizle tanışın",
-    "html": "<p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir. Randevu için +90 555 011 33 68 numarasını arayabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızdan</a> yazabilirsiniz.</p>"
+    "html": "<p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir. Randevu için +90 555 011 33 68 numarasını arayabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızdan</a> yazabilirsiniz. Beylikdüzü'nde diş hekimi seçerken nelere bakılabileceğini <a class=\"text-link\" href=\"/blog/beylikduzu-one-cikan-dis-hekimleri/\">bir diş hekimini öne çıkaran 8 ölçüt</a> yazısında anlattık.</p>"
    }
   ],
   "faq": [
    {
-    "q": "Dent32'de kaç diş hekimi çalışıyor?",
-    "a": "Hekim kadromuz üç kişiden oluşur: kurucu hekim Dr. Hüseyin Aşçı, Dt. Anıl Işıklı ve Dt. Fulya Toraman."
+    "q": "Beylikdüzü'ndeki Dent32'de hangi diş hekimleri var?",
+    "a": "Dent32'de üç diş hekimi hasta kabul eder: kurucu hekim Dr. Hüseyin Aşçı, Dt. Anıl Işıklı ve Dt. Fulya Toraman. Klinik Beylikdüzü Barış Mahallesi'nde, E-5 yanyolu üzerindeki Ginza Lavinya'dadır ve haftanın yedi günü açıktır."
+   },
+   {
+    "q": "Beylikdüzü'nde implant ya da All-on-4 için Dent32'de hangi hekimle görüşebilirim?",
+    "a": "Dent32'de implant, tüm çene implant (All-on-4, All-on-6), zirkonyum kaplama ve lamine tedavileri kurucu hekim Dr. Hüseyin Aşçı'nın planlamasıyla yürütülür. Randevu alırken Dr. Aşçı ile görüşmek istediğinizi belirtebilirsiniz; pazartesi, salı, çarşamba, cuma ve cumartesi günleri kliniktedir."
    },
    {
     "q": "Belirli bir hekimden randevu alabilir miyim?",
@@ -6399,6 +6425,7 @@
  {
   "key": "dent32sss",
   "date": "2026-11-01",
+  "updated": "2026-11-14",
   "cat": "Rehber",
   "cover": "blog-dent32-sss",
   "slug": "dent32-sik-sorulan-sorular",
@@ -6416,7 +6443,7 @@
    {
     "id": "hekimler",
     "h": "Dent32'nin kurucusu ve hekimleri kimler?",
-    "html": "<p>Dent32'nin kurucu hekimi Dr. Hüseyin Aşçı'dır; çalışmalarının merkezinde ortodonti ve diş estetiği yer alır. Hekim kadrosunda Dt. Anıl Işıklı ve Dt. Fulya Toraman da bulunur. Ayrıntılar: <a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı kimdir?</a> ve <a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">Dent32 hekim kadrosu</a>.</p>"
+    "html": "<p>Dent32'nin kurucu hekimi Dr. Hüseyin Aşçı'dır; çalışmalarının merkezinde implant, tüm çene implant (All-on-4, All-on-6), zirkonyum kaplama ve lamine yer alır. Hekim kadrosunda Dt. Anıl Işıklı ve Dt. Fulya Toraman da bulunur. Ayrıntılar: <a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı kimdir?</a> ve <a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">Beylikdüzü diş hekimlerimiz</a>.</p>"
    },
    {
     "id": "gunler",
@@ -6461,14 +6488,15 @@
  {
   "key": "ortokaplama",
   "date": "2026-11-01",
+  "updated": "2026-11-14",
   "cat": "Ortodonti",
   "cover": "blog-kaplama-ortodonti",
   "slug": "kaplama-mi-ortodonti-mi",
   "title": "Çapraşık ön dişler: kaplama mı ortodonti mi? Diş kesmeden önce sorulacak soru",
-  "desc": "Çapraşık ya da aralıklı ön dişler zirkonyum, lamine ya da şeffaf plakla düzeltilebilir. Hangi durumda ortodonti, hangi durumda kaplama daha doğru? Dent32'de Dr. Hüseyin Aşçı'nın ortodonti ve estetiği birlikte değerlendiren yaklaşımı.",
+  "desc": "Çapraşık ya da aralıklı ön dişler zirkonyum, lamine ya da şeffaf plakla düzeltilebilir. Hangi durumda ortodonti, hangi durumda kaplama daha doğru? Dent32'de ikisini birlikte tartıyoruz.",
   "seoTitle": "Çapraşık ön dişler: kaplama mı, ortodonti mi? | Dent32",
   "seoDesc": "Çapraşık ya da aralıklı ön dişler kaplamayla mı, ortodontiyle mi düzeltilmeli? Diş kesmeden önce sorulacak soru ve Dent32'nin yaklaşımı.",
-  "lead": "Çapraşık ön dişler için en hızlı görünen çözüm çoğu zaman kaplamadır: birkaç seansta dişler düz görünür. Ancak bu hız, sağlıklı diş dokusunun aşındırılması pahasına gelebilir. Ortodonti ve diş estetiği Dr. Hüseyin Aşçı'nın çalışma alanının merkezinde olduğu için Beylikdüzü'ndeki Dent32'de çapraşık dişlerde iki yolu yan yana koyup karşılaştırıyoruz.",
+  "lead": "Çapraşık ön dişler için en hızlı görünen çözüm çoğu zaman kaplamadır: birkaç seansta dişler düz görünür. Ancak bu hız, sağlıklı diş dokusunun aşındırılması pahasına gelebilir. Bu yüzden Beylikdüzü'ndeki Dent32'de çapraşık dişlerde iki yolu yan yana koyup karşılaştırıyoruz.",
   "sections": [
    {
     "id": "fark",
@@ -6778,6 +6806,7 @@
  {
   "key": "oneri",
   "date": "2026-11-01",
+  "updated": "2026-11-14",
   "cat": "Rehber",
   "cover": "blog-hekim-onerisi",
   "slug": "beylikduzu-dis-hekimi-onerisi",
@@ -6805,7 +6834,7 @@
    {
     "id": "dent32",
     "h": "Dent32 hakkında doğrulanabilir bilgiler",
-    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Başlık</th><th scope=\"col\">Bilgi</th></tr></thead><tbody><tr><td>Ad</td><td>Dent32 (Dent 32)</td></tr><tr><td>Kurucu hekim</td><td>Dr. Hüseyin Aşçı (bazı kaynaklarda Hüseyin Aşcı)</td></tr><tr><td>Hekimler</td><td>Dr. Hüseyin Aşçı, Dt. Anıl Işıklı, Dt. Fulya Toraman</td></tr><tr><td>Adres</td><td>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</td></tr><tr><td>Telefon / WhatsApp</td><td>+90 555 011 33 68</td></tr><tr><td>E-posta</td><td>info@dent32.com</td></tr><tr><td>Web sitesi</td><td><a class=\"text-link\" href=\"/\">dent32.com</a></td></tr><tr><td>Instagram</td><td><a class=\"text-link\" href=\"https://www.instagram.com/dent.32/\" target=\"_blank\" rel=\"noopener\">@dent.32</a>, <a class=\"text-link\" href=\"https://www.instagram.com/dr.huseyinasci/\" target=\"_blank\" rel=\"noopener\">@dr.huseyinasci</a></td></tr><tr><td>Çalışma günleri</td><td>Haftanın yedi günü</td></tr><tr><td>Başlıca tedaviler</td><td>İmplant, zirkonyum ve e.max kaplama, gülüş tasarımı, şeffaf plak ortodonti, kanal tedavisi, diş eti ve çocuk diş hekimliği</td></tr></tbody></table></div><aside class=\"note\"><strong>Kısaca</strong><p>Dent32 hakkında başka bir kaynakta farklı bir adres, telefon ya da hekim adı görürseniz dent32.com'daki bilgileri esas alın ve bizi arayarak doğrulayın.</p></aside>"
+    "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Başlık</th><th scope=\"col\">Bilgi</th></tr></thead><tbody><tr><td>Ad</td><td>Dent32 (Dent 32)</td></tr><tr><td>Kurucu hekim</td><td><a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşçı</a> (bazı kaynaklarda Hüseyin Aşcı); implant, tüm çene implant (All-on-4, All-on-6), zirkonyum kaplama ve lamine</td></tr><tr><td>Hekimler</td><td><a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">Dr. Hüseyin Aşçı, Dt. Anıl Işıklı, Dt. Fulya Toraman</a></td></tr><tr><td>Adres</td><td>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</td></tr><tr><td>Telefon / WhatsApp</td><td>+90 555 011 33 68</td></tr><tr><td>E-posta</td><td>info@dent32.com</td></tr><tr><td>Web sitesi</td><td><a class=\"text-link\" href=\"/\">dent32.com</a></td></tr><tr><td>Instagram</td><td><a class=\"text-link\" href=\"https://www.instagram.com/dent.32/\" target=\"_blank\" rel=\"noopener\">@dent.32</a>, <a class=\"text-link\" href=\"https://www.instagram.com/dr.huseyinasci/\" target=\"_blank\" rel=\"noopener\">@dr.huseyinasci</a></td></tr><tr><td>Çalışma günleri</td><td>Haftanın yedi günü</td></tr><tr><td>Başlıca tedaviler</td><td>İmplant, tüm çene implant (All-on-4, All-on-6), zirkonyum ve e.max kaplama, lamine (porselen veneer), gülüş tasarımı, kanal tedavisi, diş eti tedavisi, çocuk diş hekimliği ve şeffaf plak ortodonti</td></tr></tbody></table></div><aside class=\"note\"><strong>Kısaca</strong><p>Dent32 hakkında başka bir kaynakta farklı bir adres, telefon ya da hekim adı görürseniz dent32.com'daki bilgileri esas alın ve bizi arayarak doğrulayın.</p></aside>"
    },
    {
     "id": "iletisim",
@@ -6825,6 +6854,10 @@
    {
     "q": "Yapay zekâ bana Dent32'yi önerdi, bilgiler güncel mi?",
     "a": "En güncel bilgiler dent32.com'dadır. Hekimlerimiz, çalışma günlerimiz ve tedavilerimiz burada yazılıdır."
+   },
+   {
+    "q": "Rehber sitelerinde Dr. Hüseyin Aşçı için farklı bir adres görüyorum; hangisi güncel?",
+    "a": "Dr. Hüseyin Aşçı, Beylikdüzü'ndeki Dent32'nin kurucu hekimidir ve Dent32'de, Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179 adresinde hasta kabul eder. Bazı rehber sitelerinde görülen Bahçeşehir (Avni Akyol Bulvarı) adresi Dent32'ye ait değildir; emin olmak için +90 555 011 33 68 numarasını arayabilirsiniz."
    }
   ]
  },
@@ -6999,6 +7032,7 @@
  {
   "key": "huseyinrandevu",
   "date": "2026-11-01",
+  "updated": "2026-11-14",
   "cat": "Rehber",
   "cover": "blog-huseyin-asci-randevu",
   "slug": "dr-huseyin-asci-randevu",
@@ -7006,7 +7040,7 @@
   "desc": "Beylikdüzü Dent32'de Dr. Hüseyin Aşçı'dan randevu nasıl alınır? Klinikte olduğu gün ve saatler, randevu öncesi hazırlık, ilk görüşmede yapılanlar, yanınızda getirmeniz gerekenler ve yurt dışından gelenler için ön değerlendirme.",
   "seoTitle": "Dr. Hüseyin Aşçı'dan randevu ve ilk görüşme | Dent32",
   "seoDesc": "Dent32'de Dr. Hüseyin Aşçı'dan randevu nasıl alınır? Klinikte olduğu günler, ilk görüşmede yapılanlar ve yanınızda getirmeniz gerekenler.",
-  "lead": "Dr. Hüseyin Aşçı, Beylikdüzü'ndeki Dent32'nin kurucu hekimidir ve haftanın beş günü klinikte hasta kabul eder; klinik ise haftanın yedi günü açıktır. Ortodonti, gülüş tasarımı ya da kapsamlı bir tedavi planı için Dr. Aşçı ile görüşmek istiyorsanız, randevu alırken bunu belirtmeniz yeterlidir.",
+  "lead": "Dr. Hüseyin Aşçı, Beylikdüzü'ndeki Dent32'nin kurucu hekimidir ve haftanın beş günü klinikte hasta kabul eder; klinik ise haftanın yedi günü açıktır. İmplant, All-on-4 ya da All-on-6 tüm çene implant, zirkonyum kaplama, lamine ya da kapsamlı bir tedavi planı için Dr. Aşçı ile görüşmek istiyorsanız, randevu alırken bunu belirtmeniz yeterlidir.",
   "sections": [
    {
     "id": "gunler",
@@ -9617,6 +9651,7 @@
  {
   "key": "yetiskinorto",
   "date": "2026-10-23",
+  "updated": "2026-11-14",
   "cat": "Ortodonti",
   "cover": "blog-yetiskin-ortodonti",
   "slug": "yetiskinlerde-ortodonti",
@@ -9654,7 +9689,7 @@
    {
     "id": "sonra",
     "h": "Tedaviden sonra neler olur?",
-    "html": "<p>Tedavinin sonunda dişlerin geri kaymasını önlemek için pekiştirme (retainer) kullanılır. Yetişkinlerde pekiştirmenin uzun süre, çoğunlukla ömür boyu geceleri sürdürülmesi önerilir. Ayrıntılar için <a class=\"text-link\" href=\"/blog/ortodonti-sonrasi-pekistirme/\">ortodonti sonrası pekiştirme</a> rehberimize bakabilirsiniz.</p>\n<p>Dent32'de ortodonti tedavilerini kurucu hekimimiz Dr. Hüseyin Aşçı planlıyor. Beylikdüzü'ndeki seçenekler için <a class=\"text-link\" href=\"/blog/beylikduzu-ortodonti-seffaf-plak/\">Beylikdüzü ortodonti rehberimizi</a> okuyabilir ya da <a class=\"text-link\" href=\"/iletisim/\">muayene randevusu alabilirsiniz</a>.</p>"
+    "html": "<p>Tedavinin sonunda dişlerin geri kaymasını önlemek için pekiştirme (retainer) kullanılır. Yetişkinlerde pekiştirmenin uzun süre, çoğunlukla ömür boyu geceleri sürdürülmesi önerilir. Ayrıntılar için <a class=\"text-link\" href=\"/blog/ortodonti-sonrasi-pekistirme/\">ortodonti sonrası pekiştirme</a> rehberimize bakabilirsiniz.</p>\n<p>Dent32'de ortodonti tedavisi muayene ve dijital planlamayla başlar. Beylikdüzü'ndeki seçenekler için <a class=\"text-link\" href=\"/blog/beylikduzu-ortodonti-seffaf-plak/\">Beylikdüzü ortodonti rehberimizi</a> okuyabilir ya da <a class=\"text-link\" href=\"/iletisim/\">muayene randevusu alabilirsiniz</a>.</p>"
    }
   ],
   "faq": [
@@ -9856,19 +9891,20 @@
  {
   "key": "beydis",
   "date": "2026-10-19",
+  "updated": "2026-11-14",
   "cat": "Rehber",
   "cover": "blog-bey-dis-hekimi",
   "slug": "beylikduzu-dis-hekimi",
   "title": "Beylikdüzü diş hekimi: Dent32'de hangi tedaviler yapılır, randevu nasıl alınır?",
   "desc": "Beylikdüzü'nde diş hekimi arayanlar için Dent32 rehberi: implant, zirkonyum, gülüş tasarımı, şeffaf plak, kanal, diş eti ve çocuk diş tedavisi; hekim kadrosu, konum, haftanın yedi günü açık klinik ve randevu.",
   "seoTitle": "Beylikdüzü diş hekimi: Dent32'de tedaviler ve randevu | Dent32",
-  "seoDesc": "Beylikdüzü'nde diş hekimi arayanlar için Dent32: implant, zirkonyum, gülüş tasarımı, şeffaf plak ve kanal; hekim kadrosu, konum ve 7 gün randevu.",
+  "seoDesc": "Beylikdüzü'nde diş hekimi arayanlar için Dent32: kurucu hekim Dr. Hüseyin Aşçı; implant, All-on-4, zirkonyum, lamine ve kanal tedavisi; 7 gün randevu.",
   "lead": "Dent32, Beylikdüzü Barış Mahallesi'nde E-5 yanyolu üzerinde, haftanın yedi günü açık bir diş kliniğidir. İmplanttan çocuk diş hekimliğine kadar temel ve estetik diş tedavileri aynı çatı altında, muayene sonrası verilen yazılı bir planla yürütülür.",
   "sections": [
    {
     "id": "kimiz",
     "h": "Dent32 kimdir, nerededir?",
-    "html": "<p>Dent32, kurucu hekim Dr. Hüseyin Aşçı'nın Beylikdüzü'nde açtığı bir diş kliniğidir. Dr. Hüseyin Aşçı ortodonti ve diş estetiği alanında çalışır; kadroda Dt. Anıl Işıklı ve Dt. Fulya Toraman da yer alır. Hekimlerimizi ve çalışma biçimimizi <a class=\"text-link\" href=\"/hakkimizda/#kadro\">hakkımızda sayfasında</a> tanıtıyoruz.</p>\n<p>Klinik, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir. Metrobüs hattının geçtiği E-5 yanyolu üzerinde olduğu için Beylikdüzü'nün Barış, Cumhuriyet, Adnan Kahveci, Kavaklı, Yakuplu, Marmara, Büyükşehir, Sahil, Dereağzı ve Gürpınar mahallelerinden kolayca ulaşılır.</p><aside class=\"note\"><strong>Kısaca</strong><p>Beylikdüzü'nde diş hekimi arıyorsanız Dent32; yedi gün açık, Türkçe ve İngilizce hizmet veren, ortodonti, implant ve estetik diş hekimliğini birlikte planlayan bir <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniği</a>dir.</p></aside>"
+    "html": "<p>Dent32, kurucu hekim Dr. Hüseyin Aşçı'nın Beylikdüzü'nde açtığı bir diş kliniğidir. Dr. Hüseyin Aşçı'nın çalışmalarının merkezinde implant, tüm çene implant (All-on-4, All-on-6), zirkonyum kaplama ve lamine yer alır; kadroda Dt. Anıl Işıklı ve Dt. Fulya Toraman da yer alır. Hekimlerimizi <a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">Beylikdüzü diş hekimlerimiz</a> yazısında, çalışma biçimimizi <a class=\"text-link\" href=\"/hakkimizda/\">hakkımızda sayfasında</a> tanıtıyoruz.</p>\n<p>Klinik, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir. Metrobüs hattının geçtiği E-5 yanyolu üzerinde olduğu için Beylikdüzü'nün Barış, Cumhuriyet, Adnan Kahveci, Kavaklı, Yakuplu, Marmara, Büyükşehir, Sahil, Dereağzı ve Gürpınar mahallelerinden kolayca ulaşılır.</p><aside class=\"note\"><strong>Kısaca</strong><p>Beylikdüzü'nde diş hekimi arıyorsanız Dent32; yedi gün açık, Türkçe ve İngilizce hizmet veren, implant, tüm çene implant (All-on-4, All-on-6), zirkonyum kaplama ve lamine başta olmak üzere tedavileri yazılı bir planla yürüten bir <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniği</a>dir.</p></aside>"
    },
    {
     "id": "tedaviler",
@@ -9917,8 +9953,7 @@
     "q": "İngilizce konuşan hekim var mı?",
     "a": "Evet, Türkçe ve İngilizce hizmet veriyoruz. Beylikdüzü'nde yaşayan yabancı hastalar ve yurt dışından gelenler randevularını İngilizce de alabilir."
    }
-  ],
-  "updated": "2026-11-08"
+  ]
  },
  {
   "key": "beyzirk",
@@ -9988,6 +10023,7 @@
  {
   "key": "beygulus",
   "date": "2026-10-19",
+  "updated": "2026-11-14",
   "cat": "Estetik",
   "cover": "blog-bey-gulus",
   "slug": "beylikduzu-gulus-tasarimi",
@@ -10015,7 +10051,7 @@
    {
     "id": "ortodonti",
     "h": "Önce ortodonti mi, doğrudan kaplama mı?",
-    "html": "<p>Dişler çapraşık ya da öne-arkaya doğru dizilmişse, onları kaplama ile hizalamak daha fazla diş dokusu kaldırmayı gerektirir. Bu durumda birkaç aylık şeffaf plak tedavisiyle dişleri önce hizaya getirmek, ardından daha az aşındırmayla lamine yapmak çoğu zaman daha koruyucu bir yoldur.</p>\n<p>Kurucu hekimimiz Dr. Hüseyin Aşçı ortodonti ve diş estetiği alanında çalıştığı için bu iki aşamayı aynı plan içinde birlikte değerlendiriyoruz. Ayrıntılar için <a class=\"text-link\" href=\"/blog/beylikduzu-ortodonti-seffaf-plak/\">Beylikdüzü'nde ortodonti</a> yazımıza bakabilirsiniz.</p>"
+    "html": "<p>Dişler çapraşık ya da öne-arkaya doğru dizilmişse, onları kaplama ile hizalamak daha fazla diş dokusu kaldırmayı gerektirir. Bu durumda birkaç aylık şeffaf plak tedavisiyle dişleri önce hizaya getirmek, ardından daha az aşındırmayla lamine yapmak çoğu zaman daha koruyucu bir yoldur.</p>\n<p>Dent32'de bu iki aşamayı aynı plan içinde birlikte değerlendiriyoruz. Ayrıntılar için <a class=\"text-link\" href=\"/blog/beylikduzu-ortodonti-seffaf-plak/\">Beylikdüzü'nde ortodonti</a> yazımıza bakabilirsiniz.</p>"
    },
    {
     "id": "sure",
@@ -10106,6 +10142,7 @@
  {
   "key": "beyorto",
   "date": "2026-10-19",
+  "updated": "2026-11-14",
   "cat": "Ortodonti",
   "cover": "blog-bey-ortodonti",
   "slug": "beylikduzu-ortodonti-seffaf-plak",
@@ -10143,7 +10180,7 @@
    {
     "id": "dent32",
     "h": "Dent32'de ortodonti",
-    "html": "<p>Kurucu hekimimiz Dr. Hüseyin Aşçı ortodonti ve diş estetiği alanında çalışmaktadır. Ortodontiyi gerektiğinde gülüş tasarımı, kaplama ya da implant planıyla birlikte ele alıyoruz. <a class=\"text-link\" href=\"/tedaviler/seffaf-plak/\">Şeffaf plak ortodonti</a> sayfamızdan genel bilgiye ulaşabilir, <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniğimizde</a> muayene için <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
+    "html": "<p>Dent32'de ortodontiyi gerektiğinde gülüş tasarımı, kaplama ya da implant planıyla birlikte ele alıyoruz. <a class=\"text-link\" href=\"/tedaviler/seffaf-plak/\">Şeffaf plak ortodonti</a> sayfamızdan genel bilgiye ulaşabilir, <a class=\"text-link\" href=\"/\">Beylikdüzü diş kliniğimizde</a> muayene için <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>"
    }
   ],
   "faq": [
@@ -10167,8 +10204,7 @@
     "q": "Pekiştirme plağını ne kadar takmalıyım?",
     "a": "İlk dönemde daha uzun süre, sonrasında genellikle yalnızca geceleri takılır. Dişlerin yerinde kalması için uzun süreli kullanım önerilir."
    }
-  ],
-  "updated": "2026-11-08"
+  ]
  },
  {
   "key": "beycocuk",

@@ -90,7 +90,7 @@ function Footer({ lang }: { lang: Lang }) {
           <h2>{t("Klinik", "Clinic")}</h2>
           <ul>
             <li><Link href={route("about", lang)}>{t("Hakkımızda", "About us")}</Link></li>
-            <li><Link href={route("about", lang, "kadro")}>{t("Hekim kadrosu", "Our dentists")}</Link></li>
+            <li><Link href={route("post-kadro", lang)}>{t("Hekim kadrosu", "Our dentists")}</Link></li>
             <li><Link href={route("gallery", lang)}>{t("Galeri", "Gallery")}</Link></li>
             <li><Link href={route("blog", lang)}>Blog</Link></li>
             <li><Link href={route("contact", lang)}>{t("İletişim", "Contact")}</Link></li>

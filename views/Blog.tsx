@@ -6,7 +6,7 @@ import { BlogCard, PageHead } from "@/components/blocks";
 import { Icon } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
-import { breadcrumbLd, DENTIST_ID, jsonLd, pageMetadata } from "@/lib/seo";
+import { breadcrumbLd, DENTIST_ID, jsonLd, pageMetadata, postExtraLd } from "@/lib/seo";
 import {
   absUrl, ADDRESS, BLOG_CATS, BLOG_PER_PAGE, type BlogCat, blogListKey, blogPageCount, dateLong, type Lang, OFFICIAL_NAME, PHONE, PHONE_E164,
   type Post, POSTS, postsInCat, readMinutes, route, SITE, translator, treatmentForPost, WA,
@@ -143,12 +143,14 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
     "@context": "https://schema.org", "@type": "FAQPage",
     mainEntity: post.faq.map(({ q, a }) => ({ "@type": "Question", name: q, acceptedAnswer: { "@type": "Answer", text: a.replace(/<[^>]+>/g, "") } })),
   };
+  const extraLd = postExtraLd(post.key, lang, post.title);
 
   return (
     <Shell lang={lang} pageKey={`post-${post.key}`}>
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(posting)} />
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(faqLd)} />
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(crumbs)} />
+      {extraLd && <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(extraLd)} />}
       <div className="wrap post-wrap">
         {/* Başlık bloğu ve gövde aynı sütunda; içindekiler başlığın hizasından başlar */}
         <div className="post-layout">

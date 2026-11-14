@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import {
-  absUrl, CLINIC_HOURS, EMAIL, GEO, GMB, type Lang, OFFICIAL_NAME, type PageKey, PHONE_E164, route, SITE, SOCIAL, STREET, TEAM, translator,
+  absUrl, CLINIC_HOURS, EMAIL, GEO, GMB, type Lang, OFFICIAL_NAME, type PageKey, PHONE_E164, PRESS, route, SITE, SOCIAL, STREET, TEAM, translator,
   TREATMENTS,
 } from "@/lib/site";
 
@@ -49,13 +49,84 @@ const AREA_SERVED = ["Beylikdüzü", "Esenyurt", "Büyükçekmece", "Avcılar", 
 /** Kliniğin aranırken kullanılan diğer adları */
 const ALTERNATE_NAMES = [OFFICIAL_NAME, "Dent32 Beylikdüzü", "Dent32 Beylikdüzü Diş Kliniği", "Dent32 Beylikdüzü Diş Polikliniği", "Dent32 Diş Kliniği", "Dent 32"];
 
+/** Kliniğin öne çıkardığı tedaviler (JSON-LD knowsAbout); kurucu hekimin çalışma alanıyla aynı */
+const CLINIC_FOCUS: Record<Lang, string[]> = {
+  tr: ["İmplant tedavisi", "Tüm çene implant (All-on-4, All-on-6)", "Zirkonyum kaplama", "Lamine (porselen veneer)", "Gülüş tasarımı", "İmplant üstü protez"],
+  en: ["Dental implants", "Full-arch implants (All-on-4, All-on-6)", "Zirconia crowns", "Porcelain veneers", "Smile design", "Implant-supported dentures"],
+};
+
+const FOUNDER_ID = `${SITE}/#huseyin-asci`;
+const FOUNDER_IMG = "hekim-huseyin-asci";
+
+/** Hekimlerin çalıştığı yer: rehber sitelerindeki eski adreslerle karışmasın diye her hekim kaydında Beylikdüzü adresi yazılır */
+const workPlace = () => ({
+  "@type": "Place", name: "Dent32, Beylikdüzü",
+  address: { "@type": "PostalAddress", streetAddress: STREET, addressLocality: "Beylikdüzü", addressRegion: "İstanbul", postalCode: "34520", addressCountry: "TR" },
+});
+
+/**
+ * Kurucu hekim Dr. Hüseyin Aşçı: klinik kaydında (founder) ve profil yazısında (ProfilePage) aynı nesne.
+ * Çalışma alanı implant, tüm çene implant, zirkonyum ve lamine; ortodontiyle anılmaması klinik tercihidir.
+ */
+export function founderLd(lang: Lang) {
+  const t = translator(lang);
+  return {
+    "@type": "Person", "@id": FOUNDER_ID, name: "Dr. Hüseyin Aşçı", alternateName: ["Hüseyin Aşçı", "Hüseyin Aşcı", "Dt. Hüseyin Aşçı"],
+    jobTitle: t("Diş hekimi, Dent32 kurucusu", "Dentist, founder of Dent32"),
+    description: t("Beylikdüzü'ndeki Dent32'nin kurucu diş hekimi; klinik çalışmalarının merkezinde implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama ve lamine yer alır.",
+      "Founding dentist of Dent32 in Beylikdüzü, Istanbul; his clinical work centres on dental implants, All-on-4 and All-on-6 full-arch implants, zirconia crowns and porcelain veneers."),
+    url: absUrl("post-huseyinasci", lang), image: `${SITE}/img/${FOUNDER_IMG}.webp`,
+    alumniOf: { "@type": "CollegeOrUniversity", name: "İstanbul Üniversitesi Diş Hekimliği Fakültesi" },
+    hasOccupation: {
+      "@type": "Occupation", name: t("Diş hekimi", "Dentist"),
+      occupationLocation: { "@type": "City", name: "Beylikdüzü, İstanbul" },
+      skills: CLINIC_FOCUS[lang].join(", "),
+    },
+    knowsAbout: CLINIC_FOCUS[lang],
+    worksFor: { "@id": DENTIST_ID }, workLocation: workPlace(),
+    knowsLanguage: ["tr", "en"],
+    sameAs: ["https://www.instagram.com/dr.huseyinasci/"],
+    subjectOf: PRESS.outlets.map((o) => ({
+      "@type": "NewsArticle", headline: PRESS.title, datePublished: PRESS.date, url: o.url, publisher: { "@type": "Organization", name: o.name },
+    })),
+  };
+}
+
+type TeamMember = (typeof TEAM)[number];
+
+/** Kadrodaki hekim: kurucu hekim yalnızca @id ile anılır (ayrıntılar founderLd'de), diğerleri ad ve unvanla (portrelerin kaynağı doğrulanana dek görsel yok) */
+function teamMemberLd(m: TeamMember, lang: Lang) {
+  if (m.img === FOUNDER_IMG) return { "@type": "Person", "@id": FOUNDER_ID, name: m.name, url: absUrl("post-huseyinasci", lang) };
+  return {
+    "@type": "Person", name: m.name, jobTitle: m.role[lang], url: absUrl("post-kadro", lang),
+    worksFor: { "@id": DENTIST_ID }, workLocation: workPlace(),
+  };
+}
+
+/** Bazı yazılara özel ek JSON-LD: hekim profili (ProfilePage) ve hekim kadrosu (ItemList) */
+export function postExtraLd(key: string, lang: Lang, title: string) {
+  if (key === "huseyinasci") {
+    return {
+      "@context": "https://schema.org", "@type": "ProfilePage", url: absUrl("post-huseyinasci", lang), name: title, inLanguage: lang,
+      mainEntity: founderLd(lang),
+    };
+  }
+  if (key === "kadro") {
+    return {
+      "@context": "https://schema.org", "@type": "ItemList", name: title, url: absUrl("post-kadro", lang),
+      itemListElement: TEAM.map((m, i) => ({ "@type": "ListItem", position: i + 1, item: m.img === FOUNDER_IMG ? founderLd(lang) : teamMemberLd(m, lang) })),
+    };
+  }
+  return null;
+}
+
 export function dentistLd(lang: Lang) {
   const t = translator(lang);
   return {
     "@context": "https://schema.org", "@type": "Dentist", "@id": DENTIST_ID, name: "Dent32",
     alternateName: ALTERNATE_NAMES,
-    description: t("Beylikdüzü, İstanbul'da ağız ve diş sağlığı polikliniği (diş kliniği): implant, zirkonyum kaplama, gülüş tasarımı, şeffaf plak, kanal tedavisi, diş eti tedavisi ve çocuklarda diş tedavisi.",
-      "Dental polyclinic (dental clinic) in Beylikdüzü, Istanbul: implants, zirconia crowns, smile design, clear aligners, root canal treatment, gum care and dental care for children."),
+    description: t("Beylikdüzü, İstanbul'da ağız ve diş sağlığı polikliniği (diş kliniği): implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama, lamine (porselen veneer), gülüş tasarımı, kanal tedavisi, diş eti tedavisi, çocuklarda diş tedavisi ve şeffaf plak.",
+      "Dental polyclinic (dental clinic) in Beylikdüzü, Istanbul: implants, All-on-4 and All-on-6 full-arch implants, zirconia crowns, porcelain veneers, smile design, root canal treatment, gum care, dental care for children and clear aligners."),
     // Aynı adı taşıyan başka şehirlerdeki kliniklerle karıştırılmasın
     disambiguatingDescription: t("İstanbul Beylikdüzü, Barış Mahallesi'ndeki (Ginza Lavinya, E-5 yanyolu) Dent32 Ağız ve Diş Sağlığı Polikliniği; kurucusu Dr. Hüseyin Aşçı.",
       "Dent32 dental clinic in Barış, Beylikdüzü, Istanbul (Ginza Lavinya, E-5 service road), founded by Dr. Hüseyin Aşçı."),
@@ -69,19 +140,10 @@ export function dentistLd(lang: Lang) {
     availableService: TREATMENTS.map((tr) => ({
       "@type": "MedicalProcedure", name: tr.title[lang], description: tr.short[lang], url: SITE + route(`treat-${tr.id}`, lang),
     })),
-    founder: {
-      "@type": "Person", "@id": `${SITE}/#huseyin-asci`, name: "Dr. Hüseyin Aşçı", alternateName: ["Hüseyin Aşçı", "Hüseyin Aşcı"],
-      jobTitle: t("Diş hekimi, Dent32 kurucusu", "Dentist, founder of Dent32"), url: absUrl("about", lang),
-      image: `${SITE}/img/hekim-huseyin-asci.webp`,
-      alumniOf: { "@type": "CollegeOrUniversity", name: "İstanbul Üniversitesi Diş Hekimliği Fakültesi" },
-      knowsAbout: t("Şeffaf plak, çapraşık dişlerin düzeltilmesi, gülüş tasarımı, diş estetiği", "Clear aligners, straightening crowded teeth, smile design, aesthetic dentistry"),
-      sameAs: ["https://www.instagram.com/dr.huseyinasci/"],
-    },
+    knowsAbout: CLINIC_FOCUS[lang],
+    founder: founderLd(lang),
     // Kurucu hekim aynı @id ile anılır; Google iki kaydı tek kişi olarak birleştirir
-    employee: TEAM.map((m) => ({
-      "@type": "Person", ...(m.img === "hekim-huseyin-asci" && { "@id": `${SITE}/#huseyin-asci` }),
-      name: m.name, jobTitle: m.role[lang], image: `${SITE}/img/${m.img}.webp`, url: absUrl("about", lang),
-    })),
+    employee: TEAM.map((m) => teamMemberLd(m, lang)),
     availableLanguage: ["tr", "en"],
     ...(CLINIC_HOURS && {
       openingHoursSpecification: [{

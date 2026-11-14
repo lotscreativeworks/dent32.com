@@ -16,8 +16,9 @@ const LOCAL_GUIDES: [string, string, string][] = [
   ["beypoli", "Diş polikliniği mi, diş kliniği mi?", "Dental polyclinic or clinic?"],
   ["ruhsat", "Ruhsatlı diş polikliniği nasıl anlaşılır?", "Is the dental practice licensed?"],
   ["huseyinasci", "Dr. Hüseyin Aşçı kimdir?", "Who is Dr. Hüseyin Aşçı?"],
-  ["kadro", "Dent32 hekim kadrosu", "Dent32's dentists"],
+  ["kadro", "Beylikdüzü diş hekimlerimiz", "Our dentists in Beylikdüzü"],
   ["beyimplant", "İmplant tedavisi", "Dental implants"],
+  ["beyallon4", "All-on-4 ve tüm çene implant", "All-on-4 and full-arch implants"],
   ["beyzirk", "Zirkonyum kaplama", "Zirconia crowns"],
   ["beylamine", "Lamine kaplama", "Laminate veneers"],
   ["beygulus", "Gülüş tasarımı", "Smile design"],
@@ -37,6 +38,7 @@ export function Home({ lang }: { lang: Lang }) {
 
   const faq = lang === "tr" ? [
     { q: "Dent32 Beylikdüzü'nün neresinde?", a: `Barış Mahallesi'nde, E-5 yanyolu üzerindeki Ginza Lavinya'dayız (No:30 D:179, 34520 Beylikdüzü / İstanbul). Esenyurt, Avcılar ve Büyükçekmece'den de kolayca ulaşılır; harita ve yol tarifi <a class="text-link" href="${route("contact", lang)}">iletişim sayfamızda</a>.` },
+    { q: "Dent32'de hangi diş hekimleri var?", a: `Beylikdüzü'ndeki kliniğimizde üç diş hekimi hasta kabul eder: kurucu hekim Dr. Hüseyin Aşçı, Dt. Anıl Işıklı ve Dt. Fulya Toraman. Dr. Aşçı'nın klinik çalışmalarının merkezinde implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama ve lamine yer alır. Hekimlerimizi <a class="text-link" href="${route("post-kadro", lang)}">Beylikdüzü diş hekimlerimiz</a> yazısında tanıtıyoruz.` },
     { q: "Hafta sonu ve pazar günü açık mısınız?", a: `Evet, klinik haftanın yedi günü açıktır. Güncel saatler ve randevu için WhatsApp'tan yazabilirsiniz. Hafta sonu yapılabilen işlemleri <a class="text-link" href="${route("post-beyhaftasonu", lang)}">bu yazımızda</a> anlattık.` },
     { q: "İlk muayenede ne yapılıyor?", a: "Ağız içi muayene yapıyor, gerekirse röntgen ya da tomografi çekiyoruz. Ardından bulguları anlatıyor, tedavi seçeneklerini ve yaklaşık maliyeti yazılı olarak paylaşıyoruz. Muayene sonrası tedaviye başlamak zorunda değilsiniz." },
     { q: "Tedavi fiyatlarını önceden öğrenebilir miyim?", a: "Fiyat; diş sayısına, kullanılacak malzemeye ve ek işlem gerekip gerekmediğine göre değişir. Fotoğraf ve röntgen gönderirseniz ön bilgi verebiliriz; kesin plan ve maliyet muayeneden sonra kalem kalem yazılı olarak verilir." },
@@ -44,6 +46,7 @@ export function Home({ lang }: { lang: Lang }) {
     { q: "Tedavi sırasında ağrı hissedecek miyim?", a: "İşlemlerin çoğu lokal anestezi altında yapılır ve tedavi sırasında belirgin ağrı beklenmez. İşlem sonrası olabilecek hassasiyeti ve ne yapmanız gerektiğini önceden anlatırız. Diş hekimi kaygınız varsa randevu alırken bize söyleyin." },
   ] : [
     { q: "Where in Beylikdüzü is Dent32?", a: `We're at Ginza Lavinya on the E-5 service road in Barış (No:30 D:179, 34520 Beylikdüzü, Istanbul), easy to reach from Esenyurt, Avcılar and Büyükçekmece too. The map and directions are on our <a class="text-link" href="${route("contact", lang)}">contact page</a>.` },
+    { q: "Which dentists work at Dent32?", a: `Three dentists see patients at our clinic in Beylikdüzü: founder Dr. Hüseyin Aşçı, Dt. Anıl Işıklı and Dt. Fulya Toraman. Dr. Aşçı's clinical work centres on dental implants, All-on-4 and All-on-6 full-arch implants, zirconia crowns and porcelain veneers. Meet them in <a class="text-link" href="${route("post-kadro", lang)}">our dentists in Beylikdüzü</a>.` },
     { q: "Are you open at weekends and on Sundays?", a: `Yes, the clinic is open seven days a week. Message us on WhatsApp for current hours and appointments. We explain what can be done at the weekend in <a class="text-link" href="${route("post-beyhaftasonu", lang)}">this article</a>.` },
     { q: "What happens at the first examination?", a: "We carry out a clinical examination and take X-rays or a CT scan if needed. We then explain the findings and share the treatment options and an approximate cost in writing. You're under no obligation to start treatment after the examination." },
     { q: "Can I find out treatment prices in advance?", a: "Price depends on the number of teeth, the materials used and whether additional procedures are needed. If you send photos and X-rays we can give preliminary information; the final plan and cost are given in writing, itemised, after the examination." },
@@ -109,9 +112,9 @@ export function Home({ lang }: { lang: Lang }) {
             <h2>{t("Kişisel bir tedavi, açık bir plan.", "Personal treatment, a clear plan.")}</h2>
             <p>{t("Dent32, Dr. Hüseyin Aşçı'nın Beylikdüzü'nde kurduğu bir ağız ve diş sağlığı polikliniğidir. Her tedaviye ayrıntılı bir muayene ve gerekirse dijital görüntülemeyle başlıyoruz. Ne yapacağımızı, neden yapacağımızı ve alternatiflerin neler olduğunu tedaviye başlamadan önce anlatıyoruz.",
               "Dent32 is a dental polyclinic (dental practice) founded by Dr. Hüseyin Aşçı in Beylikdüzü, Istanbul. Every treatment begins with a thorough examination and, where needed, digital imaging. Before we start, we explain what we'll do, why, and what the alternatives are.")}</p>
-            <p>{t("Klinik haftanın yedi günü açıktır. Ortodonti, implant ve estetik diş hekimliğinde aynı çatı altında, birlikte plan yapan bir ekiple çalışıyoruz.",
-              "The clinic is open seven days a week. Orthodontics, implants and aesthetic dentistry are under one roof, with a team that plans together.")}</p>
-            <Link className="btn btn-line" href={route("about", lang, "kadro")}>{t("Hekim kadrosu", "Meet our dentists")} <Icon name="arrow" /></Link>
+            <p>{t("Klinik haftanın yedi günü açıktır. Kurucu hekimimiz Dr. Hüseyin Aşçı'nın klinik çalışmalarının merkezinde implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama ve lamine yer alır; üç diş hekimimizle birlikte plan yapan bir ekip olarak çalışıyoruz.",
+              "The clinic is open seven days a week. Our founding dentist Dr. Hüseyin Aşçı's clinical work centres on dental implants, All-on-4 and All-on-6 full-arch implants, zirconia crowns and porcelain veneers, and our three dentists plan together as one team.")}</p>
+            <Link className="btn btn-line" href={route("post-kadro", lang)}>{t("Hekim kadrosu", "Meet our dentists")} <Icon name="arrow" /></Link>
           </div>
         </div>
       </section>
@@ -177,8 +180,8 @@ export function Home({ lang }: { lang: Lang }) {
           <div className="rv">
             <p className="eyebrow">Beylikdüzü</p>
             <h2 id="h-local">{t("Beylikdüzü'nde diş kliniği", "A dental clinic in Beylikdüzü")}</h2>
-            <p>{t(`${OFFICIAL_NAME}, Beylikdüzü Barış Mahallesi'nde, E-5 yanyolu üzerindeki Ginza Lavinya'da hizmet veren bir diş polikliniğidir; kısaca Beylikdüzü diş kliniği olarak da aranır. İmplant, zirkonyum ve lamine kaplama, gülüş tasarımı, şeffaf plak ortodonti, diş beyazlatma, kanal tedavisi, diş eti tedavisi ve çocuklarda diş tedavisi aynı çatı altında, birlikte plan yapan bir hekim ekibiyle yürütülür.`,
-              `${OFFICIAL_NAME} (Dent32 Dental Polyclinic) is a dental practice at Ginza Lavinya on the E-5 service road in Barış, Beylikdüzü. Implants, zirconia crowns and veneers, smile design, clear aligner orthodontics, teeth whitening, root canal treatment, gum care and dental care for children are all under one roof, with a team that plans together.`)}</p>
+            <p>{t(`${OFFICIAL_NAME}, Beylikdüzü Barış Mahallesi'nde, E-5 yanyolu üzerindeki Ginza Lavinya'da hizmet veren bir diş polikliniğidir; kısaca Beylikdüzü diş kliniği olarak da aranır. İmplant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum ve lamine kaplama, gülüş tasarımı, diş beyazlatma, kanal tedavisi, diş eti tedavisi, çocuklarda diş tedavisi ve şeffaf plak ortodonti aynı çatı altında, birlikte plan yapan bir hekim ekibiyle yürütülür.`,
+              `${OFFICIAL_NAME} (Dent32 Dental Polyclinic) is a dental practice at Ginza Lavinya on the E-5 service road in Barış, Beylikdüzü. Implants, All-on-4 and All-on-6 full-arch implants, zirconia crowns and veneers, smile design, teeth whitening, root canal treatment, gum care, dental care for children and clear aligner orthodontics are all under one roof, with a team that plans together.`)}</p>
             <p>{t("Klinik hafta sonu dahil her gün açıktır. Beylikdüzü'nün tüm mahallelerinden ve Esenyurt, Avcılar, Büyükçekmece gibi komşu ilçelerden gelen hastalarımız için randevuları ziyaret sayısını azaltacak şekilde planlıyoruz. Türkçe ve İngilizce hizmet veriyoruz.",
               "The clinic is open every day, including weekends. For patients from every part of Beylikdüzü and neighbouring districts such as Esenyurt, Avcılar and Büyükçekmece, we plan appointments to keep the number of visits down. We work in Turkish and English.")}</p>
             <ul className="info">

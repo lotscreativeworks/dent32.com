@@ -680,6 +680,12 @@ a.pager__num:hover, .pager__step:hover { border-color: var(--ink); }
 .post__meta svg { width: 16px; height: 16px; color: var(--blue-deep); }
 .post__cover { margin: 0 0 40px; border-radius: var(--radius-lg); overflow: hidden; aspect-ratio: 4 / 3; background: var(--mist); }
 .post__cover img { width: 100%; height: 100%; object-fit: cover; }
+/* Yazı içinde hekim portresi (hekim kadrosu yazısı) */
+.prose .doc-figure { margin: 0 0 1.6em; max-width: 260px; }
+.prose .doc-figure img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; border-radius: var(--radius); background: var(--mist); }
+.prose .doc-figure figcaption { margin-top: 10px; font-size: .9rem; line-height: 1.35; }
+.prose .doc-figure figcaption strong, .prose .doc-figure figcaption span { display: block; }
+.prose .doc-figure figcaption span { font-size: .85rem; }
 
 .prose { font-size: 1.02rem; line-height: 1.75; }
 .prose h2 { font-size: clamp(1.3rem, 1vw + .95rem, 1.6rem); margin: 2.2em 0 .6em; }
