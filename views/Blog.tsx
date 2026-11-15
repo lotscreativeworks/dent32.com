@@ -205,7 +205,7 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
               <p>
                 <Link className="text-link" href={route("home", lang)}>{t("Dent32 Beylikdüzü diş kliniği", "Dent32 dental clinic in Beylikdüzü")}</Link>
                 {" "}({t(OFFICIAL_NAME, `${OFFICIAL_NAME}, Dent32 Dental Polyclinic`)})
-                {" · "}{ADDRESS}{" · "}{t("Haftanın yedi günü açık", "Open seven days a week")}{" · "}
+                {" · "}{ADDRESS}{" · "}{t("Pazartesi–cumartesi 09.00–22.00", "Mon–Sat 9:00–22:00")}{" · "}
                 <a className="text-link" href={`tel:${PHONE_E164}`}>{PHONE}</a>
               </p>
             </aside>

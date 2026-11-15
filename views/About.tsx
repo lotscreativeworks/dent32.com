@@ -11,7 +11,7 @@ export function About({ lang }: { lang: Lang }) {
   const days = lang === "tr"
     ? ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"]
     : ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
-  const hours = ["08.00–18.30", "08.00–14.00", "08.00–16.00", null, "08.00–16.00", "08.00–16.00", null];
+  const hours = ["09.00–18.30", "09.00–14.00", "09.00–16.00", null, "09.00–16.00", "09.00–16.00", null];
 
   const ways = lang === "tr" ? [
     ["Muayene ve kayıt", "Ayrıntılı ağız içi muayene; gerekiyorsa röntgen, tomografi ve fotoğraflarla durumunuzu kayıt altına alıyoruz."],
@@ -38,8 +38,8 @@ export function About({ lang }: { lang: Lang }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={jsonLd(dentistLd(lang))} />
       <PageHead lang={lang} pageKey="about" title={t("Dent32'yi tanıyın", "Get to know Dent32")} crumb={t("Hakkımızda", "About")}
         eyebrow={t("Beylikdüzü diş kliniği", "Dental clinic in Beylikdüzü")}
-        lead={t(`${OFFICIAL_NAME}: Beylikdüzü'nde, haftanın yedi günü açık bir diş polikliniği. Her tedaviyi açıkça anlatılan, yazılı bir planla yürütüyoruz.`,
-          `${OFFICIAL_NAME} (Dent32 Dental Polyclinic): a dental practice in Beylikdüzü, Istanbul, open seven days a week. Every treatment follows a clearly explained, written plan.`)} />
+        lead={t(`${OFFICIAL_NAME}: Beylikdüzü'nde, pazartesiden cumartesiye 09.00–22.00 arası açık bir diş polikliniği. Her tedaviyi açıkça anlatılan, yazılı bir planla yürütüyoruz.`,
+          `${OFFICIAL_NAME} (Dent32 Dental Polyclinic): a dental practice in Beylikdüzü, Istanbul, open Monday to Saturday, 9:00–22:00. Every treatment follows a clearly explained, written plan.`)} />
 
       <section className="section">
         <div className="wrap bio">
@@ -68,7 +68,7 @@ export function About({ lang }: { lang: Lang }) {
                 ))}
               </tbody>
             </table>
-            <p className="hours-note">{t("Klinik haftanın yedi günü açıktır. Randevu için WhatsApp'tan yazabilirsiniz.", "The clinic is open seven days a week. Message us on WhatsApp to book.")}</p>
+            <p className="hours-note">{t("Klinik pazartesiden cumartesiye 09.00–22.00 arası açıktır, pazar günü kapalıdır. Randevu için WhatsApp'tan yazabilirsiniz.", "The clinic is open Monday to Saturday, 9:00–22:00, and closed on Sundays. Message us on WhatsApp to book.")}</p>
 
             <aside className="press" aria-labelledby="h-press">
               <h3 id="h-press" className="press__title">{t("Basında", "In the press")}</h3>

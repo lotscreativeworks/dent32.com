@@ -53,7 +53,7 @@ export const VISUAL_WARNING = {
 } as const;
 
 /** Kliniğin günlük saatleri netleşince doldurun, ör. ["09:00", "19:00"]. Boşken JSON-LD'de saat yazılmaz. */
-export const CLINIC_HOURS: [string, string] | null = null;
+export const CLINIC_HOURS: [string, string] | null = ["09:00", "22:00"];
 
 // --- İçerik ------------------------------------------------------------------
 export type Post = {

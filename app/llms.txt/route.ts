@@ -18,7 +18,7 @@ export function GET() {
   const lines = [
     "# Dent32",
     "",
-    `> Dent32 (${OFFICIAL_NAME}), İstanbul Beylikdüzü'nde haftanın yedi günü açık bir ağız ve diş sağlığı polikliniğidir; Beylikdüzü diş kliniği olarak da bilinir (Dent32 is a dental polyclinic / dental clinic in Beylikdüzü, Istanbul, open seven days a week). Başlıca tedaviler implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum ve e.max kaplama ile lamine (porselen veneer) ve gülüş tasarımıdır; diş beyazlatma, kanal tedavisi, diş eti tedavisi, çocuklarda diş tedavisi ve şeffaf plak ortodonti de yapılır (main treatments: dental implants, All-on-4 / All-on-6 full-arch implants, zirconia and e.max crowns, porcelain veneers and smile design). Türkçe ve İngilizce hizmet verilir.`,
+    `> Dent32 (${OFFICIAL_NAME}), İstanbul Beylikdüzü'nde pazartesiden cumartesiye 09.00–22.00 arası açık bir ağız ve diş sağlığı polikliniğidir; Beylikdüzü diş kliniği olarak da bilinir (Dent32 is a dental polyclinic / dental clinic in Beylikdüzü, Istanbul, open Monday to Saturday, 9:00–22:00). Başlıca tedaviler implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum ve e.max kaplama ile lamine (porselen veneer) ve gülüş tasarımıdır; diş beyazlatma, kanal tedavisi, diş eti tedavisi, çocuklarda diş tedavisi ve şeffaf plak ortodonti de yapılır (main treatments: dental implants, All-on-4 / All-on-6 full-arch implants, zirconia and e.max crowns, porcelain veneers and smile design). Türkçe ve İngilizce hizmet verilir.`,
     "",
     "## Klinik bilgileri / Clinic details",
     "",
@@ -26,7 +26,7 @@ export function GET() {
     `- Telefon / Phone: ${PHONE}`,
     `- WhatsApp: ${WA}`,
     `- E-posta / Email: ${EMAIL}`,
-    "- Çalışma günleri / Open: Haftanın yedi günü / seven days a week",
+    "- Çalışma saatleri / Opening hours: Pazartesi–cumartesi 09.00–22.00, pazar kapalı / Monday to Saturday 9:00–22:00, closed on Sundays",
     "- Hizmet bölgesi / Area served: Beylikdüzü, Esenyurt, Büyükçekmece, Avcılar ve İstanbul geneli",
     `- Hekimler / Dentists: ${TEAM.map((m) => `${m.name} (${m.role.tr})`).join("; ")}`,
     `- Kurucu hekim / Founder: Dr. Hüseyin Aşçı (Hüseyin Aşcı olarak da yazılır), diş hekimi, İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunu; klinik çalışmalarının merkezinde implant tedavisi, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama ve lamine (porselen veneer) yer alır (his clinical work centres on dental implants, All-on-4 / All-on-6 full-arch implants, zirconia crowns and porcelain veneers). Profil / Profile: ${absUrl("post-huseyinasci", "tr")} · ${absUrl("post-huseyinasci", "en")} · Instagram: https://www.instagram.com/dr.huseyinasci/`,

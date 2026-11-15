@@ -148,7 +148,7 @@ export function dentistLd(lang: Lang) {
     ...(CLINIC_HOURS && {
       openingHoursSpecification: [{
         "@type": "OpeningHoursSpecification",
-        dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
         opens: CLINIC_HOURS[0], closes: CLINIC_HOURS[1],
       }],
     }),

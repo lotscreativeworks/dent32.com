@@ -31,7 +31,7 @@ export function Contact({ lang }: { lang: Lang }) {
                 <li><span className="info__ico"><Icon name="chat" /></span><div><strong>WhatsApp</strong><a href={WA} target="_blank" rel="noopener">{PHONE}</a></div></li>
                 <li><span className="info__ico"><Icon name="mail" /></span><div><strong>{t("E-posta", "Email")}</strong><a href={`mailto:${EMAIL}`}>{EMAIL}</a></div></li>
                 <li><span className="info__ico"><Icon name="clock" /></span><div><strong>{t("Çalışma saatleri", "Opening hours")}</strong>
-                  {t("Haftanın yedi günü açığız. Güncel saatler ve randevu için WhatsApp'tan yazabilirsiniz.", "We're open seven days a week. Message us on WhatsApp for current hours and appointments.")}</div></li>
+                  {t("Pazartesiden cumartesiye 09.00–22.00 arası açığız; pazar günü kapalıyız. Randevu için WhatsApp'tan yazabilirsiniz.", "We're open Monday to Saturday, 9:00–22:00, and closed on Sundays. Message us on WhatsApp to book.")}</div></li>
               </ul>
             </div>
           </div>

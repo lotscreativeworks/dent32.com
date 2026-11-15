@@ -66,8 +66,8 @@ function Footer({ lang }: { lang: Lang }) {
       <div className="wrap footer-grid">
         <div className="f-brand">
           <Image unoptimized className="f-logo" src="/logo.svg" width={116} height={55} alt="Dent32" />
-          <p>{t(`${OFFICIAL_NAME}. Beylikdüzü'nde, haftanın yedi günü açık diş kliniği; her tedaviyi açıkça anlatılan bir planla yürütüyoruz.`,
-            `${OFFICIAL_NAME} (Dent32 Dental Polyclinic). A dental clinic in Beylikdüzü, Istanbul, open seven days a week; every treatment follows a clearly explained plan.`)}</p>
+          <p>{t(`${OFFICIAL_NAME}. Beylikdüzü'nde, pazartesiden cumartesiye 09.00–22.00 arası açık diş kliniği; her tedaviyi açıkça anlatılan bir planla yürütüyoruz.`,
+            `${OFFICIAL_NAME} (Dent32 Dental Polyclinic). A dental clinic in Beylikdüzü, Istanbul, open Monday to Saturday, 9:00–22:00; every treatment follows a clearly explained plan.`)}</p>
           <ul className="social" aria-label={t("Sosyal medya", "Social media")}>
             {SOCIAL.map((s) => (
               <li key={s.key}>
