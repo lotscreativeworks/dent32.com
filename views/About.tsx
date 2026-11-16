@@ -44,22 +44,22 @@ export function About({ lang }: { lang: Lang }) {
       <section className="section">
         <div className="wrap bio">
           <div className="bio__portrait zoom rv">
-            <Img name="hakkimizda-huseyin-asci" w={900} h={1200} alt={t("Dr. Hüseyin Aşçı portresi", "Portrait of Dr. Hüseyin Aşçı")}
+            <Img name="hakkimizda-huseyin-asci" w={900} h={1200} alt={t("Dr. Hüseyin Aşcı portresi", "Portrait of Dr. Hüseyin Aşcı")}
               sizes="(max-width: 860px) 92vw, 450px" />
           </div>
           <div className="rv" style={delay(1)}>
             <p className="eyebrow">{t("Kurucu hekim", "Founder")}</p>
-            <h2>Dr. Hüseyin Aşçı</h2>
+            <h2>Dr. Hüseyin Aşcı</h2>
             <p className="bio__role">{t("Diş hekimi · Kurucu hekim", "Dentist · Founder")}</p>
-            <p>{t("Dr. Hüseyin Aşçı, Dent32'nin kurucusu ve İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunu bir diş hekimidir. Klinik çalışmalarının merkezinde implant tedavisi, All-on-4 ve All-on-6 gibi tüm çene implant uygulamaları, zirkonyum kaplama ve lamine (porselen veneer) yer alır.",
-              "Dr. Hüseyin Aşçı is the founder of Dent32 and a graduate of the Istanbul University Faculty of Dentistry. His clinical work centres on dental implants, full-arch implants such as All-on-4 and All-on-6, zirconia crowns and porcelain veneers.")}</p>
+            <p>{t("Dr. Hüseyin Aşcı, Dent32'nin kurucusu ve İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunu bir diş hekimidir. Klinik çalışmalarının merkezinde implant tedavisi, All-on-4 ve All-on-6 gibi tüm çene implant uygulamaları, zirkonyum kaplama ve lamine (porselen veneer) yer alır.",
+              "Dr. Hüseyin Aşcı is the founder of Dent32 and a graduate of the Istanbul University Faculty of Dentistry. His clinical work centres on dental implants, full-arch implants such as All-on-4 and All-on-6, zirconia crowns and porcelain veneers.")}</p>
             <p>{t("Tedaviye yaklaşımı basit bir ilkeye dayanır: hasta, ne yapılacağını ve neden yapılacağını başlamadan önce bilmeli. Bu yüzden her plan muayene bulguları, seçenekler, olası riskler ve maliyetle birlikte yazılı olarak paylaşılır.",
               "His approach rests on a simple principle: patients should know what will be done, and why, before anything starts. So every plan is shared in writing, together with the findings, options, possible risks and cost.")}</p>
             <p>{t("İmplantın cerrahi aşaması ile üzerine takılacak diş aynı plan içinde düşünülür; diş eti ve kanal tedavisi gibi aşamaları da içeren kapsamlı vakalar ekipteki hekimlerle birlikte planlanır, böylece hasta tek bir yol haritasıyla ilerler.",
               "The implant surgery and the tooth that goes on it are planned as one; complex cases that also involve gum or root canal treatment are planned together with the other dentists on the team, so the patient follows a single roadmap.")}</p>
-            <p><Link className="text-link" href={route("post-huseyinasci", lang)}>{t("Dr. Hüseyin Aşçı hakkında ayrıntılı bilgi", "More about Dr. Hüseyin Aşçı")}</Link></p>
+            <p><Link className="text-link" href={route("post-huseyinasci", lang)}>{t("Dr. Hüseyin Aşcı hakkında ayrıntılı bilgi", "More about Dr. Hüseyin Aşcı")}</Link></p>
             <table className="hours">
-              <caption>{t("Dr. Hüseyin Aşçı'nın klinikte olduğu günler", "Days Dr. Hüseyin Aşçı is in the clinic")}</caption>
+              <caption>{t("Dr. Hüseyin Aşcı'nın klinikte olduğu günler", "Days Dr. Hüseyin Aşcı is in the clinic")}</caption>
               <tbody>
                 {days.map((d, i) => (
                   <tr key={d} className={hours[i] ? undefined : "off"}>

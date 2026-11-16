@@ -55,7 +55,7 @@ const CLINIC_FOCUS: Record<Lang, string[]> = {
   en: ["Dental implants", "Full-arch implants (All-on-4, All-on-6)", "Zirconia crowns", "Porcelain veneers", "Smile design", "Implant-supported dentures"],
 };
 
-const FOUNDER_ID = `${SITE}/#huseyin-asci`;
+export const FOUNDER_ID = `${SITE}/#huseyin-asci`;
 const FOUNDER_IMG = "hekim-huseyin-asci";
 
 /** Hekimlerin çalıştığı yer: rehber sitelerindeki eski adreslerle karışmasın diye her hekim kaydında Beylikdüzü adresi yazılır */
@@ -65,13 +65,13 @@ const workPlace = () => ({
 });
 
 /**
- * Kurucu hekim Dr. Hüseyin Aşçı: klinik kaydında (founder) ve profil yazısında (ProfilePage) aynı nesne.
+ * Kurucu hekim Dr. Hüseyin Aşcı: klinik kaydında (founder) ve profil yazısında (ProfilePage) aynı nesne.
  * Çalışma alanı implant, tüm çene implant, zirkonyum ve lamine; ortodontiyle anılmaması klinik tercihidir.
  */
 export function founderLd(lang: Lang) {
   const t = translator(lang);
   return {
-    "@type": "Person", "@id": FOUNDER_ID, name: "Dr. Hüseyin Aşçı", alternateName: ["Hüseyin Aşçı", "Hüseyin Aşcı", "Dt. Hüseyin Aşçı"],
+    "@type": "Person", "@id": FOUNDER_ID, name: "Dr. Hüseyin Aşcı", alternateName: ["Hüseyin Aşcı", "Hüseyin Aşçı", "Huseyin Asci", "Dt. Hüseyin Aşcı"],
     jobTitle: t("Diş hekimi, Dent32 kurucusu", "Dentist, founder of Dent32"),
     description: t("Beylikdüzü'ndeki Dent32'nin kurucu diş hekimi; klinik çalışmalarının merkezinde implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama ve lamine yer alır.",
       "Founding dentist of Dent32 in Beylikdüzü, Istanbul; his clinical work centres on dental implants, All-on-4 and All-on-6 full-arch implants, zirconia crowns and porcelain veneers."),
@@ -128,8 +128,8 @@ export function dentistLd(lang: Lang) {
     description: t("Beylikdüzü, İstanbul'da ağız ve diş sağlığı polikliniği (diş kliniği): implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama, lamine (porselen veneer), gülüş tasarımı, kanal tedavisi, diş eti tedavisi, çocuklarda diş tedavisi ve şeffaf plak.",
       "Dental polyclinic (dental clinic) in Beylikdüzü, Istanbul: implants, All-on-4 and All-on-6 full-arch implants, zirconia crowns, porcelain veneers, smile design, root canal treatment, gum care, dental care for children and clear aligners."),
     // Aynı adı taşıyan başka şehirlerdeki kliniklerle karıştırılmasın
-    disambiguatingDescription: t("İstanbul Beylikdüzü, Barış Mahallesi'ndeki (Ginza Lavinya, E-5 yanyolu) Dent32 Ağız ve Diş Sağlığı Polikliniği; kurucusu Dr. Hüseyin Aşçı.",
-      "Dent32 dental clinic in Barış, Beylikdüzü, Istanbul (Ginza Lavinya, E-5 service road), founded by Dr. Hüseyin Aşçı."),
+    disambiguatingDescription: t("İstanbul Beylikdüzü, Barış Mahallesi'ndeki (Ginza Lavinya, E-5 yanyolu) Dent32 Ağız ve Diş Sağlığı Polikliniği; kurucusu Dr. Hüseyin Aşcı.",
+      "Dent32 dental clinic in Barış, Beylikdüzü, Istanbul (Ginza Lavinya, E-5 service road), founded by Dr. Hüseyin Aşcı."),
     url: absUrl("home", lang), logo: `${SITE}/logo.svg`, image: `${SITE}/img/klinik-01-bina.webp`,
     telephone: PHONE_E164, email: EMAIL,
     address: { "@type": "PostalAddress", streetAddress: STREET, addressLocality: "Beylikdüzü", addressRegion: "İstanbul", postalCode: "34520", addressCountry: "TR" },

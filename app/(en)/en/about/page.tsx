@@ -6,7 +6,7 @@ export const metadata: Metadata = pageMetadata({
   key: "about",
   lang: "en",
   title: "About Us | Dent32 Dental Clinic, Beylikdüzü",
-  description: "Dent32's founder Dr. Hüseyin Aşçı, our dentists, how we work and our clinic in Beylikdüzü, Istanbul.",
+  description: "Dent32's founder Dr. Hüseyin Aşcı, our dentists, how we work and our clinic in Beylikdüzü, Istanbul.",
   image: "hakkimizda-huseyin-asci",
 });
 

@@ -840,3 +840,21 @@ a.pager__num:hover, .pager__step:hover { border-color: var(--ink); }
 
 /* Blog gövdesi: ilk ara başlığın üst boşluğu */
 .prose > section:first-child > h2 { margin-top: 0; }
+
+/* Kurucu hekimin notu: geniş ekranda bölümün sağ köşesinde, metin etrafından akar; telefonda tam genişlik */
+.prose section.has-dr-note { display: flow-root; }
+.dr-note {
+  margin: .4em 0 1.6em; padding: 20px 20px 18px; border-radius: var(--radius); background: var(--mist);
+  border: 1px solid var(--line); font-size: .95rem; line-height: 1.55;
+}
+.dr-note__who { display: flex; align-items: center; gap: 12px; margin: 0 0 14px; }
+.dr-note__img { width: 56px; height: 56px; border-radius: 50%; object-fit: cover; flex: none; box-shadow: 0 0 0 3px var(--white); }
+.dr-note__who strong { display: block; color: var(--ink); font-weight: 600; font-size: .98rem; }
+.dr-note__who span span { display: block; font-size: .82rem; color: var(--slate); line-height: 1.35; }
+.dr-note__quote { position: relative; margin: 0; padding: 0 0 0 16px; border-left: 3px solid var(--blue); }
+.dr-note__quote p { margin: 0; color: var(--ink); font-size: 1.02rem; line-height: 1.55; font-weight: 500; }
+.dr-note__bio { margin: 14px 0 0; font-size: .82rem; line-height: 1.5; color: var(--slate); }
+.prose .dr-note__bio a { color: var(--ink); }
+@media (min-width: 900px) {
+  .dr-note { float: right; width: 290px; margin: .3em 0 1.2em 28px; }
+}

@@ -31,7 +31,7 @@ export const SOCIAL = [
 /** Basında Dent32: Hakkımızda sayfası ve llms.txt buradan beslenir. Yeni haber çıkınca outlets'e ekleyin. */
 export const PRESS = {
   date: "2026-10-23",
-  title: "Dr. Hüseyin Aşçı: Ağız ve diş sağlığı genel sağlığın aynasıdır",
+  title: "Dr. Hüseyin Aşcı: Ağız ve diş sağlığı genel sağlığın aynasıdır",
   postKey: "genelsaglik",
   outlets: [
     { name: "DHA", url: "https://www.dha.com.tr/saglik-yasam/dr-huseyin-asci-agiz-ve-dis-sagligi-genel-sagligin-aynasidir-2968378" },
@@ -63,6 +63,8 @@ export type Post = {
   seoTitle?: string; seoDesc?: string;
   /** İçerik sonradan düzeltildiyse son güncelleme tarihi (yazıda ve JSON-LD dateModified'da gösterilir) */
   updated?: string;
+  /** Kurucu hekimin kısa notu: `in` bölümünün başında, sağ köşede portreli alıntı kutusu olarak gösterilir */
+  doctorNote?: { in: string; text: string };
   sections: { id: string; h: string; html: string }[];
   faq: { q: string; a: string }[];
 };

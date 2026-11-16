@@ -6,7 +6,7 @@ import { BlogCard, PageHead } from "@/components/blocks";
 import { Icon } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
-import { breadcrumbLd, DENTIST_ID, jsonLd, pageMetadata, postExtraLd } from "@/lib/seo";
+import { breadcrumbLd, DENTIST_ID, FOUNDER_ID, jsonLd, pageMetadata, postExtraLd } from "@/lib/seo";
 import {
   absUrl, ADDRESS, BLOG_CATS, BLOG_PER_PAGE, type BlogCat, blogListKey, blogPageCount, dateLong, type Lang, OFFICIAL_NAME, PHONE, PHONE_E164,
   type Post, POSTS, postsInCat, readMinutes, route, SITE, translator, treatmentForPost, WA,
@@ -118,6 +118,28 @@ export function BlogList({ lang, cat = null, page = 1 }: { lang: Lang; cat?: Blo
 export const blogPageParams = (lang: Lang, cat: BlogCat | null) =>
   Array.from({ length: blogPageCount(lang, cat) - 1 }, (_, i) => ({ page: String(i + 2) }));
 
+/** Kurucu hekimin yazıdaki kısa notu: portre, ad, tek satırlık özgeçmiş ve profil bağlantısı */
+function DoctorNote({ lang, text }: { lang: Lang; text: string }) {
+  const t = translator(lang);
+  return (
+    <figure className="dr-note">
+      <figcaption className="dr-note__who">
+        <Img name="avatar-huseyin-asci" w={64} h={64} alt="Dr. Hüseyin Aşcı" className="dr-note__img" sizes="64px" />
+        <span>
+          <strong>Dr. Hüseyin Aşcı</strong>
+          <span>{t("Dent32 kurucu diş hekimi, Beylikdüzü", "Founding dentist, Dent32 Beylikdüzü")}</span>
+        </span>
+      </figcaption>
+      <blockquote className="dr-note__quote"><p>{text}</p></blockquote>
+      <p className="dr-note__bio">
+        {t("İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunu; implant, All-on-4 ve All-on-6, zirkonyum ve lamine üzerine çalışıyor.",
+          "Graduate of Istanbul University Faculty of Dentistry; works mainly on implants, All-on-4 and All-on-6, zirconia crowns and veneers.")}{" "}
+        <Link href={route("post-huseyinasci", lang)}>{t("Dr. Hüseyin Aşcı kimdir?", "About Dr. Hüseyin Aşcı")}</Link>
+      </p>
+    </figure>
+  );
+}
+
 export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
   const t = translator(lang);
   const author = t("Dent32 hekim ekibi", "Dent32 dental team");
@@ -134,6 +156,7 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
     image: `${SITE}/img/${post.cover}.webp`, datePublished: post.date, dateModified: post.updated ?? post.date, inLanguage: lang,
     mainEntityOfPage: absUrl(`post-${post.key}`, lang), articleSection: post.cat,
     author: { "@type": "Organization", name: author, url: SITE },
+    ...(post.doctorNote && { mentions: { "@type": "Person", "@id": FOUNDER_ID, name: "Dr. Hüseyin Aşcı", url: absUrl("post-huseyinasci", lang) } }),
     publisher: { "@type": "Organization", "@id": DENTIST_ID, name: "Dent32", url: SITE, logo: { "@type": "ImageObject", url: `${SITE}/logo.svg` } },
   };
   const crumbs = breadcrumbLd([
@@ -178,8 +201,9 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
             <Toc items={toc} label={t("İçindekiler", "Contents")} className="toc--mobile" />
             <div className="prose">
               {post.sections.map((s) => (
-                <section key={s.id}>
+                <section key={s.id} className={post.doctorNote?.in === s.id ? "has-dr-note" : undefined}>
                   <h2 id={s.id}>{s.h}</h2>
+                  {post.doctorNote?.in === s.id && <DoctorNote lang={lang} text={post.doctorNote.text} />}
                   <div dangerouslySetInnerHTML={{ __html: s.html }} />
                 </section>
               ))}

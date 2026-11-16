@@ -15,7 +15,7 @@ const LOCAL_GUIDES: [string, string, string][] = [
   ["beydis", "Beylikdüzü diş hekimi", "Dentist in Beylikdüzü"],
   ["beypoli", "Diş polikliniği mi, diş kliniği mi?", "Dental polyclinic or clinic?"],
   ["ruhsat", "Ruhsatlı diş polikliniği nasıl anlaşılır?", "Is the dental practice licensed?"],
-  ["huseyinasci", "Dr. Hüseyin Aşçı kimdir?", "Who is Dr. Hüseyin Aşçı?"],
+  ["huseyinasci", "Dr. Hüseyin Aşcı kimdir?", "Who is Dr. Hüseyin Aşcı?"],
   ["kadro", "Beylikdüzü diş hekimlerimiz", "Our dentists in Beylikdüzü"],
   ["beyimplant", "İmplant tedavisi", "Dental implants"],
   ["beyallon4", "All-on-4 ve tüm çene implant", "All-on-4 and full-arch implants"],
@@ -38,7 +38,7 @@ export function Home({ lang }: { lang: Lang }) {
 
   const faq = lang === "tr" ? [
     { q: "Dent32 Beylikdüzü'nün neresinde?", a: `Barış Mahallesi'nde, E-5 yanyolu üzerindeki Ginza Lavinya'dayız (No:30 D:179, 34520 Beylikdüzü / İstanbul). Esenyurt, Avcılar ve Büyükçekmece'den de kolayca ulaşılır; harita ve yol tarifi <a class="text-link" href="${route("contact", lang)}">iletişim sayfamızda</a>.` },
-    { q: "Dent32'de hangi diş hekimleri var?", a: `Beylikdüzü'ndeki kliniğimizde üç diş hekimi hasta kabul eder: kurucu hekim Dr. Hüseyin Aşçı, Dt. Anıl Işıklı ve Dt. Fulya Toraman. Dr. Aşçı'nın klinik çalışmalarının merkezinde implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama ve lamine yer alır. Hekimlerimizi <a class="text-link" href="${route("post-kadro", lang)}">Beylikdüzü diş hekimlerimiz</a> yazısında tanıtıyoruz.` },
+    { q: "Dent32'de hangi diş hekimleri var?", a: `Beylikdüzü'ndeki kliniğimizde üç diş hekimi hasta kabul eder: kurucu hekim Dr. Hüseyin Aşcı, Dt. Anıl Işıklı ve Dt. Fulya Toraman. Dr. Aşcı'nın klinik çalışmalarının merkezinde implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama ve lamine yer alır. Hekimlerimizi <a class="text-link" href="${route("post-kadro", lang)}">Beylikdüzü diş hekimlerimiz</a> yazısında tanıtıyoruz.` },
     { q: "Hafta sonu açık mısınız?", a: `Cumartesi açığız: klinik pazartesiden cumartesiye 09.00–22.00 arası açıktır, pazar günü kapalıdır. Randevu için WhatsApp'tan yazabilirsiniz. Hafta sonu yapılabilen işlemleri <a class="text-link" href="${route("post-beyhaftasonu", lang)}">bu yazımızda</a> anlattık.` },
     { q: "İlk muayenede ne yapılıyor?", a: "Ağız içi muayene yapıyor, gerekirse röntgen ya da tomografi çekiyoruz. Ardından bulguları anlatıyor, tedavi seçeneklerini ve yaklaşık maliyeti yazılı olarak paylaşıyoruz. Muayene sonrası tedaviye başlamak zorunda değilsiniz." },
     { q: "Tedavi fiyatlarını önceden öğrenebilir miyim?", a: "Fiyat; diş sayısına, kullanılacak malzemeye ve ek işlem gerekip gerekmediğine göre değişir. Fotoğraf ve röntgen gönderirseniz ön bilgi verebiliriz; kesin plan ve maliyet muayeneden sonra kalem kalem yazılı olarak verilir." },
@@ -46,7 +46,7 @@ export function Home({ lang }: { lang: Lang }) {
     { q: "Tedavi sırasında ağrı hissedecek miyim?", a: "İşlemlerin çoğu lokal anestezi altında yapılır ve tedavi sırasında belirgin ağrı beklenmez. İşlem sonrası olabilecek hassasiyeti ve ne yapmanız gerektiğini önceden anlatırız. Diş hekimi kaygınız varsa randevu alırken bize söyleyin." },
   ] : [
     { q: "Where in Beylikdüzü is Dent32?", a: `We're at Ginza Lavinya on the E-5 service road in Barış (No:30 D:179, 34520 Beylikdüzü, Istanbul), easy to reach from Esenyurt, Avcılar and Büyükçekmece too. The map and directions are on our <a class="text-link" href="${route("contact", lang)}">contact page</a>.` },
-    { q: "Which dentists work at Dent32?", a: `Three dentists see patients at our clinic in Beylikdüzü: founder Dr. Hüseyin Aşçı, Dt. Anıl Işıklı and Dt. Fulya Toraman. Dr. Aşçı's clinical work centres on dental implants, All-on-4 and All-on-6 full-arch implants, zirconia crowns and porcelain veneers. Meet them in <a class="text-link" href="${route("post-kadro", lang)}">our dentists in Beylikdüzü</a>.` },
+    { q: "Which dentists work at Dent32?", a: `Three dentists see patients at our clinic in Beylikdüzü: founder Dr. Hüseyin Aşcı, Dt. Anıl Işıklı and Dt. Fulya Toraman. Dr. Aşcı's clinical work centres on dental implants, All-on-4 and All-on-6 full-arch implants, zirconia crowns and porcelain veneers. Meet them in <a class="text-link" href="${route("post-kadro", lang)}">our dentists in Beylikdüzü</a>.` },
     { q: "Are you open at weekends?", a: `We're open on Saturdays: the clinic is open Monday to Saturday, 9:00–22:00, and closed on Sundays. Message us on WhatsApp to book. We explain what can be done at the weekend in <a class="text-link" href="${route("post-beyhaftasonu", lang)}">this article</a>.` },
     { q: "What happens at the first examination?", a: "We carry out a clinical examination and take X-rays or a CT scan if needed. We then explain the findings and share the treatment options and an approximate cost in writing. You're under no obligation to start treatment after the examination." },
     { q: "Can I find out treatment prices in advance?", a: "Price depends on the number of teeth, the materials used and whether additional procedures are needed. If you send photos and X-rays we can give preliminary information; the final plan and cost are given in writing, itemised, after the examination." },
@@ -85,7 +85,7 @@ export function Home({ lang }: { lang: Lang }) {
           <div className="hero__media">
             <div className="hero__frame">
               <Img name="hekim-huseyin-asci" w={880} h={1100} preload sizes="(max-width: 860px) 90vw, 440px"
-                alt={t("Dr. Hüseyin Aşçı, Dent32 kurucu hekimi", "Dr. Hüseyin Aşçı, founder of Dent32")} />
+                alt={t("Dr. Hüseyin Aşcı, Dent32 kurucu hekimi", "Dr. Hüseyin Aşcı, founder of Dent32")} />
             </div>
           </div>
         </div>
@@ -100,7 +100,7 @@ export function Home({ lang }: { lang: Lang }) {
           <div className="collage">
             {([
               ["kolaj-ic-mekan", t("Dent32 kliniğinin iç mekânı", "Inside the Dent32 clinic")],
-              ["kolaj-hekim-tedavi", t("Dr. Hüseyin Aşçı tedavi sırasında", "Dr. Hüseyin Aşçı during treatment")],
+              ["kolaj-hekim-tedavi", t("Dr. Hüseyin Aşcı tedavi sırasında", "Dr. Hüseyin Aşcı during treatment")],
               ["kolaj-tedavi-odasi", t("Tedavi odası", "Treatment room")],
               ["kolaj-resepsiyon", t("Resepsiyon ve bekleme alanı", "Reception and waiting area")],
             ] as const).map(([name, alt], i) => (
@@ -110,10 +110,10 @@ export function Home({ lang }: { lang: Lang }) {
           <div className="rv">
             <p className="eyebrow">{t("Dent32 hakkında", "About Dent32")}</p>
             <h2>{t("Kişisel bir tedavi, açık bir plan.", "Personal treatment, a clear plan.")}</h2>
-            <p>{t("Dent32, Dr. Hüseyin Aşçı'nın Beylikdüzü'nde kurduğu bir ağız ve diş sağlığı polikliniğidir. Her tedaviye ayrıntılı bir muayene ve gerekirse dijital görüntülemeyle başlıyoruz. Ne yapacağımızı, neden yapacağımızı ve alternatiflerin neler olduğunu tedaviye başlamadan önce anlatıyoruz.",
-              "Dent32 is a dental polyclinic (dental practice) founded by Dr. Hüseyin Aşçı in Beylikdüzü, Istanbul. Every treatment begins with a thorough examination and, where needed, digital imaging. Before we start, we explain what we'll do, why, and what the alternatives are.")}</p>
-            <p>{t("Klinik pazartesiden cumartesiye 09.00–22.00 arası açıktır. Kurucu hekimimiz Dr. Hüseyin Aşçı'nın klinik çalışmalarının merkezinde implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama ve lamine yer alır; üç diş hekimimizle birlikte plan yapan bir ekip olarak çalışıyoruz.",
-              "The clinic is open Monday to Saturday, 9:00–22:00. Our founding dentist Dr. Hüseyin Aşçı's clinical work centres on dental implants, All-on-4 and All-on-6 full-arch implants, zirconia crowns and porcelain veneers, and our three dentists plan together as one team.")}</p>
+            <p>{t("Dent32, Dr. Hüseyin Aşcı'nın Beylikdüzü'nde kurduğu bir ağız ve diş sağlığı polikliniğidir. Her tedaviye ayrıntılı bir muayene ve gerekirse dijital görüntülemeyle başlıyoruz. Ne yapacağımızı, neden yapacağımızı ve alternatiflerin neler olduğunu tedaviye başlamadan önce anlatıyoruz.",
+              "Dent32 is a dental polyclinic (dental practice) founded by Dr. Hüseyin Aşcı in Beylikdüzü, Istanbul. Every treatment begins with a thorough examination and, where needed, digital imaging. Before we start, we explain what we'll do, why, and what the alternatives are.")}</p>
+            <p>{t("Klinik pazartesiden cumartesiye 09.00–22.00 arası açıktır. Kurucu hekimimiz Dr. Hüseyin Aşcı'nın klinik çalışmalarının merkezinde implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama ve lamine yer alır; üç diş hekimimizle birlikte plan yapan bir ekip olarak çalışıyoruz.",
+              "The clinic is open Monday to Saturday, 9:00–22:00. Our founding dentist Dr. Hüseyin Aşcı's clinical work centres on dental implants, All-on-4 and All-on-6 full-arch implants, zirconia crowns and porcelain veneers, and our three dentists plan together as one team.")}</p>
             <Link className="btn btn-line" href={route("post-kadro", lang)}>{t("Hekim kadrosu", "Meet our dentists")} <Icon name="arrow" /></Link>
           </div>
         </div>

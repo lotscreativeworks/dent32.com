@@ -155,7 +155,12 @@
     "protez",
     "protezsorun",
     "implantfiyat",
-    "bisfosfonat"
+    "bisfosfonat",
+    "implanthekimi",
+    "implantikinci",
+    "ondisimplant",
+    "takmasabit",
+    "asciimplantsss"
    ]
   },
   {
@@ -306,7 +311,10 @@
     "lamine",
     "beylamine",
     "eniyilamine",
-    "ortokaplama"
+    "ortokaplama",
+    "eskikaplama",
+    "zirkonrenk",
+    "ascizirksss"
    ]
   },
   {
@@ -453,7 +461,8 @@
     "gummysmile",
     "disetigreft",
     "ortokaplama",
-    "beyleke"
+    "beyleke",
+    "lamineprova"
    ]
   },
   {
@@ -1263,7 +1272,7 @@
  "team": [
   {
    "img": "hekim-huseyin-asci",
-   "name": "Dr. Hüseyin Aşçı",
+   "name": "Dr. Hüseyin Aşcı",
    "role": {
     "tr": "Kurucu diş hekimi",
     "en": "Founding dentist"
