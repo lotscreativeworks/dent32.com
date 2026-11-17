@@ -160,7 +160,11 @@
     "implantikinci",
     "ondisimplant",
     "takmasabit",
-    "asciimplantsss"
+    "asciimplantsss",
+    "implantsislik",
+    "implantgecici",
+    "implantcuruk",
+    "implantyas"
    ]
   },
   {
@@ -314,7 +318,10 @@
     "ortokaplama",
     "eskikaplama",
     "zirkonrenk",
-    "ascizirksss"
+    "ascizirksss",
+    "zirkonlamine",
+    "zirkonkirik",
+    "zirkoncikar"
    ]
   },
   {
@@ -462,7 +469,11 @@
     "disetigreft",
     "ortokaplama",
     "beyleke",
-    "lamineprova"
+    "lamineprova",
+    "zirkonlamine",
+    "kaplamakonusma",
+    "laminedusme",
+    "ondisaralik"
    ]
   },
   {
@@ -891,7 +902,12 @@
     "apse",
     "catlak",
     "disagrisi",
-    "curuk"
+    "curuk",
+    "sicaksoguk",
+    "agrigecti",
+    "delikagrimiyor",
+    "kanalomur",
+    "kanalyemek"
    ]
   },
   {
@@ -1179,7 +1195,8 @@
     "distasi",
     "agizkokusu",
     "perikoronit",
-    "sigara"
+    "sigara",
+    "ondisaralik"
    ]
   }
  ],
