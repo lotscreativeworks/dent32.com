@@ -165,7 +165,23 @@
     "implantgecici",
     "implantcuruk",
     "implantyas"
-   ]
+   ],
+   "istanbul": {
+    "h": {
+     "tr": "İstanbul'dan implant tedavisi için gelenler",
+     "en": "Coming from elsewhere in Istanbul for implants"
+    },
+    "paras": {
+     "tr": [
+      "Dent32, İstanbul Avrupa Yakası'nda, Beylikdüzü'nde E-5 yanyolu üzerindedir; metrobüsün Beylikdüzü Belediye ve Beylikdüzü durakları yaklaşık 300 m uzaklıktadır. İmplant tedavisinde iyileşme dönemi boyunca sık gelmeniz gerekmez; kritik randevular muayene ve planlama, implantın yerleştirilmesi, dikiş kontrolü ve kalıcı dişin ölçü ve takılma aşamalarıdır.",
+      "All-on-4 ve All-on-6 gibi tüm çene tedavilerinde de ziyaret takvimini baştan yazılı olarak planlıyoruz. Ziyaret sayısı ve toplam süre kemik durumuna ve yapılacak ek işlemlere göre kişiden kişiye değişir; gelmeden önce röntgeninizi WhatsApp'tan gönderip ön bilgi alabilirsiniz."
+     ],
+     "en": [
+      "Dent32 is on Istanbul's European side, on the E-5 service road in Beylikdüzü; the Beylikdüzü Belediye and Beylikdüzü metrobus stops are about 300 m away. You don't need to come often while an implant heals; the key appointments are the examination and planning, placing the implant, the stitch check, and measuring for and fitting the permanent tooth.",
+      "For full-arch treatment such as All-on-4 and All-on-6, we also plan the visit schedule in writing from the start. The number of visits and the overall time vary from person to person, depending on the bone and any additional procedures; you can send your X-rays via WhatsApp for preliminary information before you come."
+     ]
+    }
+   }
   },
   {
    "id": "kaplama",
@@ -322,7 +338,23 @@
     "zirkonlamine",
     "zirkonkirik",
     "zirkoncikar"
-   ]
+   ],
+   "istanbul": {
+    "h": {
+     "tr": "İstanbul'dan zirkonyum kaplama için gelenler",
+     "en": "Coming from elsewhere in Istanbul for zirconia crowns"
+    },
+    "paras": {
+     "tr": [
+      "Dent32, İstanbul Avrupa Yakası'nda, Beylikdüzü'nde E-5 yanyolu üzerindedir; metrobüsün Beylikdüzü Belediye ve Beylikdüzü durakları yaklaşık 300 m uzaklıktadır. Zirkonyum kaplama genellikle 3–4 ziyarette ve yaklaşık 1–2 haftada tamamlanır; uzak semtlerden gelenler için ölçü ve prova günlerini baştan belirleyerek yol sayısını azaltmaya çalışırız.",
+      "Süre; kaplanacak diş sayısına, kaplama altındaki dişlerde kanal tedavisi ya da dolgu gerekip gerekmediğine göre kişiden kişiye değişir. Size özel ziyaret planını muayeneden sonra yazılı olarak veriyoruz."
+     ],
+     "en": [
+      "Dent32 is on Istanbul's European side, on the E-5 service road in Beylikdüzü; the Beylikdüzü Belediye and Beylikdüzü metrobus stops are about 300 m away. Zirconia crowns usually take 3–4 visits over about 1–2 weeks; for patients travelling from further away, we set the measurement and try-in dates at the start to keep the number of trips down.",
+      "The timing varies from person to person, depending on how many teeth are crowned and whether the teeth underneath need root canal treatment or fillings. We give you a written visit plan after the examination."
+     ]
+    }
+   }
   },
   {
    "id": "gulus",
@@ -474,7 +506,23 @@
     "kaplamakonusma",
     "laminedusme",
     "ondisaralik"
-   ]
+   ],
+   "istanbul": {
+    "h": {
+     "tr": "İstanbul'dan lamine ve gülüş tasarımı için gelenler",
+     "en": "Coming from elsewhere in Istanbul for veneers and smile design"
+    },
+    "paras": {
+     "tr": [
+      "Dent32, İstanbul Avrupa Yakası'nda, Beylikdüzü'nde E-5 yanyolu üzerindedir; metrobüsün Beylikdüzü Belediye ve Beylikdüzü durakları yaklaşık 300 m uzaklıktadır. Lamine ve gülüş tasarımı genellikle 3–4 ziyarette ve yaklaşık 1–2 haftada tamamlanır; prova (mock-up), hazırlık ve yapıştırma günlerini baştan birlikte belirleriz.",
+      "Yeni gülüşü dişler hazırlanmadan önce ağızda prova etmek, uzaktan gelen hastaların sonucu erken görmesine ve kararı rahat vermesine yardımcı olur. Ziyaret sayısı diş sayısına ve dişlerin durumuna göre kişiden kişiye değişir."
+     ],
+     "en": [
+      "Dent32 is on Istanbul's European side, on the E-5 service road in Beylikdüzü; the Beylikdüzü Belediye and Beylikdüzü metrobus stops are about 300 m away. Veneers and smile design usually take 3–4 visits over about 1–2 weeks; we agree the mock-up, preparation and bonding dates together at the start.",
+      "Trying the new smile in the mouth before the teeth are prepared helps patients who travel further to see the result early and decide with confidence. The number of visits varies from person to person, depending on the number and condition of the teeth."
+     ]
+    }
+   }
   },
   {
    "id": "orto",
@@ -751,6 +799,7 @@
    "posts": [
     "beyaz",
     "beybeyaz",
+    "beyazlatmayas",
     "eniyibeyaz",
     "sararma",
     "macun",

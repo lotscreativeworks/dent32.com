@@ -1,5 +1,123 @@
 [
  {
+  "key": "cekimcalkalama",
+  "date": "2026-11-21",
+  "cat": "Treatment",
+  "cover": "blog-cekim-calkalama",
+  "slug": "rinsing-after-tooth-extraction",
+  "title": "When can you rinse your mouth after a tooth extraction? Salt water, mouthwash and brushing",
+  "desc": "When can you rinse after a tooth extraction, when should you use salt water or mouthwash, and how do you brush? Why the first 24 hours matter and how to protect the blood clot.",
+  "seoTitle": "When can you rinse after a tooth extraction? | Dent32",
+  "seoDesc": "When can you rinse your mouth after a tooth extraction? The first 24 hours, salt water and mouthwash, brushing, and how to protect the blood clot in the socket.",
+  "lead": "For the first 24 hours after a tooth extraction, it is advised not to rinse vigorously or spit, because the blood clot that forms in the socket is the basis of healing and can be dislodged during this time. After the first day you can usually start rinsing gently with warm salt water after meals. When to use a mouthwash, and which one, varies from person to person, depending on the extraction and your dentist's advice.",
+  "sections": [
+   {
+    "id": "first-day",
+    "h": "The first 24 hours: why not rinse?",
+    "html": "<p>After a tooth is removed, the socket fills with blood and a clot soon forms. The clot stops the bleeding and provides a base for new tissue to grow. In the first hours it is still fragile; vigorous rinsing, spitting, drinking through a straw or the suction of smoking can dislodge it.</p><ul>\n<li>Don't rinse vigorously or spit; you can swallow saliva or let it drain by tilting your head.</li>\n<li>Don't use a straw.</li>\n<li>Try not to smoke; both the suction and smoking itself can delay healing.</li>\n<li>Don't probe the socket with your tongue or fingers.</li>\n</ul><p>If the clot is lost early, a painful condition called dry socket can develop. We describe the signs in <a class=\"text-link\" href=\"/en/blog/dry-socket-symptoms-treatment/\">dry socket</a>.</p>"
+   },
+   {
+    "id": "salt-water",
+    "h": "When and how to use salt water",
+    "html": "<p>After the first 24 hours, you can gently rinse with half a teaspoon of salt dissolved in a glass of warm water. The aim is not to swish hard, but to move the water slowly around your mouth, let it flow towards the extraction side and then let it drain out.</p><ol>\n<li>Dissolve the salt in warm water.</li>\n<li>Take a mouthful and tilt your head slightly towards the extraction side for a few seconds.</li>\n<li>Without spitting, lean over the sink and let the water drain out.</li>\n<li>Repeat, especially after meals, for as long as your dentist advises.</li>\n</ol><aside class=\"note\"><strong>In short</strong><p>Don't rinse or spit on the first day. From the next day, gentle rinsing with warm salt water after meals is fine.</p></aside>"
+   },
+   {
+    "id": "mouthwash",
+    "h": "Should you use a mouthwash?",
+    "html": "<p>In some cases, for example after a surgical extraction, your dentist may recommend an antiseptic mouthwash for a set period. It too should only be used after the first 24 hours and without vigorous swishing. Mouthwashes containing alcohol can sting the socket.</p><p>Using chlorhexidine mouthwash for a long time can stain the teeth, so don't use it for longer than your dentist advises. For everyday use, see <a class=\"text-link\" href=\"/en/blog/can-you-use-mouthwash-every-day/\">can you use mouthwash every day</a>.</p>"
+   },
+   {
+    "id": "brushing",
+    "h": "When can you brush?",
+    "html": "<p>You can brush your other teeth normally on the evening of the extraction; just take care with the brush right around the socket. Stopping oral hygiene can let bacteria build up and slow healing.</p><ul>\n<li>Clean the teeth next to the socket gently with a soft brush.</li>\n<li>Instead of spitting out toothpaste forcefully, let it drain by tilting your head.</li>\n<li>If you have stitches, don't press the brush on them. About stitches: <a class=\"text-link\" href=\"/en/blog/when-are-stitches-removed-after-tooth-extraction/\">when stitches are removed</a>.</li>\n</ul>"
+   },
+   {
+    "id": "when",
+    "h": "When should you contact your dentist?",
+    "html": "<ul>\n<li>If pain is increasing rather than easing 2–3 days after the extraction and spreads to the ear.</li>\n<li>If bleeding doesn't stop despite pressing on gauze.</li>\n<li>If swelling grows over a few days, you have a fever or it becomes hard to open your mouth.</li>\n<li>If a bad smell or taste from the socket becomes noticeable.</li>\n</ul><p>We cover general aftercare in <a class=\"text-link\" href=\"/en/blog/after-tooth-extraction/\">after a tooth extraction</a>. Healing time varies from person to person, depending on how difficult the extraction was and your general health.</p><p>Dent32 is at <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong> and is open Monday to Saturday, 9:00–22:00. To book, call or WhatsApp +90 555 011 33 68, or use our <a class=\"text-link\" href=\"/en/contact/\">contact page</a>. At the examination we share the findings, the options and the approximate cost in writing; you are under no obligation to start treatment afterwards.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I drink water after an extraction?",
+    "a": "Yes, you can drink water from the first hours. Just don't use a straw, and swallow without swishing it around."
+   },
+   {
+    "q": "How many days should I use salt water?",
+    "a": "Usually for about a week after the first day, especially after meals. The time may vary with the type of extraction; follow your dentist's advice."
+   },
+   {
+    "q": "There's white tissue in the socket. Should I rinse it away?",
+    "a": "No. Whitish tissue in a healing socket is often a normal part of healing and shouldn't be rinsed or scraped away. Details: <a class=\"text-link\" href=\"/en/blog/white-tissue-in-extraction-socket/\">white tissue in an extraction socket</a>."
+   },
+   {
+    "q": "When can I exercise after an extraction?",
+    "a": "Strenuous exercise raises blood pressure and can restart bleeding, so a break in the first days is advised. Details: <a class=\"text-link\" href=\"/en/blog/exercise-after-tooth-extraction/\">exercise after a tooth extraction</a>."
+   }
+  ],
+  "doctorNote": {
+   "in": "first-day",
+   "text": "What I repeat most to patients after an extraction is: don't rinse and don't spit on the first day. Frequent, well-meant rinsing can dislodge the clot in the socket and slow down healing."
+  }
+ },
+ {
+  "key": "beyazlatmayas",
+  "date": "2026-11-21",
+  "cat": "Aesthetics",
+  "cover": "blog-beyazlatma-yas",
+  "slug": "teeth-whitening-age",
+  "title": "What age can you have teeth whitening? The lower limit for teenagers and whitening later in life",
+  "desc": "Is there a minimum age for teeth whitening, why does 18 come up, what to do about discoloured teeth in children, and what to know about whitening later in life and during pregnancy.",
+  "seoTitle": "What age can you have teeth whitening? Age limits | Dent32",
+  "seoDesc": "What age can you have teeth whitening? Why 18 comes up, discoloured teeth in children and teenagers, and whitening later in life or during pregnancy.",
+  "lead": "Teeth whitening is generally considered in adulthood, once the permanent teeth have fully come through and matured; in practice the age most often mentioned is 18. EU cosmetics rules state that tooth whitening products containing hydrogen peroxide above a certain level should not be used on people under 18. There is no upper age limit; whitening can be done later in life too, but suitability and results vary from person to person, depending on the teeth and gums.",
+  "sections": [
+   {
+    "id": "why-18",
+    "h": "Why does 18 come up?",
+    "html": "<p>In young people, the space containing the tooth's nerve (the pulp) is larger than in adults. As a result, the sensitivity that whitening gels can cause may be more noticeable. The teeth and gums are also still changing during the teenage years.</p><p>EU rules on cosmetic products state that tooth whitening products containing more than 0.1% hydrogen peroxide may only be used under a dentist's supervision and only for people over 18. For this reason many dentists prefer to leave cosmetic whitening until adulthood.</p>"
+   },
+   {
+    "id": "young",
+    "h": "If a child's or teenager's teeth are discoloured",
+    "html": "<p>In children and teenagers, the cause of discolouration is often different from adults. The first step is to find the cause:</p><div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Appearance</th><th scope=\"col\">Possible cause</th></tr></thead><tbody><tr><td>One tooth turning grey or darker</td><td>A change in the tooth's nerve after a knock</td></tr><tr><td>White or brown spots on the teeth</td><td>Enamel development defects, too much fluoride</td></tr><tr><td>Dark stains on the tooth surface</td><td>Some medicines, iron drops, tea or coloured drinks</td></tr><tr><td>A generally yellowish look</td><td>Natural tooth colour; permanent teeth can look more yellow next to baby teeth</td></tr></tbody></table></div><p>Some surface stains can be reduced with a professional clean. For a tooth that has been knocked, its vitality is checked first. We explain the first dental visit for children in <a class=\"text-link\" href=\"/en/blog/childs-first-dental-visit/\">this article</a>.</p>"
+   },
+   {
+    "id": "later-life",
+    "h": "Can you have whitening later in life?",
+    "html": "<p>There is no upper age limit for whitening. With age, enamel thins and more of the yellowish dentin underneath shows through, so teeth can look more yellow. Whitening can help with this darkening.</p><ul>\n<li>Crowns, fillings and veneers don't whiten, so a colour difference may appear after whitening. See <a class=\"text-link\" href=\"/en/blog/can-crowns-veneers-and-fillings-be-whitened/\">can crowns and fillings be whitened</a>.</li>\n<li>Gum recession and exposed root surfaces can increase sensitivity, and root surfaces don't lighten as much as enamel.</li>\n<li>Any decay or gum disease is treated before whitening.</li>\n</ul><aside class=\"note\"><strong>In short</strong><p>Whitening is generally considered after 18; there is no upper age limit. Suitability and the expected result vary from person to person, depending on the teeth and gums.</p></aside>"
+   },
+   {
+    "id": "pregnancy",
+    "h": "During pregnancy and breastfeeding",
+    "html": "<p>Because there isn't enough research on the safety of whitening during pregnancy and breastfeeding, this cosmetic procedure is usually postponed until afterwards. Cleaning and necessary treatment can still be done during this time. See <a class=\"text-link\" href=\"/en/blog/dental-treatment-during-pregnancy/\">dental treatment during pregnancy</a>.</p>"
+   },
+   {
+    "id": "before",
+    "h": "What is checked before whitening?",
+    "html": "<ol>\n<li>The cause of the colour: surface staining or the tooth's own colour?</li>\n<li>Whether there is decay, cracks or gum disease</li>\n<li>Whether the front teeth have crowns, fillings or veneers</li>\n<li>Whether you have had sensitivity before</li>\n</ol><p>Trying to whiten at home with baking soda or lemon can damage enamel; see <a class=\"text-link\" href=\"/en/blog/teeth-whitening-at-home-baking-soda-lemon/\">home teeth whitening</a>. We compare in-clinic whitening and dentist-supervised home whitening in <a class=\"text-link\" href=\"/en/blog/teeth-whitening/\">teeth whitening</a>.</p><p>Dent32 is at <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü, Istanbul</strong> and is open Monday to Saturday, 9:00–22:00. To book, call or WhatsApp +90 555 011 33 68, or use our <a class=\"text-link\" href=\"/en/contact/\">contact page</a>. At the examination we share the findings, the options and the approximate cost in writing; you are under no obligation to start treatment afterwards.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can a 16-year-old have teeth whitening?",
+    "a": "Cosmetic whitening is usually left until after 18. If a teenager's teeth are discoloured, the cause is investigated first; a professional clean or other approaches aimed at the cause may be considered."
+   },
+   {
+    "q": "Are whitening toothpastes suitable for teenagers?",
+    "a": "Most whitening toothpastes try to reduce surface stains with abrasive ingredients and don't change the tooth's own colour. Some can wear enamel. Details: <a class=\"text-link\" href=\"/en/blog/whitening-toothpaste-charcoal/\">whitening and charcoal toothpastes</a>."
+   },
+   {
+    "q": "How long does the colour last after whitening?",
+    "a": "How long the result lasts varies from person to person, depending on diet, smoking and oral care. Avoiding strongly coloured food and drink in the first days is advised; see <a class=\"text-link\" href=\"/en/blog/what-to-eat-after-teeth-whitening/\">what to eat after whitening</a>."
+   }
+  ],
+  "doctorNote": {
+   "in": "young",
+   "text": "With younger patients, I try to understand the cause of the colour before talking about whitening. A single darkened tooth, white spots or enamel defects may respond better to other approaches aimed at the cause than to whitening."
+  }
+ },
+ {
   "key": "disetisisme",
   "date": "2026-11-19",
   "cat": "Treatment",

@@ -32,6 +32,7 @@ export function GET() {
     `- Kurucu hekim / Founder: Dr. Hüseyin Aşcı (bazı kaynaklarda Hüseyin Aşçı olarak da yazılır), diş hekimi, İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunu; klinik çalışmalarının merkezinde implant tedavisi, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama ve lamine (porselen veneer) yer alır (his clinical work centres on dental implants, All-on-4 / All-on-6 full-arch implants, zirconia crowns and porcelain veneers). Profil / Profile: ${absUrl("post-huseyinasci", "tr")} · ${absUrl("post-huseyinasci", "en")} · Instagram: https://www.instagram.com/dr.huseyinasci/`,
     `- Son güncelleme / Last updated: ${SITE_UPDATED} · Site editörü / Site editor: ${EMAIL}`,
     `- Randevu / Appointments: ${absUrl("contact", "tr")}`,
+    `- İstanbul'dan ulaşım ve ziyaret planı / Getting here from across Istanbul: ${absUrl("istanbul", "tr")} · ${absUrl("istanbul", "en")} (Avrupa Yakası, metrobüs Beylikdüzü ve Beylikdüzü Belediye durakları ~300 m / European side, ~300 m from the Beylikdüzü and Beylikdüzü Belediye metrobus stops)`,
     "",
     "## Başlıca tedaviler / Main treatments",
     "",

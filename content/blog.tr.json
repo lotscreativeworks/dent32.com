@@ -1,5 +1,123 @@
 [
  {
+  "key": "cekimcalkalama",
+  "date": "2026-11-21",
+  "cat": "Tedavi",
+  "cover": "blog-cekim-calkalama",
+  "slug": "dis-cekiminden-sonra-agiz-ne-zaman-calkalanir",
+  "title": "Diş çekiminden sonra ağız ne zaman çalkalanır? Tuzlu su, gargara ve diş fırçalama",
+  "desc": "Diş çekiminden sonra ağız ne zaman çalkalanabilir, tuzlu su ve gargara ne zaman kullanılır, dişler nasıl fırçalanır? İlk 24 saat neden önemli ve pıhtıyı korumak için nelere dikkat edilir.",
+  "seoTitle": "Diş çekiminden sonra ağız ne zaman çalkalanır? | Dent32",
+  "seoDesc": "Diş çekiminden sonra ağız ne zaman çalkalanır? İlk 24 saat, tuzlu su ve gargara kullanımı, diş fırçalama ve çekim yerindeki pıhtıyı korumanın yolları.",
+  "lead": "Diş çekiminden sonraki ilk 24 saatte ağzı kuvvetlice çalkalamamak ve tükürmemek önerilir; çünkü çekim boşluğunda oluşan kan pıhtısı iyileşmenin temelidir ve bu dönemde yerinden çıkabilir. İlk günden sonra, genellikle yemeklerden sonra ılık tuzlu suyla ağzı nazikçe çalkalamaya başlanabilir. Gargaranın ne zaman ve hangisinin kullanılacağı ise yapılan çekime ve hekiminizin önerisine göre kişiden kişiye değişir.",
+  "sections": [
+   {
+    "id": "ilk-gun",
+    "h": "İlk 24 saat: neden çalkalanmamalı?",
+    "html": "<p>Diş çekildikten sonra boşluk kanla dolar ve kısa sürede bir pıhtı oluşur. Bu pıhtı hem kanamayı durdurur hem de yeni dokunun oluşması için bir zemin görevi görür. İlk saatlerde pıhtı henüz zayıftır; kuvvetli çalkalama, tükürme, pipetle içme ya da sigara içerken oluşan emme hareketi pıhtının yerinden çıkmasına yol açabilir.</p><ul>\n<li>Ağzı kuvvetlice çalkalamayın, tükürmeyin; ağızda biriken tükürüğü yutabilir ya da ağzınızı eğerek boşaltabilirsiniz.</li>\n<li>Pipet kullanmayın.</li>\n<li>Sigara içmemeye çalışın; hem emme hareketi hem de sigaranın kendisi iyileşmeyi geciktirebilir.</li>\n<li>Çekim yerini dil ya da parmakla yoklamayın.</li>\n</ul><p>Pıhtı erken kaybedilirse kuru soket denilen ağrılı bir durum gelişebilir. Belirtilerini <a class=\"text-link\" href=\"/blog/kuru-soket-alveolit-belirtileri/\">kuru soket</a> yazımızda anlattık.</p>"
+   },
+   {
+    "id": "tuzlu-su",
+    "h": "Tuzlu su ne zaman ve nasıl kullanılır?",
+    "html": "<p>İlk 24 saatten sonra, bir bardak ılık suya yarım çay kaşığı tuz ekleyerek hazırlanan suyla ağız nazikçe çalkalanabilir. Amaç ağzı kuvvetle çalkalamak değil, suyu ağızda yavaşça gezdirip çekim tarafına doğru akıtmak ve sonra ağzı eğerek boşaltmaktır.</p><ol>\n<li>Ilık suya tuz ekleyip karıştırın.</li>\n<li>Suyu ağzınıza alın, başınızı hafifçe çekim tarafına eğerek birkaç saniye bekleyin.</li>\n<li>Tükürmeden, ağzınızı lavaboya eğerek suyu boşaltın.</li>\n<li>Özellikle yemeklerden sonra, hekiminizin önerdiği süre boyunca tekrarlayın.</li>\n</ol><aside class=\"note\"><strong>Kısaca</strong><p>İlk gün ağız çalkalanmaz ve tükürülmez. Ertesi günden itibaren yemeklerden sonra ılık tuzlu suyla nazik çalkalama yapılabilir.</p></aside>"
+   },
+   {
+    "id": "gargara",
+    "h": "Gargara kullanılmalı mı?",
+    "html": "<p>Hekiminiz bazı durumlarda, örneğin cerrahi çekimlerden sonra, belirli bir süre antiseptik bir gargara önerebilir. Gargarayı da ilk 24 saatten sonra ve kuvvetle çalkalamadan kullanmak gerekir. Alkol içeren gargaralar çekim yerinde yanma hissi yapabilir.</p><p>Klorheksidinli gargaraların uzun süre kullanımı dişlerde renklenmeye yol açabildiği için hekimin önerdiği süre aşılmamalıdır. Gargaraların günlük kullanımı hakkında <a class=\"text-link\" href=\"/blog/agiz-gargarasi-her-gun-kullanilir-mi/\">ağız gargarası her gün kullanılır mı</a> yazımıza bakabilirsiniz.</p>"
+   },
+   {
+    "id": "fircalama",
+    "h": "Dişler ne zaman fırçalanır?",
+    "html": "<p>Çekimin yapıldığı akşam diğer dişler normal şekilde fırçalanabilir; yalnızca çekim bölgesinin hemen çevresinde fırça dikkatli kullanılmalıdır. Ağız temizliğini bırakmak, bakteri birikimini artırarak iyileşmeyi olumsuz etkileyebilir.</p><ul>\n<li>Çekim yerine komşu dişleri yumuşak bir fırçayla nazikçe temizleyin.</li>\n<li>Macunu tükürürken kuvvetle tükürmek yerine ağzınızı eğerek boşaltın.</li>\n<li>Dikiş varsa fırçayı dikişlerin üzerine bastırmayın. Dikişler hakkında: <a class=\"text-link\" href=\"/blog/dis-cekimi-sonrasi-dikis-ne-zaman-alinir/\">dikiş ne zaman alınır</a>.</li>\n</ul>"
+   },
+   {
+    "id": "ne-zaman",
+    "h": "Ne zaman hekime başvurulmalı?",
+    "html": "<ul>\n<li>Çekimden 2–3 gün sonra ağrı azalmak yerine artıyorsa ve kulağa yayılıyorsa.</li>\n<li>Gazlı bezle bastırmaya rağmen kanama durmuyorsa.</li>\n<li>Şişlik birkaç gün içinde büyüyorsa, ateş varsa ya da ağız açmak zorlaşıyorsa.</li>\n<li>Çekim yerinde kötü koku ya da kötü tat belirginleşiyorsa.</li>\n</ul><p>Çekim sonrası genel bakımı <a class=\"text-link\" href=\"/blog/dis-cekimi-sonrasi/\">diş çekimi sonrası</a> yazımızda topladık. İyileşme süresi, çekimin zorluğuna ve kişinin genel sağlığına göre kişiden kişiye değişir.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik pazartesiden cumartesiye 09.00–22.00 arası açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "Diş çekiminden sonra su içilebilir mi?",
+    "a": "Evet, ilk saatlerden itibaren su içilebilir. Suyu pipetle içmemek ve ağızda çalkalamadan yutmak yeterlidir."
+   },
+   {
+    "q": "Tuzlu su kaç gün kullanılır?",
+    "a": "Genellikle ilk günden sonra yaklaşık bir hafta, özellikle yemeklerden sonra kullanılır. Süre çekimin türüne göre değişebilir; hekiminizin önerisine uyun."
+   },
+   {
+    "q": "Çekim yerinde beyaz bir doku görünüyor, çalkalayarak temizlemeli miyim?",
+    "a": "Hayır. İyileşen çekim yerinde görülen beyazımsı doku çoğu zaman iyileşmenin normal bir parçasıdır ve çalkalayarak ya da kazıyarak temizlenmemelidir. Ayrıntılar: <a class=\"text-link\" href=\"/blog/dis-cekimi-yerinde-beyaz-doku/\">diş çekimi yerinde beyaz doku</a>."
+   },
+   {
+    "q": "Çekimden sonra ne zaman spor yapılabilir?",
+    "a": "Ağır egzersiz kan basıncını artırarak kanamayı yeniden başlatabilir; bu yüzden ilk günlerde ara verilmesi önerilir. Ayrıntılar: <a class=\"text-link\" href=\"/blog/dis-cekiminden-sonra-ne-zaman-spor-yapilir/\">diş çekiminden sonra spor</a>."
+   }
+  ],
+  "doctorNote": {
+   "in": "ilk-gun",
+   "text": "Çekimden sonra hastalarıma en çok tekrarladığım şey, ilk gün ağzı çalkalamamak ve tükürmemektir. İyi niyetle yapılan sık çalkalama, çekim yerindeki pıhtının yerinden çıkmasına ve iyileşmenin uzamasına yol açabilir."
+  }
+ },
+ {
+  "key": "beyazlatmayas",
+  "date": "2026-11-21",
+  "cat": "Estetik",
+  "cover": "blog-beyazlatma-yas",
+  "slug": "dis-beyazlatma-kac-yasinda-yapilir",
+  "title": "Diş beyazlatma kaç yaşında yapılır? Gençlerde alt sınır, ileri yaşta beyazlatma",
+  "desc": "Diş beyazlatma için alt yaş sınırı var mı, 18 yaş neden öne çıkar, çocuklarda dişlerdeki renk değişikliğinde ne yapılır, ileri yaşta ve hamilelikte beyazlatma hakkında bilinmesi gerekenler.",
+  "seoTitle": "Diş beyazlatma kaç yaşında yapılır? Yaş sınırı | Dent32",
+  "seoDesc": "Diş beyazlatma kaç yaşında yapılır? 18 yaş neden öne çıkar, çocuklarda renk değişikliği, ileri yaşta ve hamilelikte beyazlatma hakkında bilinmesi gerekenler.",
+  "lead": "Diş beyazlatma genellikle kalıcı dişlerin tamamen sürdüğü ve dişlerin olgunlaştığı yetişkinlik döneminde düşünülür; pratikte en sık öne çıkan sınır 18 yaştır. Avrupa Birliği'nin kozmetik ürün kuralları, belirli oranın üzerinde hidrojen peroksit içeren diş beyazlatma ürünlerinin 18 yaş altındakilerde kullanılmamasını öngörür. Üst yaş sınırı ise yoktur; ileri yaşta da beyazlatma yapılabilir, ancak sonuç ve uygunluk dişlerin ve diş etinin durumuna göre kişiden kişiye değişir.",
+  "sections": [
+   {
+    "id": "neden-18",
+    "h": "Neden 18 yaş öne çıkar?",
+    "html": "<p>Gençlerde diş sinirinin bulunduğu boşluk (pulpa) yetişkinlere göre daha geniştir. Bu yüzden beyazlatma jellerinin yol açabildiği hassasiyet gençlerde daha belirgin olabilir. Ayrıca ergenlik döneminde dişler ve diş eti hâlâ değişmektedir.</p><p>Avrupa Birliği'nin kozmetik ürünlerle ilgili kuralları, %0,1'in üzerinde hidrojen peroksit içeren diş beyazlatma ürünlerinin yalnızca diş hekimi gözetiminde ve 18 yaş üzerindekilerde kullanılmasını öngörür. Bu yüzden pek çok diş hekimi, kozmetik amaçlı beyazlatmayı yetişkinlik dönemine bırakmayı tercih eder.</p>"
+   },
+   {
+    "id": "genc",
+    "h": "Çocuklarda ve gençlerde dişlerde renk değişikliği varsa",
+    "html": "<p>Çocuk ve gençlerde dişlerdeki renk değişikliğinin nedeni çoğu zaman yetişkinlerdekinden farklıdır. Önce nedenin bulunması gerekir:</p><div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Görünüm</th><th scope=\"col\">Olası neden</th></tr></thead><tbody><tr><td>Tek bir dişte grileşme ya da koyulaşma</td><td>Darbe sonrası dişin sinirinde değişiklik</td></tr><tr><td>Dişlerde beyaz ya da kahverengi lekeler</td><td>Mine gelişim kusurları, fazla florür alımı</td></tr><tr><td>Dişlerin yüzeyinde koyu lekeler</td><td>Bazı ilaçlar, demir damlası, çay ya da renkli içecekler</td></tr><tr><td>Genel sarımsı görünüm</td><td>Doğal diş rengi; süt dişlerinin yanında kalıcı dişler daha sarı görünebilir</td></tr></tbody></table></div><p>Yüzeydeki lekelerin bir kısmı profesyonel temizlikle azalabilir. Darbe almış bir dişte ise önce dişin canlılığı değerlendirilir. Çocuğunuzun dişleriyle ilgili ilk muayeneyi <a class=\"text-link\" href=\"/blog/cocuk-dis-hekimi-ilk-muayene/\">bu yazımızda</a> anlattık.</p>"
+   },
+   {
+    "id": "ileri-yas",
+    "h": "İleri yaşta beyazlatma yapılır mı?",
+    "html": "<p>Beyazlatma için üst yaş sınırı yoktur. Yaşla birlikte mine incelir ve altındaki sarımsı dentin daha çok görünür; bu yüzden ileri yaşta dişler daha sarı görünebilir. Beyazlatma bu renk koyulaşmasında yardımcı olabilir.</p><ul>\n<li>Kaplama, dolgu ve lamineler beyazlamaz; beyazlatma sonrası renk farkı oluşabilir. Bkz. <a class=\"text-link\" href=\"/blog/kaplama-dolgu-lamine-beyazlatilir-mi/\">kaplama ve dolgu beyazlatılır mı</a>.</li>\n<li>Diş eti çekilmesi ve açıkta kalan kök yüzeyleri hassasiyeti artırabilir; kök yüzeyi de beyazlatmayla mine kadar açılmaz.</li>\n<li>Çürük ya da diş eti hastalığı varsa beyazlatmadan önce tedavi edilir.</li>\n</ul><aside class=\"note\"><strong>Kısaca</strong><p>Beyazlatma genellikle 18 yaştan sonra düşünülür; üst yaş sınırı yoktur. Uygunluk ve beklenen sonuç, dişlerin ve diş etinin durumuna göre kişiden kişiye değişir.</p></aside>"
+   },
+   {
+    "id": "hamilelik",
+    "h": "Hamilelikte ve emzirirken",
+    "html": "<p>Hamilelikte ve emzirme döneminde beyazlatmanın güvenliğine dair yeterli çalışma olmadığı için, kozmetik bir işlem olan beyazlatmanın bu dönemden sonraya bırakılması genellikle tercih edilir. Bu dönemde diş taşı temizliği ve gerekli tedaviler yapılabilir. Bkz. <a class=\"text-link\" href=\"/blog/hamilelikte-dis-tedavisi/\">hamilelikte diş tedavisi</a>.</p>"
+   },
+   {
+    "id": "once",
+    "h": "Beyazlatmadan önce neler değerlendirilir?",
+    "html": "<ol>\n<li>Rengin nedeni: yüzey lekesi mi, dişin iç rengi mi?</li>\n<li>Çürük, çatlak ya da diş eti hastalığı olup olmadığı</li>\n<li>Ön dişlerde kaplama, dolgu ya da lamine olup olmadığı</li>\n<li>Daha önce hassasiyet yaşanıp yaşanmadığı</li>\n</ol><p>Evde karbonat ya da limonla beyazlatma denemeleri mineye zarar verebilir; bkz. <a class=\"text-link\" href=\"/blog/evde-dis-beyazlatma-karbonat-limon/\">evde diş beyazlatma</a>. Klinikte ve evde hekim kontrolünde yapılan yöntemleri <a class=\"text-link\" href=\"/blog/dis-beyazlatma/\">diş beyazlatma</a> yazımızda karşılaştırdık.</p><p>Dent32, <strong>Barış Mah., Ginza Lavinya, E-5 Yanyolu No:30 D:179, 34520 Beylikdüzü / İstanbul</strong> adresindedir; klinik pazartesiden cumartesiye 09.00–22.00 arası açıktır. Randevu için +90 555 011 33 68 numarasını arayabilir, WhatsApp'tan yazabilir ya da <a class=\"text-link\" href=\"/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz. Muayenede bulguları, seçenekleri ve yaklaşık maliyeti yazılı olarak paylaşırız; muayeneden sonra tedaviye başlamak zorunda değilsiniz.</p>"
+   }
+  ],
+  "faq": [
+   {
+    "q": "16 yaşında beyazlatma yapılır mı?",
+    "a": "Kozmetik amaçlı beyazlatma genellikle 18 yaşından sonraya bırakılır. Gençlerde renk değişikliği varsa önce nedeni araştırılır; profesyonel temizlik ya da nedenine yönelik başka yöntemler değerlendirilebilir."
+   },
+   {
+    "q": "Beyazlatıcı diş macunu gençler için uygun mu?",
+    "a": "Beyazlatıcı macunların çoğu yüzey lekelerini aşındırıcı maddelerle azaltmaya çalışır ve dişin iç rengini değiştirmez. Bazıları mineyi aşındırabilir. Ayrıntılar: <a class=\"text-link\" href=\"/blog/beyazlatici-dis-macunu-komurlu-macun/\">beyazlatıcı ve kömürlü diş macunları</a>."
+   },
+   {
+    "q": "Beyazlatma sonrası renk ne kadar kalır?",
+    "a": "Sonucun ne kadar korunacağı beslenme alışkanlıklarına, sigara kullanımına ve ağız bakımına göre kişiden kişiye değişir. İlk günlerde renkli yiyecek ve içeceklerden kaçınmak önerilir; bkz. <a class=\"text-link\" href=\"/blog/dis-beyazlatma-sonrasi-ne-yenir/\">beyazlatma sonrası ne yenir</a>."
+   }
+  ],
+  "doctorNote": {
+   "in": "genc",
+   "text": "Genç hastalarda beyazlatmadan önce rengin nedenini anlamaya çalışıyorum. Tek bir dişteki koyulaşma, beyaz lekeler ya da mine kusurları beyazlatmayla değil, nedenine yönelik başka yöntemlerle daha iyi sonuç verebilir."
+  }
+ },
+ {
   "key": "disetisisme",
   "date": "2026-11-19",
   "cat": "Tedavi",

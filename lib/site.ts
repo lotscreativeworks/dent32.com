@@ -190,6 +190,8 @@ const STATIC_ROUTES = {
   gallery: { tr: "/galeri/", en: "/en/gallery/" },
   blog: { tr: "/blog/", en: "/en/blog/" },
   contact: { tr: "/iletisim/", en: "/en/contact/" },
+  /** "İstanbul diş kliniği" aramaları için açılış sayfası */
+  istanbul: { tr: "/istanbul-dis-klinigi/", en: "/en/dental-clinic-istanbul/" },
 } satisfies Record<string, Localized>;
 
 export type PageKey = keyof typeof STATIC_ROUTES | `post-${string}` | `treat-${string}` | `bloglist-${string}`;

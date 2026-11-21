@@ -191,7 +191,8 @@ export function Home({ lang }: { lang: Lang }) {
               <li><span className="info__ico"><Icon name="pin" /></span><div><strong>{t("Ulaşım", "Getting here")}</strong>
                 {t("Metrobüs hattının geçtiği E-5 yanyolu üzerinde; Beylikdüzü ve Beylikdüzü Belediye durakları yaklaşık 300 m. ",
                   "On the E-5 service road along the metrobus line; the Beylikdüzü and Beylikdüzü Belediye stops are about 300 m away. ")}
-                <a className="text-link" href={GMB} target="_blank" rel="noopener">{t("Yol tarifi al", "Get directions")}</a></div></li>
+                <a className="text-link" href={GMB} target="_blank" rel="noopener">{t("Yol tarifi al", "Get directions")}</a>
+                {" · "}<Link className="text-link" href={route("istanbul", lang)}>{t("İstanbul'un diğer semtlerinden ulaşım", "Getting here from elsewhere in Istanbul")}</Link></div></li>
             </ul>
           </div>
           <div className="rv" style={delay(1)}>

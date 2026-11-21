@@ -13,7 +13,7 @@ const askMsg = (lang: Lang, name: string) => translator(lang)(
   `Merhaba, ${name.toLocaleLowerCase("tr")} hakkında bilgi almak istiyorum.`, `Hello, I'd like some information about ${name.toLowerCase()}.`);
 
 /** Tedavi kartları: her biri kendi sayfasına gider */
-function TreatGrid({ lang, items }: { lang: Lang; items: Treatment[] }) {
+export function TreatGrid({ lang, items }: { lang: Lang; items: Treatment[] }) {
   const t = translator(lang);
   return (
     <div className="svc-grid">
@@ -125,6 +125,13 @@ export function TreatmentDetail({ lang, tr }: { lang: Lang; tr: Treatment }) {
               <ol className="steps">{tr.steps[lang].map((s) => <li key={s}>{s}</li>)}</ol>
               <h3>{t("Tedaviden sonra", "After treatment")}</h3>
               <ul className="ticks">{tr.after[lang].map((a) => <li key={a}>{a}</li>)}</ul>
+              {tr.istanbul && (
+                <>
+                  <h3>{tr.istanbul.h[lang]}</h3>
+                  {tr.istanbul.paras[lang].map((p) => <p key={p}>{p}</p>)}
+                  <p><Link className="text-link" href={route("istanbul", lang)}>{t("İstanbul'un farklı semtlerinden ulaşım ve ziyaret planı", "Getting here from across Istanbul and planning your visits")}</Link></p>
+                </>
+              )}
               <div className="btn-row" style={{ alignItems: "center", gap: 20 }}>
                 <a className="btn btn-primary" href={waLink(askMsg(lang, name))} target="_blank" rel="noopener">{t("Bu tedavi için danışın", "Ask about this treatment")}</a>
                 <Link className="text-link" href={route("contact", lang)}>{t("Randevu al", "Book an appointment")}</Link>
