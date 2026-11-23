@@ -63,6 +63,8 @@ export type Post = {
   seoTitle?: string; seoDesc?: string;
   /** İçerik sonradan düzeltildiyse son güncelleme tarihi (yazıda ve JSON-LD dateModified'da gösterilir) */
   updated?: string;
+  /** Dr. Hüseyin Aşcı'nın yazının tamamını okuyup onayladığı tarih. Yalnızca hekimin gerçekten onayladığı yazılara eklenir. */
+  reviewed?: string;
   /** Kurucu hekimin kısa notu: `in` bölümünün başında, sağ köşede portreli alıntı kutusu olarak gösterilir */
   doctorNote?: { in: string; text: string };
   sections: { id: string; h: string; html: string }[];

@@ -4302,6 +4302,7 @@
  },
  {
   "key": "cekimdikis",
+  "reviewed": "2026-11-23",
   "date": "2026-11-13",
   "cat": "Tedavi",
   "cover": "blog-cekim-dikis",
@@ -4744,6 +4745,7 @@
  },
  {
   "key": "agrikesici",
+  "reviewed": "2026-11-23",
   "date": "2026-11-11",
   "cat": "Rehber",
   "cover": "blog-agri-kesici",
@@ -4811,6 +4813,7 @@
  },
  {
   "key": "kurusoket",
+  "reviewed": "2026-11-23",
   "date": "2026-11-11",
   "cat": "Rehber",
   "cover": "blog-kuru-soket",
@@ -5668,6 +5671,7 @@
  },
  {
   "key": "emzirme",
+  "reviewed": "2026-11-23",
   "date": "2026-11-08",
   "cat": "Rehber",
   "cover": "blog-emzirme",
@@ -6193,6 +6197,7 @@
  },
  {
   "key": "fistul",
+  "reviewed": "2026-11-23",
   "date": "2026-11-08",
   "cat": "Rehber",
   "cover": "blog-fistul",
@@ -7496,6 +7501,7 @@
  },
  {
   "key": "sigaraimplant",
+  "reviewed": "2026-11-23",
   "date": "2026-11-07",
   "cat": "İmplant",
   "cover": "blog-sigara-implant",
@@ -7915,6 +7921,7 @@
  },
  {
   "key": "kulak",
+  "reviewed": "2026-11-23",
   "date": "2026-11-07",
   "cat": "Rehber",
   "cover": "blog-dis-agrisi-kulak",
@@ -7969,6 +7976,7 @@
  },
  {
   "key": "uyusma",
+  "reviewed": "2026-11-23",
   "date": "2026-11-07",
   "cat": "Tedavi",
   "cover": "blog-dis-uyusmasi",
@@ -12643,6 +12651,7 @@
  },
  {
   "key": "antibiyotik",
+  "reviewed": "2026-11-23",
   "date": "2026-10-26",
   "cat": "Tedavi",
   "cover": "blog-antibiyotik",
@@ -15152,6 +15161,7 @@
  },
  {
   "key": "kaplamasonrasi",
+  "reviewed": "2026-11-23",
   "date": "2026-10-08",
   "cat": "Kaplama",
   "cover": "blog-kaplama-sonrasi",

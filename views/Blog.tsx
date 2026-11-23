@@ -154,7 +154,13 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
   const posting = {
     "@context": "https://schema.org", "@type": "BlogPosting", headline: post.title, description: post.desc,
     image: `${SITE}/img/${post.cover}.webp`, datePublished: post.date, dateModified: post.updated ?? post.date, inLanguage: lang,
-    mainEntityOfPage: absUrl(`post-${post.key}`, lang), articleSection: post.cat,
+    mainEntityOfPage: post.reviewed
+      ? {
+          "@type": "WebPage", "@id": absUrl(`post-${post.key}`, lang), lastReviewed: post.reviewed,
+          reviewedBy: { "@type": "Person", "@id": FOUNDER_ID, name: "Dr. Hüseyin Aşcı", url: absUrl("post-huseyinasci", lang) },
+        }
+      : absUrl(`post-${post.key}`, lang),
+    articleSection: post.cat,
     author: { "@type": "Organization", name: author, url: SITE },
     ...(post.doctorNote && { mentions: { "@type": "Person", "@id": FOUNDER_ID, name: "Dr. Hüseyin Aşcı", url: absUrl("post-huseyinasci", lang) } }),
     publisher: { "@type": "Organization", "@id": DENTIST_ID, name: "Dent32", url: SITE, logo: { "@type": "ImageObject", url: `${SITE}/logo.svg` } },
@@ -195,6 +201,13 @@ export function BlogPost({ lang, post }: { lang: Lang; post: Post }) {
                   <span>{t("Son güncelleme", "Last updated")}: <time dateTime={post.updated}>{dateLong(post.updated, lang)}</time></span>
                 )}
                 <span><Icon name="clock" />{t(`${mins} dk okuma`, `${mins} min read`)}</span>
+                {post.reviewed && (
+                  <span>
+                    <Icon name="check" />{t("Tıbbi içerik kontrolü", "Medically reviewed by")}:{" "}
+                    <Link className="text-link" href={route("post-huseyinasci", lang)}>Dr. Hüseyin Aşcı</Link>
+                    {" · "}<time dateTime={post.reviewed}>{dateLong(post.reviewed, lang)}</time>
+                  </span>
+                )}
               </p>
             </header>
             <figure className="post__cover"><Img name={post.cover} w={900} h={675} alt={post.title} preload sizes="(max-width: 960px) 100vw, 780px" /></figure>
