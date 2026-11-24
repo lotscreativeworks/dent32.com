@@ -3,7 +3,10 @@ import { BaCard, NextStep, PageHead, SIZES_GRID3 } from "@/components/blocks";
 import { Shell } from "@/components/Shell";
 import { type Lang, translator, VISUAL_WARNING } from "@/lib/site";
 
-const CASES: [string, number][] = ["implant", "zirkonyum"].flatMap((k) => [1, 2, 3].map((n): [string, number] => [k, n]));
+// Her tedavideki vaka sayısı: yeni vaka eklenince public/img/vaka-<tedavi><n>-oncesi/sonrasi.webp ekleyip sayıyı artırın.
+const COUNTS: [string, number][] = [["implant", 3], ["zirkonyum", 5], ["lamine", 1]];
+const CASES: [string, number][] = COUNTS.flatMap(([k, c]) => Array.from({ length: c }, (_, i): [string, number] => [k, i + 1]));
+const count = (k: string) => COUNTS.find(([c]) => c === k)?.[1] ?? 0;
 
 export function Gallery({ lang }: { lang: Lang }) {
   const t = translator(lang);
@@ -17,9 +20,10 @@ export function Gallery({ lang }: { lang: Lang }) {
         <div className="wrap">
           <GalleryGrid groupLabel={t("Tedaviye göre filtrele", "Filter by treatment")}
             filters={[
-              { key: "all", label: t("Tümü", "All"), status: status(6) },
-              { key: "implant", label: t("İmplant", "Implant"), status: status(3) },
-              { key: "zirkonyum", label: t("Zirkonyum", "Zirconia"), status: status(3) },
+              { key: "all", label: t("Tümü", "All"), status: status(CASES.length) },
+              { key: "implant", label: t("İmplant", "Implant"), status: status(count("implant")) },
+              { key: "zirkonyum", label: t("Zirkonyum", "Zirconia"), status: status(count("zirkonyum")) },
+              { key: "lamine", label: t("Lamine", "Veneers"), status: status(count("lamine")) },
             ]}
             cards={CASES.map(([k, n], i) => ({ cat: k, node: <BaCard lang={lang} kind={k} n={n} d={i % 3} sizes={SIZES_GRID3} /> }))} />
           <p className="legal-note">{VISUAL_WARNING[lang]}</p>

@@ -19,7 +19,7 @@ export function LangRail({ lang, ...rest }: { lang: Lang; label: string; classNa
   return <Rail {...rest} prevLabel={t("Önceki", "Previous")} nextLabel={t("Sonraki", "Next")} />;
 }
 
-const CAT: Record<string, [string, string]> = { implant: ["İmplant", "Implant"], zirkonyum: ["Zirkonyum", "Zirconia"] };
+const CAT: Record<string, [string, string]> = { implant: ["İmplant", "Implant"], zirkonyum: ["Zirkonyum", "Zirconia"], lamine: ["Lamine", "Veneers"] };
 
 export function BaCard({ lang, kind, n, d = 0, sizes = SIZES_RAIL }: { lang: Lang; kind: string; n: number; d?: number; sizes?: string }) {
   const t = translator(lang);
