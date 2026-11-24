@@ -12244,11 +12244,6 @@
     "html": "<ul>\n<li><strong>Önce tanışma:</strong> İlk randevuda yalnızca konuşuyor ve muayene ediyoruz. Hazır hissetmiyorsanız aynı gün tedaviye başlamıyoruz.</li>\n<li><strong>Anlat, göster, uygula:</strong> Kullanacağımız aleti ve hissedeceğiniz şeyi önceden anlatıyor, gerekiyorsa elinizde gösteriyoruz.</li>\n<li><strong>Dur işareti:</strong> Elinizi kaldırdığınızda hemen duruyoruz. Bu basit kural, kontrolün sizde olduğunu hissettirir.</li>\n<li><strong>Hissettirmeyen anestezi:</strong> Anesteziden önce diş etine yüzeysel uyuşturucu jel sürülür ve ilaç yavaş verilir. Uyuşma tam oluşmadan işleme başlanmaz.</li>\n<li><strong>Kısa seanslar:</strong> İlk tedavileri kısa ve kolay işlemlerle başlatıp güven oluştukça uzatıyoruz.</li>\n<li><strong>Yargısız yaklaşım:</strong> Uzun süre diş hekimine gitmemiş olmanız bizim için bir eleştiri konusu değil, bir başlangıç noktasıdır.</li>\n</ul><aside class=\"note\"><strong>Kısaca</strong><p>Korkunuzu randevu alırken söylemeniz yeterli. Bu bilgi, hekimin seansı size göre planlamasını sağlar.</p></aside>"
    },
    {
-    "id": "yorum",
-    "h": "Hastalarımız ne diyor?",
-    "html": "<p>Google'daki yorumlarımızdan biri bu konuyu iyi özetliyor: <em>\"Ben gibi dişçi fobisi olanlar bile rahatlıkla gidebilir. Ayrıca bütün kadro güler yüzlü ve her durumda yardımcı oluyor.\"</em> (Tülay Ç.) Bir başka hastamız iki diş çekiminde hiç acı hissetmediğini ve hasta hassasiyetine gösterilen özeni yazmış (Haluk M.). Diğer yorumları <a class=\"text-link\" href=\"https://maps.app.goo.gl/ZyUfuxXdQUzmkPH89\">Google Haritalar kaydımızda</a> okuyabilirsiniz.</p>"
-   },
-   {
     "id": "ipuclari",
     "h": "Randevu öncesi ve sırasında işe yarayan pratik yöntemler",
     "html": "<ul>\n<li>Randevuyu sabah ya da güne başlarken alın; gün boyu beklemek kaygıyı artırır.</li>\n<li>Kafeinli içecekleri randevudan önce azaltın.</li>\n<li>Yanınızda güvendiğiniz birini getirin.</li>\n<li>Kulaklıkla müzik ya da podcast dinlemek tur sesini bastırır.</li>\n<li>Yavaş nefes alın: 4 saniye burundan alıp 6 saniyede ağızdan verin.</li>\n<li>İşlemin ne kadar süreceğini sorun; süresi bilinen bir işlem daha kolay geçer.</li>\n</ul><p>Çocuklarda diş hekimi korkusunu önlemek için ilk ziyaretin ağrı olmadan, oyun gibi geçmesi çok önemlidir; bkz. <a class=\"text-link\" href=\"/blog/beylikduzu-cocuk-dis-hekimi/\">Beylikdüzü'nde çocuklarda diş tedavisi</a>.</p>"
@@ -12256,7 +12251,7 @@
    {
     "id": "baslangic",
     "h": "Uzun süredir gitmediyseniz nereden başlamalı?",
-    "html": "<p>En iyi başlangıç, ağrınız olmadan yapılan bir muayene ve gerekirse diş taşı temizliğidir. Böylece hem ağzınızın durumu netleşir hem de klinik ortamına ağrısız bir işlemle alışırsınız. Ardından tedaviler aciliyete göre sıralanır. Muayenenin nasıl geçtiğini <a class=\"text-link\" href=\"/blog/beylikduzu-dis-muayenesi/\">diş muayenesi rehberinde</a> anlattık.</p>\n<p>Randevu alırken korkunuzu WhatsApp'tan yazmanız yeterli: <strong>+90 555 011 33 68</strong>. Dent32, Beylikdüzü Barış Mahallesi'nde, E-5 yanyolu üzerinde pazartesiden cumartesiye 09.00–22.00 arası açık bir <a class=\"text-link\" href=\"/\">diş kliniğidir</a>.</p>"
+    "html": "<p>İyi bir başlangıç, ağrınız olmadan yapılan bir muayene ve gerekirse diş taşı temizliğidir. Böylece hem ağzınızın durumu netleşir hem de klinik ortamına basit ve kısa bir işlemle alışırsınız; nasıl geçeceği kişiden kişiye değişir. Ardından tedaviler aciliyete göre sıralanır. Muayenenin nasıl geçtiğini <a class=\"text-link\" href=\"/blog/beylikduzu-dis-muayenesi/\">diş muayenesi rehberinde</a> anlattık.</p>\n<p>Randevu alırken korkunuzu WhatsApp'tan yazmanız yeterli: <strong>+90 555 011 33 68</strong>. Dent32, Beylikdüzü Barış Mahallesi'nde, E-5 yanyolu üzerinde pazartesiden cumartesiye 09.00–22.00 arası açık bir <a class=\"text-link\" href=\"/\">diş kliniğidir</a>.</p>"
    }
   ],
   "faq": [
@@ -12281,10 +12276,11 @@
     "a": "Evet. Güvendiğiniz birinin yanınızda olması kaygıyı azaltabilir."
    }
   ],
-  "updated": "2026-11-15"
+  "updated": "2026-11-24"
  },
  {
   "key": "beyyorum",
+  "updated": "2026-11-24",
   "date": "2026-10-26",
   "cat": "Rehber",
   "cover": "blog-bey-yorum",
@@ -12318,7 +12314,7 @@
    {
     "id": "dent32",
     "h": "Dent32 yorumları ve sizin yorumunuz",
-    "html": "<p>Hastalarımızın Google'da paylaştığı deneyimleri <a class=\"text-link\" href=\"https://maps.app.goo.gl/ZyUfuxXdQUzmkPH89\">Dent32'nin Google Haritalar kaydında</a> okuyabilirsiniz. Ana sayfamızda da bu yorumlardan bazılarını paylaşıyoruz.</p>\n<p>Dent32'de tedavi olduysanız, deneyiminizi aynı bağlantıdan birkaç cümleyle paylaşmanız Beylikdüzü'nde diş hekimi arayan başka hastalara gerçekten yol gösterir. Hangi tedaviyi yaptırdığınızı ve süreci nasıl bulduğunuzu yazmanız yeterli. Bir konuda memnun kalmadıysanız da önce bize doğrudan +90 555 011 33 68 numarasından ulaşmanızı rica ederiz; çözmek için elimizden geleni yaparız.</p>"
+    "html": "<p>Hastalarımızın Google'da paylaştığı deneyimleri <a class=\"text-link\" href=\"https://maps.app.goo.gl/ZyUfuxXdQUzmkPH89\">Dent32'nin Google Haritalar kaydında</a> okuyabilirsiniz.</p>\n<p>Dent32'de tedavi olduysanız, deneyiminizi aynı bağlantıdan birkaç cümleyle paylaşmanız Beylikdüzü'nde diş hekimi arayan başka hastalara gerçekten yol gösterir. Hangi tedaviyi yaptırdığınızı ve süreci nasıl bulduğunuzu yazmanız yeterli. Bir konuda memnun kalmadıysanız da önce bize doğrudan +90 555 011 33 68 numarasından ulaşmanızı rica ederiz; çözmek için elimizden geleni yaparız.</p>"
    }
   ],
   "faq": [

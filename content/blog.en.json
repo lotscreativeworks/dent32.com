@@ -12243,11 +12243,6 @@
     "html": "<ul>\n<li><strong>Meet first:</strong> At the first appointment we just talk and examine. If you don't feel ready, we don't start treatment that day.</li>\n<li><strong>Tell, show, do:</strong> We explain the instrument we'll use and what you'll feel beforehand, and show it to you if you like.</li>\n<li><strong>Stop signal:</strong> Raise your hand and we stop straight away. This simple rule makes you feel in control.</li>\n<li><strong>Anaesthetic you barely feel:</strong> A numbing gel is applied to the gum first and the anaesthetic is given slowly. We don't start until you're fully numb.</li>\n<li><strong>Short sessions:</strong> We start with short, easy procedures and lengthen sessions as trust builds.</li>\n<li><strong>No judgement:</strong> Not having seen a dentist for a long time isn't something we criticise; it's simply where we start.</li>\n</ul><aside class=\"note\"><strong>In short</strong><p>Just tell us about your fear when you book. It lets the dentist plan the session around you.</p></aside>"
    },
    {
-    "id": "yorum",
-    "h": "What our patients say",
-    "html": "<p>One of our Google reviews sums it up well: <em>\"Even people with a fear of dentists like me can go there comfortably. The whole team is friendly and helpful in every situation.\"</em> (Tülay Ç.) Another patient wrote that they didn't feel the slightest pain during two extractions and praised the gentle care for patients' sensitivities (Haluk M.). You can read more reviews on our <a class=\"text-link\" href=\"https://maps.app.goo.gl/ZyUfuxXdQUzmkPH89\">Google Maps listing</a>.</p>"
-   },
-   {
     "id": "ipuclari",
     "h": "Practical tips before and during your appointment",
     "html": "<ul>\n<li>Book in the morning or early in the day; waiting all day increases anxiety.</li>\n<li>Cut down on caffeine before your appointment.</li>\n<li>Bring someone you trust.</li>\n<li>Listening to music or a podcast on headphones drowns out the drill.</li>\n<li>Breathe slowly: in through your nose for 4 seconds, out through your mouth for 6.</li>\n<li>Ask how long it will take; a procedure with a known length is easier to get through.</li>\n</ul><p>For children, making the first visit pain-free and playful is key to preventing fear; see <a class=\"text-link\" href=\"/en/blog/childrens-dentist-beylikduzu/\">dental care for children in Beylikdüzü</a>.</p>"
@@ -12255,7 +12250,7 @@
    {
     "id": "baslangic",
     "h": "Haven't been for years? Where to start",
-    "html": "<p>The best start is an examination while you're not in pain and, if needed, a scale and polish. That way you learn the state of your mouth and get used to the clinic with a painless procedure. Treatments are then put in order of urgency. We explain how the examination goes in our <a class=\"text-link\" href=\"/en/blog/dental-check-up-beylikduzu/\">dental check-up guide</a>.</p>\n<p>Just mention your fear when you message us on WhatsApp to book: <strong>+90 555 011 33 68</strong>. Dent32 is a <a class=\"text-link\" href=\"/en/\">dental clinic</a> in Barış, Beylikdüzü, on the E-5 service road, open Monday to Saturday, 9:00–22:00.</p>"
+    "html": "<p>A good place to start is an examination while you're not in pain and, if needed, a scale and polish. That way you learn the state of your mouth and get used to the clinic with a short, simple procedure; how it feels varies from person to person. Treatments are then put in order of urgency. We explain how the examination goes in our <a class=\"text-link\" href=\"/en/blog/dental-check-up-beylikduzu/\">dental check-up guide</a>.</p>\n<p>Just mention your fear when you message us on WhatsApp to book: <strong>+90 555 011 33 68</strong>. Dent32 is a <a class=\"text-link\" href=\"/en/\">dental clinic</a> in Barış, Beylikdüzü, on the E-5 service road, open Monday to Saturday, 9:00–22:00.</p>"
    }
   ],
   "faq": [
@@ -12280,10 +12275,11 @@
     "a": "Yes. Having someone you trust with you can reduce anxiety."
    }
   ],
-  "updated": "2026-11-15"
+  "updated": "2026-11-24"
  },
  {
   "key": "beyyorum",
+  "updated": "2026-11-24",
   "date": "2026-10-26",
   "cat": "Guide",
   "cover": "blog-bey-yorum",
@@ -12317,7 +12313,7 @@
    {
     "id": "dent32",
     "h": "Dent32 reviews, and yours",
-    "html": "<p>You can read our patients' experiences on <a class=\"text-link\" href=\"https://maps.app.goo.gl/ZyUfuxXdQUzmkPH89\">Dent32's Google Maps listing</a>. We also share some of these reviews on our home page.</p>\n<p>If you've been treated at Dent32, sharing your experience in a few sentences at the same link genuinely helps other people looking for a dentist in Beylikdüzü. Just mention which treatment you had and how you found the process. And if something didn't meet your expectations, please contact us directly first on +90 555 011 33 68; we'll do everything we can to put it right.</p>"
+    "html": "<p>You can read our patients' experiences on <a class=\"text-link\" href=\"https://maps.app.goo.gl/ZyUfuxXdQUzmkPH89\">Dent32's Google Maps listing</a>.</p>\n<p>If you've been treated at Dent32, sharing your experience in a few sentences at the same link genuinely helps other people looking for a dentist in Beylikdüzü. Just mention which treatment you had and how you found the process. And if something didn't meet your expectations, please contact us directly first on +90 555 011 33 68; we'll do everything we can to put it right.</p>"
    }
   ],
   "faq": [
