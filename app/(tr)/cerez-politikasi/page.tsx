@@ -6,7 +6,7 @@ export const metadata: Metadata = pageMetadata({
   key: "privacy",
   lang: "tr",
   title: "Çerez Politikası ve Aydınlatma Metni | Dent32",
-  description: "Dent32 sitesinde kullanılan çerezler, Google Ads ölçümü, açık rıza ve KVKK kapsamındaki haklarınız.",
+  description: "Dent32 sitesinde kullanılan çerezler, Google Ads ve Google Analytics ölçümü, açık rıza ve KVKK kapsamındaki haklarınız.",
 });
 
 export default function Page() {

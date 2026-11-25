@@ -5,7 +5,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { type Lang, translator } from "@/lib/core";
 
 /**
- * Çerez onayı + Google Tag Manager (Google Ads dönüşüm ölçümü).
+ * Çerez onayı + Google Tag Manager (Google Ads dönüşüm ölçümü + Google Analytics 4).
  *
  * KVKK Çerez Rehberi gereği reklam/ölçüm çerezleri açık rızaya bağlıdır. Bu yüzden:
  * - GTM kapsayıcısı yalnızca ziyaretçi "Kabul et" dedikten sonra yüklenir; onay yokken Google'a
@@ -109,8 +109,8 @@ export function Consent({ lang, policyHref }: { lang: Lang; policyHref: string }
   return (
     <div ref={box} className="cc" role="region" aria-label={t("Çerez tercihi", "Cookie preferences")}>
       <p className="cc__text">
-        {t("Reklamlarımızın işe yarayıp yaramadığını ölçmek için, izin verirseniz Google reklam çerezleri kullanıyoruz. Zorunlu olmayan hiçbir çerez onayınız olmadan çalışmaz. ",
-          "With your permission, we use Google advertising cookies to measure whether our ads work. No non-essential cookies run without your consent. ")}
+        {t("Reklamlarımızın işe yarayıp yaramadığını ve sitemizin nasıl kullanıldığını ölçmek için, izin verirseniz Google reklam ve analiz çerezleri kullanıyoruz. Zorunlu olmayan hiçbir çerez onayınız olmadan çalışmaz. ",
+          "With your permission, we use Google advertising and analytics cookies to measure whether our ads work and how our site is used. No non-essential cookies run without your consent. ")}
         <Link href={policyHref}>{t("Çerez politikası", "Cookie policy")}</Link>
       </p>
       <div className="cc__btns">

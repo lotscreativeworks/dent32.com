@@ -6,7 +6,7 @@ export const metadata: Metadata = pageMetadata({
   key: "privacy",
   lang: "en",
   title: "Cookie Policy and Privacy Notice | Dent32",
-  description: "The cookies used on the Dent32 website, Google Ads measurement, your consent and your rights under Turkish data protection law (KVKK).",
+  description: "The cookies used on the Dent32 website, Google Ads and Google Analytics measurement, your consent and your rights under Turkish data protection law (KVKK).",
 });
 
 export default function Page() {
