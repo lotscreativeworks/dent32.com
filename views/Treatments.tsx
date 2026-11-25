@@ -6,8 +6,10 @@ import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
 import { DENTIST_ID, jsonLd } from "@/lib/seo";
 import {
-  absUrl, type Lang, postByKey, route, SITE, translator, type Treatment, TREATMENTS, VISUAL_WARNING, waLink,
+  absUrl, type Lang, type Localized, postByKey, route, SITE, translator, type Treatment, TREATMENTS, VISUAL_WARNING, waLink,
 } from "@/lib/site";
+
+type TreatExtra = { id: string; h: Localized; html: Localized };
 
 const askMsg = (lang: Lang, name: string) => translator(lang)(
   `Merhaba, ${name.toLocaleLowerCase("tr")} hakkında bilgi almak istiyorum.`, `Hello, I'd like some information about ${name.toLowerCase()}.`);
@@ -91,6 +93,8 @@ export function TreatmentDetail({ lang, tr }: { lang: Lang; tr: Treatment }) {
   const posts = tr.posts.map((k) => postByKey(lang, k));
   const [cards, more] = [posts.slice(0, 6), posts.slice(6)];
   const faq = tr.faq[lang];
+  /** Tedavi sayfasına taşınan ayrıntılı rehber bölümleri (birleştirilen blog yazılarından) */
+  const extra: TreatExtra[] = "extra" in tr ? (tr.extra as TreatExtra[]) : [];
 
   const page = {
     "@context": "https://schema.org", "@type": "MedicalWebPage", "@id": `${url}#webpage`, url, name: tr.seoTitle[lang],
@@ -144,6 +148,21 @@ export function TreatmentDetail({ lang, tr }: { lang: Lang; tr: Treatment }) {
           <p className="legal-note">{VISUAL_WARNING[lang]}</p>
         </div>
       </section>
+
+      {extra.length > 0 && (
+        <section className="section" style={{ paddingTop: 0 }} aria-label={t(`${name} hakkında ayrıntılar`, `More about ${name.toLowerCase()}`)}>
+          <div className="wrap">
+            <div className="prose treat-guide">
+              {extra.map((x) => (
+                <section key={x.id}>
+                  <h2 id={x.id}>{x.h[lang]}</h2>
+                  <div dangerouslySetInnerHTML={{ __html: x.html[lang] }} />
+                </section>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       <section className="section section--mist" aria-labelledby="h-faq">
         <div className="wrap faq-layout">

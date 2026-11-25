@@ -10,13 +10,9 @@ import { TreatGrid } from "@/views/Treatments";
 
 /** Sayfanın altındaki semt ve planlama rehberleri: [yazı anahtarı, TR, EN] */
 const AREA_GUIDES: [string, string, string][] = [
-  ["beyilce", "Esenyurt, Avcılar ve Büyükçekmece'den gelmek", "Coming from Esenyurt, Avcılar and Büyükçekmece"],
-  ["esenyurt", "Esenyurt'tan diş tedavisi", "Dental care from Esenyurt"],
-  ["avcilar", "Avcılar'dan diş tedavisi", "Dental care from Avcılar"],
-  ["bahcesehir", "Bahçeşehir ve Başakşehir'den diş tedavisi", "Dental care from Bahçeşehir and Başakşehir"],
-  ["buyukcekmece", "Büyükçekmece, Mimaroba ve Alkent'ten diş tedavisi", "Dental care from Büyükçekmece, Mimaroba and Alkent"],
+  ["beymahalle", "Beylikdüzü mahallelerinden ve Esenyurt, Avcılar, Büyükçekmece, Bahçeşehir'den ulaşım", "Getting here from Beylikdüzü's neighbourhoods and from Esenyurt, Avcılar, Büyükçekmece and Bahçeşehir"],
   ["istanbul", "Yurt dışından İstanbul'a diş tedavisi", "Coming to Istanbul from abroad for dental treatment"],
-  ["beyhaftasonu", "Hafta sonu açık diş kliniği", "Weekend dentist in Beylikdüzü"],
+  ["beynobet", "Nöbetçi, acil ve hafta sonu diş hekimi", "On-call, emergency and weekend dentist in Beylikdüzü"],
   ["ruhsat", "Ruhsatlı diş polikliniği nasıl anlaşılır?", "How to tell if a dental practice is licensed"],
 ];
 
@@ -60,14 +56,14 @@ export function Istanbul({ lang }: { lang: Lang }) {
     ["Ruhsat", `Diş kliniklerinin ruhsat türü (poliklinik, muayenehane, ağız ve diş sağlığı merkezi) ve sorumlu hekimi Sağlık Bakanlığı kayıtlarından kontrol edilebilir. Nasıl bakılacağını <a class="text-link" href="${route("post-ruhsat", lang)}">bu yazımızda</a> anlattık.`],
     ["Muayene sonrası yazılı plan", "Hangi dişe ne yapılacağı, kaç ziyaret gerektiği ve yaklaşık maliyetin muayeneden sonra yazılı olarak verilmesi, seçenekleri karşılaştırmayı kolaylaştırır. Telefonda ya da muayenesiz verilen fiyatlar ancak kaba bir fikir verir."],
     ["Gerektiğinde görüntüleme", "İmplant ve gömülü diş gibi işlemlerde kemiğin üç boyutlu değerlendirilmesi gerekebilir; röntgen ya da tomografinin yalnızca gerektiğinde istenmesi beklenir."],
-    ["Sterilizasyon ve hijyen", `Aletlerin nasıl sterilize edildiğini sormak hastanın hakkıdır. Neye bakılabileceğini <a class="text-link" href="${route("post-hijyen", lang)}">sterilizasyon ve hijyen</a> yazımızda topladık.`],
+    ["Sterilizasyon ve hijyen", `Aletlerin nasıl sterilize edildiğini sormak hastanın hakkıdır. Neye bakılabileceğini <a class="text-link" href="${route("post-klinik", lang)}#hijyen">sterilizasyon ve hijyen</a> yazımızda topladık.`],
     ["Tedaviyi kimin yapacağı", "Muayene eden hekimle tedaviyi yapacak hekimin aynı kişi olup olmadığını ve tedavi sonrası kontrollerin nasıl yürüyeceğini önceden sormak faydalıdır."],
     ["Tanıtım kuralları", `Sağlık tanıtımı yönetmeliği nedeniyle kliniklerin sitelerinde fiyat, "en iyi" gibi ifadeler ve hasta yorumları yer almaz. Bunun nedenini <a class="text-link" href="${route("post-reklam", lang)}">burada</a> açıkladık.`],
   ] : [
     ["Licence", `A dental practice's licence type (polyclinic, private practice or oral health centre) and responsible dentist can be checked in Ministry of Health records. We explain how in <a class="text-link" href="${route("post-ruhsat", lang)}">this article</a>.`],
     ["A written plan after the examination", "Getting the treatment for each tooth, the number of visits and the approximate cost in writing after an examination makes it easier to compare options. Prices given over the phone or without an examination are only a rough guide."],
     ["Imaging when needed", "Implants and impacted teeth may need a 3D assessment of the bone; X-rays or a CT scan should only be requested when they are needed."],
-    ["Sterilisation and hygiene", `Patients have every right to ask how instruments are sterilised. We list what to look for in our <a class="text-link" href="${route("post-hijyen", lang)}">sterilisation and hygiene</a> article.`],
+    ["Sterilisation and hygiene", `Patients have every right to ask how instruments are sterilised. We list what to look for in our <a class="text-link" href="${route("post-klinik", lang)}#hijyen">sterilisation and hygiene</a> article.`],
     ["Who will treat you", "It is worth asking in advance whether the dentist who examines you will also carry out the treatment, and how follow-up visits will work."],
     ["Advertising rules", `Under Turkish health advertising rules, clinic websites do not show prices, claims such as "the best" or patient reviews. We explain why <a class="text-link" href="${route("post-reklam", lang)}">here</a>.`],
   ];

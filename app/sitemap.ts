@@ -3,11 +3,14 @@ import { absUrl, ALL_PAGE_KEYS, blogCatById, type PageKey, POSTS, postsInCat } f
 
 export const dynamic = "force-static";
 
-/** Yazılarda yayın tarihi, blog listesinde ve kategori sayfalarında en yeni yazının tarihi; diğer sayfalarda tarih yazılmaz */
+/** Yazılarda son güncelleme (yoksa yayın) tarihi, blog listesinde ve kategori sayfalarında en yeni yazının tarihi; diğer sayfalarda tarih yazılmaz */
 const lastModified = (key: PageKey) => {
   if (key === "blog") return POSTS.tr[0].date;
   if (key.startsWith("bloglist-")) return postsInCat("tr", blogCatById(key.split("-")[1]) ?? null)[0]?.date;
-  if (key.startsWith("post-")) return POSTS.tr.find((p) => `post-${p.key}` === key)?.date;
+  if (key.startsWith("post-")) {
+    const p = POSTS.tr.find((x) => `post-${x.key}` === key);
+    return p && (p.updated ?? p.date);
+  }
 };
 
 export default function sitemap(): MetadataRoute.Sitemap {

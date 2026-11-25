@@ -8,29 +8,29 @@ import { Icon } from "@/components/Icon";
 import { Img } from "@/components/Img";
 import { Shell } from "@/components/Shell";
 import { dentistLd, jsonLd, websiteLd } from "@/lib/seo";
-import { ADDRESS, GMB, IG, type Lang, MAP_EMBED, OFFICIAL_NAME, PHONE, PHONE_E164, POSTS, REELS, route, STRIP, translator, VISUAL_WARNING } from "@/lib/site";
+import { ADDRESS, GMB, IG, type Lang, MAP_EMBED, OFFICIAL_NAME, type PageKey, PHONE, PHONE_E164, POSTS, REELS, route, STRIP, translator, VISUAL_WARNING } from "@/lib/site";
 
-/** Anasayfadaki "Beylikdüzü diş rehberleri" listesi: [yazı anahtarı, TR, EN] */
-const LOCAL_GUIDES: [string, string, string][] = [
-  ["beydis", "Beylikdüzü diş hekimi", "Dentist in Beylikdüzü"],
-  ["beypoli", "Diş polikliniği mi, diş kliniği mi?", "Dental polyclinic or clinic?"],
-  ["ruhsat", "Ruhsatlı diş polikliniği nasıl anlaşılır?", "Is the dental practice licensed?"],
-  ["huseyinasci", "Dr. Hüseyin Aşcı kimdir?", "Who is Dr. Hüseyin Aşcı?"],
-  ["kadro", "Beylikdüzü diş hekimlerimiz", "Our dentists in Beylikdüzü"],
-  ["beyimplant", "İmplant tedavisi", "Dental implants"],
-  ["beyallon4", "All-on-4 ve tüm çene implant", "All-on-4 and full-arch implants"],
-  ["beyzirk", "Zirkonyum kaplama", "Zirconia crowns"],
-  ["beylamine", "Lamine kaplama", "Laminate veneers"],
-  ["beygulus", "Gülüş tasarımı", "Smile design"],
-  ["beyorto", "Ortodonti ve şeffaf plak", "Orthodontics and aligners"],
-  ["beybeyaz", "Diş beyazlatma", "Teeth whitening"],
-  ["beykanal", "Kanal tedavisi", "Root canal treatment"],
-  ["beydiseti", "Diş eti tedavisi", "Gum treatment"],
-  ["beycocuk", "Çocuklarda diş tedavisi", "Dental care for children"],
-  ["beyprotez", "Protez diş", "Dentures"],
-  ["beyhaftasonu", "Hafta sonu açık diş kliniği", "Weekend dentist"],
-  ["beyfiyat", "Diş tedavisi fiyatları", "Treatment prices"],
-  ["beyilce", "Esenyurt, Avcılar, Büyükçekmece", "From Esenyurt, Avcılar, Büyükçekmece"],
+/** Anasayfadaki "Beylikdüzü diş rehberleri" listesi: [sayfa anahtarı, TR, EN] */
+const LOCAL_GUIDES: [PageKey, string, string][] = [
+  ["post-beydis", "Beylikdüzü diş hekimi", "Dentist in Beylikdüzü"],
+  ["post-beypoli", "Diş polikliniği mi, diş kliniği mi?", "Dental polyclinic or clinic?"],
+  ["post-ruhsat", "Ruhsatlı diş polikliniği nasıl anlaşılır?", "Is the dental practice licensed?"],
+  ["post-huseyinasci", "Dr. Hüseyin Aşcı kimdir?", "Who is Dr. Hüseyin Aşcı?"],
+  ["post-kadro", "Beylikdüzü diş hekimlerimiz", "Our dentists in Beylikdüzü"],
+  ["treat-implant", "İmplant tedavisi", "Dental implants"],
+  ["post-allon4", "All-on-4 ve tüm çene implant", "All-on-4 and full-arch implants"],
+  ["treat-kaplama", "Zirkonyum kaplama", "Zirconia crowns"],
+  ["post-lamine", "Lamine kaplama", "Laminate veneers"],
+  ["treat-gulus", "Gülüş tasarımı", "Smile design"],
+  ["post-beyorto", "Ortodonti ve şeffaf plak", "Orthodontics and aligners"],
+  ["treat-beyaz", "Diş beyazlatma", "Teeth whitening"],
+  ["treat-kanal", "Kanal tedavisi", "Root canal treatment"],
+  ["treat-diseti", "Diş eti tedavisi", "Gum treatment"],
+  ["treat-cocuk", "Çocuklarda diş tedavisi", "Dental care for children"],
+  ["post-beyprotez", "Protez diş", "Dentures"],
+  ["post-beynobet", "Nöbetçi, acil ve hafta sonu diş hekimi", "Emergency and weekend dentist"],
+  ["post-beyfiyat", "Diş tedavisi fiyatları", "Treatment prices"],
+  ["post-beymahalle", "Mahallelerden ve çevre ilçelerden ulaşım", "Getting here from nearby areas"],
 ];
 
 export function Home({ lang }: { lang: Lang }) {
@@ -39,7 +39,7 @@ export function Home({ lang }: { lang: Lang }) {
   const faq = lang === "tr" ? [
     { q: "Dent32 Beylikdüzü'nün neresinde?", a: `Barış Mahallesi'nde, E-5 yanyolu üzerindeki Ginza Lavinya'dayız (No:30 D:179, 34520 Beylikdüzü / İstanbul). Esenyurt, Avcılar ve Büyükçekmece'den de kolayca ulaşılır; harita ve yol tarifi <a class="text-link" href="${route("contact", lang)}">iletişim sayfamızda</a>.` },
     { q: "Dent32'de hangi diş hekimleri var?", a: `Beylikdüzü'ndeki kliniğimizde üç diş hekimi hasta kabul eder: kurucu hekim Dr. Hüseyin Aşcı, Dt. Anıl Işıklı ve Dt. Fulya Toraman. Dr. Aşcı'nın klinik çalışmalarının merkezinde implant, All-on-4 ve All-on-6 tüm çene implant, zirkonyum kaplama ve lamine yer alır. Hekimlerimizi <a class="text-link" href="${route("post-kadro", lang)}">Beylikdüzü diş hekimlerimiz</a> yazısında tanıtıyoruz.` },
-    { q: "Hafta sonu açık mısınız?", a: `Cumartesi açığız: klinik pazartesiden cumartesiye 09.00–22.00 arası açıktır, pazar günü kapalıdır. Randevu için WhatsApp'tan yazabilirsiniz. Hafta sonu yapılabilen işlemleri <a class="text-link" href="${route("post-beyhaftasonu", lang)}">bu yazımızda</a> anlattık.` },
+    { q: "Hafta sonu açık mısınız?", a: `Cumartesi açığız: klinik pazartesiden cumartesiye 09.00–22.00 arası açıktır, pazar günü kapalıdır. Randevu için WhatsApp'tan yazabilirsiniz. Hafta sonu yapılabilen işlemleri <a class="text-link" href="${route("post-beynobet", lang)}">bu yazımızda</a> anlattık.` },
     { q: "İlk muayenede ne yapılıyor?", a: "Ağız içi muayene yapıyor, gerekirse röntgen ya da tomografi çekiyoruz. Ardından bulguları anlatıyor, tedavi seçeneklerini ve yaklaşık maliyeti yazılı olarak paylaşıyoruz. Muayene sonrası tedaviye başlamak zorunda değilsiniz." },
     { q: "Tedavi fiyatlarını önceden öğrenebilir miyim?", a: "Fiyat; diş sayısına, kullanılacak malzemeye ve ek işlem gerekip gerekmediğine göre değişir. Fotoğraf ve röntgen gönderirseniz ön bilgi verebiliriz; kesin plan ve maliyet muayeneden sonra kalem kalem yazılı olarak verilir." },
     { q: "Yurt dışından geliyorum, tedavimi nasıl planlarım?", a: `Röntgen ve fotoğraflarınızı WhatsApp'tan gönderin. Hekim ön değerlendirme yapar; kaç ziyaret gerektiğini ve İstanbul'da ne kadar kalmanız gerektiğini birlikte konuşuruz. Ayrıntılar için <a class="text-link" href="${route("post-istanbul", lang)}">planlama rehberimize</a> bakabilirsiniz.` },
@@ -47,7 +47,7 @@ export function Home({ lang }: { lang: Lang }) {
   ] : [
     { q: "Where in Beylikdüzü is Dent32?", a: `We're at Ginza Lavinya on the E-5 service road in Barış (No:30 D:179, 34520 Beylikdüzü, Istanbul), easy to reach from Esenyurt, Avcılar and Büyükçekmece too. The map and directions are on our <a class="text-link" href="${route("contact", lang)}">contact page</a>.` },
     { q: "Which dentists work at Dent32?", a: `Three dentists see patients at our clinic in Beylikdüzü: founder Dr. Hüseyin Aşcı, Dt. Anıl Işıklı and Dt. Fulya Toraman. Dr. Aşcı's clinical work centres on dental implants, All-on-4 and All-on-6 full-arch implants, zirconia crowns and porcelain veneers. Meet them in <a class="text-link" href="${route("post-kadro", lang)}">our dentists in Beylikdüzü</a>.` },
-    { q: "Are you open at weekends?", a: `We're open on Saturdays: the clinic is open Monday to Saturday, 9:00–22:00, and closed on Sundays. Message us on WhatsApp to book. We explain what can be done at the weekend in <a class="text-link" href="${route("post-beyhaftasonu", lang)}">this article</a>.` },
+    { q: "Are you open at weekends?", a: `We're open on Saturdays: the clinic is open Monday to Saturday, 9:00–22:00, and closed on Sundays. Message us on WhatsApp to book. We explain what can be done at the weekend in <a class="text-link" href="${route("post-beynobet", lang)}">this article</a>.` },
     { q: "What happens at the first examination?", a: "We carry out a clinical examination and take X-rays or a CT scan if needed. We then explain the findings and share the treatment options and an approximate cost in writing. You're under no obligation to start treatment after the examination." },
     { q: "Can I find out treatment prices in advance?", a: "Price depends on the number of teeth, the materials used and whether additional procedures are needed. If you send photos and X-rays we can give preliminary information; the final plan and cost are given in writing, itemised, after the examination." },
     { q: "I'm coming from abroad. How do I plan my treatment?", a: `Send your X-rays and photos via WhatsApp. The dentist will make a preliminary assessment, and together we'll discuss how many visits you need and how long to stay in Istanbul. See our <a class="text-link" href="${route("post-istanbul", lang)}">planning guide</a> for details.` },
@@ -199,7 +199,7 @@ export function Home({ lang }: { lang: Lang }) {
             <h3 className="local__title">{t("Beylikdüzü diş rehberleri", "Beylikdüzü dental guides")}</h3>
             <ul className="local__links">
               {LOCAL_GUIDES.map(([key, tr, en]) => (
-                <li key={key}><Link href={route(`post-${key}`, lang)}>{t(tr, en)} <Icon name="arrow" /></Link></li>
+                <li key={key}><Link href={route(key, lang)}>{t(tr, en)} <Icon name="arrow" /></Link></li>
               ))}
             </ul>
           </div>

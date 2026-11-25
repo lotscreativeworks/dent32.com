@@ -4,10 +4,10 @@ export const dynamic = "force-static";
 
 /** Kliniğin öne çıkarmak istediği tedaviler ve bunları anlatan sayfalar (PageKey) */
 const FOCUS: [string, string, PageKey[]][] = [
-  ["İmplant tedavisi", "Dental implants", ["treat-implant", "post-eniyiimplant", "post-beyimplant"]],
-  ["Tüm çene implant: All-on-4, All-on-6", "Full-arch implants: All-on-4, All-on-6", ["post-allon4", "post-allon8", "post-eniyiallon4", "post-tumagiz"]],
-  ["Zirkonyum ve e.max kaplama", "Zirconia and e.max crowns", ["treat-kaplama", "post-eniyizirk", "post-emax"]],
-  ["Lamine (porselen veneer) ve gülüş tasarımı", "Porcelain veneers and smile design", ["post-lamine", "post-eniyilamine", "treat-gulus"]],
+  ["İmplant tedavisi", "Dental implants", ["treat-implant", "post-implanthekimi", "post-asciimplantsss"]],
+  ["Tüm çene implant: All-on-4, All-on-6", "Full-arch implants: All-on-4, All-on-6", ["post-allon4", "post-allon8", "post-takmasabit", "post-tumagiz"]],
+  ["Zirkonyum ve e.max kaplama", "Zirconia and e.max crowns", ["treat-kaplama", "post-zirkonomur", "post-emax"]],
+  ["Lamine (porselen veneer) ve gülüş tasarımı", "Porcelain veneers and smile design", ["post-lamine", "post-zirkonlamine", "treat-gulus"]],
 ];
 
 /**

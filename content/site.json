@@ -106,6 +106,18 @@
      {
       "q": "İmplant tedavisinin maliyeti neye göre değişir?",
       "a": "İmplant sayısı, kemik tozu ya da sinüs kaldırma gibi ek işlemlerin gerekip gerekmediği, üzerine yapılacak dişin türü ve kullanılan implant sistemi maliyeti belirler. Muayeneden sonra kalem kalem yazılı plan ve maliyet veriyoruz."
+     },
+     {
+      "q": "İmplant ameliyatında uyutuluyor muyum?",
+      "a": "Çoğu implant lokal anestezi altında yapılır ve uyutma gerekmez. Çok sayıda implant yapılacaksa ya da diş hekimi kaygısı yüksekse sedasyon seçenekleri ayrıca konuşulabilir."
+     },
+     {
+      "q": "İmplanttan sonra işe dönebilir miyim?",
+      "a": "Tek implant sonrası çoğu hasta ertesi gün günlük hayatına döner. Kapsamlı cerrahilerde birkaç gün dinlenme önerilebilir."
+     },
+     {
+      "q": "Dent32'de implantı kim yapıyor?",
+      "a": "İmplant tedavileri kurucu hekim Dr. Hüseyin Aşcı'nın planlamasıyla yürütülür; kapsamlı vakalar hekim ekibimizle birlikte değerlendirilir. Hangi hekimle çalışmak istediğinizi randevu alırken belirtebilirsiniz."
      }
     ],
     "en": [
@@ -128,27 +140,32 @@
      {
       "q": "What affects the cost of implant treatment?",
       "a": "The number of implants, whether extra procedures such as bone grafting or a sinus lift are needed, the type of tooth placed on top and the implant system used. After the examination we give you an itemised written plan and cost."
+     },
+     {
+      "q": "Am I put to sleep for implant surgery?",
+      "a": "Most implants are placed under local anaesthetic without sedation. If many implants are planned or you're very anxious, sedation options can be discussed."
+     },
+     {
+      "q": "Can I go back to work after an implant?",
+      "a": "After a single implant most patients return to normal activities the next day. After more extensive surgery a few days' rest may be advised."
+     },
+     {
+      "q": "Who does the implants at Dent32?",
+      "a": "Implant treatment is planned by founding dentist Dr. Hüseyin Aşcı, and complex cases are assessed together with our dental team. You can say which dentist you would like to see when booking."
      }
     ]
    },
    "posts": [
     "implant",
-    "beyimplant",
-    "eniyiimplant",
     "huseyinasci",
     "implantkimlere",
     "greft",
-    "beygreft",
     "kopru",
-    "beytekdis",
     "implantbakim",
     "sigaraimplant",
     "implantomur",
     "implantred",
-    "beyhemen",
     "allon4",
-    "beyallon4",
-    "eniyiallon4",
     "allon8",
     "tumagiz",
     "tibar",
@@ -161,10 +178,7 @@
     "ondisimplant",
     "takmasabit",
     "asciimplantsss",
-    "implantsislik",
-    "implantgecici",
-    "implantcuruk",
-    "implantyas"
+    "implantgecici"
    ],
    "istanbul": {
     "h": {
@@ -181,7 +195,53 @@
       "For full-arch treatment such as All-on-4 and All-on-6, we also plan the visit schedule in writing from the start. The number of visits and the overall time vary from person to person, depending on the bone and any additional procedures; you can send your X-rays via WhatsApp for preliminary information before you come."
      ]
     }
-   }
+   },
+   "extra": [
+    {
+     "id": "planlama-kac-implant-hangi-marka-ne-tur-dis",
+     "h": {
+      "tr": "Planlama: kaç implant, hangi marka, ne tür diş?",
+      "en": "Planning: how many implants, which brand, what kind of tooth?"
+     },
+     "html": {
+      "tr": "<p>Tomografi verileri üzerinden implantın çapı, boyu ve açısı planlanır. Tek diş eksikliğinde genellikle tek implant ve üzerine kron yapılır; birden fazla eksik dişte implant destekli köprüler, tüm çenede ise All-on-Four gibi çözümler değerlendirilir.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">Sık kullanılan çözüm</th></tr></thead><tbody><tr><td>Tek eksik diş</td><td>Tek implant + zirkonyum ya da porselen kron</td></tr><tr><td>Yan yana 2–3 eksik diş</td><td>2 implant üzerinde köprü</td></tr><tr><td>Tüm çenede diş yok</td><td>4–6 implant üzerinde sabit protez ya da implant üstü hareketli protez</td></tr><tr><td>Kemik yetersiz</td><td>Kemik tozu (greft) ya da sinüs lifting sonrası implant</td></tr></tbody></table></div>\n<p>Tam çene seçenekleri için <a class=\"text-link\" href=\"/blog/all-on-four/\">All-on-Four rehberimize</a> ve <a class=\"text-link\" href=\"/blog/implant-ustu-protez/\">implant üstü protez yazımıza</a> bakabilirsiniz.</p>",
+      "en": "<p>The implant's diameter, length and angle are planned from the CT data. A single missing tooth is usually replaced with one implant and a crown; several missing teeth with implant-supported bridges; a whole arch with solutions such as All-on-Four.</p>\n<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Situation</th><th scope=\"col\">Common solution</th></tr></thead><tbody><tr><td>One missing tooth</td><td>One implant + zirconia or porcelain crown</td></tr><tr><td>Two or three adjacent missing teeth</td><td>Bridge on two implants</td></tr><tr><td>No teeth in the jaw</td><td>Fixed bridge on 4–6 implants or an implant-retained denture</td></tr><tr><td>Insufficient bone</td><td>Implant after bone graft or sinus lift</td></tr></tbody></table></div>\n<p>For full-arch options, see our <a class=\"text-link\" href=\"/en/blog/all-on-four/\">All-on-Four guide</a> and our article on <a class=\"text-link\" href=\"/en/blog/implant-supported-dentures/\">implant-supported dentures</a>.</p>"
+     }
+    },
+    {
+     "id": "iyi-bir-implant-tedavisini-belirleyen-7-olcut",
+     "h": {
+      "tr": "İyi bir implant tedavisini belirleyen 7 ölçüt",
+      "en": "7 criteria for good implant treatment"
+     },
+     "html": {
+      "tr": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Ölçüt</th><th scope=\"col\">Neden önemli?</th><th scope=\"col\">Dent32'de</th></tr></thead><tbody><tr><td>Üç boyutlu planlama</td><td>Kemik genişliği, sinir kanalı ve sinüs mesafesi ancak tomografide güvenilir ölçülür.</td><td>Her implant planı tomografi üzerinden yapılır; çap, boy ve açı önceden belirlenir.</td></tr><tr><td>Ön tedavi</td><td>Diş eti iltihabı ya da çürük varken yapılan implantın riski artar.</td><td>Gerekiyorsa önce diş eti ve çürük tedavisi tamamlanır.</td></tr><tr><td>Kemik yetersizliğine çözüm</td><td>Kemik azsa greft ya da sinüs lifting gerekebilir; bunun baştan söylenmesi gerekir.</td><td>Ek işlem gerekip gerekmediği planın ilk gününde konuşulur.</td></tr><tr><td>Üst yapı seçimi</td><td>İmplantın üzerindeki diş, ısırma ve estetiği belirler.</td><td>Kron, köprü ya da tüm çene protez seçenekleri gerekçeleriyle sunulur.</td></tr><tr><td>Şeffaf maliyet</td><td>Sonradan çıkan kalemler hastanın güvenini sarsar.</td><td><a class=\"text-link\" href=\"/blog/yazili-dis-tedavi-plani/\">Yazılı tedavi planı</a> ile kalem kalem maliyet verilir.</td></tr><tr><td>Kayıt ve belge</td><td>İmplantın markası ve ölçüsü ileride parça değişiminde gerekir.</td><td>İmplant bilgileri dosyanızda ve size verilen belgede yer alır.</td></tr><tr><td>Uzun vadeli takip</td><td>İmplant çevresi iltihabı (peri-implantitis) erken yakalanırsa tedavisi kolaydır.</td><td>Kalıcı diş takıldıktan sonra kontroller aynı klinikte devam eder.</td></tr></tbody></table></div><p>İmplantın ömrünü etkileyen etkenleri <a class=\"text-link\" href=\"/blog/implant-kac-yil-dayanir/\">implant kaç yıl dayanır?</a> yazısında anlattık.</p>",
+      "en": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Criterion</th><th scope=\"col\">Why it matters</th><th scope=\"col\">At Dent32</th></tr></thead><tbody><tr><td>3D planning</td><td>Bone width and the distance to the nerve and sinus can only be measured reliably on a CT scan.</td><td>Every implant is planned on a CT scan; diameter, length and angle are set in advance.</td></tr><tr><td>Treatment first</td><td>Placing an implant while gum disease or decay is active raises the risk.</td><td>Gum and decay treatment is completed first where needed.</td></tr><tr><td>Solutions for low bone</td><td>If bone is thin, a graft or sinus lift may be needed, and this should be said at the start.</td><td>Whether extra procedures are needed is discussed on day one.</td></tr><tr><td>Choice of restoration</td><td>The tooth on the implant determines bite and appearance.</td><td>Crown, bridge or full-arch options are presented with the reasoning.</td></tr><tr><td>Transparent cost</td><td>Unexpected extra items undermine trust.</td><td>Costs are itemised in a <a class=\"text-link\" href=\"/en/blog/written-dental-treatment-plan/\">written treatment plan</a>.</td></tr><tr><td>Records</td><td>The implant brand and size are needed if a part is replaced later.</td><td>Implant details are kept in your file and given to you in writing.</td></tr><tr><td>Long-term follow-up</td><td>Inflammation around an implant (peri-implantitis) is easier to treat when caught early.</td><td>Check-ups continue at the same clinic after the final tooth.</td></tr></tbody></table></div><p>We cover what affects an implant's lifespan in <a class=\"text-link\" href=\"/en/blog/how-long-do-dental-implants-last/\">how long do dental implants last?</a>.</p>"
+     }
+    },
+    {
+     "id": "dr-huseyin-asci-ve-ekibin-implant-yaklasimi",
+     "h": {
+      "tr": "Dr. Hüseyin Aşcı ve ekibin implant yaklaşımı",
+      "en": "Dr. Hüseyin Aşcı and the team's approach to implants"
+     },
+     "html": {
+      "tr": "<p>Dent32'nin kurucu hekimi <a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşcı</a>, İstanbul Üniversitesi Diş Hekimliği Fakültesi mezunudur; klinik çalışmalarının merkezinde implant tedavisi ve implant üstü protezler yer alır. Klinikte implantı tek başına bir cerrahi işlem olarak değil, ağzın tamamını ilgilendiren bir planın parçası olarak ele alıyoruz: eksik dişin yerine implant mı, köprü mü daha doğru, komşu dişlerin durumu ne, ısırma düzeni implantı zorlayacak mı? Bu soruların cevabı netleşmeden cerrahiye geçilmez.</p><p>İmplant ve üzerindeki zirkonyum dişin aynı ekip tarafından planlanması, tedavinin estetik ve işlevsel olarak bütün kalmasını sağlar. Ekibimizi <a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">hekim kadromuz</a> yazısında tanıttık.</p>",
+      "en": "<p>Dent32's founding dentist <a class=\"text-link\" href=\"/en/blog/dr-huseyin-asci-dentist-beylikduzu/\">Dr. Hüseyin Aşcı</a> graduated from Istanbul University Faculty of Dentistry, and his clinical work centres on dental implants and implant-supported teeth. At the clinic we treat an implant not as a stand-alone operation but as part of a plan for the whole mouth: is an implant or a bridge better for this gap, what condition are the neighbouring teeth in, will the bite overload the implant? Surgery only starts once these questions are answered.</p><p>Having the implant and the zirconia tooth on top planned by the same team keeps the result coherent, both in appearance and function. You can meet the team in <a class=\"text-link\" href=\"/en/blog/dent32-dentists/\">our dental team</a>.</p>"
+     }
+    },
+    {
+     "id": "implant-yaptirmadan-once-sormaniz-gereken",
+     "h": {
+      "tr": "İmplant yaptırmadan önce sormanız gereken sorular",
+      "en": "Questions to ask before getting an implant"
+     },
+     "html": {
+      "tr": "<ul>\n<li>Hangi implant markası kullanılacak ve bu markanın yedek parçaları yıllar sonra da bulunabilir mi?</li>\n<li>Kemik yeterli mi; greft ya da sinüs lifting gerekecek mi?</li>\n<li>İmplantın üzerine hangi malzemeden diş yapılacak?</li>\n<li>Kaynaşma süresince geçici diş kullanacak mıyım?</li>\n<li>Tedavi sonrası kontrol programı nasıl olacak?</li>\n</ul>\n<p>Dent32'de implant tedavisini muayene ve tomografiyle planlıyor, planı yazılı olarak paylaşıyoruz.</p>",
+      "en": "<ul>\n<li>Which implant brand will be used, and will spare parts still be available years from now?</li>\n<li>Is there enough bone, or will a graft or sinus lift be needed?</li>\n<li>What material will the tooth on top be made of?</li>\n<li>Will I have a temporary tooth while the implant heals?</li>\n<li>What will the follow-up schedule be?</li>\n</ul>\n<p>At Dent32 we plan implant treatment with an examination and CT scan and give you the plan in writing. If you're travelling from abroad, our <a class=\"text-link\" href=\"/en/blog/dental-treatment-in-istanbul/\">planning guide</a> explains how to organise visits.</p>"
+     }
+    }
+   ]
   },
   {
    "id": "kaplama",
@@ -289,6 +349,22 @@
      {
       "q": "Kaplamadan sonra diş eti kararır mı?",
       "a": "Metal destekli kaplamalarda zamanla diş eti kenarında gri bir çizgi görülebilir. Zirkonyum ve tam seramik kaplamalarda metal olmadığı için bu görünüm beklenmez; yine de diş eti çekilirse kaplama kenarı görünür hale gelebilir."
+     },
+     {
+      "q": "Zirkonyum kaplama zamanla renk değiştirir mi?",
+      "a": "Hayır. Zirkonyum ve porselen yüzey çay, kahve ya da sigara ile kalıcı olarak renk değiştirmez; ancak çevresindeki doğal dişler ve diş eti kenarı lekelenebilir."
+     },
+     {
+      "q": "Zirkonyum kaplamadan önce beyazlatma yapılmalı mı?",
+      "a": "Kaplamanın rengi komşu doğal dişlere göre seçilir. Dişlerinizi açmak istiyorsanız beyazlatma kaplamadan önce yapılmalıdır; çünkü kaplama sonradan beyazlamaz."
+     },
+     {
+      "q": "Kaplamalı dişte çürük olur mu?",
+      "a": "Kaplamanın kendisi çürümez, ancak diş eti kenarındaki doğal diş dokusu çürüyebilir. Diş ipi, arayüz fırçası ve düzenli kontrol bu riski azaltır."
+     },
+     {
+      "q": "Zirkonyum doğal görünür mü?",
+      "a": "Evet. Metal altyapı olmadığı için diş eti kenarında koyu çizgi oluşmaz. Ön dişlerde katmanlı zirkonyum ya da e.max ile daha doğal bir geçirgenlik elde edilebilir."
      }
     ],
     "en": [
@@ -311,33 +387,41 @@
      {
       "q": "Will my gums turn dark after a crown?",
       "a": "With metal-backed crowns a grey line can appear at the gum edge over time. Zirconia and all-ceramic crowns contain no metal, so this isn't expected, although the crown edge can become visible if the gum recedes."
+     },
+     {
+      "q": "Do zirconia crowns change colour over time?",
+      "a": "No. Zirconia and porcelain surfaces don't stain permanently from tea, coffee or smoking, although surrounding natural teeth and the gum edge can."
+     },
+     {
+      "q": "Should I whiten my teeth before getting crowns?",
+      "a": "The crown colour is matched to neighbouring natural teeth. If you want lighter teeth, whiten first; crowns don't whiten afterwards."
+     },
+     {
+      "q": "Can a crowned tooth decay?",
+      "a": "The crown itself can't, but natural tooth at the gum edge can. Floss, interdental brushes and regular check-ups reduce the risk."
+     },
+     {
+      "q": "Does zirconia look natural?",
+      "a": "Yes. With no metal framework, there is no dark line at the gum. On front teeth, layered zirconia or e.max gives more natural translucency."
      }
     ]
    },
    "posts": [
     "zirkonyum",
-    "beyzirk",
-    "eniyizirk",
     "huseyinasci",
     "kaplama",
     "emax",
-    "beyemax",
-    "emaxzirk",
     "zirkonsure",
     "zirkonomur",
     "kaplamasonrasi",
     "kaplamaagri",
     "kararma",
     "lamine",
-    "beylamine",
-    "eniyilamine",
     "ortokaplama",
     "eskikaplama",
     "zirkonrenk",
     "ascizirksss",
-    "zirkonlamine",
-    "zirkonkirik",
-    "zirkoncikar"
+    "zirkonlamine"
    ],
    "istanbul": {
     "h": {
@@ -354,7 +438,42 @@
       "The timing varies from person to person, depending on how many teeth are crowned and whether the teeth underneath need root canal treatment or fillings. We give you a written visit plan after the examination."
      ]
     }
-   }
+   },
+   "extra": [
+    {
+     "id": "iyi-bir-zirkonyum-kaplamanin-6-sarti",
+     "h": {
+      "tr": "İyi bir zirkonyum kaplamanın 6 şartı",
+      "en": "6 conditions for a good zirconia crown"
+     },
+     "html": {
+      "tr": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Ölçüt</th><th scope=\"col\">Neden önemli?</th><th scope=\"col\">Dent32'de</th></tr></thead><tbody><tr><td>Doğru endikasyon</td><td>Yalnızca rengi bozuk ama sağlam bir dişe tam kaplama gerekmeyebilir.</td><td>Beyazlatma, bonding ya da lamine yeterliyse önce bunlar önerilir.</td></tr><tr><td>Kontrollü diş hazırlığı</td><td>Fazla kesilen diş hassaslaşır, az kesilen dişte kaplama kalın durur.</td><td>Kesim miktarı malzemeye ve dişin konumuna göre planlanır.</td></tr><tr><td>Hassas ölçü</td><td>Kenar uyumu kötü kaplamanın altında çürük ve diş eti iltihabı gelişebilir.</td><td><a class=\"text-link\" href=\"/blog/beylikduzu-dijital-dis-hekimligi/\">Ağız içi tarayıcı ve dijital planlama</a> ile ölçü alınır.</td></tr><tr><td>Renk ve form</td><td>Kaplama yüzünüze ve komşu dişlere uymalıdır.</td><td>Renk aynı ışıkta skala ve fotoğrafla seçilir, laboratuvara ayrıntılı bilgi gider.</td></tr><tr><td>Prova</td><td>Kalıcı yapıştırmadan sonra düzeltme zordur.</td><td>Kaplama ağızda denenir; şekil ya da renkte gerekirse düzeltilir.</td></tr><tr><td>Isırma ayarı ve takip</td><td>Yüksek kalan kaplama çene eklemini ve karşı dişi zorlar.</td><td>Kapanış kontrol edilir, kontrol randevularında yeniden bakılır.</td></tr></tbody></table></div><p>Zirkonyumun diğer malzemelerle farkını <a class=\"text-link\" href=\"/blog/dis-kaplama-cesitleri/\">diş kaplama çeşitleri</a>, ön ve arka dişlerde malzeme seçimini <a class=\"text-link\" href=\"/blog/emax-kaplama-nedir/#ayni-agizda-e-max-ve-zirkonyum-hangi-dise-hangi\">aynı ağızda e.max ve zirkonyum</a> yazılarında anlattık.</p>",
+      "en": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Criterion</th><th scope=\"col\">Why it matters</th><th scope=\"col\">At Dent32</th></tr></thead><tbody><tr><td>The right indication</td><td>A sound tooth that is only discoloured may not need a full crown.</td><td>If whitening, bonding or a veneer is enough, we suggest that first.</td></tr><tr><td>Controlled preparation</td><td>Over-cut teeth become sensitive; under-cut teeth leave the crown bulky.</td><td>How much is removed is planned for the material and the tooth's position.</td></tr><tr><td>Accurate impression</td><td>Poorly fitting margins can lead to decay and gum inflammation.</td><td>Impressions are taken with an <a class=\"text-link\" href=\"/en/blog/digital-dentistry-beylikduzu/\">intraoral scanner</a>.</td></tr><tr><td>Shade and shape</td><td>The crown must suit your face and neighbouring teeth.</td><td>The shade is chosen under the same light with a shade guide and photos; the lab gets detailed information.</td></tr><tr><td>Try-in</td><td>Corrections are difficult after permanent cementation.</td><td>The crown is tried in the mouth and adjusted if needed.</td></tr><tr><td>Bite and follow-up</td><td>A high crown strains the jaw joint and the opposing tooth.</td><td>The bite is checked and reviewed again at follow-up visits.</td></tr></tbody></table></div><p>We compare materials in <a class=\"text-link\" href=\"/en/blog/types-of-dental-crowns/\">types of dental crowns</a> and explain front-versus-back choices in <a class=\"text-link\" href=\"/en/blog/emax-crowns/#e-max-and-zirconia-in-the-same-mouth-which\">e.max and zirconia in the same mouth</a>.</p>"
+     }
+    },
+    {
+     "id": "zirkonyum-kaplamanin-maliyetini-neler-etkiler",
+     "h": {
+      "tr": "Zirkonyum kaplamanın maliyetini neler etkiler?",
+      "en": "What affects the cost of zirconia crowns?"
+     },
+     "html": {
+      "tr": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Etken</th><th scope=\"col\">Açıklama</th></tr></thead><tbody><tr><td>Diş sayısı</td><td>Tek diş, birkaç diş ya da tüm gülüş planı</td></tr><tr><td>Zirkonyum türü</td><td>Monolitik ya da porselen katmanlı; ön ve arka diş ihtiyaçları farklıdır</td></tr><tr><td>Ön tedaviler</td><td>Kanal tedavisi, dolgu, diş eti tedavisi gerekip gerekmediği</td></tr><tr><td>Estetik beklenti</td><td>Ön dişlerde renk ve yüzey ayrıntısı için ek laboratuvar işçiliği</td></tr><tr><td>İmplant üstü mü?</td><td>İmplant üzerine yapılan kronlarda bağlantı parçaları da maliyete eklenir</td></tr></tbody></table></div><p>Muayene sonrası her kalemi yazılı olarak paylaşıyoruz. Genel fiyat etkenlerini <a class=\"text-link\" href=\"/blog/beylikduzu-dis-tedavisi-fiyatlari/\">Beylikdüzü'nde diş tedavisi fiyatları</a> yazımızda topladık.</p>",
+      "en": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Factor</th><th scope=\"col\">Explanation</th></tr></thead><tbody><tr><td>Number of teeth</td><td>A single tooth, a few teeth or a full smile plan</td></tr><tr><td>Type of zirconia</td><td>Monolithic or porcelain-layered; front and back teeth have different needs</td></tr><tr><td>Preliminary treatment</td><td>Whether root canal treatment, fillings or gum treatment are needed</td></tr><tr><td>Aesthetic expectations</td><td>Extra lab work for colour and surface detail on front teeth</td></tr><tr><td>On an implant?</td><td>Implant crowns also include connecting parts</td></tr></tbody></table></div><p>We give every item in writing after the examination. General price factors are covered in our <a class=\"text-link\" href=\"/en/blog/dental-treatment-prices-beylikduzu/\">dental treatment prices in Beylikdüzü</a> article.</p>"
+     }
+    },
+    {
+     "id": "dr-huseyin-asci-nin-estetik-yaklasimi-once-dis",
+     "h": {
+      "tr": "Dr. Hüseyin Aşcı'nın estetik yaklaşımı: önce diş dokusunu korumak",
+      "en": "Dr. Hüseyin Aşcı's aesthetic approach: protect tooth tissue first"
+     },
+     "html": {
+      "tr": "<p><a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşcı</a>'nın çalışmalarının merkezinde implant, zirkonyum kaplama ve lamine gibi protetik ve estetik tedaviler yer alır. Kaplamada temel ilke diş dokusunu korumaktır: dişler yalnızca gerektiği kadar aşındırılır, renk komşu dişlere ve yüzünüze göre seçilir, kaplama yapıştırılmadan önce ağızda prova edilir ve ısırma ayarı kontrol edilir.</p><p>Çapraşık ya da öne çıkmış dişlerde kaplamadan önce dişlerin hizalanmasının daha koruyucu olup olmayacağı da değerlendirilir; bu karşılaştırmayı <a class=\"text-link\" href=\"/blog/kaplama-mi-ortodonti-mi/\">kaplama mı ortodonti mi?</a> yazısında anlattık.</p>",
+      "en": "<p><a class=\"text-link\" href=\"/en/blog/dr-huseyin-asci-dentist-beylikduzu/\">Dr. Hüseyin Aşcı</a>'s clinical work centres on prosthetic and aesthetic treatment such as implants, zirconia crowns and veneers. With crowns the basic principle is to protect tooth tissue: teeth are reduced only as much as needed, the shade is chosen for your face and neighbouring teeth, the crown is tried in before it is cemented, and the bite is checked.</p><p>For crowded or protruding teeth we also consider whether aligning them first would be more conservative; we compare the two in <a class=\"text-link\" href=\"/en/blog/veneers-or-orthodontics/\">crowns or orthodontics?</a>.</p>"
+     }
+    }
+   ]
   },
   {
    "id": "gulus",
@@ -462,6 +581,22 @@
      {
       "q": "Hollywood smile ile gülüş tasarımı aynı şey mi?",
       "a": "Hollywood smile genellikle tüm ön dişlerin çok beyaz kaplamalarla kaplanması anlamında kullanılır. Gülüş tasarımında amaç yüze uyumlu, doğal görünen bir sonuçtur; renk ve şekil kişiye göre seçilir."
+     },
+     {
+      "q": "Gülüş tasarımında kaç diş yapılır?",
+      "a": "Gülerken görünen diş sayısı kişiden kişiye değişir; çoğu planda üst çenede 6 ile 10 diş arasında çalışılır. Sayı, fotoğraf analizi ve prova sonucunda belirlenir."
+     },
+     {
+      "q": "Gülüş tasarımı doğal görünür mü?",
+      "a": "Doğallık; diş boylarının yüzle uyumuna, renk seçimine ve yüzey ayrıntısına bağlıdır. Ağızda prova, sonucun size uygun olup olmadığını önceden görmenizi sağlar."
+     },
+     {
+      "q": "Gülüş tasarımı için yaş sınırı var mı?",
+      "a": "Dişlerin ve diş etlerinin gelişimini tamamlamış olması gerekir; bu genellikle 18 yaş civarıdır. Üst sınır yoktur, önemli olan dişlerin ve diş etlerinin sağlığıdır."
+     },
+     {
+      "q": "Prova sonrası vazgeçebilir miyim?",
+      "a": "Evet. Ağızda prova geçici bir malzemeyle yapılır ve dişlerinize kalıcı bir işlem uygulanmaz. Plan onayınız olmadan uygulamaya geçilmez."
      }
     ],
     "en": [
@@ -484,19 +619,32 @@
      {
       "q": "Is a Hollywood smile the same as smile design?",
       "a": "A Hollywood smile usually means covering all the front teeth with very white crowns or veneers. In smile design the aim is a natural-looking result that suits your face; colour and shape are chosen for each person."
+     },
+     {
+      "q": "How many teeth are included in smile design?",
+      "a": "It depends on how many teeth show when you smile; most plans involve 6 to 10 upper teeth. The number is set after photo analysis and the try-in."
+     },
+     {
+      "q": "Does smile design look natural?",
+      "a": "It depends on how well tooth proportions suit your face, the colour chosen and surface detail. The try-in shows you beforehand whether the result suits you."
+     },
+     {
+      "q": "Is there an age limit?",
+      "a": "Teeth and gums need to have finished developing, usually around 18. There's no upper limit; what matters is the health of the teeth and gums."
+     },
+     {
+      "q": "Can I change my mind after the try-in?",
+      "a": "Yes. The mock-up uses a temporary material and nothing permanent is done to your teeth. Treatment doesn't start without your approval."
      }
     ]
    },
    "posts": [
     "gulus",
-    "beygulus",
-    "eniyigulus",
     "beyhollywood",
     "beydugun",
     "bonding",
     "beybonding",
     "lamine",
-    "beylamine",
     "gummysmile",
     "disetigreft",
     "ortokaplama",
@@ -504,7 +652,6 @@
     "lamineprova",
     "zirkonlamine",
     "kaplamakonusma",
-    "laminedusme",
     "ondisaralik"
    ],
    "istanbul": {
@@ -522,7 +669,53 @@
       "Trying the new smile in the mouth before the teeth are prepared helps patients who travel further to see the result early and decide with confidence. The number of visits varies from person to person, depending on the number and condition of the teeth."
      ]
     }
-   }
+   },
+   "extra": [
+    {
+     "id": "planda-hangi-islemler-yer-alabilir",
+     "h": {
+      "tr": "Planda hangi işlemler yer alabilir?",
+      "en": "Which procedures can be part of the plan?"
+     },
+     "html": {
+      "tr": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">İşlem</th><th scope=\"col\">Ne sağlar?</th><th scope=\"col\">Diş aşındırma</th></tr></thead><tbody><tr><td>Diş beyazlatma</td><td>Doğal dişlerin rengini açar</td><td>Yok</td></tr><tr><td>Bonding</td><td>Küçük kırık, aralık ve şekil düzeltmeleri</td><td>Yok ya da çok az</td></tr><tr><td>Lamine kaplama</td><td>Ön dişlerde şekil, renk ve boy değişikliği</td><td>Az (yaklaşık 0,3–0,7 mm)</td></tr><tr><td>Zirkonyum kaplama</td><td>Zayıf, kırık ya da çok renkli dişlerin tamamen kaplanması</td><td>Daha fazla</td></tr><tr><td>Şeffaf plak ortodonti</td><td>Çapraşıklığı düzeltir, kaplama ihtiyacını azaltabilir</td><td>Yok</td></tr><tr><td>Diş eti düzeltmesi</td><td>Diş eti görünen (gummy) gülüşü ve asimetriyi dengeler</td><td>Yok</td></tr></tbody></table></div>",
+      "en": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Procedure</th><th scope=\"col\">What it does</th><th scope=\"col\">Tooth reduction</th></tr></thead><tbody><tr><td>Teeth whitening</td><td>Lightens natural teeth</td><td>None</td></tr><tr><td>Bonding</td><td>Small chips, gaps and shape corrections</td><td>None or minimal</td></tr><tr><td>Laminate veneers</td><td>Change shape, colour and length of front teeth</td><td>Little (about 0.3–0.7 mm)</td></tr><tr><td>Zirconia crowns</td><td>Fully cover weak, broken or very discoloured teeth</td><td>More</td></tr><tr><td>Clear aligner orthodontics</td><td>Corrects crowding, may reduce the need for crowns</td><td>None</td></tr><tr><td>Gum contouring</td><td>Balances a gummy smile and asymmetry</td><td>None</td></tr></tbody></table></div>"
+     }
+    },
+    {
+     "id": "once-ortodonti-mi-dogrudan-kaplama-mi",
+     "h": {
+      "tr": "Önce ortodonti mi, doğrudan kaplama mı?",
+      "en": "Orthodontics first, or straight to veneers?"
+     },
+     "html": {
+      "tr": "<p>Dişler çapraşık ya da öne-arkaya doğru dizilmişse, onları kaplama ile hizalamak daha fazla diş dokusu kaldırmayı gerektirir. Bu durumda birkaç aylık şeffaf plak tedavisiyle dişleri önce hizaya getirmek, ardından daha az aşındırmayla lamine yapmak çoğu zaman daha koruyucu bir yoldur.</p>\n<p>Dent32'de bu iki aşamayı aynı plan içinde birlikte değerlendiriyoruz. Ayrıntılar için <a class=\"text-link\" href=\"/blog/beylikduzu-ortodonti-seffaf-plak/\">Beylikdüzü'nde ortodonti</a> yazımıza bakabilirsiniz.</p>",
+      "en": "<p>If teeth are crowded or tilted, aligning them with veneers means removing more tooth. In that case, a few months of clear aligners to straighten the teeth first, followed by veneers with less reduction, is often the more conservative route.</p>\n<p>At Dent32 we assess both stages in a single plan. See <a class=\"text-link\" href=\"/en/blog/orthodontics-clear-aligners-beylikduzu/\">orthodontics in Beylikdüzü</a> for more.</p>"
+     }
+    },
+    {
+     "id": "iyi-bir-gulus-tasariminin-6-olcutu",
+     "h": {
+      "tr": "İyi bir gülüş tasarımının 6 ölçütü",
+      "en": "6 criteria for good smile design"
+     },
+     "html": {
+      "tr": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Ölçüt</th><th scope=\"col\">Neden önemli?</th><th scope=\"col\">Dent32'de</th></tr></thead><tbody><tr><td>Yüz ve dudak analizi</td><td>Diş boyu ve formu yüz oranlarına uymalıdır.</td><td>Fotoğraf ve videoyla gülüş çizgisi, dudak hareketi ve orta hat incelenir.</td></tr><tr><td>En az müdahale</td><td>Kesilen diş dokusu geri gelmez.</td><td>Önce beyazlatma, bonding ve ortodonti gibi koruyucu seçenekler değerlendirilir.</td></tr><tr><td>Diş eti uyumu</td><td>Düzensiz diş eti çizgisi en güzel dişi bile gölgeler.</td><td>Gerekirse diş eti düzeltmesi plana eklenir (<a class=\"text-link\" href=\"/blog/dis-eti-gulusu-gummy-smile/\">diş eti gülüşü</a>).</td></tr><tr><td>Prova</td><td>Sonucu önceden görmek kararı kolaylaştırır.</td><td>Geçici malzemeyle ağızda prova (mock-up) yapılır.</td></tr><tr><td>Doğal renk</td><td>Aşırı beyaz renk yapay görünür.</td><td>Renk ten, göz akı ve diş etiyle uyumlu seçilir.</td></tr><tr><td>İşlev</td><td>Isırma bozulursa estetik restorasyonlar kırılır.</td><td>Kapanış ve diş sıkma alışkanlığı plana dahil edilir.</td></tr></tbody></table></div><p>Doğal görünüm konusunu <a class=\"text-link\" href=\"/blog/beylikduzu-hollywood-smile/\">Hollywood smile</a> yazısında anlattık.</p>",
+      "en": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Criterion</th><th scope=\"col\">Why it matters</th><th scope=\"col\">At Dent32</th></tr></thead><tbody><tr><td>Face and lip analysis</td><td>Tooth length and shape must match facial proportions.</td><td>Smile line, lip movement and midline are examined from photos and video.</td></tr><tr><td>Least intervention</td><td>Removed tooth tissue never grows back.</td><td>Conservative options such as whitening, bonding and orthodontics are considered first.</td></tr><tr><td>Gum harmony</td><td>An uneven gum line overshadows even the best teeth.</td><td>Gum contouring is added where needed (<a class=\"text-link\" href=\"/en/blog/gummy-smile-treatment/\">gummy smile</a>).</td></tr><tr><td>Mock-up</td><td>Seeing the result first makes the decision easier.</td><td>An in-mouth mock-up is made with a temporary material.</td></tr><tr><td>Natural shade</td><td>Overly white teeth look artificial.</td><td>The shade is chosen to suit skin tone, the whites of the eyes and the gums.</td></tr><tr><td>Function</td><td>If the bite is off, aesthetic restorations break.</td><td>Bite and clenching habits are included in the plan.</td></tr></tbody></table></div><p>We discuss natural-looking results in <a class=\"text-link\" href=\"/en/blog/hollywood-smile-beylikduzu/\">Hollywood smile</a>.</p>"
+     }
+    },
+    {
+     "id": "dr-huseyin-asci-nin-gulus-tasarimi-yaklasimi",
+     "h": {
+      "tr": "Dr. Hüseyin Aşcı'nın gülüş tasarımı yaklaşımı",
+      "en": "Dr. Hüseyin Aşcı's approach to smile design"
+     },
+     "html": {
+      "tr": "<p><a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşcı</a>'nın çalışmalarının merkezinde lamine, zirkonyum kaplama ve implant üstü estetik restorasyonlar yer alır. Gülüş tasarımında bunun karşılığı, hedef gülüşe en az kesimle ulaşmaktır: Çapraşık dişleri lamineyle \"düz gösterme\" yerine gerektiğinde önce hizalama seçeneği de konuşulur, ardından daha ince ve daha az kesimli restorasyonlarla gülüş tamamlanır.</p><p>Tasarım, <a class=\"text-link\" href=\"/blog/beylikduzu-dijital-dis-hekimligi/\">ağız içi tarayıcı ve dijital planlama</a> ile hazırlanır. Kararı hastayla birlikte, prova üzerinden veririz; sizin beklentiniz ile hekimin önerisi aynı masada konuşulur.</p>",
+      "en": "<p><a class=\"text-link\" href=\"/en/blog/dr-huseyin-asci-dentist-beylikduzu/\">Dr. Hüseyin Aşcı</a>'s clinical work centres on veneers, zirconia crowns and aesthetic restorations on implants. In smile design that means reaching the target smile with as little reduction as possible: instead of making crooked teeth \"look straight\" with veneers, aligning them first is discussed where needed, and the smile is then completed with thinner, less invasive restorations.</p><p>The design is prepared with <a class=\"text-link\" href=\"/en/blog/digital-dentistry-beylikduzu/\">an intraoral scanner and digital planning</a>. We decide together with you, based on the mock-up, with your expectations and our recommendations discussed side by side.</p>"
+     }
+    }
+   ]
   },
   {
    "id": "orto",
@@ -658,9 +851,7 @@
    "posts": [
     "seffaf",
     "beyorto",
-    "eniyiorto",
     "yetiskinorto",
-    "beycapraz",
     "pekistirme",
     "telbakim",
     "acikkapanis",
@@ -673,7 +864,7 @@
    "id": "beyaz",
    "icon": "beyazlatma",
    "img": "detay-beyaz",
-   "post": "beyaz",
+   "post": "sararma",
    "slug": {
     "tr": "dis-beyazlatma",
     "en": "teeth-whitening"
@@ -771,6 +962,22 @@
      {
       "q": "Herkes beyazlatma yaptırabilir mi?",
       "a": "Tedavi edilmemiş çürük ya da diş eti hastalığı varsa önce bunlar tedavi edilir. Hamilelik ve emzirme döneminde beyazlatma genellikle ertelenir. Bazı ilaç kaynaklı renklenmelerde beyazlatmanın etkisi sınırlı kalabilir."
+     },
+     {
+      "q": "Kaç ton beyazlar?",
+      "a": "Sonuç dişin başlangıç rengine ve lekelerin türüne göre değişir. Önceden kesin bir ton vaat etmek doğru değildir; renk ölçümünü başlangıçta birlikte kaydederiz."
+     },
+     {
+      "q": "Beyazlatma acıtır mı?",
+      "a": "İşlem sırasında ağrı beklenmez. Bazı hastalarda işlem sonrası 1–2 gün geçici, keskin sızlamalar olabilir; genellikle kendiliğinden geçer."
+     },
+     {
+      "q": "Ne sıklıkla tekrarlanabilir?",
+      "a": "Çoğu hastada ilk sonuç yıllarca korunur. Gerekirse ev tipi plaklarla kısa rötuşlar yapılabilir; sık tekrarlanan klinik seanslar önerilmez."
+     },
+     {
+      "q": "Hamileyken beyazlatma yapılır mı?",
+      "a": "Hamilelik ve emzirme döneminde beyazlatma önerilmez; bu dönemin sonrasına ertelenmesi uygun olur."
      }
     ],
     "en": [
@@ -793,26 +1000,85 @@
      {
       "q": "Can anyone have their teeth whitened?",
       "a": "Untreated decay or gum disease is treated first. Whitening is usually postponed during pregnancy and breastfeeding. For some medication-related staining, whitening may have a limited effect."
+     },
+     {
+      "q": "How many shades lighter will my teeth get?",
+      "a": "It depends on the starting shade and type of staining. Promising an exact shade in advance isn't honest; we record your shade together at the start."
+     },
+     {
+      "q": "Does whitening hurt?",
+      "a": "No pain is expected during treatment. Some patients get brief, sharp twinges for 1–2 days afterwards that usually settle on their own."
+     },
+     {
+      "q": "How often can it be repeated?",
+      "a": "For most patients the first result lasts for years. Short top-ups with home trays can be done if needed; frequent in-clinic sessions aren't recommended."
+     },
+     {
+      "q": "Can I whiten my teeth while pregnant?",
+      "a": "Whitening is not recommended during pregnancy or breastfeeding; it is best postponed until afterwards."
      }
     ]
    },
    "posts": [
-    "beyaz",
-    "beybeyaz",
     "beyazlatmayas",
-    "eniyibeyaz",
     "sararma",
     "macun",
     "siyahleke",
     "hassasiyet",
     "erozyon"
+   ],
+   "extra": [
+    {
+     "id": "beyazlatmadan-once-neler-yapilir",
+     "h": {
+      "tr": "Beyazlatmadan önce neler yapılır?",
+      "en": "What happens before whitening?"
+     },
+     "html": {
+      "tr": "<ul>\n<li><strong>Muayene:</strong> Çürük, açık dolgu kenarı ya da diş eti çekilmesi varsa önce bunlar tedavi edilir; aksi hâlde hassasiyet artar.</li>\n<li><strong>Diş taşı temizliği:</strong> Yüzeydeki taş ve lekeler temizlenmeden yapılan beyazlatma eşit sonuç vermez. <a class=\"text-link\" href=\"/blog/dis-tasi-temizligi/\">Diş taşı temizliği</a> genellikle birkaç gün önce yapılır.</li>\n<li><strong>Renk kaydı:</strong> Başlangıç rengi kaydedilir; böylece sonucu karşılaştırabilirsiniz.</li>\n</ul>",
+      "en": "<ul>\n<li><strong>Examination:</strong> Decay, leaking filling edges or gum recession are treated first; otherwise sensitivity increases.</li>\n<li><strong>Scale and polish:</strong> Whitening over tartar and surface stains gives uneven results. <a class=\"text-link\" href=\"/en/blog/professional-teeth-cleaning/\">Professional cleaning</a> is usually done a few days before.</li>\n<li><strong>Shade record:</strong> Your starting shade is recorded so you can compare the result.</li>\n</ul>"
+     }
+    },
+    {
+     "id": "hassasiyet-yapar-mi-mineye-zarar-verir-mi",
+     "h": {
+      "tr": "Hassasiyet yapar mı, mineye zarar verir mi?",
+      "en": "Does it cause sensitivity or damage enamel?"
+     },
+     "html": {
+      "tr": "<p>Geçici hassasiyet sık görülen bir yan etkidir; genellikle birkaç gün içinde kendiliğinden geçer. Hassasiyet giderici diş macunları ve uygulama aralıklarının ayarlanması işe yarar.</p>\n<p>Hekim kontrolünde ve önerilen yoğunluklarda yapılan beyazlatmanın mine yapısına kalıcı zarar vermediği bilimsel çalışmalarla gösterilmiştir. Asıl risk, kontrolsüz ve aşırı kullanımdır.</p>\n<aside class=\"note\"><strong>Önce muayene</strong><p>Çürük, açık kök yüzeyi ya da sızdıran dolgu varsa beyazlatma ağrıya yol açabilir. Bu yüzden işlemden önce muayene ve diş taşı temizliği yapılır.</p></aside>",
+      "en": "<p>Temporary sensitivity is a common side effect and usually settles on its own within a few days. Desensitising toothpaste and adjusting application intervals help.</p>\n<p>Studies have shown that whitening at recommended concentrations under a dentist's supervision does not permanently damage enamel. The real risk is uncontrolled, excessive use.</p>\n<aside class=\"note\"><strong>Examination first</strong><p>Decay, exposed root surfaces or leaking fillings can make whitening painful. That's why an examination and scale-and-polish come first.</p></aside>"
+     }
+    },
+    {
+     "id": "kimlere-onerilmez",
+     "h": {
+      "tr": "Kimlere önerilmez?",
+      "en": "Who isn't it suitable for?"
+     },
+     "html": {
+      "tr": "<ul>\n<li>Hamileler ve emziren anneler</li>\n<li>Dişleri ve diş özü gelişimini tamamlamamış gençler (genellikle 16–18 yaş altı)</li>\n<li>Tedavi edilmemiş çürüğü ya da aktif diş eti hastalığı olanlar</li>\n<li>Belirgin diş eti çekilmesi ve açık kök yüzeyi nedeniyle şiddetli hassasiyeti olanlar</li>\n</ul><p><a class=\"text-link\" href=\"/\">Beylikdüzü'ndeki diş kliniğimizde</a> beyazlatma için uygunluğunuzu kısa bir muayeneyle değerlendirebiliriz. Gülüşünüzü bütün olarak değiştirmek istiyorsanız <a class=\"text-link\" href=\"/tedaviler/gulus-tasarimi/#planda-hangi-islemler-yer-alabilir\">gülüş tasarımı</a> seçeneklerine de göz atın.</p>",
+      "en": "<ul>\n<li>Pregnant and breastfeeding women</li>\n<li>Teenagers whose teeth haven't finished developing (generally under 16–18)</li>\n<li>People with untreated decay or active gum disease</li>\n<li>People with severe sensitivity due to marked gum recession and exposed roots</li>\n</ul><p>A short examination at our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a> will tell us if whitening suits you. If you'd like to change your smile as a whole, take a look at <a class=\"text-link\" href=\"/en/treatments/smile-design/#planda-hangi-islemler-yer-alabilir\">smile design</a>.</p>"
+     }
+    },
+    {
+     "id": "iyi-bir-dis-beyazlatmanin-6-olcutu",
+     "h": {
+      "tr": "İyi bir diş beyazlatmanın 6 ölçütü",
+      "en": "6 criteria for good teeth whitening"
+     },
+     "html": {
+      "tr": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Ölçüt</th><th scope=\"col\">Neden önemli?</th><th scope=\"col\">Dent32'de</th></tr></thead><tbody><tr><td>Ön muayene</td><td>Çürük ve açık dentin varken beyazlatma ağrı yapabilir.</td><td>Beyazlatmadan önce dişler ve diş etleri muayene edilir.</td></tr><tr><td>Diş taşı temizliği</td><td>Yüzey lekeleri ve taş, jelin etkisini azaltır.</td><td>Gerekirse önce <a class=\"text-link\" href=\"/blog/dis-tasi-temizligi/\">diş taşı temizliği ve cila</a> yapılır.</td></tr><tr><td>Diş eti koruması</td><td>Jel diş etine temas ederse tahrişe yol açar.</td><td>Klinik beyazlatmada diş eti koruyucu bariyerle korunur.</td></tr><tr><td>Hekim kontrolünde doz</td><td>Denetimsiz ürünler mineye ve diş etine zarar verebilir.</td><td>Jelin yoğunluğu ve süresi hekim tarafından belirlenir.</td></tr><tr><td>Gerçekçi beklenti</td><td>Dolgu ve kaplamalar beyazlamaz; sonuç dişe göre değişir.</td><td>Başlangıç rengi kaydedilir, yapay yüzeyler baştan konuşulur.</td></tr><tr><td>Rengin korunması</td><td>Kahve, çay ve sigara rengi yeniden koyulaştırır.</td><td>Bakım önerileri ve gerekirse ev plağıyla rötuş.</td></tr></tbody></table></div><p>Sararmanın nedenlerini <a class=\"text-link\" href=\"/blog/disler-neden-sararir/\">dişler neden sararır?</a> yazısında anlattık.</p>",
+      "en": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Criterion</th><th scope=\"col\">Why it matters</th><th scope=\"col\">At Dent32</th></tr></thead><tbody><tr><td>Examination first</td><td>Whitening with decay or exposed dentin can be painful.</td><td>Teeth and gums are examined before whitening.</td></tr><tr><td>Scaling</td><td>Surface stains and tartar reduce the gel's effect.</td><td><a class=\"text-link\" href=\"/en/blog/professional-teeth-cleaning/\">Scaling and polishing</a> is done first if needed.</td></tr><tr><td>Gum protection</td><td>Gel touching the gums causes irritation.</td><td>In-clinic whitening uses a protective gum barrier.</td></tr><tr><td>Supervised strength</td><td>Unsupervised products can harm enamel and gums.</td><td>Gel strength and timing are set by the dentist.</td></tr><tr><td>Realistic expectations</td><td>Fillings and crowns do not whiten; results vary by tooth.</td><td>The starting shade is recorded and artificial surfaces are discussed up front.</td></tr><tr><td>Keeping the result</td><td>Coffee, tea and smoking darken teeth again.</td><td>Care advice and touch-ups with home trays if needed.</td></tr></tbody></table></div><p>We cover the causes of discolouration in <a class=\"text-link\" href=\"/en/blog/why-teeth-turn-yellow/\">why teeth turn yellow</a>.</p>"
+     }
+    }
    ]
   },
   {
    "id": "kanal",
    "icon": "kanal",
    "img": "detay-kanal",
-   "post": "kanal",
+   "post": "kanalsonrasi",
    "slug": {
     "tr": "kanal-tedavisi",
     "en": "root-canal-treatment"
@@ -914,6 +1180,26 @@
      {
       "q": "Kanal tedavisi gerektiğini gösteren belirtiler nelerdir?",
       "a": "Sıcak ya da soğuktan sonra uzun süren sızı, gece uyandıran zonklama, ısırınca ağrı, diş etinde şişlik ya da fistül ve dişte renk koyulaşması. Bazen hiçbir belirti olmadan röntgende fark edilir."
+     },
+     {
+      "q": "Kanal tedavisi kaç dakika sürer?",
+      "a": "Ön dişlerde genellikle 30–60 dakika, çok kanallı azı dişlerinde 60–90 dakika sürer. Süre, kanal sayısına ve iltihap durumuna göre değişir."
+     },
+     {
+      "q": "Antibiyotik kanal tedavisinin yerine geçer mi?",
+      "a": "Hayır. Antibiyotik yayılan enfeksiyonu ve şişliği kontrol etmeye yardım edebilir, ancak dişin içindeki iltihaplı dokuyu temizlemez. Ağrı geçici olarak azalsa da sorun devam eder."
+     },
+     {
+      "q": "Kanal tedavili diş ömür boyu kalır mı?",
+      "a": "Doğru yapılmış ve üzeri uygun şekilde restore edilmiş bir diş uzun yıllar, çoğu zaman ömür boyu kullanılabilir."
+     },
+     {
+      "q": "Kanal tedavisi tek seansta biter mi?",
+      "a": "Sinir canlıysa ve kökte iltihap yoksa çoğu zaman tek seansta biter. Apse varsa genellikle iki seansta tamamlanır."
+     },
+     {
+      "q": "Kanal tedavisinden sonra kaplama şart mı?",
+      "a": "Her dişte değil. Ön dişlerde çoğu zaman dolgu yeterlidir; madde kaybı fazla olan arka dişlerde kırılmayı önlemek için kaplama ya da onley önerilir."
      }
     ],
     "en": [
@@ -936,13 +1222,30 @@
      {
       "q": "What are the signs that a root canal is needed?",
       "a": "Lingering pain after hot or cold, throbbing that wakes you at night, pain on biting, swelling or a fistula on the gum, and darkening of the tooth. Sometimes it is found on an X-ray without any symptoms."
+     },
+     {
+      "q": "How long does a root canal take?",
+      "a": "Usually 30–60 minutes for front teeth and 60–90 minutes for multi-canal molars, depending on the number of canals and inflammation."
+     },
+     {
+      "q": "Can antibiotics replace a root canal?",
+      "a": "No. Antibiotics can help control spreading infection and swelling, but they don't clean out the inflamed tissue inside the tooth. Pain may ease temporarily but the problem remains."
+     },
+     {
+      "q": "Will a root-filled tooth last for life?",
+      "a": "A properly treated and well-restored tooth can last many years, often for life."
+     },
+     {
+      "q": "Can a root canal be done in one visit?",
+      "a": "If the nerve is still vital and there's no infection at the root, often yes. With an abscess, it's usually completed in two visits."
+     },
+     {
+      "q": "Do I need a crown after a root canal?",
+      "a": "Not always. Front teeth often only need a filling; back teeth with significant tooth loss are usually crowned or given an onlay to prevent fracture."
      }
     ]
    },
    "posts": [
-    "kanal",
-    "beykanal",
-    "eniyikanal",
     "kanalsonrasi",
     "cekimkanal",
     "beykanalyenileme",
@@ -952,11 +1255,65 @@
     "catlak",
     "disagrisi",
     "curuk",
-    "sicaksoguk",
     "agrigecti",
-    "delikagrimiyor",
-    "kanalomur",
-    "kanalyemek"
+    "kanalomur"
+   ],
+   "extra": [
+    {
+     "id": "kanal-tedavisi-gerektiren-belirtiler",
+     "h": {
+      "tr": "Kanal tedavisi gerektiren belirtiler",
+      "en": "Symptoms that may mean you need a root canal"
+     },
+     "html": {
+      "tr": "<ul>\n<li>Sıcak ya da soğuktan sonra uzun süre geçmeyen ağrı</li>\n<li>Kendiliğinden başlayan, gece uyandıran zonklayıcı ağrı</li>\n<li>Isırınca ya da dişe dokununca hassasiyet</li>\n<li>Diş etinde şişlik ya da sivilce benzeri akıntılı kabarıklık</li>\n<li>Dişte renk koyulaşması (özellikle darbe sonrası)</li>\n</ul>\n<p>Bazen sinir ölümü hiçbir belirti vermez ve rutin röntgende fark edilir. Bu yüzden düzenli kontroller önemlidir.</p>",
+      "en": "<ul>\n<li>Pain after hot or cold that lingers</li>\n<li>Spontaneous, throbbing pain that wakes you at night</li>\n<li>Tenderness when biting or touching the tooth</li>\n<li>Swelling of the gum or a pimple-like bump that discharges</li>\n<li>Darkening of the tooth (especially after an injury)</li>\n</ul>\n<p>Sometimes a nerve dies without any symptoms and is found on a routine X-ray, which is why regular check-ups matter.</p>"
+     }
+    },
+    {
+     "id": "cekmek-daha-kolay-degil-mi",
+     "h": {
+      "tr": "Çekmek daha kolay değil mi?",
+      "en": "Isn't extraction simpler?"
+     },
+     "html": {
+      "tr": "<p>Kısa vadede çekim daha hızlı görünebilir; ancak çekilen dişin yerine implant ya da köprü yapılması gerekir ve bu hem daha uzun hem daha maliyetli bir süreçtir. Doğal dişin korunması mümkünse genellikle ilk tercih budur. Diş çekildiyse seçenekler için <a class=\"text-link\" href=\"/blog/implant-mi-kopru-mu/\">implant mı köprü mü</a> yazımızı okuyabilirsiniz.</p>",
+      "en": "<p>Extraction can look quicker in the short term, but the missing tooth then needs replacing with an implant or bridge, which takes longer and costs more. Keeping the natural tooth is usually the first choice when possible. If a tooth has been lost, see <a class=\"text-link\" href=\"/en/blog/implant-or-bridge/\">implant or bridge</a>.</p>"
+     }
+    },
+    {
+     "id": "kanal-tedavisi-basarisiz-olursa-ne-olur",
+     "h": {
+      "tr": "Kanal tedavisi başarısız olursa ne olur?",
+      "en": "What if the root canal fails?"
+     },
+     "html": {
+      "tr": "<p>Kanal tedavisi yüksek başarı oranına sahiptir, ancak yıllar sonra enfeksiyon tekrarlayabilir. Bu durumda önce kanal tedavisinin yenilenmesi denenir; gerekirse kök ucu cerrahisi (apikal rezeksiyon) yapılır. Diş korunamıyorsa çekim sonrası <a class=\"text-link\" href=\"/tedaviler/implant-tedavisi/#planlama-kac-implant-hangi-marka-ne-tur-dis\">implant</a> ya da köprü ile eksiklik giderilir.</p>",
+      "en": "<p>Root canal treatment has a high success rate, but infection can return years later. Re-treatment is tried first; if needed, root-end surgery (apicectomy) is done. If the tooth can't be saved, it's extracted and replaced with an <a class=\"text-link\" href=\"/en/treatments/dental-implants/#planlama-kac-implant-hangi-marka-ne-tur-dis\">implant</a> or bridge.</p>"
+     }
+    },
+    {
+     "id": "iyi-bir-kanal-tedavisinin-6-olcutu",
+     "h": {
+      "tr": "İyi bir kanal tedavisinin 6 ölçütü",
+      "en": "6 criteria for good root canal treatment"
+     },
+     "html": {
+      "tr": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Ölçüt</th><th scope=\"col\">Neden önemli?</th><th scope=\"col\">Dent32'de</th></tr></thead><tbody><tr><td>Doğru teşhis</td><td>Her ağrı kanal gerektirmez; bazen sorun komşu diş ya da diş etidir.</td><td>Muayene ve röntgenle karar verilir; gereksiz kanal yapılmaz.</td></tr><tr><td>Etkili anestezi</td><td>Kaygı ve ağrı, tedavinin ertelenmesine yol açar.</td><td>Etkili lokal anestezi; kaygılı hastalarla adım adım çalışılır.</td></tr><tr><td>Kanal boyu ölçümü</td><td>Kısa ya da taşkın dolgu, iltihabın sürmesine neden olabilir.</td><td>Kanal boyları röntgen ya da elektronik ölçümle kontrol edilir.</td></tr><tr><td>Temizlik ve dezenfeksiyon</td><td>Bakteri kalırsa ağrı ve apse tekrarlayabilir.</td><td>Kanallar şekillendirilip dezenfektan solüsyonlarla yıkanır.</td></tr><tr><td>Sızdırmaz dolgu</td><td>Sızıntı, tedavinin başarısızlığının başlıca nedenidir.</td><td>Kanallar kalıcı malzemeyle doldurulur, diş kapatılır.</td></tr><tr><td>Kanal sonrası restorasyon</td><td>Kanal tedavili arka dişler kırılmaya daha yatkındır.</td><td>Gerekirse dolgu, onley ya da <a class=\"text-link\" href=\"/tedaviler/zirkonyum-kaplama/#zirkonyum-kaplamanin-maliyetini-neler-etkiler\">zirkonyum kaplama</a> planlanır.</td></tr></tbody></table></div><p>Daha önce kanal tedavisi yapılmış bir dişin yeniden ağrımasını <a class=\"text-link\" href=\"/blog/beylikduzu-kanal-tedavisi-yenileme/\">kanal tedavisi yenileme</a> yazısında anlattık.</p>",
+      "en": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Criterion</th><th scope=\"col\">Why it matters</th><th scope=\"col\">At Dent32</th></tr></thead><tbody><tr><td>Accurate diagnosis</td><td>Not every toothache needs a root canal; sometimes the cause is a neighbouring tooth or the gum.</td><td>The decision is made after examination and X-ray; no unnecessary root canals.</td></tr><tr><td>Effective anaesthesia</td><td>Anxiety and pain make people put treatment off.</td><td>Effective local anaesthesia; we work step by step with anxious patients.</td></tr><tr><td>Canal length measurement</td><td>A short or overextended filling can let inflammation continue.</td><td>Canal lengths are checked by X-ray or electronic measurement.</td></tr><tr><td>Cleaning and disinfection</td><td>Remaining bacteria can bring pain and abscesses back.</td><td>Canals are shaped and rinsed with disinfecting solutions.</td></tr><tr><td>A tight seal</td><td>Leakage is a leading cause of failure.</td><td>Canals are filled with a permanent material and the tooth is sealed.</td></tr><tr><td>Restoration afterwards</td><td>Root-treated back teeth are more prone to fracture.</td><td>A filling, onlay or <a class=\"text-link\" href=\"/en/treatments/zirconia-crowns/#zirkonyum-kaplamanin-maliyetini-neler-etkiler\">zirconia crown</a> is planned where needed.</td></tr></tbody></table></div><p>We cover a previously treated tooth that hurts again in <a class=\"text-link\" href=\"/en/blog/root-canal-retreatment-beylikduzu/\">root canal retreatment</a>.</p>"
+     }
+    },
+    {
+     "id": "dr-huseyin-asci-ve-ekibin-yaklasimi-once-disi",
+     "h": {
+      "tr": "Dr. Hüseyin Aşcı ve ekibin yaklaşımı: önce dişi korumak",
+      "en": "Dr. Hüseyin Aşcı and the team's approach: save the tooth first"
+     },
+     "html": {
+      "tr": "<p>Dent32'de kanal tedavisine \"dişi kurtarmanın son şansı\" olarak bakıyoruz. Diş korunabiliyorsa önceliğimiz onu korumaktır; kök çatlaksa ya da diş restore edilemeyecek kadar yıkılmışsa bunu açıkça söyler, çekim ve <a class=\"text-link\" href=\"/tedaviler/implant-tedavisi/#iyi-bir-implant-tedavisini-belirleyen-7-olcut\">implant</a> seçeneğini gerekçesiyle anlatırız.</p><p>Kurucu hekimimiz <a class=\"text-link\" href=\"/blog/dr-huseyin-asci/\">Dr. Hüseyin Aşcı</a> ve <a class=\"text-link\" href=\"/blog/dent32-hekim-kadrosu/\">hekim kadromuz</a>, tedavi seçeneklerini muayeneden sonra size <a class=\"text-link\" href=\"/blog/yazili-dis-tedavi-plani/\">yazılı tedavi planı</a> olarak verir. Diş hekimi korkusu olan hastalarımız için <a class=\"text-link\" href=\"/blog/beylikduzu-dis-hekimi-korkusu/\">acele etmeyen, adım adım bir tedavi</a> uyguluyoruz.</p>",
+      "en": "<p>At Dent32 we see root canal treatment as the last chance to save a tooth. If it can be kept, keeping it is our priority; if the root is cracked or the tooth is too broken down to restore, we say so plainly and explain extraction and an <a class=\"text-link\" href=\"/en/treatments/dental-implants/#iyi-bir-implant-tedavisini-belirleyen-7-olcut\">implant</a> with the reasoning.</p><p>Founding dentist <a class=\"text-link\" href=\"/en/blog/dr-huseyin-asci-dentist-beylikduzu/\">Dr. Hüseyin Aşcı</a> and <a class=\"text-link\" href=\"/en/blog/dent32-dentists/\">our dental team</a> give you the options after the examination as a <a class=\"text-link\" href=\"/en/blog/written-dental-treatment-plan/\">written treatment plan</a>. For patients with a fear of dentists we use an <a class=\"text-link\" href=\"/en/blog/dental-anxiety-beylikduzu/\">unhurried, step-by-step approach</a>.</p>"
+     }
+    }
    ]
   },
   {
@@ -1063,6 +1420,22 @@
      {
       "q": "Çocuklarda ortodonti kontrolü ne zaman yapılmalı?",
       "a": "Yaklaşık 7 yaşında bir ortodontik kontrol önerilir. Çene gelişimiyle ilgili bazı sorunlar bu dönemde hareketli apareylerle daha kolay yönlendirilebilir."
+     },
+     {
+      "q": "Çocuklar kaç yaşında diş fırçalamaya başlamalı?",
+      "a": "İlk diş çıktığı andan itibaren. 3 yaşına kadar pirinç tanesi kadar, 3–6 yaş arasında bezelye tanesi kadar florlu diş macunu önerilir; fırçalamayı 7–8 yaşına kadar ebeveynin yapması ya da kontrol etmesi gerekir."
+     },
+     {
+      "q": "Fissür örtücü dişe zarar verir mi?",
+      "a": "Hayır. Fissür örtücü, diş aşındırılmadan yüzeye sürülen akışkan bir malzemedir. Diş açılmadan uygulanır ve uyuşturma gerekmez."
+     },
+     {
+      "q": "Süt dişine kanal tedavisi yapılır mı?",
+      "a": "Evet. Süt dişlerinde çürük sinire ulaştığında dişi korumak için amputasyon ya da süt dişi kanal tedavisi uygulanabilir."
+     },
+     {
+      "q": "Çocuğum tedavide işbirliği yapmazsa ne olur?",
+      "a": "Önce alıştırma randevularıyla güven kurmaya çalışırız. Bazı durumlarda tedavi birkaç kısa seansa bölünür; kapsamlı tedavi gerektiren ve uyum sağlanamayan vakalarda ileri sedasyon seçenekleri için yönlendirme yapılabilir."
      }
     ],
     "en": [
@@ -1085,21 +1458,91 @@
      {
       "q": "When should children have an orthodontic check?",
       "a": "An orthodontic check at around age 7 is recommended. Some problems with jaw growth are easier to guide at this age with removable appliances."
+     },
+     {
+      "q": "When should children start brushing?",
+      "a": "From the first tooth. Use a smear (rice-grain size) of fluoride toothpaste up to age 3 and a pea-sized amount from 3 to 6; parents should brush or supervise until about 7–8."
+     },
+     {
+      "q": "Do fissure sealants harm the tooth?",
+      "a": "No. A sealant is a flowable material applied without drilling. No drilling or anaesthetic is needed."
+     },
+     {
+      "q": "Can baby teeth have root canal treatment?",
+      "a": "Yes. When decay reaches the nerve of a baby tooth, a pulpotomy or baby-tooth root canal treatment can save it."
+     },
+     {
+      "q": "What if my child won't cooperate?",
+      "a": "We first build trust with familiarisation visits. Sometimes treatment is split into several short sessions; for extensive treatment where cooperation isn't possible, we can refer for advanced sedation options."
      }
     ]
    },
    "posts": [
     "cocuk",
-    "beycocuk",
-    "eniyicocuk",
     "sutdisi",
     "bebekdis",
     "biberon",
     "flor",
     "travma",
     "emzik",
-    "dilbagi",
-    "beyaile"
+    "dilbagi"
+   ],
+   "extra": [
+    {
+     "id": "koruyucu-uygulamalar-nelerdir",
+     "h": {
+      "tr": "Koruyucu uygulamalar nelerdir?",
+      "en": "What does preventive care involve?"
+     },
+     "html": {
+      "tr": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Uygulama</th><th scope=\"col\">Ne işe yarar?</th><th scope=\"col\">Ne zaman?</th></tr></thead><tbody><tr><td>Flor vernik</td><td>Mineyi güçlendirir, çürük başlangıcını yavaşlatır</td><td>Risk durumuna göre yılda 2–4 kez</td></tr><tr><td>Fissür örtücü</td><td>Azı dişlerinin çiğneme yüzeyindeki derin olukları kapatır</td><td>Kalıcı azı dişleri çıktıktan sonra (yaklaşık 6 ve 12 yaş)</td></tr><tr><td>Düzenli kontrol</td><td>Çürükleri küçükken yakalar</td><td>Genellikle 6 ayda bir</td></tr><tr><td>Fırçalama eğitimi</td><td>Doğru teknik ve flor miktarını öğretir</td><td>Her ziyarette</td></tr></tbody></table></div>",
+      "en": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Treatment</th><th scope=\"col\">What it does</th><th scope=\"col\">When?</th></tr></thead><tbody><tr><td>Fluoride varnish</td><td>Strengthens enamel and slows early decay</td><td>2–4 times a year depending on risk</td></tr><tr><td>Fissure sealants</td><td>Seal the deep grooves on the chewing surfaces of molars</td><td>After adult molars erupt (around ages 6 and 12)</td></tr><tr><td>Regular check-ups</td><td>Catch decay while it's small</td><td>Usually every 6 months</td></tr><tr><td>Brushing guidance</td><td>Teaches the right technique and amount of fluoride</td><td>At every visit</td></tr></tbody></table></div>"
+     }
+    },
+    {
+     "id": "sut-disi-zaten-dusecek-neden-tedavi-edilmeli",
+     "h": {
+      "tr": "Süt dişi zaten düşecek, neden tedavi edilmeli?",
+      "en": "Baby teeth fall out anyway, so why treat them?"
+     },
+     "html": {
+      "tr": "<ul>\n<li><strong>Ağrı ve enfeksiyon:</strong> Tedavi edilmeyen çürük sinire ulaşır, ağrı ve apseye yol açar.</li>\n<li><strong>Kalıcı dişlere etki:</strong> Süt dişi kökündeki enfeksiyon, altında gelişen kalıcı dişi etkileyebilir.</li>\n<li><strong>Yer tutma:</strong> Erken kaybedilen süt dişinin yeri kapanabilir; kalıcı diş çapraşık çıkar. Gerekirse yer tutucu yapılır.</li>\n<li><strong>Beslenme ve konuşma:</strong> Ağrılı dişler çiğnemeyi ve bazı seslerin çıkarılmasını zorlaştırır.</li>\n</ul>",
+      "en": "<ul>\n<li><strong>Pain and infection:</strong> Untreated decay reaches the nerve, causing pain and abscesses.</li>\n<li><strong>Effect on adult teeth:</strong> Infection at the root of a baby tooth can affect the adult tooth developing underneath.</li>\n<li><strong>Holding space:</strong> If a baby tooth is lost early, the gap can close and the adult tooth comes in crooked. A space maintainer may be needed.</li>\n<li><strong>Eating and speech:</strong> Painful teeth make chewing and some sounds harder.</li>\n</ul>"
+     }
+    },
+    {
+     "id": "cocugun-dis-hekimi-korkusu-nasil-azaltilir",
+     "h": {
+      "tr": "Çocuğun diş hekimi korkusu nasıl azaltılır?",
+      "en": "How can a child's fear of the dentist be eased?"
+     },
+     "html": {
+      "tr": "<p>Çocuklarla çalışırken önce aletleri ve yapılacak işlemi yaşına uygun bir dille tanıtıyor, ardından gösterip sonra uyguluyoruz (anlat-göster-uygula). Kısa ve olumlu biten randevular, çocuğun bir sonraki ziyarete daha rahat gelmesini sağlar.</p><ul>\n<li>Randevuyu ödül ya da ceza olarak sunmayın; \"acımayacak\" gibi kaygı uyandıran cümlelerden kaçının.</li>\n<li>Çocuğun yorgun ya da aç olmadığı saatleri seçin.</li>\n<li>Kendi diş hekimi kaygınızı çocuğa yansıtmamaya çalışın.</li>\n</ul><p>Dent32'de çocuklar için ayrı düzenlenmiş renkli bir tedavi odası bulunur. Klinik cumartesi de açık olduğu için okul günlerini aksatmadan randevu planlanabilir.</p>",
+      "en": "<p>With children, we first introduce the instruments and the procedure in age-appropriate language, then show, then do (tell-show-do). Short appointments that end on a positive note make the next visit easier.</p><ul>\n<li>Don't present the visit as a reward or punishment, and avoid phrases like \"it won't hurt\" that can create anxiety.</li>\n<li>Choose a time when your child isn't tired or hungry.</li>\n<li>Try not to pass on your own dental anxiety.</li>\n</ul><p>Dent32 has a colourful treatment room designed for children. As the clinic is open on Saturdays, appointments can be planned without missing school.</p>"
+     }
+    },
+    {
+     "id": "cocuklarda-dis-acilleri",
+     "h": {
+      "tr": "Çocuklarda diş acilleri",
+      "en": "Dental emergencies in children"
+     },
+     "html": {
+      "tr": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Durum</th><th scope=\"col\">Ne yapılmalı?</th></tr></thead><tbody><tr><td>Kalıcı diş tamamen yerinden çıktı</td><td>Dişi kökünden değil tacından tutun, kirliyse kısaca suyla çalkalayın, süt içinde saklayıp hemen kliniğe gelin. İlk bir saat çok önemlidir.</td></tr><tr><td>Diş kırıldı</td><td>Kırık parçayı saklayın, ağzı ılık suyla çalkalayın ve aynı gün muayeneye gelin.</td></tr><tr><td>Yüzde şişlik ve ateş</td><td>Enfeksiyon belirtisi olabilir; ertelemeden hekime başvurun.</td></tr><tr><td>Süt dişi yerinden çıktı</td><td>Süt dişi yerine geri takılmaz; yine de çevre dokuların kontrolü için muayene gerekir.</td></tr></tbody></table></div>",
+      "en": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Situation</th><th scope=\"col\">What to do</th></tr></thead><tbody><tr><td>An adult tooth is knocked out</td><td>Hold the tooth by the crown, not the root; rinse briefly with water if dirty, keep it in milk and come in immediately. The first hour is critical.</td></tr><tr><td>A tooth is broken</td><td>Keep the broken piece, rinse the mouth with warm water and come in the same day.</td></tr><tr><td>Facial swelling and fever</td><td>This may be infection; see a dentist without delay.</td></tr><tr><td>A baby tooth is knocked out</td><td>Baby teeth aren't put back, but the surrounding tissues still need checking.</td></tr></tbody></table></div>"
+     }
+    },
+    {
+     "id": "cocuklarla-calisan-iyi-bir-dis-hekiminin-6",
+     "h": {
+      "tr": "Çocuklarla çalışan iyi bir diş hekiminin 6 ölçütü",
+      "en": "6 criteria for a good dentist for children"
+     },
+     "html": {
+      "tr": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Ölçüt</th><th scope=\"col\">Neden önemli?</th><th scope=\"col\">Dent32'de</th></tr></thead><tbody><tr><td>Alıştırma</td><td>Çocuk ilk ziyareti ağrıyla değil, sıradan bir kontrolle hatırlamalıdır.</td><td>İlk randevular tanışma ve muayene amaçlıdır.</td></tr><tr><td>Çocuğa uygun ortam</td><td>Yetişkin ortamı çocukları tedirgin edebilir.</td><td>Kliniğimizde ayrı bir çocuk tedavi odası bulunur.</td></tr><tr><td>Koruyucu uygulamalar</td><td>Çürüğü önlemek, tedavi etmekten kolaydır.</td><td>Flor vernik ve fissür örtücü risk durumuna göre uygulanır.</td></tr><tr><td>Süt dişlerini önemsemek</td><td>Erken kaybedilen süt dişi kalıcı dişlerin yerleşimini bozabilir.</td><td>Süt dişlerinde dolgu ve gerektiğinde kanal tedavisi yapılır.</td></tr><tr><td>Ortodontik takip</td><td>Bazı çene sorunları erken dönemde daha kolay düzelir.</td><td><a class=\"text-link\" href=\"/blog/beylikduzu-cocuk-ortodonti/\">7 yaş ortodonti kontrolü</a> önerilir.</td></tr><tr><td>Aileye rehberlik</td><td>Evde bakım alışkanlıkları ailenin elindedir.</td><td>Fırçalama, macun miktarı ve beslenme anlatılır.</td></tr></tbody></table></div><p>İlk muayenenin ne zaman ve nasıl yapılacağını <a class=\"text-link\" href=\"/blog/cocuk-dis-hekimi-ilk-muayene/\">çocuğunuzu ilk kez diş hekimine götürmek</a> yazısında anlattık.</p>",
+      "en": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Criterion</th><th scope=\"col\">Why it matters</th><th scope=\"col\">At Dent32</th></tr></thead><tbody><tr><td>Familiarisation</td><td>A child should remember the first visit as a routine check, not pain.</td><td>First appointments are for meeting the dentist and a check-up.</td></tr><tr><td>A child-friendly setting</td><td>Adult surroundings can make children uneasy.</td><td>The clinic has a separate children's treatment room.</td></tr><tr><td>Prevention</td><td>Preventing decay is easier than treating it.</td><td>Fluoride varnish and fissure sealants according to risk.</td></tr><tr><td>Caring for baby teeth</td><td>Losing baby teeth early can disturb the position of adult teeth.</td><td>Fillings and, where needed, root treatment for baby teeth.</td></tr><tr><td>Orthodontic monitoring</td><td>Some jaw problems are easier to correct early.</td><td>An <a class=\"text-link\" href=\"/en/blog/early-orthodontics-children-beylikduzu/\">orthodontic check at age 7</a> is recommended.</td></tr><tr><td>Guidance for parents</td><td>Home habits are in the family's hands.</td><td>Brushing, toothpaste amount and diet are explained.</td></tr></tbody></table></div><p>When and how to arrange the first visit is covered in <a class=\"text-link\" href=\"/en/blog/childs-first-dental-visit/\">your child's first dental visit</a>.</p>"
+     }
+    }
    ]
   },
   {
@@ -1208,6 +1651,14 @@
      {
       "q": "Diş eti hastalığı diş kaybına yol açar mı?",
       "a": "Tedavi edilmeyen periodontitis dişi tutan kemiği yıkarak dişlerin sallanmasına ve kaybına yol açabilir; diyabet ve kalp-damar hastalıklarıyla da ilişkilidir. Erken teşhis ve tedavi dişleri korumaya yardımcı olur."
+     },
+     {
+      "q": "Diş eti kanaması kendiliğinden geçer mi?",
+      "a": "Nedeni olan plak ve taş temizlenmedikçe genellikle geçmez. Kanama varken fırçalamayı bırakmak ise durumu kötüleştirir; nazikçe fırçalamaya devam edip muayeneye gelin."
+     },
+     {
+      "q": "Derin temizlik acıtır mı?",
+      "a": "Lokal anestezi altında yapıldığı için işlem sırasında ağrı beklenmez. Sonrasında birkaç gün hassasiyet olabilir."
      }
     ],
     "en": [
@@ -1230,22 +1681,73 @@
      {
       "q": "Can gum disease cause tooth loss?",
       "a": "Untreated periodontitis destroys the bone that holds the teeth, which can make them loose and lead to their loss; it is also linked with diabetes and heart disease. Early diagnosis and treatment help protect the teeth."
+     },
+     {
+      "q": "Will bleeding gums stop on their own?",
+      "a": "Usually not, unless the plaque and tartar causing it are removed. Stopping brushing makes it worse; keep brushing gently and come in for a check."
+     },
+     {
+      "q": "Does deep cleaning hurt?",
+      "a": "It's done under local anaesthetic, so no pain is expected during treatment. There may be some tenderness for a few days."
      }
     ]
    },
    "posts": [
     "diseti",
-    "beydiseti",
-    "eniyidiseti",
     "disetiiltihap",
     "disetcebi",
     "sallanma",
-    "beydistasi",
     "distasi",
     "agizkokusu",
     "perikoronit",
     "sigara",
     "ondisaralik"
+   ],
+   "extra": [
+    {
+     "id": "gingivitis-ile-periodontitis-arasindaki-fark",
+     "h": {
+      "tr": "Gingivitis ile periodontitis arasındaki fark",
+      "en": "Gingivitis versus periodontitis"
+     },
+     "html": {
+      "tr": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\"></th><th scope=\"col\">Gingivitis</th><th scope=\"col\">Periodontitis</th></tr></thead><tbody><tr><td>Etkilenen doku</td><td>Yalnızca diş eti</td><td>Diş eti, diş çevresi bağ dokusu ve kemik</td></tr><tr><td>Belirti</td><td>Kanama, kızarıklık</td><td>Çekilme, cep oluşumu, sallanma, kemik kaybı</td></tr><tr><td>Geri dönüş</td><td>Tamamen geri döner</td><td>Kaybedilen kemik genellikle geri gelmez; ilerleme durdurulur</td></tr><tr><td>Tedavi</td><td>Diş taşı temizliği ve evde bakım</td><td>Derin temizlik, gerekirse cerrahi, düzenli idame</td></tr></tbody></table></div>",
+      "en": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\"></th><th scope=\"col\">Gingivitis</th><th scope=\"col\">Periodontitis</th></tr></thead><tbody><tr><td>Tissue affected</td><td>Gums only</td><td>Gums, supporting tissue and bone</td></tr><tr><td>Signs</td><td>Bleeding, redness</td><td>Recession, pockets, looseness, bone loss</td></tr><tr><td>Reversible?</td><td>Fully</td><td>Lost bone usually doesn't return; progression is stopped</td></tr><tr><td>Treatment</td><td>Scale and polish plus home care</td><td>Deep cleaning, surgery if needed, regular maintenance</td></tr></tbody></table></div>"
+     }
+    },
+    {
+     "id": "sigara-diyabet-ve-dis-eti",
+     "h": {
+      "tr": "Sigara, diyabet ve diş eti",
+      "en": "Smoking, diabetes and gums"
+     },
+     "html": {
+      "tr": "<p>Sigara ve kontrolsüz diyabet, diş eti hastalığının en güçlü risk etkenleridir; hem hastalığın ilerlemesini hızlandırır hem de tedaviye yanıtı azaltır. Diyabet ile diş eti hastalığı arasında çift yönlü bir ilişki vardır: diş eti iltihabının tedavisi kan şekeri kontrolüne de katkı sağlayabilir.</p>\n<p>İmplantı olan hastalarda da benzer bir iltihap (periimplantitis) gelişebilir. Bu yüzden <a class=\"text-link\" href=\"/blog/implant-sonrasi-bakim/\">implant sonrası bakım</a> ve düzenli kontroller önemlidir.</p>",
+      "en": "<p>Smoking and uncontrolled diabetes are the strongest risk factors for gum disease: they speed it up and reduce the response to treatment. The link with diabetes works both ways: treating gum inflammation can also help blood sugar control.</p>\n<p>A similar inflammation (peri-implantitis) can develop around implants, so <a class=\"text-link\" href=\"/en/blog/dental-implant-aftercare/\">implant aftercare</a> and regular check-ups matter.</p>"
+     }
+    },
+    {
+     "id": "evde-bakim-neler-gercekten-ise-yarar",
+     "h": {
+      "tr": "Evde bakım: neler gerçekten işe yarar?",
+      "en": "Home care that actually works"
+     },
+     "html": {
+      "tr": "<ul>\n<li>Günde iki kez, iki dakika, yumuşak kıllı fırçayla fırçalama</li>\n<li>Dişler arası için diş ipi ya da uygun boyda arayüz fırçası</li>\n<li>Hekimin önerdiği durumlarda kısa süreli antiseptik gargara</li>\n<li>Sigarayı bırakmak ya da azaltmak</li>\n</ul><p>Diş eti kanaması ve çekilmesinin nedenlerini <a class=\"text-link\" href=\"/blog/dis-eti-kanamasi-ve-cekilmesi/\">diş eti kanaması ve çekilmesi</a> yazımızda daha ayrıntılı anlattık. <a class=\"text-link\" href=\"/\">Beylikdüzü'ndeki diş kliniğimizde</a> diş eti muayenesi için <a class=\"text-link\" href=\"/iletisim/\">randevu alabilirsiniz</a>.</p>",
+      "en": "<ul>\n<li>Brushing twice a day for two minutes with a soft brush</li>\n<li>Floss or correctly sized interdental brushes between teeth</li>\n<li>Short-term antiseptic mouthwash when your dentist recommends it</li>\n<li>Stopping or cutting down smoking</li>\n</ul><p>We explain the causes in more detail in <a class=\"text-link\" href=\"/en/blog/bleeding-and-receding-gums/\">bleeding and receding gums</a>. You can <a class=\"text-link\" href=\"/en/contact/\">book a gum check</a> at our <a class=\"text-link\" href=\"/en/\">dental clinic in Beylikdüzü</a>.</p>"
+     }
+    },
+    {
+     "id": "iyi-bir-dis-eti-tedavisinin-6-olcutu",
+     "h": {
+      "tr": "İyi bir diş eti tedavisinin 6 ölçütü",
+      "en": "6 criteria for good gum treatment"
+     },
+     "html": {
+      "tr": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Ölçüt</th><th scope=\"col\">Neden önemli?</th><th scope=\"col\">Dent32'de</th></tr></thead><tbody><tr><td>Ölçüm ve evreleme</td><td>Gingivitis ile periodontitisin tedavisi farklıdır.</td><td>Cep derinlikleri ölçülür, röntgenle kemik seviyesi değerlendirilir.</td></tr><tr><td>Derin temizlik</td><td>Diş eti altındaki taş, iltihabın asıl kaynağıdır.</td><td>Lokal anestezi altında kök yüzeyi düzleştirme yapılır.</td></tr><tr><td>Evde bakım eğitimi</td><td>Tedavinin başarısının yarısı evde bakıma bağlıdır.</td><td>Fırça, diş ipi ve <a class=\"text-link\" href=\"/blog/dogru-dis-fircalama/\">ara yüz fırçası</a> kullanımı gösterilir.</td></tr><tr><td>Gerekirse ileri tedavi</td><td>Derin ceplerde temizlik tek başına yetmeyebilir.</td><td><a class=\"text-link\" href=\"/blog/dis-eti-cebi-tedavisi/\">Cep azaltma ve doku rejenerasyonu</a> seçenekleri değerlendirilir.</td></tr><tr><td>Genel sağlık</td><td>Diyabet ve sigara diş eti hastalığını hızlandırır.</td><td>Genel sağlık durumunuz plana dahil edilir.</td></tr><tr><td>Düzenli idame</td><td>Kontrolsüz kalan hastalık yeniden ilerler.</td><td>Genellikle 3–6 ayda bir kontrol ve temizlik.</td></tr></tbody></table></div><p>Diş eti çekilmesinde greft seçeneğini <a class=\"text-link\" href=\"/blog/dis-eti-grefti-pembe-estetik/\">yumuşak doku grefti</a> yazısında anlattık.</p>",
+      "en": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Criterion</th><th scope=\"col\">Why it matters</th><th scope=\"col\">At Dent32</th></tr></thead><tbody><tr><td>Measurement and staging</td><td>Gingivitis and periodontitis are treated differently.</td><td>Pocket depths are measured and bone levels checked on X-ray.</td></tr><tr><td>Deep cleaning</td><td>Tartar below the gum line is the main source of inflammation.</td><td>Root surface debridement under local anaesthetic.</td></tr><tr><td>Home-care coaching</td><td>Half of the success depends on care at home.</td><td>Brushing, floss and <a class=\"text-link\" href=\"/en/blog/how-to-brush-your-teeth/\">interdental brushes</a> are demonstrated.</td></tr><tr><td>Advanced treatment if needed</td><td>Cleaning alone may not be enough for deep pockets.</td><td><a class=\"text-link\" href=\"/en/blog/gum-pocket-treatment/\">Pocket reduction and tissue regeneration</a> are considered.</td></tr><tr><td>General health</td><td>Diabetes and smoking speed up gum disease.</td><td>Your general health is included in the plan.</td></tr><tr><td>Regular maintenance</td><td>Uncontrolled disease progresses again.</td><td>Usually a check-up and cleaning every 3–6 months.</td></tr></tbody></table></div><p>We cover grafting for recession in <a class=\"text-link\" href=\"/en/blog/gum-graft-pink-aesthetics/\">soft tissue grafts</a>.</p>"
+     }
+    }
    ]
   }
  ],
