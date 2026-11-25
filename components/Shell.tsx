@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import type { ReactNode } from "react";
+import { ConsentButton } from "@/components/client/Consent";
 import { HeaderControls } from "@/components/client/HeaderControls";
 import { WaGlyph } from "@/components/Icon";
 import {
@@ -124,6 +125,10 @@ function Footer({ lang }: { lang: Lang }) {
           <p>
             {t("Son güncelleme", "Last updated")}: <time dateTime={SITE_UPDATED}>{dateLong(SITE_UPDATED, lang)}</time>
             {" · "}{t("Site editörü", "Site editor")}: <a href={`mailto:${EMAIL}`}>{EMAIL}</a>
+          </p>
+          <p>
+            <Link href={route("privacy", lang)}>{t("Çerez politikası", "Cookie policy")}</Link>
+            {" · "}<ConsentButton label={t("Çerez tercihleri", "Cookie preferences")} />
           </p>
         </div>
       </div>

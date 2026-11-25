@@ -787,6 +787,25 @@ a.pager__num:hover, .pager__step:hover { border-color: var(--ink); }
 @media (max-width: 900px) { .footer-grid { grid-template-columns: 1fr 1fr; } .f-brand { grid-column: 1 / -1; } }
 @media (max-width: 520px) { .footer-grid { grid-template-columns: 1fr; } }
 
+/* --- Çerez onayı ------------------------------------------------------- */
+/* Kabul ve Ret eşit ağırlıkta (KVKK Çerez Rehberi: yönlendirici tasarım yok). Açıkken --cc-h ile WhatsApp düğmesi yukarı kalkar. */
+.cc {
+  position: fixed; left: 16px; bottom: 16px; z-index: 60; width: min(560px, calc(100% - 32px));
+  display: grid; gap: 12px; padding: 16px 18px;
+  background: #fff; color: var(--ink-soft); border: 1px solid var(--line); border-radius: var(--radius);
+  box-shadow: var(--shadow-md); font-size: .9rem; line-height: 1.5;
+}
+.cc__text { margin: 0; }
+.cc__text a { color: var(--ink); text-decoration: underline; text-decoration-color: var(--blue); text-underline-offset: 3px; }
+.cc__btns { display: flex; gap: 10px; }
+.cc__btn { flex: 1; --bg: #fff; --fg: var(--ink); --bd: var(--ink); }
+.cc__btn:hover { --bg: var(--ink); --fg: #fff; box-shadow: none; }
+@media (max-width: 640px) { .cc { left: 12px; bottom: 12px; width: calc(100% - 24px); } }
+/* Dar ekranda çubuk tüm genişliği kaplar: açıkken WhatsApp düğmesi çubuğun üstüne kalkar */
+@media (max-width: 860px) { html[style*="--cc-h"] .wa-float { bottom: calc(var(--cc-h) + 26px); } }
+.cc-link { padding: 0; border: 0; background: none; color: inherit; font: inherit; text-decoration: underline; cursor: pointer; }
+.footer-bottom__end a, .cc-link { text-underline-offset: 2px; }
+
 /* --- Yüzen WhatsApp ----------------------------------------------------- */
 .wa-float {
   position: fixed; right: 20px; bottom: 20px; z-index: 40;

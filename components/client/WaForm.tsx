@@ -36,6 +36,8 @@ export function WaForm({ lang, variant }: { lang: Lang; variant: "apply" | "cont
 
     setInvalid(null);
     setMsg({ text: t(`WhatsApp açılıyor… Açılmazsa ${PHONE} numarasına yazabilirsiniz.`, `Opening WhatsApp… If it doesn't open, message us at ${PHONE}.`), ok: true });
+    // Google Ads dönüşümü için GTM olayı: yalnızca çerez onayı verildiyse (GTM yüklüyse) gönderilir; form içeriği gönderilmez
+    (window as { dataLayer?: unknown[] }).dataLayer?.push({ event: "dent32_form_submit", form_variant: variant });
     if (!window.open(url, "_blank", "noopener")) window.location.assign(url);
   };
 

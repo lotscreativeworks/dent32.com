@@ -194,6 +194,8 @@ const STATIC_ROUTES = {
   contact: { tr: "/iletisim/", en: "/en/contact/" },
   /** "İstanbul diş kliniği" aramaları için açılış sayfası */
   istanbul: { tr: "/istanbul-dis-klinigi/", en: "/en/dental-clinic-istanbul/" },
+  /** Çerez politikası ve aydınlatma (KVKK) */
+  privacy: { tr: "/cerez-politikasi/", en: "/en/cookie-policy/" },
 } satisfies Record<string, Localized>;
 
 export type PageKey = keyof typeof STATIC_ROUTES | `post-${string}` | `treat-${string}` | `bloglist-${string}`;

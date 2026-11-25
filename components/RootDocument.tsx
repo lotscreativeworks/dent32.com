@@ -1,7 +1,8 @@
 import type { Metadata, Viewport } from "next";
 import type { ReactNode } from "react";
+import { Consent } from "@/components/client/Consent";
 import { RevealObserver } from "@/components/client/RevealObserver";
-import { type Lang, SITE } from "@/lib/site";
+import { type Lang, route, SITE } from "@/lib/site";
 import "@/app/globals.css";
 
 export const rootMetadata: Metadata = {
@@ -51,6 +52,7 @@ export function RootDocument({ lang, children }: { lang: Lang; children: ReactNo
         <script dangerouslySetInnerHTML={{ __html: BOOT }} />
         {children}
         <RevealObserver />
+        <Consent lang={lang} policyHref={route("privacy", lang)} />
       </body>
     </html>
   );
